@@ -35,6 +35,14 @@ Formation of semisolid coagulum in a deep vein.
 - Femoral ""
 - Iliac ""
 
+## Prevention
+- Early mobilization
+- Hydration
+- Compression stockings
+- Prophylactic LMW heparin
+- Calf pumps
+- Minimal use of tourniquets
+
 
 
 
@@ -91,6 +99,33 @@ Formation of semisolid coagulum in a deep vein.
 - Thrombophlebitis
 - TRALI
 
+### Massive transfusion
+- Coagulopathy
+- Hypothermia
+- Hypo-Ca
+- Hypo-K
+- Hyper-K
+
 ## Clinical factoids
 - Target Hb level: 10g/dL
 - 1 unit transfusion = 1g/dL improvement
+
+
+
+
+
+# Burns
+## Assessment
+- Rule of 9:
+	- First approx
+	- Adult
+		- Head-neck $\rightarrow$ 9%
+		- Each upper limb $\rightarrow$ 9%
+		- Torso front 18%
+		- Torso back 18%
+		- Each lower limb 18%
+		- Perineum 1%
+- Lund and Browder chart
+	- More accurate
+- For smaller burns, a piece of small paper about the size of the hand to measure 
+the burnt area directly. Size of hand $\approx$ 1%.
