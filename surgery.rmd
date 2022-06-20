@@ -1,0 +1,54 @@
+---
+title: "Surgery"
+author: "Susmit"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+\tableofcontents
+
+## Deep Vein Thrombosis (DVT)
+Formation of semisolid coagulum in a deep vein.
+
+### Virchow's triad
+- Abnormal surface (endothelial damage)
+- Abnormal flow (stasis / turbulence)
+- Abnormal blood (thrombophilia)
+
+### Factors
+- Immobility
+	- Age
+	- Obesity
+	- Prolonged surgery
+	- Pregnancy
+	- Puerperium
+	- Varicosity (effect of immobility, the rest are causes)
+- Hormone-replacement therapy (high oestrogen)
+- Previous DVT / PE
+- Thrombophilia
+
+### Common sites
+- Popliteal vein
+- Femoral ""
+- Iliac ""
+
+# CABG
+## Investigations for IHD
+- ECG (first line)
+- Cardiac enzymes (in acute coronary syndrome)
+- Exercise tolerance test
+- Echo: Evaluate
+	- ventricular function
+	- regional wall motion abnormalities
+	- valvular lesions
+- **Coronary angiography: gold std**
+	- Extent, severity and location of stenoses
+	- >70% reduction of diameter (i.e. >90% reduction of cross-sec) => severe
+	 
+## Indications for surgery
+- >50% stenosis of the left coronary artery ("_left main stem_")
+- >50% stenosis of the proximal _LAD_
+- 2/3 main coronary arteries diseased (_RCA, LAD, LCx_)
