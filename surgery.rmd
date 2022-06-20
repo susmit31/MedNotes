@@ -10,15 +10,15 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 \tableofcontents
 
-## Deep Vein Thrombosis (DVT)
+# Deep Vein Thrombosis (DVT)
 Formation of semisolid coagulum in a deep vein.
 
-### Virchow's triad
+## Virchow's triad
 - Abnormal surface (endothelial damage)
 - Abnormal flow (stasis / turbulence)
 - Abnormal blood (thrombophilia)
 
-### Factors
+## Factors
 - Immobility
 	- Age
 	- Obesity
@@ -30,10 +30,13 @@ Formation of semisolid coagulum in a deep vein.
 - Previous DVT / PE
 - Thrombophilia
 
-### Common sites
+## Common sites
 - Popliteal vein
 - Femoral ""
 - Iliac ""
+
+
+
 
 # CABG
 ## Investigations for IHD
@@ -52,3 +55,42 @@ Formation of semisolid coagulum in a deep vein.
 - >50% stenosis of the left coronary artery ("_left main stem_")
 - >50% stenosis of the proximal _LAD_
 - 2/3 main coronary arteries diseased (_RCA, LAD, LCx_)
+
+## Graft selection
+### Types
+- **Venous**: long saphenous vein
+- **Arterial**:
+	- LIMA most common (left internal mammary / left internal thoracic artery)
+	- Others
+		- RIMA
+		- Radial
+		- Gastroepiploic
+		- Inf epigastric
+
+
+
+
+# Transfusion
+
+## Indications
+- Acute blood loss
+- Periop anaemia
+- Symptomatic chronic anaemia
+
+## Complications
+### Single transfusion
+- Haemolysis (haemolytic transfusion reaction)
+- Fever (febrile transfusion reaction)
+- Allergic reaction
+- Infections
+	- Hep B, C
+	- HIV
+	- Malaria
+	- Bacterial inf
+- Air embolism
+- Thrombophlebitis
+- TRALI
+
+## Clinical factoids
+- Target Hb level: 10g/dL
+- 1 unit transfusion = 1g/dL improvement
