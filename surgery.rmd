@@ -274,16 +274,16 @@ _Manage in 1$^\circ$ survey_
 - Airway obstruction
 - Tension pneumo
 - Open pneumo
-- Pericardial tamponade
 - Massive haemothorax
 - Flail chest
+- Pericardial tamponade
 
 ### Potentially life threatening
 _Manage in 2$^\circ$ survey_
 
-- Aortic injury
 - Tracheobronchial injury
 - Oesophageal injury
+- Aortic injury
 - Myocardial contusion
 - Pulmonary contusion
 - Diaphragm rupture
