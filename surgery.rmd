@@ -270,6 +270,7 @@ the burnt area directly. Size of hand $\approx$ 1%.
 ## "Deadly dozen" of chest injury
 ### Immediately life threatening
 _Manage in 1$^\circ$ survey_
+
 - Airway obstruction
 - Tension pneumo
 - Open pneumo
@@ -279,6 +280,7 @@ _Manage in 1$^\circ$ survey_
 
 ### Potentially life threatening
 _Manage in 2$^\circ$ survey_
+
 - Aortic injury
 - Tracheobronchial injury
 - Oesophageal injury
