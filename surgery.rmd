@@ -323,3 +323,32 @@ _Manage in 2$^\circ$ survey_
 	- Cushing
 	- Lambert-Eaton
 	
+## Investigations
+### Diagnostic
+- Chest X-ray
+- Chest CT
+- Sputum cytology
+- Bronchoscopy + biopsy
+- PET-CT
+
+### Staging
+- USG whole abdomen
+- X-ray skull
+- Bone scintigraphy (aka isotope bone scan)
+- Pleural fluid cytology (if effusion)
+
+
+## Treatment
+- If NSCLC && within T3 N1 M0
+	- Surgery: Choice depends on extent of pathology
+		1. Segmentectomy
+		2. Lobectomy
+		3. Pneumonectomy
+	- Chemo:
+		1. Platins
+		2. Gemcitabine
+	- Radio
+- Else (i.e. SCLC and > T3N1M0 NSCLC)
+	- Palliative therapy
+	- Surgery not helpful
+	- Median survival: a few months
