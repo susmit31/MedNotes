@@ -157,6 +157,7 @@ the burnt area directly. Size of hand $\approx$ 1%.
 - " " electrolyte imbalance
 - To prevent shock
 - To provide nutrition
+
 ### Principles
 - **Parkland formula**: $4\cdot W \cdot A$ mL fluid for the 1st 24h
 	- Infuse $\frac{1}{2}$ over 8h, $\frac{1}{2}$ over 16h
