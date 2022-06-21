@@ -190,6 +190,7 @@ the burnt area directly. Size of hand $\approx$ 1%.
 
 
 
+
 # Grafts and Flaps
 ## Graft
 - Tissue transferred _without its original blood supply_
@@ -261,3 +262,26 @@ the burnt area directly. Size of hand $\approx$ 1%.
 	- Sapheno-femoral junction (SFJ) ligation + great saphenous vein (GSV) stripping
 	 (_Trendelenburg operation_)
 	 
+
+
+
+
+# Deadly Dozen and ATLS
+## "Deadly dozen" of chest injury
+### Immediately life threatening
+_Manage in 1$^\circ$ survey_
+- Airway obstruction
+- Tension pneumo
+- Open pneumo
+- Pericardial tamponade
+- Massive haemothorax
+- Flail chest
+
+### Potentially life threatening
+_Manage in 2$^\circ$ survey_
+- Aortic injury
+- Tracheobronchial injury
+- Oesophageal injury
+- Myocardial contusion
+- Pulmonary contusion
+- Diaphragm rupture
