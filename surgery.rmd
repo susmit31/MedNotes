@@ -44,6 +44,7 @@ Formation of semisolid coagulum in a deep vein.
 - Minimal use of tourniquets
 
 
+\pagebreak
 
 
 # CABG
@@ -76,6 +77,8 @@ Formation of semisolid coagulum in a deep vein.
 		- Inf epigastric
 
 
+
+\pagebreak
 
 
 # Blood transfusion
@@ -127,7 +130,7 @@ Formation of semisolid coagulum in a deep vein.
 - 1 unit transfusion = 1g/dL improvement
 
 
-
+\pagebreak
 
 
 # Burns
@@ -187,7 +190,7 @@ the burnt area directly. Size of hand $\approx$ 1%.
 - Silver sulfadiazine + cerium nitrate 
 
 
-
+\pagebreak
 
 
 
@@ -217,7 +220,7 @@ the burnt area directly. Size of hand $\approx$ 1%.
 
 
 
-
+\pagebreak
 
 
 # Important anticancer drugs
@@ -246,7 +249,7 @@ the burnt area directly. Size of hand $\approx$ 1%.
 	 (Pituitary tumour)
 
 
-
+\pagebreak
 
 
 # Varicose veins
@@ -263,7 +266,7 @@ the burnt area directly. Size of hand $\approx$ 1%.
 	 (_Trendelenburg operation_)
 	 
 
-
+\pagebreak
 
 
 # Deadly Dozen and ATLS
@@ -287,3 +290,35 @@ _Manage in 2$^\circ$ survey_
 - Myocardial contusion
 - Pulmonary contusion
 - Diaphragm rupture
+
+
+\pagebreak
+
+
+# Lung cancer
+## Types
+- Non-small cell (NSCLC)
+	- Squamous
+	- Adeno
+	- Large cell
+	- Carcinoid
+- Small cell (SCLC)
+
+## Features
+- Cough (esp. changing cough)
+- Dyspnoea
+- Haemoptysis
+- Wt loss
+- Chest pain
+- Clubbing
+- Pancoast $\rightarrow$ compress sympathetic trunk
+ $\rightarrow$ _Horner's_
+ 	- Miosis
+ 	- Enophthalmos
+ 	- Anhidrosis
+ 	- Partial ptosis
+- Paraneoplastic features (SCLC)
+	- SIADH
+	- Cushing
+	- Lambert-Eaton
+	
