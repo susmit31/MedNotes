@@ -243,3 +243,21 @@ the burnt area directly. Size of hand $\approx$ 1%.
 	3. Flutamide: Androgen antagonist (Prostate ca)
 	4. Bromocriptine: D2 agonist; blocks ant. pituitary stimul
 	 (Pituitary tumour)
+
+
+
+
+
+# Varicose veins
+## Management principles
+- Avoid prolonged standing
+- Compression stockings
+- **Endothermal ablation**
+	- _Laser ablation_
+	- _Radiofrequency ablation_
+- US-guided sclerotherapy
+	- Sclerosing agent: sodium tetradecyl sulfate
+- Open surgery
+	- Sapheno-femoral junction ligation + great saphenous stripping
+	 (_Trendelenburg operation_)
+	 
