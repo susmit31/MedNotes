@@ -115,6 +115,10 @@ Formation of semisolid coagulum in a deep vein.
 
 
 # Burns
+## Mechanism of fluid loss
+Intense inflammation in burnt areas $\rightarrow\;\;\uparrow$ permeability
+ $\rightarrow$ leakage of fluid into extravascular compartment  
+
 ## Assessment
 - Rule of 9:
 	- First approx
@@ -129,3 +133,40 @@ Formation of semisolid coagulum in a deep vein.
 	- More accurate
 - For smaller burns, a piece of small paper about the size of the hand to measure 
 the burnt area directly. Size of hand $\approx$ 1%.
+
+## Fluid resuscitation
+### Indications
+- **If >10% TBSA in children or >15% TBSA in adults** (B&L)
+- To correct hypovolaemia
+- " " electrolyte imbalance
+- To prevent shock
+- To provide nutrition
+
+
+
+
+
+# Important anticancer drugs
+- **Mitosis interferers**
+	1. Vincristine
+	2. Vinblastine
+	3. Taxanes (e.g. Paclitaxel)
+- **Antimetabolites** (i.e. DNA synthesis inhibitors)
+	1. Methotrexate
+	2. 5-FU
+- **DNA damagers**
+	1. Platinum drugs
+		- Cisplatin
+		- Carboplatin
+		- Oxaloplatin
+	2. Cyclophosphamide
+	3. Bleomycin
+	4. Doxorubicin
+	5. Etoposide
+- **Hormones**
+	1. Tamoxifen: ER blocker (Breast ca)
+	2. Goserelin: GnRH analogue; downregulate ant. pituitary 
+	$\rightarrow\;\;\downarrow$ testosterone (Prostate ca)
+	3. Flutamide: Androgen antagonist (Prostate ca)
+	4. Bromocriptine: D2 agonist; blocks ant. pituitary stimul
+	 (Pituitary tumour)
