@@ -190,6 +190,30 @@ the burnt area directly. Size of hand $\approx$ 1%.
 
 
 
+# Grafts and Flaps
+## Graft
+- Tissue transferred _without its original blood supply_
+- Need to revascularise in recipient site
+
+## Flap
+- Tissue transferred _with its original blood supply_
+
+## Causes of graft failure
+- Inadequate vascularity of recipient site: due to
+	- residual pus
+	- residual exudate
+	- residual dead tissue
+- Haematoma
+- Shearing forces
+- Group A $\beta$-haemolytic streptococcal infection
+	- can destroy grafts completely
+	- hence, contraindication to grafting
+
+
+
+
+
+
 # Important anticancer drugs
 - **Mitosis interferers**
 	1. Vincristine
