@@ -258,6 +258,6 @@ the burnt area directly. Size of hand $\approx$ 1%.
 - US-guided sclerotherapy
 	- Sclerosing agent: sodium tetradecyl sulfate
 - Open surgery
-	- Sapheno-femoral junction ligation + great saphenous stripping
+	- Sapheno-femoral junction (SFJ) ligation + great saphenous vein (GSV) stripping
 	 (_Trendelenburg operation_)
 	 
