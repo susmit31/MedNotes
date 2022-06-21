@@ -106,6 +106,22 @@ Formation of semisolid coagulum in a deep vein.
 - Hypo-K
 - Hyper-K
 
+## Blood & blood products
+- Whole blood
+- Components
+	- Packed red cells
+	- FFP
+		- Plasma stored at -40 to -50$^\circ$C
+		- Rich in _coagulation factors_
+		- 2y shelf-life
+	- Cryoprecipitate
+		- Supernatant of FFP
+		- Rich in _factor VIII_ and _fibrinogen_
+		- Stored at -30$^\circ$C
+		- 2y shelf-life
+	- Platelet concentrate
+	- Prothrombin complex concentrate
+
 ## Clinical factoids
 - Target Hb level: 10g/dL
 - 1 unit transfusion = 1g/dL improvement
@@ -142,7 +158,26 @@ the burnt area directly. Size of hand $\approx$ 1%.
 - To prevent shock
 - To provide nutrition
 
+## Definitive management
+### Superficial partial-thickness burns
+- Heal spontaneously without scar irrespective of choice of dressing
 
+### Deep partial-thickness burns
+- Nanocrystalline silver dressing until surgery (to prevent colonisation)
+- Tangential shaving + split-skin grafting
+- Without surgery, heal by hypertrophic scarring
+
+### Full thickness burns
+- Nanocrystalline silver dressing until surgery
+- Escharotomy
+- Excision of devitalised tissue
+- Skin grafting where possible
+
+### Nanocrystalline silver dressing
+- 1% silver sulfadiazine
+- 0.5% silver nitrate
+- Mafenide nitrate
+- Silver sulfadiazine + cerium nitrate 
 
 
 
