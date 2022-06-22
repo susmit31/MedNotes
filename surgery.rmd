@@ -363,8 +363,8 @@ _Manage in 2$^\circ$ survey_
 
 - **Primary Back Pathologies**
 	- *Spondylosis*: degenerative arthritis of the spine
-	- *Spondylolisthesis*: forward slippage of vertebral body
 	- *Spondylolysis*: defect in pars interarticularis without slippage
+	- *Spondylolisthesis*: forward slippage of vertebral body
 	- Lumbar *disc herniation*
 	- *Spinal stenosis*: narrowed spinal canal $\rightarrow$ compression of
 	 spinal cord/nerve roots
@@ -410,3 +410,21 @@ _Manage in 2$^\circ$ survey_
 - DEXA (dual energy x-ray absorptiometry) scan: measure bone density
 - Provocative discography
 - Spinal biopsy
+
+
+\pagebreak
+
+
+# Orthopaedic emergencies
+_Open DESC_
+
+- Open fracture
+- Dislocation
+	- Because dislocation $\Rightarrow$ ruptured synovial membrane 
+	 $\Rightarrow$ stoppage of synovial fluid production
+	 $\Rightarrow$ articular cartilage, which has no blood
+	 supply and derives nutrition from synoFlu, eventually dies
+	 $\Rightarrow$ waiting too long can lead to permanent joint immobility
+- Epiphyseal injury
+- Septic arthritis
+- Compartment syndrome
