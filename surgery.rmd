@@ -396,5 +396,17 @@ _Manage in 2$^\circ$ survey_
 
 <br>
 
-
-	
+## Investigations
+- Plain X-rays
+- CT: Best for assessing **bone anatomy**
+- MRI: Detailed visualization of
+	- Spinal cord
+	- Meninges
+	- Epidural space
+	- Discs
+	- Nerve roots
+	- Bone marrow
+- Bone scintigraphy
+- DEXA (dual energy x-ray absorptiometry) scan: measure bone density
+- Provocative discography
+- Spinal biopsy
