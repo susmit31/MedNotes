@@ -8,6 +8,7 @@ output: pdf_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
 \tableofcontents
 \pagebreak
 
@@ -359,7 +360,7 @@ _Manage in 2$^\circ$ survey_
 
 # Low Back Pain (LBP)
 ## Causes
-- **Strenuous work** <br>
+- **Strenuous work** 
 
 - **Primary Back Pathologies**
 	- *Spondylosis*: degenerative arthritis of the spine
@@ -374,13 +375,13 @@ _Manage in 2$^\circ$ survey_
 		- Most freq cause $\Rightarrow$ lumbar disc protrusion at L4/5
 	- *Scoliosis*
 	- *Discitis*
-<br>
+
 
 - **Infections**
 	- *Epidural abscess*
 	- *Pott's disease*
 
-<br>
+
 
 - **Metastatic disease**
 	- Sources:
@@ -389,12 +390,12 @@ _Manage in 2$^\circ$ survey_
 		- Lung
 		- Kidneys
 		- Prostate
-<br>
+
 
 - **Autoimmune conditions**
 	- *Ankylosing spondylitis*
 
-<br>
+
 
 ## Investigations
 - Plain X-rays
@@ -428,3 +429,114 @@ _Open DESC_
 - Epiphyseal injury
 - Septic arthritis
 - Compartment syndrome
+
+
+\pagebreak
+
+
+# Osteomyelitis
+## Types
+According to duration, _acute_ and _chronic_.
+
+## Acute
+
+### Causative organisms
+
+- _<u>Staph aureus</u>_
+- _Strep pyogenes_
+- _Strep pneumo_ (pneumococcus)
+- _Salmonella_
+- _Pseudomonas_
+
+
+### Clinical features
+- Severe pain
+- Tenderness
+- Restricted movement
+- Raised local temperature
+- Fever (high grade)
+- Tachycardia
+
+### Radiology
+- Early phase
+	- MRI: more sensitive in early phase
+		- bone oedema
+		- periosteal elevation
+	- X-ray:
+		- may be normal
+		- soft tissue swelling
+- 5-7d later
+	- X-ray:
+		- osteopoenia
+		- periosteal new bone formation
+
+## Chronic
+
+### Causative organisms
+- TB (_Myco TB_)
+- Syphilis (_Trepo pallidum_)
+- Fungal
+- Parasitic
+
+### Clinical features
+- Chronic discharging sinus
+- Pieces of bone may come out through the sinus
+- Joint swelling, stiffness
+- May be past history of acute osteomyelitis
+- May be recurrent pain, fever, swelling (acute on chronic)
+
+### Sequestrum
+A segment of bone that is
+
+- Devitalised
+- Avascular
+- Surrounded by pus/granulation tissue
+
+### Involucrum
+- Subperiosteal bone deposition surrounding the sequestrum.
+- Purpose: walling off the sequestrum
+- _Cloaca_: opening in involucrum due to rising pressure of the pus underneath
+
+### Radiology
+- Bony destruction
+- Surrounding soft tissue swelling
+- Sequestrum
+- Subperiosteal reaction (involucrum)
+
+### Management
+**Sequestrectomy and saucerization** followed by **antibiotic therapy for
+ 6 wks** according to C/S report of pus
+
+## Complications of osteomyelitis
+- Chronic osteomyelitis (if acute)
+- Deformity
+- Pathological fractures
+- Septic arthritis
+- Septicaemia
+
+
+\pagebreak
+
+
+# Congenital clubfoot / talipes equinovarus
+## Terminology
+- Talipes = clubfoot
+- Equinus deformity $\Rightarrow$ dorsiflexed foot
+- Varus deformity $\Rightarrow$ plantar surface turned _inwards_ (in-verted)
+- Valgus deformity $\Rightarrow$ plantar surface turned _outwards_ (e-verted)
+
+## Deformities in Congenital Clubfoot
+**CAVE**
+
+- Forefoot **C**avus
+- Midfoot **A**dductus
+- Hindfoot
+	- **V**arus
+	- **E**quinus
+
+## Treatment
+### Conservative: Ignacio Ponceti method
+- Serial plastering over 6 wks to correct deformities
+
+### Surgical: PMR (postero-medial release)
+- If conservative fails
