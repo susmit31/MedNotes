@@ -352,3 +352,49 @@ _Manage in 2$^\circ$ survey_
 	- Palliative therapy
 	- Surgery not helpful
 	- Median survival: a few months
+
+
+\pagebreak
+
+
+# Low Back Pain (LBP)
+## Causes
+- **Strenuous work** <br>
+
+- **Primary Back Pathologies**
+	- *Spondylosis*: degenerative arthritis of the spine
+	- *Spondylolisthesis*: forward slippage of vertebral body
+	- *Spondylolysis*: defect in pars interarticularis without slippage
+	- Lumbar *disc herniation*
+	- *Spinal stenosis*: narrowed spinal canal $\rightarrow$ compression of
+	 spinal cord/nerve roots
+	- *Fractures*
+	- *Cauda equina syndrome*
+		- Compression of cauda equina nerve roots
+		- Most freq cause $\Rightarrow$ lumbar disc protrusion at L4/5
+	- *Scoliosis*
+	- *Discitis*
+<br>
+
+- **Infections**
+	- *Epidural abscess*
+	- *Pott's disease*
+
+<br>
+
+- **Metastatic disease**
+	- Sources:
+		- Thyroid
+		- Breast
+		- Lung
+		- Kidneys
+		- Prostate
+<br>
+
+- **Autoimmune conditions**
+	- *Ankylosing spondylitis*
+
+<br>
+
+
+	
