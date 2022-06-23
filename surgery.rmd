@@ -3,10 +3,12 @@ title: "Surgery"
 author: "Susmit"
 date: "`r Sys.Date()`"
 output: pdf_document
+toc: yes
+toc-depth: 2
+mainfont: sans serif
 ---
 
-$\colorbox{red}{\textcolor{white}{HELLO}}$
-\tableofcontents
+<!-- $\colorbox{red}{\textcolor{white}{HELLO}}$ -->
 \pagebreak
 
 # Deep Vein Thrombosis (DVT)
@@ -821,7 +823,7 @@ A segment of bone that is
 		- Rigidity, guarding
 
 ### Investigations
-- X-ray KUB
+- X-ray KUB, IVU
 - USG KUB
 - CT KUB
 - Urine RME, culture
