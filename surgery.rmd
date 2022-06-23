@@ -71,7 +71,9 @@ Formation of semisolid coagulum in a deep vein.
 ### Types
 - **Venous**: long saphenous vein
 - **Arterial**:
-	- LIMA most common (left internal mammary / left internal thoracic artery)
+	- LIMA most common
+		- left internal mammary / left internal thoracic artery
+		- Branch of _left subclavian_
 	- Others
 		- RIMA
 		- Radial
@@ -540,3 +542,123 @@ A segment of bone that is
 
 ### Surgical: PMR (postero-medial release)
 - If conservative fails
+
+\pagebreak
+
+
+# Breast cancer
+## Aetiology
+- Age
+- Sex
+- Genetic: family history (BRCA1, BRCA2, TP53)
+- Geographic: $\uparrow$ in West
+- Diet: 
+	- Low in phytoestrogens
+	- High in alcohol
+- **_Endocrine_**: due to less exposure to _oestradiol_
+	- More in 
+		- _Nullipara_
+		- _Obese_: fat converts steroid hormones to oestradiol
+		- _OCP/HRT_ users
+		- _Early menarche_
+		- _Late menopause_
+	- Less in
+		- Breastfeeders
+		- First child at early age
+
+## Features
+- Hard lump (painful in <10%)
+- Nipple discharge
+- Nipple retraction
+- In _advanced_,
+	- Peau d'Orange ($\ge$ T$_3$): due to lymphatic congestion
+	- Ulceration ($\ge$ T$_3$)
+	- Fixation to chest wall ($\ge$ T$_3$)
+	- Palpable axillary nodes ($\ge$ N$_1$)
+- Constitutional
+	- Wt loss
+	- Anaemia
+	- Anorexia
+
+## Staging
+1. TNM
+2. Manchester (i, ii, iii, iv)
+
+### TNM
+- **T**: Tumour size
+	- 1: < 2cm
+	- 2: 2-5cm
+	- 3: 5-10cm
+	- 4: >10cm
+- **N**: Nodal involvement
+	- 0: No palpable axillary nodes
+	- 1: Mobile palpable axillary nodes
+	- 2: Fixed palpable axillary nodes
+	- 3: Palpable supraclavicular nodes
+- **M**:
+	- 0: No distant mets
+	- 1: Distant mets
+
+### Manchester
+- **Stg-I** = T$_1$N$_0$M$_0$
+- **Stg-II** = T$_2$N$_1$M$_0$
+- **Stg-IIIa** = T$_3$N$_2$M$_0$
+- **Stg-IIIb** = T$_4$N$_3$M$_0$
+- **Stg-IV** = M$_1$ (irrespective of T and N stage)
+
+## Treatment
+### Options
+- Surgery
+	- Conservative
+		- Lumpectomy
+		- Quadrantectomy
+		- Oncoplastic lumpectomy (lumpectomy + reconstruction to restore
+		 normal appearance)
+	- Mastectomy
+		- Simple
+		- Radical
+		- Modified radical mastectomy (MRM = simple + axillary node dissection)
+- Chemo
+- Radio
+- Hormone: _tamoxifen_
+- Immuno: _herceptin_ (trastuzumab)
+
+### Protocol
+- Stg-i: conservative surgery
+- Stg-ii:
+	- MRM + chemo + horm (if ER+) + immuno (if HER+)
+- Stg-iii:
+	- Neoadjuvant chemo 2-3 cycles to downstage
+	- Then mx of stg-ii
+- Stg-iv:
+	- Palliative
+	- Toilet mastectomy + chemo + radio + horm + immuno
+
+\pagebreak
+
+
+# Random-ish general surgery concepts
+## Sepsis, SIRS, MODS, MSOF
+### SIRS (Systemic inflammatory response syndrome)
+- **Any two** of
+	- Hyperthermia (>38$^\circ$C) or hypothermia (<36$^\circ$C)
+	- Tachycardia or tachypnoea
+	- WBC count high or low
+- Causes
+	- Sepsis
+	- Polytrauma
+	- Burns
+	- Pancreatitis without infection
+### Sepsis
+- SIRS + documented infection
+
+### MODS (Multiple organ dysfunction syndrome)
+- Systemic effect of SIRS
+
+### MSOF (Multiple system organ failure)
+- End stage of uncontrolled MODS
+- Includes
+	- Heart failure
+	- Liver ""
+	- Pulmonary ""
+	- Shock
