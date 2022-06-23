@@ -369,8 +369,8 @@ _Manage in 2$^\circ$ survey_
 
 \pagebreak
 
-
-# Orthopaedic emergencies
+# Orthopaedics
+## Orthopaedic emergencies
 _Open DESC_
 
 - Open fracture
@@ -388,13 +388,13 @@ _Open DESC_
 \pagebreak
 
 
-# Osteomyelitis
-## Types
+## Osteomyelitis
+### Types
 According to duration, _acute_ and _chronic_.
 
-## Acute
+### Acute
 
-### Causative organisms
+#### $\blacksquare$ Causative organisms
 
 - _<u>Staph aureus</u>_
 - _Strep pyogenes_
@@ -403,7 +403,7 @@ According to duration, _acute_ and _chronic_.
 - _Pseudomonas_
 
 
-### Clinical features
+#### $\blacksquare$ Clinical features
 - Severe pain
 - Tenderness
 - Restricted movement
@@ -411,7 +411,7 @@ According to duration, _acute_ and _chronic_.
 - Fever (high grade)
 - Tachycardia
 
-### Radiology
+#### $\blacksquare$ Radiology
 - Early phase
 	- MRI: more sensitive in early phase
 		- bone oedema
@@ -424,44 +424,45 @@ According to duration, _acute_ and _chronic_.
 		- osteopoenia
 		- periosteal new bone formation
 
-## Chronic
+### Chronic
 
-### Causative organisms
+#### $\blacksquare$ Causative organisms
 - TB (_Myco TB_)
 - Syphilis (_Trepo pallidum_)
 - Fungal
 - Parasitic
 
-### Clinical features
+#### $\blacksquare$ Clinical features
 - Chronic discharging sinus
 - Pieces of bone may come out through the sinus
 - Joint swelling, stiffness
 - May be past history of acute osteomyelitis
 - May be recurrent pain, fever, swelling (acute on chronic)
 
-### Sequestrum
+**$\bullet$ Sequestrum**
 A segment of bone that is
 
 - Devitalised
 - Avascular
 - Surrounded by pus/granulation tissue
 
-### Involucrum
+**$\bullet$ Involucrum**
+
 - Subperiosteal bone deposition surrounding the sequestrum.
 - Purpose: walling off the sequestrum
 - _Cloaca_: opening in involucrum due to rising pressure of the pus underneath
 
-### Radiology
+#### $\blacksquare$ Radiology
 - Bony destruction
 - Surrounding soft tissue swelling
 - Sequestrum
 - Subperiosteal reaction (involucrum)
 
-### Management
+#### $\blacksquare$ Management
 **Sequestrectomy and saucerization** followed by **antibiotic therapy for
  6 wks** according to C/S report of pus
 
-## Complications of osteomyelitis
+### Complications of osteomyelitis
 - Chronic osteomyelitis (if acute)
 - Deformity
 - Pathological fractures
@@ -472,14 +473,14 @@ A segment of bone that is
 \pagebreak
 
 
-# Congenital clubfoot / talipes equinovarus
-## Terminology
+## Congenital clubfoot / talipes equinovarus
+### Terminology
 - Talipes = clubfoot
 - Equinus deformity $\Rightarrow$ dorsiflexed foot
 - Varus deformity $\Rightarrow$ plantar surface turned _inwards_ (in-verted)
 - Valgus deformity $\Rightarrow$ plantar surface turned _outwards_ (e-verted)
 
-## Deformities in Congenital Clubfoot
+### Deformities in Congenital Clubfoot
 **CAVE**
 
 - Forefoot **C**avus
@@ -488,11 +489,11 @@ A segment of bone that is
 	- **V**arus
 	- **E**quinus
 
-## Treatment
-### Conservative: Ignacio Ponceti method
+### Treatment
+#### $\bullet$ Conservative: Ignacio Ponceti method
 - Serial plastering over 6 wks to correct deformities
 
-### Surgical: PMR (postero-medial release)
+#### $\bullet$ Surgical: PMR (postero-medial release)
 - If conservative fails
 
 \pagebreak
