@@ -11,42 +11,6 @@ mainfont: sans serif
 <!-- $\colorbox{red}{\textcolor{white}{HELLO}}$ -->
 \pagebreak
 
-# Deep Vein Thrombosis (DVT)
-Formation of semisolid coagulum in a deep vein.
-
-## Virchow's triad
-- Abnormal surface (endothelial damage)
-- Abnormal flow (stasis / turbulence)
-- Abnormal blood (thrombophilia)
-
-## Factors
-- Immobility
-	- Age
-	- Obesity
-	- Prolonged surgery
-	- Pregnancy
-	- Puerperium
-	- Varicosity (effect of immobility, the rest are causes)
-- Hormone-replacement therapy (high oestrogen)
-- Previous DVT / PE
-- Thrombophilia
-
-## Common sites
-- Popliteal vein
-- Femoral ""
-- Iliac ""
-
-## Prevention
-- Early mobilization
-- Hydration
-- Compression stockings
-- Prophylactic LMW heparin
-- Calf pumps
-- Minimal use of tourniquets
-
-
-\pagebreak
-
 
 # CABG
 ## Investigations for IHD
@@ -257,23 +221,6 @@ the burnt area directly. Size of hand $\approx$ 1%.
 	4. Bromocriptine: D2 agonist; blocks ant. pituitary stimul
 	 (Pituitary tumour)
 
-
-\pagebreak
-
-
-# Varicose veins
-## Management principles
-- Avoid prolonged standing
-- Compression stockings
-- **Endothermal ablation**
-	- _Laser ablation_
-	- _Radiofrequency ablation_
-- US-guided sclerotherapy
-	- Sclerosing agent: sodium tetradecyl sulfate
-- Open surgery
-	- Sapheno-femoral junction (SFJ) ligation + great saphenous vein (GSV) stripping
-	 (_Trendelenburg operation_)
-	 
 
 \pagebreak
 
@@ -731,9 +678,46 @@ A segment of bone that is
 
 
 # Vascular surgery
-## Features of ischaemic limb
+## Deep Vein Thrombosis (DVT)
+Formation of semisolid coagulum in a deep vein.
+
+### Virchow's triad
+- Abnormal surface (endothelial damage)
+- Abnormal flow (stasis / turbulence)
+- Abnormal blood (thrombophilia)
+
+### Factors
+- Immobility
+	- Age
+	- Obesity
+	- Prolonged surgery
+	- Pregnancy
+	- Puerperium
+	- Varicosity (effect of immobility, the rest are causes)
+- Hormone-replacement therapy (high oestrogen)
+- Previous DVT / PE
+- Thrombophilia
+
+### Common sites
+- Popliteal vein
+- Femoral ""
+- Iliac ""
+
+### Prevention
+- Early mobilization
+- Hydration
+- Compression stockings
+- Prophylactic LMW heparin
+- Calf pumps
+- Minimal use of tourniquets
+
+
+\pagebreak
+
+## Ischaemic limb
 (Ischaemia = reduced blood flow, NOT cell death)
 
+### Features
 - **Intermittent claudication**
 	- Debilitating crampy myalgia that is
 		- reliably brought on by walking
@@ -754,8 +738,8 @@ A segment of bone that is
 - Arterial bruit
 - **Slow capillary refill**
 
-## Investigations
-### Specific
+### Investigations
+#### $\blacksquare$ Specific
 - Doppler USG
 - Duplex scan:
 	- Duplex = plain USG + doppler
@@ -763,14 +747,14 @@ A segment of bone that is
 - Digital subtraction angiography
 - CT angiography, MR angiography
 
-### General
+#### $\blacksquare$ General
 - CBC (see if anaemia)
 - RBS
 - Lipid profile
 - Serum urea and electrolytes
 
-## Treatment
-### Non-surgical
+### Treatment
+#### $\blacksquare$ Non-surgical
 - **Smoking cessation**
 - Regular exercise
 - Wt loss if obese
@@ -781,9 +765,25 @@ A segment of bone that is
 	- Clopidogrel/aspirin
 - **Angioplasty** with/without stenting
 
-### Surgical
+#### $\blacksquare$ Surgical
 - **Bypass operation**
 	
+\pagebreak
+
+## Varicose veins
+### Management principles
+- Avoid prolonged standing
+- Compression stockings
+- **Endothermal ablation**
+	- _Laser ablation_
+	- _Radiofrequency ablation_
+- US-guided sclerotherapy
+	- Sclerosing agent: sodium tetradecyl sulfate
+- Open surgery
+	- Sapheno-femoral junction (SFJ) ligation + great saphenous vein (GSV) stripping
+	 (_Trendelenburg operation_)
+	 
+
 \pagebreak
 
 
