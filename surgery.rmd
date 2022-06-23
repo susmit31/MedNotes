@@ -692,12 +692,37 @@ A segment of bone that is
 
 ## Incisions in abdominal surgery
 ### $\blacksquare$ Upper midline
-- _Xiphoid_ to _umbilicus_
+- $\fbox{xiphoid}\rightarrow\fbox{umbilicus}$
+
+<br>
+
 - **Structures cut**
 	- Skin
 	- Subcutaneous tissue
 	- Linea alba
-	- Peritoneum 
+	- Fascia transversalis
+	- Parietal peritoneum 
+
+- Advantages
+	- Rapid
+	- Less vascular area $\Rightarrow$ less bleeding
+- Disadvantages
+	- Less vascular area $\Rightarrow$ heals late
+	- $\uparrow$ wound dehiscence, incisional hernia
+
+### $\blacksquare$ Kocher / right subcostal
+- From xiphoid, start cutting 2.5cm below parallelly to the costal margin
+- Keep cutting till cut length = 10cm
+- **Structures cut**: ???
+- Use: gallbladder surgeries, rt hepatic lobectomy
+
+### $\blacksquare$ Pfannenstiel
+- Curved, 2.5cm above and parallel to the arch made by inguinal ligaments,
+ extend equally on both sides of the midline
+- Done in
+	- Caesarean section
+	- Prostatectomy
+	- Bladder surgery
 
 
 \pagebreak
@@ -775,3 +800,54 @@ A segment of bone that is
 - ITP
 - Thalassaemia major
 
+
+\pagebreak
+
+# Urology
+## Renal stones
+### Features
+- Asymotimatic
+- Ureteric colic: loin $\rightarrow$ groin
+- Renal pain: dull loin pain
+- Haematuria
+- Features of UTI, e.g.:
+	- Frequency: too frequent voiding
+	- Urgency: sudden compelling desire to urinate
+	- Dysuria: burning pain during urination
+	- Features of pyelonephritis (if ascending infection), e.g.:
+		- Fever with chills
+		- Vomiting
+		- Renal angle tenderness
+		- Rigidity, guarding
+
+### Investigations
+- X-ray KUB
+- USG KUB
+- CT KUB
+- Urine RME, culture
+
+### Treatment
+- **Small ($\le$ 5mm)**:
+	- Conservative management
+	- 90% pass spontaneously
+	- Drink plenty of water
+	- Analgesics
+	- Antiemetics
+	- Mobility
+- **> 5mm**:
+	- ESWL
+		- for $\le$ 1.5cm stones
+		- cystine stones resistant
+		- results in _steinstrasse_ ("stone street")
+		- contra
+			- obese
+			- pregnant
+			- patients on oral anticoagulants
+	- Ureteroscopy + retrieval by Dormia basket: for <6mm stones in distal
+	 ureter)
+	- PCNL
+		- for larger stones / ESWL contraindications / ESWL resistant stones
+	- Open surgeries: depending on location of stone
+		- Nephrolithotomy
+		- Pyelolithotomy
+		- Ureterolithotomy
