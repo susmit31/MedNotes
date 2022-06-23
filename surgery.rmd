@@ -690,6 +690,16 @@ A segment of bone that is
 - Cautery (diathermy)
 - Ligation  
 
+## Incisions in abdominal surgery
+### $\blacksquare$ Upper midline
+- _Xiphoid_ to _umbilicus_
+- **Structures cut**
+	- Skin
+	- Subcutaneous tissue
+	- Linea alba
+	- Peritoneum 
+
+
 \pagebreak
 
 
