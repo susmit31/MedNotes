@@ -5,10 +5,7 @@ date: "`r Sys.Date()`"
 output: pdf_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
+$\colorbox{red}{\textcolor{white}{HELLO}}$
 \tableofcontents
 \pagebreak
 
@@ -123,9 +120,15 @@ Formation of semisolid coagulum in a deep vein.
 		- 2y shelf-life
 	- Cryoprecipitate
 		- Supernatant of FFP
-		- Rich in _factor VIII_ and _fibrinogen_
+		- Rich in $\fbox{factor VIII}$, $\fbox{fibrinogen}$, and $\fbox{vWF}$
+		 (von Willebrand factor)
+		 	- Without vWF, factor VIII has a very low half life. So normally
+		 	 in blood it's transported bound to vWF.
 		- Stored at -30$^\circ$C
-		- 2y shelf-life
+		- Indications:
+			- Haemophilia
+			- Fibrinogen deficiency
+			- Von Willebrand disease
 	- Platelet concentrate
 	- Prothrombin complex concentrate
 
@@ -639,7 +642,7 @@ A segment of bone that is
 
 # Random-ish general surgery concepts
 ## Sepsis, SIRS, MODS, MSOF
-### SIRS (Systemic inflammatory response syndrome)
+### $\blacksquare$ SIRS (Systemic inflammatory response syndrome)
 - **Any two** of
 	- Hyperthermia (>38$^\circ$C) or hypothermia (<36$^\circ$C)
 	- Tachycardia or tachypnoea
@@ -649,13 +652,14 @@ A segment of bone that is
 	- Polytrauma
 	- Burns
 	- Pancreatitis without infection
-### Sepsis
+
+### $\blacksquare$ Sepsis
 - SIRS + documented infection
 
-### MODS (Multiple organ dysfunction syndrome)
+### $\blacksquare$ MODS (Multiple organ dysfunction syndrome)
 - Systemic effect of SIRS
 
-### MSOF (Multiple system organ failure)
+### $\blacksquare$ MSOF (Multiple system organ failure)
 - End stage of uncontrolled MODS
 - Includes
 	- Heart failure
@@ -664,17 +668,100 @@ A segment of bone that is
 	- Shock
 
 ## Haemorrhage
-### 1$^\circ$: Occurs immediately due to injury/surgery.
+### $\bullet\; 1^\circ$: Occurs immediately due to injury/surgery.
 
-### Reactionary: Within 24h
+### $\bullet$ Reactionary: Within 24h
 - Due to 
 	- $\fbox{dislodgement of clot}$ as a result of resuscitation and blood flow
  restoration
 	- _slippage of ligature_
 
-### 2$^\circ$: Within 7-14d
+### $\bullet\; 2^\circ$: Within 7-14d
 - Due to $\fbox{sloughing off of vessel wall}$
 	- Precipitated by
 		- Infection
 		- Pressure necrosis
 		- Cancer
+
+### $\bullet$ Principles of haemorrhage control
+- Pressure
+- Position (elevation in case of limb)
+- Packing
+- Cautery (diathermy)
+- Ligation  
+
+\pagebreak
+
+
+# Vascular surgery
+## Features of ischaemic limb
+(Ischaemia = reduced blood flow, NOT cell death)
+
+- **Intermittent claudication**
+	- Debilitating crampy myalgia that is
+		- reliably brought on by walking
+		- not present on taking the first step
+		- reliably relieved by rest
+	- Raised workload while walking $\rightarrow$ anaerobic metabolism
+	 $\rightarrow$ intermittent claudication
+- **Rest pain**
+	- Advanced ischaemia
+	- Anaerobic metabolism occurring even at rest
+	- Exacerbated by lying down / foot elevation (due to loss of
+	 gravitational aid in flow) $\rightarrow$ _pain worse at night_ and
+	 _relieved by hanging the foot out of the bed_.
+- Coldness, numbness, paraesthesia, colour change
+- Ulceration
+- Gangrene
+- **Absent/diminished arterial pulse**
+- Arterial bruit
+- **Slow capillary refill**
+
+## Investigations
+### Specific
+- Doppler USG
+- Duplex scan:
+	- Duplex = plain USG + doppler
+	- Plain USG shows anatomy, doppler shows flow patterns
+- Digital subtraction angiography
+- CT angiography, MR angiography
+
+### General
+- CBC (see if anaemia)
+- RBS
+- Lipid profile
+- Serum urea and electrolytes
+
+## Treatment
+### Non-surgical
+- **Smoking cessation**
+- Regular exercise
+- Wt loss if obese
+- **Drugs**
+	- Beta blocker contraindicated: as sympathetic increases blood flow
+	 to muscles
+	- Statin
+	- Clopidogrel/aspirin
+- **Angioplasty** with/without stenting
+
+### Surgical
+- **Bypass operation**
+	
+\pagebreak
+
+
+# Splenectomy
+## Indications
+(_Indications marked with $\star$ are absolute indications_)
+
+- Traumatic rupture $\star$
+- Splenic tumours (primary or secondary) $\star$
+- Bleeding varices due to splenic vein thrombosis $\star$
+- Hereditary spherocytosis $\star$
+- Splenic abscess
+- Hypersplenism
+	- Hypersplenism = splenomegaly + any cytopoenia(s) + improvement of
+	 symptoms after splenectomy
+- ITP
+- Thalassaemia major
+
