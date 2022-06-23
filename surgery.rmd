@@ -662,3 +662,22 @@ A segment of bone that is
 	- Liver ""
 	- Pulmonary ""
 	- Shock
+
+## Haemorrhage
+### 1$^\circ$
+- Occurs immediately due to injury/surgery.
+
+### Reactionary
+- Within 24h
+- Due to 
+	- _dislodgement of clot_ as a result of resuscitation and blood flow
+ restoration
+	- _slippage of ligature_
+
+### 2$^\circ$
+- Within 7-14d
+- Due to _sloughing off of vessel wall_
+	- Precipitated by
+		- Infection
+		- Pressure necrosis
+		- Cancer
