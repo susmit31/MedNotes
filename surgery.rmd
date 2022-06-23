@@ -4,7 +4,7 @@ author: "Susmit"
 date: "`r Sys.Date()`"
 documentclass: extarticle
 output: pdf_document
-fontsize: 17pt
+fontsize: 14pt
 toc: yes
 toc-depth: 2
 ---
