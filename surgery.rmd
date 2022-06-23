@@ -827,6 +827,7 @@ A segment of bone that is
 - Urine RME, culture
 
 ### Treatment
+- Assess size of stone by USG/CT
 - **Small ($\le$ 5mm)**:
 	- Conservative management
 	- 90% pass spontaneously
