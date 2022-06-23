@@ -2,10 +2,11 @@
 title: "Surgery"
 author: "Susmit"
 date: "`r Sys.Date()`"
+documentclass: extarticle
 output: pdf_document
+fontsize: 17pt
 toc: yes
 toc-depth: 2
-mainfont: sans serif
 ---
 
 <!-- $\colorbox{red}{\textcolor{white}{HELLO}}$ -->
@@ -311,64 +312,6 @@ _Manage in 2$^\circ$ survey_
 
 \pagebreak
 
-
-# Low Back Pain (LBP)
-## Causes
-- **Strenuous work** 
-
-- **Primary Back Pathologies**
-	- *Spondylosis*: degenerative arthritis of the spine
-	- *Spondylolysis*: defect in pars interarticularis without slippage
-	- *Spondylolisthesis*: forward slippage of vertebral body
-	- Lumbar *disc herniation*
-	- *Spinal stenosis*: narrowed spinal canal $\rightarrow$ compression of
-	 spinal cord/nerve roots
-	- *Fractures*
-	- *Cauda equina syndrome*
-		- Compression of cauda equina nerve roots
-		- Most freq cause $\Rightarrow$ lumbar disc protrusion at L4/5
-	- *Scoliosis*
-	- *Discitis*
-
-
-- **Infections**
-	- *Epidural abscess*
-	- *Pott's disease*
-
-
-
-- **Metastatic disease**
-	- Sources:
-		- Thyroid
-		- Breast
-		- Lung
-		- Kidneys
-		- Prostate
-
-
-- **Autoimmune conditions**
-	- *Ankylosing spondylitis*
-
-
-
-## Investigations
-- Plain X-rays
-- CT: Best for assessing **bone anatomy**
-- MRI: Detailed visualization of
-	- Spinal cord
-	- Meninges
-	- Epidural space
-	- Discs
-	- Nerve roots
-	- Bone marrow
-- Bone scintigraphy
-- DEXA (dual energy x-ray absorptiometry) scan: measure bone density
-- Provocative discography
-- Spinal biopsy
-
-
-\pagebreak
-
 # Orthopaedics
 ## Orthopaedic emergencies
 _Open DESC_
@@ -498,6 +441,62 @@ A segment of bone that is
 
 \pagebreak
 
+## Low Back Pain (LBP)
+### Causes
+- **Strenuous work** 
+
+- **Primary Back Pathologies**
+	- *Spondylosis*: degenerative arthritis of the spine
+	- *Spondylolysis*: defect in pars interarticularis without slippage
+	- *Spondylolisthesis*: forward slippage of vertebral body
+	- Lumbar *disc herniation*
+	- *Spinal stenosis*: narrowed spinal canal $\rightarrow$ compression of
+	 spinal cord/nerve roots
+	- *Fractures*
+	- *Cauda equina syndrome*
+		- Compression of cauda equina nerve roots
+		- Most freq cause $\Rightarrow$ lumbar disc protrusion at L4/5
+	- *Scoliosis*
+	- *Discitis*
+
+
+- **Infections**
+	- *Epidural abscess*
+	- *Pott's disease*
+
+
+
+- **Metastatic disease**
+	- Sources:
+		- Thyroid
+		- Breast
+		- Lung
+		- Kidneys
+		- Prostate
+
+
+- **Autoimmune conditions**
+	- *Ankylosing spondylitis*
+
+
+
+### Investigations
+- Plain X-rays
+- CT: Best for assessing **bone anatomy**
+- MRI: Detailed visualization of
+	- Spinal cord
+	- Meninges
+	- Epidural space
+	- Discs
+	- Nerve roots
+	- Bone marrow
+- Bone scintigraphy
+- DEXA (dual energy x-ray absorptiometry) scan: measure bone density
+- Provocative discography
+- Spinal biopsy
+
+
+\pagebreak
 
 # Breast cancer
 ## Aetiology
