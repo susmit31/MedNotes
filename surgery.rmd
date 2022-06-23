@@ -806,7 +806,7 @@ A segment of bone that is
 # Urology
 ## Renal stones
 ### Features
-- Asymotimatic
+- Asymptomatic
 - Ureteric colic: loin $\rightarrow$ groin
 - Renal pain: dull loin pain
 - Haematuria
