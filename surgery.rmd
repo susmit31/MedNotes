@@ -845,7 +845,7 @@ A segment of bone that is
 			- pregnant
 			- patients on oral anticoagulants
 	- Ureteroscopy + retrieval by Dormia basket: for <6mm stones in distal
-	 ureter)
+	 ureter
 	- PCNL
 		- for larger stones / ESWL contraindications / ESWL resistant stones
 	- Open surgeries: depending on location of stone
