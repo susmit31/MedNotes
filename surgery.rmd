@@ -980,8 +980,8 @@ Confirmed by **urethrography** with water-soluble contrast
 
 ### Investigations
 - **Prostate biopsy**
-	- Trans_perineal_ approach: under G/A
-	- Trans_rectal_ approach: under L/A
+	- _Transperineal_ approach: under G/A
+	- _Transrectal_ approach: under L/A
 - **PSA**
 	- Normal: < 4ng/mol
 	- $>10$ng/mol: suggestive
