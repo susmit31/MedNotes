@@ -2,10 +2,8 @@
 title: "Surgery"
 author: "Susmit"
 date: "`r Sys.Date()`"
-documentclass: extarticle
+documentclass: memoir
 output: pdf_document
-toc: true
-toc-depth: 2
 fontsize: 14pt
 geometry: margin=3cm
 ---
@@ -14,8 +12,9 @@ geometry: margin=3cm
 \setulmarginsandblock{2cm}{2cm}{*}
 \checkandfixthelayout-->
 
-<!-- \twocoltocetc
-\tableofcontents-->
+\raggedbottom
+\twocoltocetc
+\tableofcontents
 
 
 \pagebreak
