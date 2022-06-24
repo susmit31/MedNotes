@@ -871,8 +871,8 @@ Formation of semisolid coagulum in a deep vein.
 ### Investigations: usual
 
 ### Treatment
-$\blacksquare$ Perurethral litholapaxy
+- _Perurethral litholapaxy_
 
-$\blacksquare$ Percutaneous suprapubic litholapaxy
+- _Percutaneous suprapubic litholapaxy_
 
-$\blacksquare$ Suprapubic cystolithotomy
+- _Suprapubic cystolithotomy_
