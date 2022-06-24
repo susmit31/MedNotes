@@ -224,7 +224,7 @@ the burnt area directly. Size of hand $\approx$ 1%.
 	5. Etoposide
 - **Hormones**
 	1. Tamoxifen: ER blocker (Breast ca)
-	2. Goserelin: GnRH analogue; downregulate ant. pituitary 
+	2. Goserelin: GnRH analogue/LHRH agonist; downregulate ant. pituitary 
 	$\rightarrow\;\;\downarrow$ testosterone (Prostate ca)
 	3. Flutamide: Androgen antagonist (Prostate ca)
 	4. Bromocriptine: D2 agonist; blocks ant. pituitary stimul
@@ -960,3 +960,46 @@ Confirmed by **urethrography** with water-soluble contrast
 	- Surgery
 		- Partial cystectomy
 		- Radical cystectomy and pelvic lymphadenectomy
+
+\pagebreak
+
+## Prostate cancer
+### Features
+- Asymptomatic until advanced
+- In advanced,
+	- Bladder outlet obstruction (boo) $\rightarrow$ retention
+	- Pelvic pain
+	- Haematuria
+	- Bone pain, arthritis
+	- Renal failure
+	- Anaemia, pancytopoenia
+- DRE:
+	- Hard irregular lump
+	- Median sulcus obliterated
+	- Examining finger blood stained
+
+### Investigations
+- **Prostate biopsy**
+	- Trans_perineal_ approach: under G/A
+	- Trans_rectal_ approach: under L/A
+- **PSA**
+	- Normal: < 4ng/mol
+	- $>10$ng/mol: suggestive
+	- $>35$ng/mol: almost diagnostic of advanced carcinoma
+- LFT: liver mets
+- ALP: liver or bone mets
+- Chest x-ray: lung/rib mets
+
+### Treatment
+- **Early stage**: 
+	- _radical prostatectomy_
+	- radiotherapy
+		- external beam radiotherapy or
+		- brachytherapy
+- **Late stage**:
+	- _orchidectomy_ ("surgical castration")
+	- _medical castration_
+		- stilbestrol
+		- LHRH agonists: goserelin
+	- radiotherapy
+	- chemo: docetaxel
