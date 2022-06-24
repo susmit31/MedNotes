@@ -409,7 +409,7 @@ A segment of bone that is
 - Sequestrum
 - Subperiosteal reaction (involucrum)
 
-#### $\blacksquare$ Management
+#### $\blacksquare$ Management:
 **Sequestrectomy and saucerization** followed by **antibiotic therapy for
  6 wks** according to C/S report of pus
 
