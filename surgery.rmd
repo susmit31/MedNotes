@@ -876,3 +876,24 @@ Formation of semisolid coagulum in a deep vein.
 - _Percutaneous suprapubic litholapaxy_
 
 - _Suprapubic cystolithotomy_
+
+\pagebreak
+
+## Ruptured urethra
+### Features
+- Perineal bruising & haematoma
+- Bleeding from urethral meatus
+- Urinary retention
+- Pain
+
+### Investigations
+Confirmed by **urethrography** with water-soluble contrast
+- Urethrogram = insert catheter upto urethral meatus, then inject contrast
+ and image with x-rays
+
+### Management
+- Antibiotics
+- Analgesics
+- **Catheterisation** by percutaneous suprapubic puncture (Seldinger technique)
+- _After bruising and swelling have setted_ (8-12wks later), *delayed
+ anastomotic urethroplasty*. 
