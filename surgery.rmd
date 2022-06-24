@@ -898,3 +898,39 @@ Confirmed by **urethrography** with water-soluble contrast
 - **Catheterisation** by percutaneous suprapubic puncture (Seldinger technique)
 - _After bruising and swelling have setted_ (8-12wks later), **delayed
  anastomotic urethroplasty**. 
+
+\pagebreak
+
+## Bladder cancer
+### Painless haematuria in 60yo male
+**4T**
+- Tumours
+	- _**Painless gross haematuria, until proved otherwise, is bladder
+	 cancer**_
+- TB
+- Tension (hypertensive nephropathy)
+- Tubular necrosis (ATN)
+
+### Features
+- Painless gross haematuria
+	- may lead to large clots in the bladder $\rightarrow$ clot
+	 retention
+- Frequency
+- Pain may arise in later stages due to
+	- extravesical spread
+	- pyelonephritis
+
+### Investigations
+- Urine culture and cytology for malignant cells
+- Hb, urea, electrolytes
+- CT, MRI, USG, IVU
+- _Cystourethroscopy_
+
+### Treatment
+- **Non-muscle invasive tumour**: (does not invade the detrusor)
+	- **Endoscopic resection** followed by **intravesical BCG** chemotherapy
+- **Muscle-invasive tumour**
+	- External beam radiotherapy
+	- Surgery
+		- Partial cystectomy
+		- Radical cystectomy and pelvic lymphadenectomy
