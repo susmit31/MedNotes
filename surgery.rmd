@@ -32,11 +32,11 @@ geometry: margin=3cm
 	- valvular lesions
 - **Coronary angiography: gold std**
 	- Extent, severity and location of stenoses
-	- >70% reduction of diameter (i.e. >90% reduction of cross-sec) => severe
+	- $>$70% reduction of diameter (i.e. >90% reduction of cross-sec) => severe
 	 
 ## Indications for surgery
-- >50% stenosis of the left coronary artery ("_left main stem_")
-- >50% stenosis of the proximal _LAD_
+- $>$50% stenosis of the left coronary artery ("_left main stem_")
+- $>$50% stenosis of the proximal _LAD_
 - 2/3 main coronary arteries diseased (_RCA, LAD, LCx_)
 
 ## Graft selection
@@ -312,7 +312,7 @@ _Manage in 2$^\circ$ survey_
 		1. Platins
 		2. Gemcitabine
 	- Radio
-- Else (i.e. SCLC and > T3N1M0 NSCLC)
+- Else (i.e. SCLC and $>$ T3N1M0 NSCLC)
 	- Palliative therapy
 	- Surgery not helpful
 	- Median survival: a few months
