@@ -5,12 +5,12 @@ date: "`r Sys.Date()`"
 documentclass: memoir
 output: pdf_document
 fontsize: 14pt
-geometry: margin=3cm
+geometry: margin=2cm
 ---
-<!-- $\colorbox{red}{\textcolor{white}{HELLO}}$ -->
+<!-- $\colorbox{red}{\textcolor{white}{HELLO}}$ 
 \setlrmarginsandblock{2cm}{2cm}{*}
 \setulmarginsandblock{2cm}{2cm}{*}
-\checkandfixthelayout
+\checkandfixthelayout-->
 \openany <!-- this is to let chapters start on any page, odd or even -->
 <!-- non-inclusion leads to many unnecessary blank pages -->
 \raggedbottom
@@ -659,7 +659,7 @@ A segment of bone that is
 
 
 # Random-ish general surgery concepts
-## Sepsis, SIRS, MODS, MSOF
+## Sepsis, SIRS, MODS, MSOF {SIRS}
 ### $\bullet$ SIRS (Systemic inflammatory response syndrome)
 - **Any two** of
 	- Hyperthermia (>38$^\circ$C) or hypothermia (<36$^\circ$C)
@@ -1113,3 +1113,65 @@ Confirmed by **urethrography** with water-soluble contrast
 - Stg II-IV
 	- **BEP chemotherapy** for both seminoma and NSGCT
 	
+\pagebreak
+
+# GIT
+## Acute Pancreatitis
+### Causes
+- Gallstone
+- ERCP
+- Trauma
+- Alcoholism
+- Hyperparathyroidism
+- Hypercalcaemia
+- Autoimmune
+- Drugs: corticosteroids,azathioprine
+
+### Features
+- Pain
+	- Severe epigastric pain
+	- Radiates to back in 50%
+	- Relieved by leaning forwards
+	- Can mimic most other causes of acute abdomen
+- Nausea, vomiting, retching
+- Shock
+	- Tachycardia, tachypnoea, hypotension
+	- SIRS
+- Bleeding into fascial planes $\rightarrow$ bluish discoloration of
+	- Flanks: Gray-Turner's
+	- Umbilicus: Cullen's
+- Muscle guarding
+- Pleural effusion
+
+### Investigations
+- Clinical assessment + **serum amylase (>3x above normal)** indicative of
+ acute pancreatitis
+- Serum lipase: more sensitive and specific
+- USG: detect gallstones
+- X-ray, CECT: exclude other causes of acute abdomen
+
+### Severity assessment
+- Ranson, Glasgow, APACHE scoring
+- Atlanta classification
+	- Mild:
+		- no organ failure
+		- no local/systemic complis
+	- Moderate: transient organ failure (resolves by 48h)
+	- Severe: persistent organ failure (>48h)
+
+### Treatment
+- **Mild**
+	- observation
+	- IV fluid
+	- analgesic (no need for antibiotics)
+	- antiemetic
+- **Severe**
+	- HDU/ICU admission
+	- IV fluids
+	- Analgesic: pethidine (morphine contraindicated; causes sphincter of
+	 Oddi dysfunction)
+	- Antibiotics: IV cefuroxime, or imipenem, or cipro+metro
+	- O2 inhalation
+	- Invasive monitoring of vitals, CVP, blood glucose
+	- ERCP within 72h if severe gallstone pancreatitis/signs of cholangitis
+
