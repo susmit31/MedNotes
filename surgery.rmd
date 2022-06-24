@@ -11,7 +11,7 @@ geometry: margin=3cm
 \setlrmarginsandblock{2cm}{2cm}{*}
 \setulmarginsandblock{2cm}{2cm}{*}
 \checkandfixthelayout
-
+\openany <!-- this is to let chapters start on any page, odd or even -->
 \raggedbottom
 \twocoltocetc
 \tableofcontents
