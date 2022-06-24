@@ -71,7 +71,7 @@ $\downarrow$ ATP $\rightarrow$ **failure of Na-K pump** $\rightarrow$
 **release of lysosomal enzymes** $\rightarrow$ intracellular contents
  e.g. K released into the bloodstream.
 
-### Classification
+## Classification
 - **Hypovolaemic**
 - **Cardiogenic**: MI, cardiomyopathy, valvular disease
 - **Obstructive**: tamponade, tension pneumo, massive PE
@@ -83,7 +83,7 @@ $\downarrow$ ATP $\rightarrow$ **failure of Na-K pump** $\rightarrow$
 - **Endocrine**: hypo/hyperthyroid, adrenal insufficiency (Addisonian
  crisis).
 
-### Features
+## Features
 - Cold, clammy skin: due to vasoconstriction (to maintain BP)
 - Tachycardia: due to baroreflex response (to maintain BP)
 - Hypotension
@@ -95,11 +95,11 @@ warm skin**
 - **neurogenic shock $\rightarrow$ loss of baroreflex response $\rightarrow$
 bradycardia**
 
-### Pathogenesis of Septic Shock
+## Pathogenesis of Septic Shock
 \includegraphics[width=0.9\textwidth]{septicshock.jpg}
 \pagebreak
 
-### Pathogenesis of Anaphylactic Shock
+## Pathogenesis of Anaphylactic Shock
 \begin{center}
 Allergen \\
  $\downarrow$  \\
