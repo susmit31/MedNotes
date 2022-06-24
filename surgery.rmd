@@ -1003,3 +1003,51 @@ Confirmed by **urethrography** with water-soluble contrast
 		- LHRH agonists: goserelin
 	- radiotherapy
 	- chemo: docetaxel
+
+\pagebreak
+
+## Testicular tumours
+### Classification
+- $\fbox{Germ cell tumours}$
+	- Seminoma
+	- Nonseminomatous GCT
+		- Embryonal carcinoma
+		- Yolk sac tumour
+		- Choriocarcinoma
+		- Teratoma
+- $\fbox{Interstitial cell tumours}$
+	- Sertoli $\rightarrow$ _feminizes_
+	- Leydig $\rightarrow$ _masculinizes_ (secretes androgens)
+		- layDICK $\rightarrow$ masculin
+- $\fbox{Lymphoma}$
+
+### Features
+- Painless testicular lump
+- Heaviness (if 2-3x enlarged)
+- Gynaecomastia (especially with _NSGCT_)
+- Acute swelling and severely painful testis
+	- due to bleeding in the tumour
+- Metastatic features
+	- abdominal mets: abdominal pain
+	- lung mets: dyspnoea, chest pain, haemoptysis
+
+### Investigations
+- **Confirmed by USG**
+- AFP: $\uparrow$ in NSGCT
+- hCG: $\uparrow$ both seminoma and NSGCT
+- X-ray / CT of chest, abdomen, pelvis: for staging
+
+### Treatment
+Orchidectomy, followed by
+
+	- Stg i
+		- **Seminoma**: radiosensitive, only radiotherapy + follow-up
+		- **NSGCT**
+			- not radiosensitive
+			- **BEP chemotherapy**
+				- Bleomycin
+				- Etoposide
+				- Platinum (cisplatin)
+	- Stg ii-iv
+		- **BEP chemotherapy** for both seminoma and NSGCT
+		
