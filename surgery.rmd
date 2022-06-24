@@ -1040,6 +1040,7 @@ Confirmed by **urethrography** with water-soluble contrast
 ### Treatment
 **Orchidectomy**, followed by
 
+- Histopathology: for histological classification
 - Stg I
 	- **Seminoma**: radiosensitive, only radiotherapy + follow-up
 	- **NSGCT**
