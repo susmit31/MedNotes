@@ -12,6 +12,7 @@ geometry: margin=3cm
 \setulmarginsandblock{2cm}{2cm}{*}
 \checkandfixthelayout
 \openany <!-- this is to let chapters start on any page, odd or even -->
+<!-- non-inclusion leads to many unnecessary blank pages -->
 \raggedbottom
 \twocoltocetc
 \tableofcontents
@@ -55,6 +56,67 @@ geometry: margin=3cm
 
 \pagebreak
 
+
+# Shock
+## Definition
+It is a state of **systemic hypoperfusion** that is **inadequate** for
+ normal **cellular respiration**.
+
+## Pathophys
+### Cellular
+- $\downarrow$ Perfusion $\rightarrow$ anaerobic meta $\rightarrow$
+**lactic acidosis**.
+- Eventually, _glucose runs out_ $\rightarrow$ no more meta $\rightarrow$
+$\downarrow$ ATP $\rightarrow$ **failure of Na-K pump** $\rightarrow$
+**release of lysosomal enzymes** $\rightarrow$ intracellular contents
+ e.g. K released into the bloodstream.
+
+### Classification
+- **Hypovolaemic**
+- **Cardiogenic**: MI, cardiomyopathy, valvular disease
+- **Obstructive**: tamponade, tension pneumo, massive PE
+- **Distributive**: systemic vasodilation, due to _histamine_ (anaphylaxis)
+ or _nitric oxide_ (sepsis)_failure of neuroregulation_ (neuro shock)
+	- **Septic**
+	- **Anaphylactic**
+	- **Neurogenic**
+- **Endocrine**: hypo/hyperthyroid, adrenal insufficiency (Addisonian
+ crisis).
+
+### Features
+- Cold, clammy skin: due to vasoconstriction (to maintain BP)
+- Tachycardia: due to baroreflex response (to maintain BP)
+- Hypotension
+- Low urine output
+
+### Exceptions
+- **distributive shock $\rightarrow$ vasodilation $\rightarrow$
+warm skin**
+- **neurogenic shock $\rightarrow$ loss of baroreflex response $\rightarrow$
+bradycardia**
+
+### Pathogenesis of Septic Shock
+\includegraphics[width=0.9\textwidth]{septicshock.jpg}
+\pagebreak
+
+### Pathogenesis of Anaphylactic Shock
+\begin{center}
+Allergen \\
+ $\downarrow$  \\
+ bind to IgE on mast cell  \\
+ $\downarrow$  \\
+ cross-linking of IgE receptors  \\
+ $\downarrow$  \\
+ \textbf{mast cell degranulation}  \\
+ $\downarrow$  \\
+ \textbf{histamine}  \\
+ $\downarrow$  \\
+ \textbf{vasodilation}\\  
+ $\downarrow$  \\
+ shock\\
+\end{center}
+
+\pagebreak
 
 # Blood transfusion
 
