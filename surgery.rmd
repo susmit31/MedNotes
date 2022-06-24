@@ -598,7 +598,7 @@ A segment of bone that is
 
 # Random-ish general surgery concepts
 ## Sepsis, SIRS, MODS, MSOF
-### $\blacksquare$ SIRS (Systemic inflammatory response syndrome)
+### $\bullet$ SIRS (Systemic inflammatory response syndrome)
 - **Any two** of
 	- Hyperthermia (>38$^\circ$C) or hypothermia (<36$^\circ$C)
 	- Tachycardia or tachypnoea
@@ -609,13 +609,13 @@ A segment of bone that is
 	- Burns
 	- Pancreatitis without infection
 
-### $\blacksquare$ Sepsis
+### $\bullet$ Sepsis
 - SIRS + documented infection
 
-### $\blacksquare$ MODS (Multiple organ dysfunction syndrome)
+### $\bullet$ MODS (Multiple organ dysfunction syndrome)
 - Systemic effect of SIRS
 
-### $\blacksquare$ MSOF (Multiple system organ failure)
+### $\bullet$ MSOF (Multiple system organ failure)
 - End stage of uncontrolled MODS
 - Includes
 	- Heart failure
