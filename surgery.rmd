@@ -1040,14 +1040,14 @@ Confirmed by **urethrography** with water-soluble contrast
 ### Treatment
 Orchidectomy, followed by
 
-	- Stg i
-		- **Seminoma**: radiosensitive, only radiotherapy + follow-up
-		- **NSGCT**
-			- not radiosensitive
-			- **BEP chemotherapy**
-				- Bleomycin
-				- Etoposide
-				- Platinum (cisplatin)
-	- Stg ii-iv
-		- **BEP chemotherapy** for both seminoma and NSGCT
-		
+- Stg i
+	- **Seminoma**: radiosensitive, only radiotherapy + follow-up
+	- **NSGCT**
+		- not radiosensitive
+		- **BEP chemotherapy**
+			- Bleomycin
+			- Etoposide
+			- Platinum (cisplatin)
+- Stg ii-iv
+	- **BEP chemotherapy** for both seminoma and NSGCT
+	
