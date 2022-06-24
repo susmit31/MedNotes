@@ -2,14 +2,13 @@
 title: "Surgery"
 author: "Susmit"
 date: "`r Sys.Date()`"
-documentclass: extarticle
+documentclass: memoir
 output: pdf_document
 fontsize: 14pt
-toc: yes
-toc-depth: 2
 ---
-
 <!-- $\colorbox{red}{\textcolor{white}{HELLO}}$ -->
+\twocoltocetc
+\tableofcontents
 \pagebreak
 
 

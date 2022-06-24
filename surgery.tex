@@ -4,7 +4,7 @@
 %
 \documentclass[
   14pt,
-]{extarticle}
+]{memoir}
 \usepackage{lmodern}
 \usepackage{amssymb,amsmath}
 \usepackage{ifxetex,ifluatex}
@@ -65,19 +65,19 @@
 \date{2022-06-24}
 
 \begin{document}
+\frontmatter
 \maketitle
 
-{
-\setcounter{tocdepth}{2}
+\mainmatter
+\twocoltocetc
 \tableofcontents
-}
 \pagebreak
 
 \hypertarget{cabg}{%
-\section{CABG}\label{cabg}}
+\chapter{CABG}\label{cabg}}
 
 \hypertarget{investigations-for-ihd}{%
-\subsection{Investigations for IHD}\label{investigations-for-ihd}}
+\section{Investigations for IHD}\label{investigations-for-ihd}}
 
 \begin{itemize}
 \tightlist
@@ -114,7 +114,7 @@
 \end{itemize}
 
 \hypertarget{indications-for-surgery}{%
-\subsection{Indications for surgery}\label{indications-for-surgery}}
+\section{Indications for surgery}\label{indications-for-surgery}}
 
 \begin{itemize}
 \item
@@ -130,10 +130,10 @@
 \end{itemize}
 
 \hypertarget{graft-selection}{%
-\subsection{Graft selection}\label{graft-selection}}
+\section{Graft selection}\label{graft-selection}}
 
 \hypertarget{types}{%
-\subsubsection{Types}\label{types}}
+\subsection{Types}\label{types}}
 
 \begin{itemize}
 \tightlist
@@ -174,10 +174,10 @@
 \pagebreak
 
 \hypertarget{blood-transfusion}{%
-\section{Blood transfusion}\label{blood-transfusion}}
+\chapter{Blood transfusion}\label{blood-transfusion}}
 
 \hypertarget{indications}{%
-\subsection{Indications}\label{indications}}
+\section{Indications}\label{indications}}
 
 \begin{itemize}
 \tightlist
@@ -190,10 +190,10 @@
 \end{itemize}
 
 \hypertarget{complications}{%
-\subsection{Complications}\label{complications}}
+\section{Complications}\label{complications}}
 
 \hypertarget{single-transfusion}{%
-\subsubsection{Single transfusion}\label{single-transfusion}}
+\subsection{Single transfusion}\label{single-transfusion}}
 
 \begin{itemize}
 \tightlist
@@ -226,7 +226,7 @@
 \end{itemize}
 
 \hypertarget{massive-transfusion}{%
-\subsubsection{Massive transfusion}\label{massive-transfusion}}
+\subsection{Massive transfusion}\label{massive-transfusion}}
 
 \begin{itemize}
 \tightlist
@@ -243,7 +243,7 @@
 \end{itemize}
 
 \hypertarget{blood-blood-products}{%
-\subsection{Blood \& blood products}\label{blood-blood-products}}
+\section{Blood \& blood products}\label{blood-blood-products}}
 
 \begin{itemize}
 \tightlist
@@ -308,7 +308,7 @@
 \end{itemize}
 
 \hypertarget{clinical-factoids}{%
-\subsection{Clinical factoids}\label{clinical-factoids}}
+\section{Clinical factoids}\label{clinical-factoids}}
 
 \begin{itemize}
 \tightlist
@@ -321,17 +321,17 @@
 \pagebreak
 
 \hypertarget{burns}{%
-\section{Burns}\label{burns}}
+\chapter{Burns}\label{burns}}
 
 \hypertarget{mechanism-of-fluid-loss}{%
-\subsection{Mechanism of fluid loss}\label{mechanism-of-fluid-loss}}
+\section{Mechanism of fluid loss}\label{mechanism-of-fluid-loss}}
 
 Intense inflammation in burnt areas \(\rightarrow\;\;\uparrow\)
 permeability \(\rightarrow\) leakage of fluid into extravascular
 compartment
 
 \hypertarget{assessment}{%
-\subsection{Assessment}\label{assessment}}
+\section{Assessment}\label{assessment}}
 
 \begin{itemize}
 \tightlist
@@ -375,10 +375,10 @@ compartment
 \end{itemize}
 
 \hypertarget{fluid-resuscitation}{%
-\subsection{Fluid resuscitation}\label{fluid-resuscitation}}
+\section{Fluid resuscitation}\label{fluid-resuscitation}}
 
 \hypertarget{indications-1}{%
-\subsubsection{Indications}\label{indications-1}}
+\subsection{Indications}\label{indications-1}}
 
 \begin{itemize}
 \tightlist
@@ -396,7 +396,7 @@ compartment
 \end{itemize}
 
 \hypertarget{principles}{%
-\subsubsection{Principles}\label{principles}}
+\subsection{Principles}\label{principles}}
 
 \begin{itemize}
 \tightlist
@@ -424,10 +424,10 @@ compartment
 \end{itemize}
 
 \hypertarget{definitive-management}{%
-\subsection{Definitive management}\label{definitive-management}}
+\section{Definitive management}\label{definitive-management}}
 
 \hypertarget{superficial-partial-thickness-burns}{%
-\subsubsection{Superficial partial-thickness
+\subsection{Superficial partial-thickness
 burns}\label{superficial-partial-thickness-burns}}
 
 \begin{itemize}
@@ -440,7 +440,7 @@ burns}\label{superficial-partial-thickness-burns}}
 \end{itemize}
 
 \hypertarget{deep-partial-thicknessfull-thickness-burns}{%
-\subsubsection{Deep partial-thickness/full-thickness
+\subsection{Deep partial-thickness/full-thickness
 burns}\label{deep-partial-thicknessfull-thickness-burns}}
 
 \begin{itemize}
@@ -457,7 +457,7 @@ burns}\label{deep-partial-thicknessfull-thickness-burns}}
 \end{itemize}
 
 \hypertarget{nanocrystalline-silver-dressing}{%
-\subsubsection{Nanocrystalline silver
+\subsection{Nanocrystalline silver
 dressing}\label{nanocrystalline-silver-dressing}}
 
 \begin{itemize}
@@ -475,10 +475,10 @@ dressing}\label{nanocrystalline-silver-dressing}}
 \pagebreak
 
 \hypertarget{grafts-and-flaps}{%
-\section{Grafts and Flaps}\label{grafts-and-flaps}}
+\chapter{Grafts and Flaps}\label{grafts-and-flaps}}
 
 \hypertarget{graft}{%
-\subsection{Graft}\label{graft}}
+\section{Graft}\label{graft}}
 
 \begin{itemize}
 \tightlist
@@ -489,7 +489,7 @@ dressing}\label{nanocrystalline-silver-dressing}}
 \end{itemize}
 
 \hypertarget{types-of-skin-graft}{%
-\subsubsection{Types of skin graft}\label{types-of-skin-graft}}
+\subsection{Types of skin graft}\label{types-of-skin-graft}}
 
 \begin{itemize}
 \tightlist
@@ -502,7 +502,7 @@ dressing}\label{nanocrystalline-silver-dressing}}
 \end{itemize}
 
 \hypertarget{flap}{%
-\subsection{Flap}\label{flap}}
+\section{Flap}\label{flap}}
 
 \begin{itemize}
 \tightlist
@@ -511,7 +511,7 @@ dressing}\label{nanocrystalline-silver-dressing}}
 \end{itemize}
 
 \hypertarget{causes-of-graft-failure}{%
-\subsection{Causes of graft failure}\label{causes-of-graft-failure}}
+\section{Causes of graft failure}\label{causes-of-graft-failure}}
 
 \begin{itemize}
 \tightlist
@@ -546,7 +546,7 @@ dressing}\label{nanocrystalline-silver-dressing}}
 \pagebreak
 
 \hypertarget{important-anticancer-drugs}{%
-\section{Important anticancer drugs}\label{important-anticancer-drugs}}
+\chapter{Important anticancer drugs}\label{important-anticancer-drugs}}
 
 \begin{itemize}
 \tightlist
@@ -623,14 +623,14 @@ dressing}\label{nanocrystalline-silver-dressing}}
 \pagebreak
 
 \hypertarget{deadly-dozen-and-atls}{%
-\section{Deadly Dozen and ATLS}\label{deadly-dozen-and-atls}}
+\chapter{Deadly Dozen and ATLS}\label{deadly-dozen-and-atls}}
 
 \hypertarget{deadly-dozen-of-chest-injury}{%
-\subsection{``Deadly dozen'' of chest
+\section{``Deadly dozen'' of chest
 injury}\label{deadly-dozen-of-chest-injury}}
 
 \hypertarget{immediately-life-threatening}{%
-\subsubsection{Immediately life
+\subsection{Immediately life
 threatening}\label{immediately-life-threatening}}
 
 \emph{Manage in 1\(^\circ\) survey}
@@ -652,7 +652,7 @@ threatening}\label{immediately-life-threatening}}
 \end{itemize}
 
 \hypertarget{potentially-life-threatening}{%
-\subsubsection{Potentially life
+\subsection{Potentially life
 threatening}\label{potentially-life-threatening}}
 
 \emph{Manage in 2\(^\circ\) survey}
@@ -676,10 +676,10 @@ threatening}\label{potentially-life-threatening}}
 \pagebreak
 
 \hypertarget{lung-cancer}{%
-\section{Lung cancer}\label{lung-cancer}}
+\chapter{Lung cancer}\label{lung-cancer}}
 
 \hypertarget{types-1}{%
-\subsection{Types}\label{types-1}}
+\section{Types}\label{types-1}}
 
 \begin{itemize}
 \tightlist
@@ -702,7 +702,7 @@ threatening}\label{potentially-life-threatening}}
 \end{itemize}
 
 \hypertarget{features}{%
-\subsection{Features}\label{features}}
+\section{Features}\label{features}}
 
 \begin{itemize}
 \tightlist
@@ -748,10 +748,10 @@ threatening}\label{potentially-life-threatening}}
 \end{itemize}
 
 \hypertarget{investigations}{%
-\subsection{Investigations}\label{investigations}}
+\section{Investigations}\label{investigations}}
 
 \hypertarget{diagnostic}{%
-\subsubsection{Diagnostic}\label{diagnostic}}
+\subsection{Diagnostic}\label{diagnostic}}
 
 \begin{itemize}
 \tightlist
@@ -768,7 +768,7 @@ threatening}\label{potentially-life-threatening}}
 \end{itemize}
 
 \hypertarget{staging}{%
-\subsubsection{Staging}\label{staging}}
+\subsection{Staging}\label{staging}}
 
 \begin{itemize}
 \tightlist
@@ -783,7 +783,7 @@ threatening}\label{potentially-life-threatening}}
 \end{itemize}
 
 \hypertarget{treatment}{%
-\subsection{Treatment}\label{treatment}}
+\section{Treatment}\label{treatment}}
 
 \begin{itemize}
 \tightlist
@@ -836,10 +836,10 @@ threatening}\label{potentially-life-threatening}}
 \pagebreak
 
 \hypertarget{orthopaedics}{%
-\section{Orthopaedics}\label{orthopaedics}}
+\chapter{Orthopaedics}\label{orthopaedics}}
 
 \hypertarget{orthopaedic-emergencies}{%
-\subsection{Orthopaedic emergencies}\label{orthopaedic-emergencies}}
+\section{Orthopaedic emergencies}\label{orthopaedic-emergencies}}
 
 \emph{Open DESC}
 
@@ -870,18 +870,18 @@ threatening}\label{potentially-life-threatening}}
 \pagebreak
 
 \hypertarget{osteomyelitis}{%
-\subsection{Osteomyelitis}\label{osteomyelitis}}
+\section{Osteomyelitis}\label{osteomyelitis}}
 
 \hypertarget{types-2}{%
-\subsubsection{Types}\label{types-2}}
+\subsection{Types}\label{types-2}}
 
 According to duration, \emph{acute} and \emph{chronic}.
 
 \hypertarget{acute}{%
-\subsubsection{Acute}\label{acute}}
+\subsection{Acute}\label{acute}}
 
 \hypertarget{blacksquare-causative-organisms}{%
-\paragraph{\texorpdfstring{\(\blacksquare\) Causative
+\subsubsection{\texorpdfstring{\(\blacksquare\) Causative
 organisms}{\textbackslash blacksquare Causative organisms}}\label{blacksquare-causative-organisms}}
 
 \begin{itemize}
@@ -899,7 +899,7 @@ organisms}{\textbackslash blacksquare Causative organisms}}\label{blacksquare-ca
 \end{itemize}
 
 \hypertarget{blacksquare-clinical-features}{%
-\paragraph{\texorpdfstring{\(\blacksquare\) Clinical
+\subsubsection{\texorpdfstring{\(\blacksquare\) Clinical
 features}{\textbackslash blacksquare Clinical features}}\label{blacksquare-clinical-features}}
 
 \begin{itemize}
@@ -919,7 +919,7 @@ features}{\textbackslash blacksquare Clinical features}}\label{blacksquare-clini
 \end{itemize}
 
 \hypertarget{blacksquare-radiology}{%
-\paragraph{\texorpdfstring{\(\blacksquare\)
+\subsubsection{\texorpdfstring{\(\blacksquare\)
 Radiology}{\textbackslash blacksquare Radiology}}\label{blacksquare-radiology}}
 
 \begin{itemize}
@@ -969,10 +969,10 @@ Radiology}{\textbackslash blacksquare Radiology}}\label{blacksquare-radiology}}
 \end{itemize}
 
 \hypertarget{chronic}{%
-\subsubsection{Chronic}\label{chronic}}
+\subsection{Chronic}\label{chronic}}
 
 \hypertarget{blacksquare-causative-organisms-1}{%
-\paragraph{\texorpdfstring{\(\blacksquare\) Causative
+\subsubsection{\texorpdfstring{\(\blacksquare\) Causative
 organisms}{\textbackslash blacksquare Causative organisms}}\label{blacksquare-causative-organisms-1}}
 
 \begin{itemize}
@@ -988,7 +988,7 @@ organisms}{\textbackslash blacksquare Causative organisms}}\label{blacksquare-ca
 \end{itemize}
 
 \hypertarget{blacksquare-clinical-features-1}{%
-\paragraph{\texorpdfstring{\(\blacksquare\) Clinical
+\subsubsection{\texorpdfstring{\(\blacksquare\) Clinical
 features}{\textbackslash blacksquare Clinical features}}\label{blacksquare-clinical-features-1}}
 
 \begin{itemize}
@@ -1031,7 +1031,7 @@ features}{\textbackslash blacksquare Clinical features}}\label{blacksquare-clini
 \end{itemize}
 
 \hypertarget{blacksquare-radiology-1}{%
-\paragraph{\texorpdfstring{\(\blacksquare\)
+\subsubsection{\texorpdfstring{\(\blacksquare\)
 Radiology}{\textbackslash blacksquare Radiology}}\label{blacksquare-radiology-1}}
 
 \begin{itemize}
@@ -1047,14 +1047,14 @@ Radiology}{\textbackslash blacksquare Radiology}}\label{blacksquare-radiology-1}
 \end{itemize}
 
 \hypertarget{blacksquare-management}{%
-\paragraph{\texorpdfstring{\(\blacksquare\)
+\subsubsection{\texorpdfstring{\(\blacksquare\)
 Management}{\textbackslash blacksquare Management}}\label{blacksquare-management}}
 
 \textbf{Sequestrectomy and saucerization} followed by \textbf{antibiotic
 therapy for 6 wks} according to C/S report of pus
 
 \hypertarget{complications-of-osteomyelitis}{%
-\subsubsection{Complications of
+\subsection{Complications of
 osteomyelitis}\label{complications-of-osteomyelitis}}
 
 \begin{itemize}
@@ -1074,11 +1074,11 @@ osteomyelitis}\label{complications-of-osteomyelitis}}
 \pagebreak
 
 \hypertarget{congenital-clubfoot-talipes-equinovarus}{%
-\subsection{Congenital clubfoot / talipes
+\section{Congenital clubfoot / talipes
 equinovarus}\label{congenital-clubfoot-talipes-equinovarus}}
 
 \hypertarget{terminology}{%
-\subsubsection{Terminology}\label{terminology}}
+\subsection{Terminology}\label{terminology}}
 
 \begin{itemize}
 \tightlist
@@ -1095,7 +1095,7 @@ equinovarus}\label{congenital-clubfoot-talipes-equinovarus}}
 \end{itemize}
 
 \hypertarget{deformities-in-congenital-clubfoot}{%
-\subsubsection{Deformities in Congenital
+\subsection{Deformities in Congenital
 Clubfoot}\label{deformities-in-congenital-clubfoot}}
 
 \textbf{CAVE}
@@ -1119,10 +1119,10 @@ Clubfoot}\label{deformities-in-congenital-clubfoot}}
 \end{itemize}
 
 \hypertarget{treatment-1}{%
-\subsubsection{Treatment}\label{treatment-1}}
+\subsection{Treatment}\label{treatment-1}}
 
 \hypertarget{bullet-conservative-ignacio-ponceti-method}{%
-\paragraph{\texorpdfstring{\(\bullet\) Conservative: Ignacio Ponceti
+\subsubsection{\texorpdfstring{\(\bullet\) Conservative: Ignacio Ponceti
 method}{\textbackslash bullet Conservative: Ignacio Ponceti method}}\label{bullet-conservative-ignacio-ponceti-method}}
 
 \begin{itemize}
@@ -1132,7 +1132,7 @@ method}{\textbackslash bullet Conservative: Ignacio Ponceti method}}\label{bulle
 \end{itemize}
 
 \hypertarget{bullet-surgical-pmr-postero-medial-release}{%
-\paragraph{\texorpdfstring{\(\bullet\) Surgical: PMR (postero-medial
+\subsubsection{\texorpdfstring{\(\bullet\) Surgical: PMR (postero-medial
 release)}{\textbackslash bullet Surgical: PMR (postero-medial release)}}\label{bullet-surgical-pmr-postero-medial-release}}
 
 \begin{itemize}
@@ -1144,10 +1144,10 @@ release)}{\textbackslash bullet Surgical: PMR (postero-medial release)}}\label{b
 \pagebreak
 
 \hypertarget{low-back-pain-lbp}{%
-\subsection{Low Back Pain (LBP)}\label{low-back-pain-lbp}}
+\section{Low Back Pain (LBP)}\label{low-back-pain-lbp}}
 
 \hypertarget{causes}{%
-\subsubsection{Causes}\label{causes}}
+\subsection{Causes}\label{causes}}
 
 \begin{itemize}
 \item
@@ -1229,7 +1229,7 @@ release)}{\textbackslash bullet Surgical: PMR (postero-medial release)}}\label{b
 \end{itemize}
 
 \hypertarget{investigations-1}{%
-\subsubsection{Investigations}\label{investigations-1}}
+\subsection{Investigations}\label{investigations-1}}
 
 \begin{itemize}
 \tightlist
@@ -1268,10 +1268,10 @@ release)}{\textbackslash bullet Surgical: PMR (postero-medial release)}}\label{b
 \pagebreak
 
 \hypertarget{breast-cancer}{%
-\section{Breast cancer}\label{breast-cancer}}
+\chapter{Breast cancer}\label{breast-cancer}}
 
 \hypertarget{aetiology}{%
-\subsection{Aetiology}\label{aetiology}}
+\section{Aetiology}\label{aetiology}}
 
 \begin{itemize}
 \tightlist
@@ -1328,7 +1328,7 @@ release)}{\textbackslash bullet Surgical: PMR (postero-medial release)}}\label{b
 \end{itemize}
 
 \hypertarget{features-1}{%
-\subsection{Features}\label{features-1}}
+\section{Features}\label{features-1}}
 
 \begin{itemize}
 \tightlist
@@ -1367,7 +1367,7 @@ release)}{\textbackslash bullet Surgical: PMR (postero-medial release)}}\label{b
 \end{itemize}
 
 \hypertarget{staging-1}{%
-\subsection{Staging}\label{staging-1}}
+\section{Staging}\label{staging-1}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -1379,7 +1379,7 @@ release)}{\textbackslash bullet Surgical: PMR (postero-medial release)}}\label{b
 \end{enumerate}
 
 \hypertarget{tnm}{%
-\subsubsection{TNM}\label{tnm}}
+\subsection{TNM}\label{tnm}}
 
 \begin{itemize}
 \tightlist
@@ -1424,7 +1424,7 @@ release)}{\textbackslash bullet Surgical: PMR (postero-medial release)}}\label{b
 \end{itemize}
 
 \hypertarget{manchester}{%
-\subsubsection{Manchester}\label{manchester}}
+\subsection{Manchester}\label{manchester}}
 
 \begin{itemize}
 \tightlist
@@ -1441,10 +1441,10 @@ release)}{\textbackslash bullet Surgical: PMR (postero-medial release)}}\label{b
 \end{itemize}
 
 \hypertarget{treatment-2}{%
-\subsection{Treatment}\label{treatment-2}}
+\section{Treatment}\label{treatment-2}}
 
 \hypertarget{options}{%
-\subsubsection{Options}\label{options}}
+\subsection{Options}\label{options}}
 
 \begin{itemize}
 \tightlist
@@ -1491,7 +1491,7 @@ release)}{\textbackslash bullet Surgical: PMR (postero-medial release)}}\label{b
 \end{itemize}
 
 \hypertarget{protocol}{%
-\subsubsection{Protocol}\label{protocol}}
+\subsection{Protocol}\label{protocol}}
 
 \begin{itemize}
 \tightlist
@@ -1530,15 +1530,15 @@ release)}{\textbackslash bullet Surgical: PMR (postero-medial release)}}\label{b
 \pagebreak
 
 \hypertarget{random-ish-general-surgery-concepts}{%
-\section{Random-ish general surgery
+\chapter{Random-ish general surgery
 concepts}\label{random-ish-general-surgery-concepts}}
 
 \hypertarget{sepsis-sirs-mods-msof}{%
-\subsection{Sepsis, SIRS, MODS, MSOF}\label{sepsis-sirs-mods-msof}}
+\section{Sepsis, SIRS, MODS, MSOF}\label{sepsis-sirs-mods-msof}}
 
 \hypertarget{blacksquare-sirs-systemic-inflammatory-response-syndrome}{%
-\subsubsection{\texorpdfstring{\(\blacksquare\) SIRS (Systemic
-inflammatory response
+\subsection{\texorpdfstring{\(\blacksquare\) SIRS (Systemic inflammatory
+response
 syndrome)}{\textbackslash blacksquare SIRS (Systemic inflammatory response syndrome)}}\label{blacksquare-sirs-systemic-inflammatory-response-syndrome}}
 
 \begin{itemize}
@@ -1573,7 +1573,7 @@ syndrome)}{\textbackslash blacksquare SIRS (Systemic inflammatory response syndr
 \end{itemize}
 
 \hypertarget{blacksquare-sepsis}{%
-\subsubsection{\texorpdfstring{\(\blacksquare\)
+\subsection{\texorpdfstring{\(\blacksquare\)
 Sepsis}{\textbackslash blacksquare Sepsis}}\label{blacksquare-sepsis}}
 
 \begin{itemize}
@@ -1583,7 +1583,7 @@ Sepsis}{\textbackslash blacksquare Sepsis}}\label{blacksquare-sepsis}}
 \end{itemize}
 
 \hypertarget{blacksquare-mods-multiple-organ-dysfunction-syndrome}{%
-\subsubsection{\texorpdfstring{\(\blacksquare\) MODS (Multiple organ
+\subsection{\texorpdfstring{\(\blacksquare\) MODS (Multiple organ
 dysfunction
 syndrome)}{\textbackslash blacksquare MODS (Multiple organ dysfunction syndrome)}}\label{blacksquare-mods-multiple-organ-dysfunction-syndrome}}
 
@@ -1594,8 +1594,7 @@ syndrome)}{\textbackslash blacksquare MODS (Multiple organ dysfunction syndrome)
 \end{itemize}
 
 \hypertarget{blacksquare-msof-multiple-system-organ-failure}{%
-\subsubsection{\texorpdfstring{\(\blacksquare\) MSOF (Multiple system
-organ
+\subsection{\texorpdfstring{\(\blacksquare\) MSOF (Multiple system organ
 failure)}{\textbackslash blacksquare MSOF (Multiple system organ failure)}}\label{blacksquare-msof-multiple-system-organ-failure}}
 
 \begin{itemize}
@@ -1619,15 +1618,15 @@ failure)}{\textbackslash blacksquare MSOF (Multiple system organ failure)}}\labe
 \end{itemize}
 
 \hypertarget{haemorrhage}{%
-\subsection{Haemorrhage}\label{haemorrhage}}
+\section{Haemorrhage}\label{haemorrhage}}
 
 \hypertarget{bullet-1circ-occurs-immediately-due-to-injurysurgery.}{%
-\subsubsection{\texorpdfstring{\(\bullet\; 1^\circ\): Occurs immediately
+\subsection{\texorpdfstring{\(\bullet\; 1^\circ\): Occurs immediately
 due to
 injury/surgery.}{\textbackslash bullet\textbackslash; 1\^{}\textbackslash circ: Occurs immediately due to injury/surgery.}}\label{bullet-1circ-occurs-immediately-due-to-injurysurgery.}}
 
 \hypertarget{bullet-reactionary-within-24h}{%
-\subsubsection{\texorpdfstring{\(\bullet\) Reactionary: Within
+\subsection{\texorpdfstring{\(\bullet\) Reactionary: Within
 24h}{\textbackslash bullet Reactionary: Within 24h}}\label{bullet-reactionary-within-24h}}
 
 \begin{itemize}
@@ -1646,7 +1645,7 @@ injury/surgery.}{\textbackslash bullet\textbackslash; 1\^{}\textbackslash circ: 
 \end{itemize}
 
 \hypertarget{bullet-2circ-within-7-14d}{%
-\subsubsection{\texorpdfstring{\(\bullet\; 2^\circ\): Within
+\subsection{\texorpdfstring{\(\bullet\; 2^\circ\): Within
 7-14d}{\textbackslash bullet\textbackslash; 2\^{}\textbackslash circ: Within 7-14d}}\label{bullet-2circ-within-7-14d}}
 
 \begin{itemize}
@@ -1672,7 +1671,7 @@ injury/surgery.}{\textbackslash bullet\textbackslash; 1\^{}\textbackslash circ: 
 \end{itemize}
 
 \hypertarget{bullet-principles-of-haemorrhage-control}{%
-\subsubsection{\texorpdfstring{\(\bullet\) Principles of haemorrhage
+\subsection{\texorpdfstring{\(\bullet\) Principles of haemorrhage
 control}{\textbackslash bullet Principles of haemorrhage control}}\label{bullet-principles-of-haemorrhage-control}}
 
 \begin{itemize}
@@ -1690,11 +1689,11 @@ control}{\textbackslash bullet Principles of haemorrhage control}}\label{bullet-
 \end{itemize}
 
 \hypertarget{incisions-in-abdominal-surgery}{%
-\subsection{Incisions in abdominal
+\section{Incisions in abdominal
 surgery}\label{incisions-in-abdominal-surgery}}
 
 \hypertarget{blacksquare-upper-midline}{%
-\subsubsection{\texorpdfstring{\(\blacksquare\) Upper
+\subsection{\texorpdfstring{\(\blacksquare\) Upper
 midline}{\textbackslash blacksquare Upper midline}}\label{blacksquare-upper-midline}}
 
 \begin{itemize}
@@ -1744,7 +1743,7 @@ midline}{\textbackslash blacksquare Upper midline}}\label{blacksquare-upper-midl
 \end{itemize}
 
 \hypertarget{blacksquare-kocher-right-subcostal}{%
-\subsubsection{\texorpdfstring{\(\blacksquare\) Kocher / right
+\subsection{\texorpdfstring{\(\blacksquare\) Kocher / right
 subcostal}{\textbackslash blacksquare Kocher / right subcostal}}\label{blacksquare-kocher-right-subcostal}}
 
 \begin{itemize}
@@ -1761,7 +1760,7 @@ subcostal}{\textbackslash blacksquare Kocher / right subcostal}}\label{blacksqua
 \end{itemize}
 
 \hypertarget{blacksquare-pfannenstiel}{%
-\subsubsection{\texorpdfstring{\(\blacksquare\)
+\subsection{\texorpdfstring{\(\blacksquare\)
 Pfannenstiel}{\textbackslash blacksquare Pfannenstiel}}\label{blacksquare-pfannenstiel}}
 
 \begin{itemize}
@@ -1786,15 +1785,15 @@ Pfannenstiel}{\textbackslash blacksquare Pfannenstiel}}\label{blacksquare-pfanne
 \pagebreak
 
 \hypertarget{vascular-surgery}{%
-\section{Vascular surgery}\label{vascular-surgery}}
+\chapter{Vascular surgery}\label{vascular-surgery}}
 
 \hypertarget{deep-vein-thrombosis-dvt}{%
-\subsection{Deep Vein Thrombosis (DVT)}\label{deep-vein-thrombosis-dvt}}
+\section{Deep Vein Thrombosis (DVT)}\label{deep-vein-thrombosis-dvt}}
 
 Formation of semisolid coagulum in a deep vein.
 
 \hypertarget{virchows-triad}{%
-\subsubsection{Virchow's triad}\label{virchows-triad}}
+\subsection{Virchow's triad}\label{virchows-triad}}
 
 \begin{itemize}
 \tightlist
@@ -1807,7 +1806,7 @@ Formation of semisolid coagulum in a deep vein.
 \end{itemize}
 
 \hypertarget{factors}{%
-\subsubsection{Factors}\label{factors}}
+\subsection{Factors}\label{factors}}
 
 \begin{itemize}
 \tightlist
@@ -1838,7 +1837,7 @@ Formation of semisolid coagulum in a deep vein.
 \end{itemize}
 
 \hypertarget{common-sites}{%
-\subsubsection{Common sites}\label{common-sites}}
+\subsection{Common sites}\label{common-sites}}
 
 \begin{itemize}
 \tightlist
@@ -1851,7 +1850,7 @@ Formation of semisolid coagulum in a deep vein.
 \end{itemize}
 
 \hypertarget{prevention}{%
-\subsubsection{Prevention}\label{prevention}}
+\subsection{Prevention}\label{prevention}}
 
 \begin{itemize}
 \tightlist
@@ -1872,12 +1871,12 @@ Formation of semisolid coagulum in a deep vein.
 \pagebreak
 
 \hypertarget{ischaemic-limb}{%
-\subsection{Ischaemic limb}\label{ischaemic-limb}}
+\section{Ischaemic limb}\label{ischaemic-limb}}
 
 (Ischaemia = reduced blood flow, NOT cell death)
 
 \hypertarget{features-2}{%
-\subsubsection{Features}\label{features-2}}
+\subsection{Features}\label{features-2}}
 
 \begin{itemize}
 \tightlist
@@ -1931,10 +1930,10 @@ Formation of semisolid coagulum in a deep vein.
 \end{itemize}
 
 \hypertarget{investigations-2}{%
-\subsubsection{Investigations}\label{investigations-2}}
+\subsection{Investigations}\label{investigations-2}}
 
 \hypertarget{blacksquare-specific}{%
-\paragraph{\texorpdfstring{\(\blacksquare\)
+\subsubsection{\texorpdfstring{\(\blacksquare\)
 Specific}{\textbackslash blacksquare Specific}}\label{blacksquare-specific}}
 
 \begin{itemize}
@@ -1958,7 +1957,7 @@ Specific}{\textbackslash blacksquare Specific}}\label{blacksquare-specific}}
 \end{itemize}
 
 \hypertarget{blacksquare-general}{%
-\paragraph{\texorpdfstring{\(\blacksquare\)
+\subsubsection{\texorpdfstring{\(\blacksquare\)
 General}{\textbackslash blacksquare General}}\label{blacksquare-general}}
 
 \begin{itemize}
@@ -1974,10 +1973,10 @@ General}{\textbackslash blacksquare General}}\label{blacksquare-general}}
 \end{itemize}
 
 \hypertarget{treatment-3}{%
-\subsubsection{Treatment}\label{treatment-3}}
+\subsection{Treatment}\label{treatment-3}}
 
 \hypertarget{blacksquare-non-surgical}{%
-\paragraph{\texorpdfstring{\(\blacksquare\)
+\subsubsection{\texorpdfstring{\(\blacksquare\)
 Non-surgical}{\textbackslash blacksquare Non-surgical}}\label{blacksquare-non-surgical}}
 
 \begin{itemize}
@@ -2006,7 +2005,7 @@ Non-surgical}{\textbackslash blacksquare Non-surgical}}\label{blacksquare-non-su
 \end{itemize}
 
 \hypertarget{blacksquare-surgical}{%
-\paragraph{\texorpdfstring{\(\blacksquare\)
+\subsubsection{\texorpdfstring{\(\blacksquare\)
 Surgical}{\textbackslash blacksquare Surgical}}\label{blacksquare-surgical}}
 
 \begin{itemize}
@@ -2018,10 +2017,10 @@ Surgical}{\textbackslash blacksquare Surgical}}\label{blacksquare-surgical}}
 \pagebreak
 
 \hypertarget{varicose-veins}{%
-\subsection{Varicose veins}\label{varicose-veins}}
+\section{Varicose veins}\label{varicose-veins}}
 
 \hypertarget{management-principles}{%
-\subsubsection{Management principles}\label{management-principles}}
+\subsection{Management principles}\label{management-principles}}
 
 \begin{itemize}
 \tightlist
@@ -2061,10 +2060,10 @@ Surgical}{\textbackslash blacksquare Surgical}}\label{blacksquare-surgical}}
 \pagebreak
 
 \hypertarget{splenectomy}{%
-\section{Splenectomy}\label{splenectomy}}
+\chapter{Splenectomy}\label{splenectomy}}
 
 \hypertarget{indications-2}{%
-\subsection{Indications}\label{indications-2}}
+\section{Indications}\label{indications-2}}
 
 (\emph{Indications marked with \(\star\) are absolute indications})
 
@@ -2098,10 +2097,10 @@ Surgical}{\textbackslash blacksquare Surgical}}\label{blacksquare-surgical}}
 \pagebreak
 
 \hypertarget{urology}{%
-\section{Urology}\label{urology}}
+\chapter{Urology}\label{urology}}
 
 \hypertarget{luts-lower-urinary-tract-symptoms}{%
-\subsection{LUTS (lower urinary tract
+\section{LUTS (lower urinary tract
 symptoms)}\label{luts-lower-urinary-tract-symptoms}}
 
 \begin{itemize}
@@ -2150,10 +2149,10 @@ symptoms)}\label{luts-lower-urinary-tract-symptoms}}
 \pagebreak
 
 \hypertarget{renal-stones}{%
-\subsection{Renal stones}\label{renal-stones}}
+\section{Renal stones}\label{renal-stones}}
 
 \hypertarget{features-3}{%
-\subsubsection{Features}\label{features-3}}
+\subsection{Features}\label{features-3}}
 
 \begin{itemize}
 \tightlist
@@ -2194,7 +2193,7 @@ symptoms)}\label{luts-lower-urinary-tract-symptoms}}
 \end{itemize}
 
 \hypertarget{investigations-3}{%
-\subsubsection{Investigations}\label{investigations-3}}
+\subsection{Investigations}\label{investigations-3}}
 
 \begin{itemize}
 \tightlist
@@ -2209,7 +2208,7 @@ symptoms)}\label{luts-lower-urinary-tract-symptoms}}
 \end{itemize}
 
 \hypertarget{treatment-4}{%
-\subsubsection{Treatment}\label{treatment-4}}
+\subsection{Treatment}\label{treatment-4}}
 
 \begin{itemize}
 \tightlist
@@ -2291,10 +2290,10 @@ symptoms)}\label{luts-lower-urinary-tract-symptoms}}
 \pagebreak
 
 \hypertarget{bladder-stones}{%
-\subsection{Bladder stones}\label{bladder-stones}}
+\section{Bladder stones}\label{bladder-stones}}
 
 \hypertarget{features-4}{%
-\subsubsection{Features}\label{features-4}}
+\subsection{Features}\label{features-4}}
 
 \begin{itemize}
 \tightlist
@@ -2321,10 +2320,10 @@ symptoms)}\label{luts-lower-urinary-tract-symptoms}}
 \end{itemize}
 
 \hypertarget{investigations-usual}{%
-\subsubsection{Investigations: usual}\label{investigations-usual}}
+\subsection{Investigations: usual}\label{investigations-usual}}
 
 \hypertarget{treatment-5}{%
-\subsubsection{Treatment}\label{treatment-5}}
+\subsection{Treatment}\label{treatment-5}}
 
 \begin{itemize}
 \item
@@ -2338,10 +2337,10 @@ symptoms)}\label{luts-lower-urinary-tract-symptoms}}
 \pagebreak
 
 \hypertarget{ruptured-urethra}{%
-\subsection{Ruptured urethra}\label{ruptured-urethra}}
+\section{Ruptured urethra}\label{ruptured-urethra}}
 
 \hypertarget{features-5}{%
-\subsubsection{Features}\label{features-5}}
+\subsection{Features}\label{features-5}}
 
 \begin{itemize}
 \tightlist
@@ -2356,7 +2355,7 @@ symptoms)}\label{luts-lower-urinary-tract-symptoms}}
 \end{itemize}
 
 \hypertarget{investigations-4}{%
-\subsubsection{Investigations}\label{investigations-4}}
+\subsection{Investigations}\label{investigations-4}}
 
 Confirmed by \textbf{urethrography} with water-soluble contrast
 
@@ -2368,7 +2367,7 @@ Confirmed by \textbf{urethrography} with water-soluble contrast
 \end{itemize}
 
 \hypertarget{management}{%
-\subsubsection{Management}\label{management}}
+\subsection{Management}\label{management}}
 
 \begin{itemize}
 \tightlist
@@ -2387,10 +2386,10 @@ Confirmed by \textbf{urethrography} with water-soluble contrast
 \pagebreak
 
 \hypertarget{bladder-cancer}{%
-\subsection{Bladder cancer}\label{bladder-cancer}}
+\section{Bladder cancer}\label{bladder-cancer}}
 
 \hypertarget{painless-haematuria-in-60yo-male}{%
-\subsubsection{Painless haematuria in 60yo
+\subsection{Painless haematuria in 60yo
 male}\label{painless-haematuria-in-60yo-male}}
 
 \textbf{4T}
@@ -2415,7 +2414,7 @@ male}\label{painless-haematuria-in-60yo-male}}
 \end{itemize}
 
 \hypertarget{features-6}{%
-\subsubsection{Features}\label{features-6}}
+\subsection{Features}\label{features-6}}
 
 \begin{itemize}
 \tightlist
@@ -2443,7 +2442,7 @@ male}\label{painless-haematuria-in-60yo-male}}
 \end{itemize}
 
 \hypertarget{investigations-5}{%
-\subsubsection{Investigations}\label{investigations-5}}
+\subsection{Investigations}\label{investigations-5}}
 
 \begin{itemize}
 \tightlist
@@ -2458,7 +2457,7 @@ male}\label{painless-haematuria-in-60yo-male}}
 \end{itemize}
 
 \hypertarget{treatment-6}{%
-\subsubsection{Treatment}\label{treatment-6}}
+\subsection{Treatment}\label{treatment-6}}
 
 \begin{itemize}
 \tightlist
@@ -2491,4 +2490,5 @@ male}\label{painless-haematuria-in-60yo-male}}
   \end{itemize}
 \end{itemize}
 
+\backmatter
 \end{document}
