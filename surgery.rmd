@@ -807,17 +807,17 @@ Formation of semisolid coagulum in a deep vein.
 
 # Urology
 ## LUTS (lower urinary tract symptoms)
-- **$\fbox{Storage symptoms}$**: FUN
+- **\fbox{Storage symptoms}**: FUN
 	- Frequency
 	- Urgency
 	- Urge incontinence
 	- Nocturia
-- **$\fbox{Voiding symptoms}$**: IHPS
+- **\fbox{Voiding symptoms}**: IHPS
 	- Intermittency
 	- Hesitancy
 	- Poor stream (reduced stream)
 	- Straining (muscular effort to initiate maintain or improve urinary flow)
-- $\fbox{Post-micturitional symptoms}
+- **\fbox{Post-micturitional symptoms}**
 	- Incomplete emptying
 	- Post-mic dribble
 
