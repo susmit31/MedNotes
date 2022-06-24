@@ -1115,7 +1115,7 @@ Confirmed by **urethrography** with water-soluble contrast
 	
 \pagebreak
 
-# GIT
+# GIT, hepatobiliary, pancreas
 ## Acute Pancreatitis
 ### Causes
 - Gallstone
@@ -1175,3 +1175,75 @@ Confirmed by **urethrography** with water-soluble contrast
 	- Invasive monitoring of vitals, CVP, blood glucose
 	- ERCP within 72h if severe gallstone pancreatitis/signs of cholangitis
 
+### Complis
+- Systemic (mostly manifest within the 1st wk)
+	- CVS: Shock
+	- Haemato: DIC
+	- Resp: ARDS
+	- Renal: Acute renal failure
+	- Metabolic:
+		- Hypo-Ca
+		- Hyperglycaemia
+		- Hyperlipidaemia
+- Local (usually occur after the 1st wk)
+	- Pseudocyst
+	- Abscess
+	- Pancreatic necrosis
+	- Peripancreatic fluid collection
+	- Pancreatic ascites
+	- Pleural effusion
+	- Portal/splenic vein thrombosis
+
+\pagebreak
+
+## Pancreatic pseudocyst
+### Definition
+Collection of amylase-rich fluid enclosed by a wall of fibrous/granulation
+ tissue.
+
+### Diagnosis
+- History of recent pancreatitis ($\ge$ 4wks)
+- USG
+- CT
+- FNA of fluid under EUS guidance and measurement of
+	- CEA
+	- amylase
+	- cytology
+- Differentiating from cystic neoplasm:
+	- history
+	- appearance in US, CT
+	- Aspiration:
+		- CEA: $\uparrow$ in tumour
+		- Amylase: $\uparrow$ in pseudocyst
+		- Cytology: inflammatory cells in pseudocyst
+
+
+\pagebreak
+
+
+## Chronic pancreatitis
+- Mostly due to chronic alcoholism
+### Features
+- Pain
+	- may radiate to back
+	- dull, gnawing
+- Nausea, vomiting
+- Wt loss (due to anorexia)
+- Steatorrhoea
+- Symptoms of DM
+
+### Investigations
+- Serum amylase: $\uparrow$ in early stg
+- X-ray abdomen, CT: calcifications
+- CT, MRI
+- MRCP: identify biliary obstruction, condition of pancreatic duct
+- ERCP
+
+### Treatment
+- Relieve pain
+- Cure addiction
+- Diet: low fat, high protein & carb
+- Fat-soluble vitamin supplementation
+- Pancreatic enzymes supplementation
+- Insulin therapy
+- Steroid for autoimmune pancreatitis
