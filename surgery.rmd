@@ -854,3 +854,25 @@ Formation of semisolid coagulum in a deep vein.
 		- Nephrolithotomy
 		- Pyelolithotomy
 		- Ureterolithotomy
+
+\pagebreak
+
+## Bladder stones
+### Features
+- 8x more common in males
+- Asymptomatic
+- Frequency
+- Sense of incomplete voiding
+- Pain (strangury)
+	- at the end of micturition
+	- referred to the tip of the penis or the labia majora
+- Haematuria: terminal, few drops, bright red
+
+### Investigations: usual
+
+### Treatment
+$\blacksquare$ Perurethral litholapaxy
+
+$\blacksquare$ Percutaneous suprapubic litholapaxy
+
+$\blacksquare$ Suprapubic cystolithotomy
