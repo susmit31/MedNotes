@@ -1253,6 +1253,7 @@ Collection of amylase-rich fluid enclosed by a wall of fibrous/granulation
 
 ## Chronic pancreatitis
 - Mostly due to chronic alcoholism
+
 ### Features
 - Pain
 	- may radiate to back
