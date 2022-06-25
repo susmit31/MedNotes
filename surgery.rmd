@@ -95,6 +95,20 @@ warm skin**
 - **neurogenic shock $\rightarrow$ loss of baroreflex response $\rightarrow$
 bradycardia**
 
+## Sequelae of shock
+- **Unresuscitable shock**
+	- unresponsive to therapy
+	- compensatory abilities lost due to cell death caused by prolonged
+	 ischaemia
+	- death inevitable
+
+- **Multi organ failure**
+	-  $\ge$ 2 failed organ systems
+	- Cardiac: failure
+	- Lung: ARDS
+	- Kidney: Acute renal insufficiency
+	- Clotting: DIC
+
 ## Pathogenesis of Septic Shock
 \includegraphics[width=0.9\textwidth]{septicshock.jpg}
 \pagebreak
