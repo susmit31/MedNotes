@@ -839,6 +839,29 @@ Formation of semisolid coagulum in a deep vein.
 	
 \pagebreak
 
+## Peripheral Artery Disease (PAD)
+### 6Ps of PAD
+- Pain
+- Paraesthesia
+- Pulselessness
+- Pallor
+- Paralysis
+- Polar (cold)
+
+### PAD vs PVD
+- P**A**D relieved by h**a**nging the limb down, P**V**D relieved by
+ ele**v**ating the limb up.
+
+### Investigations
+- ABPI: ankle-brachial pressure index
+	-  <0.9 indicates PAD
+- Doppler
+- Duplex
+- DSA
+- CTA, MRA
+
+\pagebreak
+
 ## Varicose veins
 ### Management principles
 - Avoid prolonged standing
