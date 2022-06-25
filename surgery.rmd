@@ -110,7 +110,7 @@ bradycardia**
 	- Clotting: DIC
 
 ## Pathogenesis of Septic Shock
-\includegraphics[width=0.8\textwidth]{septicshock.jpg}
+\includegraphics[width=0.6\textwidth]{septicshock.jpg}
 \pagebreak
 
 ## Pathogenesis of Anaphylactic Shock
