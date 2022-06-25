@@ -131,6 +131,7 @@ Allergen \\
 \end{center}
 
 ## Management principles
+- **Maintenance of ABC**
 - **Monitor**
 	- Minimum: **ECG, BP, pulse oximetry, urine output**
 	- Additional:
