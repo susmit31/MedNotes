@@ -904,7 +904,7 @@ Formation of semisolid coagulum in a deep vein.
 ## Indications
 (_Indications marked with $\star$ are absolute indications_)
 
-- Traumatic rupture $\star$
+- Traumatic rupture with unsalvageable spleen $\star$
 - Splenic tumours (primary or secondary) $\star$
 - Bleeding varices due to splenic vein thrombosis $\star$
 - Hereditary spherocytosis $\star$
