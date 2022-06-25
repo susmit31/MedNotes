@@ -140,6 +140,7 @@ Allergen \\
 		- Base deficit
 		- Serum lactate
 - **Resuscitate**
+- Haemorrhagic $\rightarrow$ blood trasnfusion
 - Cardiogenic $\rightarrow$ inotropes (e.g. dobutamine)
 - Anaphylactic $\rightarrow$ epinephrine
 - Septic $\rightarrow$
