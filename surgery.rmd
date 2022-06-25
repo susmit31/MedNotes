@@ -1314,3 +1314,19 @@ $\downarrow$ \\
 $\downarrow$ \\
 \fbox{Aggregation of crystals to form stone}
 \end{center}
+
+\pagebreak
+
+## Carcinoma head of the pancreas
+### Treatment options
+- **Whipple's**: 
+	- in resectable cases
+	- pancreaticoduodenectomy
+- **Palliative**:
+	- unresectable cases
+	- if detected to be unresectable during laparotomy to do Whipple's
+	 then choledochoenterostomy to relieve jaundice
+	- if detected by imaging, dilate by ERCP to relieve jaundice
+	- enzyme replacement
+	- treatment of DM
+	- chemotherapy
