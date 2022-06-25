@@ -1278,3 +1278,39 @@ Collection of amylase-rich fluid enclosed by a wall of fibrous/granulation
 - Pancreatic enzymes supplementation
 - Insulin therapy
 - Steroid for autoimmune pancreatitis
+
+\pagebreak
+
+## Gallstones
+### Types
+- Cholesterol: more common in USA
+- Pigment: more common in BD
+	- Black: haemolysis
+	- Brown: bile stasis
+- Mixed
+
+### Factors
+- **Supersaturated bile**: female fair fatty forty fertile
+	- Age: Forty (>40y)
+	- Sex: Female
+	- Fatty (obese)
+	- Fair-skinned
+	- OCP
+	- Diet: Fat high, fibre low
+- **Impaired GB function**
+- **Cholesterol nucleating factors**
+- **Enterohepatic circulation of bile**
+	- ileal resection $\rightarrow\; \;\downarrow$ enterohepatic
+	 circulation $\rightarrow$ depletion of bile pool $\rightarrow$
+	 increased cholesterol with respect to bile $\rightarrow$ supersaturation
+
+### Pathogenesis
+\begin{center}
+\fbox{Supersaturated bile from above factors} \\
+$\downarrow$ \\
+\fbox{Unstable phospholipid vesicles} \\
+$\downarrow$ \\
+\fbox{Nucleation of cholesterol monohydrate crystal} \\
+$\downarrow$ \\
+\fbox{Aggregation of crystals to form stone}
+\end{center}
