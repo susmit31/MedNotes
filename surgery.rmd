@@ -196,6 +196,13 @@ Intense inflammation in burnt areas $\rightarrow\;\;\uparrow$ permeability
 - For smaller burns, a piece of paper about the size of the hand to measure 
 the burnt area directly. Size of hand $\approx$ 1%.
 
+## Criteria for admission
+- Suspected inhalation injury / airway injury
+- Any burn likely to require surgery
+- Any burns in the extremes of age
+- Significant burns to the hands, feet, face or perineum (joint synaechia)
+- Any suspicion of non-accidental injury
+
 ## Fluid resuscitation
 ### Indications
 - **If >10% TBSA in children or >15% TBSA in adults** (B&L)
