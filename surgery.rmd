@@ -1324,7 +1324,7 @@ $\downarrow$ \\
 	- pancreaticoduodenectomy
 - **Palliative**:
 	- unresectable cases
-	- if detected to be unresectable during laparotomy to do Whipple's
+	- if detected to be unresectable during laparotomy (to do Whipple's),
 	 then choledochoenterostomy to relieve jaundice
 	- if detected by imaging, dilate by ERCP to relieve jaundice
 	- enzyme replacement
