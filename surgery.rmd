@@ -140,9 +140,11 @@ Allergen \\
 		- Base deficit
 		- Serum lactate
 - **Resuscitate**
-- Inotropes (e.g. dobutamine): if cardiogenic shock
-- Epinephrine: if anaphylactic shock
-- Norepinephrine: if septic
+- Cardiogenic $\rightarrow$ inotropes (e.g. dobutamine)
+- Anaphylactic $\rightarrow$ epinephrine
+- Septic $\rightarrow$
+	- norepinephrine/phenylephrine
+	- broad spec antibiotics
 
 \pagebreak
 
