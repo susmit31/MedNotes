@@ -296,8 +296,7 @@ the burnt area directly. Size of hand $\approx$ 1%.
 - Haematoma
 - Shearing forces
 - Group A $\beta$-haemolytic streptococcal infection
-	- can destroy grafts completely
-	- hence, contraindication to grafting
+	- can destroy grafts completely, so contraindication to grafting
 
 
 
