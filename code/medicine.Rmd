@@ -97,6 +97,30 @@ geometry: margin=2cm
 		- must be prescribed with robust contraception
 		- females must have negative pregnancy test before, during, and after
 		 therapy
+- **Immunosuppressants**
+	- Glucocorticoids e.g. prednisolone
+	- Methotrexate
+	- Azathioprine
+
+### Biologics
+- Biological _inhibitors_ of _proinflammatory cytokines_
+- **TNF-$\alpha$ inhibitors**
+	- Infliximab
+	- Etanercept
+- **Interleukin inhibitors**
+	- Ustekinumab: IL-12, 23
+	- Guselkumab: IL-23
+	- Secukinumab: IL-17
+- _Rituximab_:
+	- Binds to CD20 $\rightarrow$ cause ADCC of B cells
+	- As terminally differentiated plasma cells don't have CD20 they're safe
+	- Use: pemphigus vulgaris
+
+### Non-surgical therapy
+- **Cryo**
+	- _Liquid N$_2$_
+	- Causes cell membrane destruction $\rightarrow$ death
+- Laser
 
 ## Pseudorandom factoids
 ### SPF (sun protection factor)
@@ -118,3 +142,33 @@ $\downarrow$ \\
 \fbox{Impaired oxygenation}
 \end{center}
 
+
+\pagebreak
+
+
+# Neurology
+## Raised ICP
+- Normal ICP = **5-15 mmHg**
+
+### Causes
+- **ICSOL**
+	- Intracranial haemorrhage
+	- Tumours e.g. glioma
+	- Brain abscess
+- **Hydrocephalus**: blockade of CSF circulation
+	- Obstructive / non-communicating
+	- Communicating
+- **Cerebral oedema** e.g. meningoencephilitis
+- **Venous sinus obstruction** e.g. cerebral venous thrombosis
+
+### Features
+- **Headache**
+- **Vomiting**
+- **Diplopia / blurred vision**: Due to **6th nerve palsy**
+	- 6th nerve palsy due to
+		- stretching of the long, slender nerve
+		- compression against petrous temporal bone
+- **Papilloedema**
+- **Bradycardia**
+- **Hypertension**
+- **Depressed consciousness**
