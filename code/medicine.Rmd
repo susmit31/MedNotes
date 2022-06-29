@@ -4,7 +4,7 @@ author: "Susmit"
 date: "`r Sys.Date()`"
 documentclass: memoir
 output: pdf_document
-fontsize: 14pt
+fontsize: 12pt
 geometry: margin=2cm
 ---
 
@@ -24,3 +24,39 @@ geometry: margin=2cm
 - Heard at left sternal edge
 - No radiation
 - No other cardiac abnormalities
+
+\pagebreak
+
+# Dermatology
+## Anatomy and physiology
+- Layers of skin:
+	- Epidermis: further layered into (from out$\rightarrow$in)
+		- corneum
+		- lucidum
+		- granulosum
+		- spinosum
+		- basale
+	- Dermis: contains
+		- blood vessels
+		- nerves
+		- pilosebaceous units (hair follicle + sebaceous gland)
+	- Subcutis: adipose
+
+### Epidermal appendages
+- Hair follicles:
+	- phases of growth
+		- anagen: 
+			- active growth
+			- lasts years in scalp hairs
+		- catagen: 
+			- transitional
+			- lasts days (in scalp)
+		- telogen: 
+			- resting
+			- lasts months (in scalp)
+- Sebaceous glands
+	- usually _associated with a hair follicle_
+	- $\fbox{androgens}\rightarrow$ **$\uparrow$** $\fbox{sebum}$
+	- $\fbox{oestrogen}\rightarrow$ **$\downarrow$** $\fbox{sebum}$
+- Sweat glands
+	- innerved by _sympathetic cholinergic_ fibres
