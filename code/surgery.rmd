@@ -1,0 +1,1366 @@
+---
+title: "Surgery"
+author: "Susmit"
+date: "`r Sys.Date()`"
+documentclass: memoir
+output: pdf_document
+fontsize: 14pt
+geometry: margin=2cm
+---
+<!-- $\colorbox{red}{\textcolor{white}{HELLO}}$ 
+\setlrmarginsandblock{2cm}{2cm}{*}
+\setulmarginsandblock{2cm}{2cm}{*}
+\checkandfixthelayout-->
+\openany <!-- this is to let chapters start on any page, odd or even -->
+<!-- non-inclusion leads to many unnecessary blank pages -->
+\raggedbottom
+\twocoltocetc
+\tableofcontents
+
+
+\pagebreak
+
+
+# CABG
+## Investigations for IHD
+- ECG (first line)
+- Cardiac enzymes (in acute coronary syndrome)
+- Exercise tolerance test
+- Echo: Evaluate
+	- ventricular function
+	- regional wall motion abnormalities
+	- valvular lesions
+- **Coronary angiography: gold std**
+	- Extent, severity and location of stenoses
+	- $>$ 70% reduction of diameter (i.e. >90% reduction of cross-sec) => severe
+	 
+## Indications for surgery
+-  $>$ 50% stenosis of the left coronary artery ("_left main stem_")
+-  $>$ 50% stenosis of the proximal _LAD_
+- 2/3 main coronary arteries diseased (_RCA, LAD, LCx_)
+
+## Graft selection
+### Types
+- **Venous**: long saphenous vein
+- **Arterial**:
+	- LIMA most common
+		- left internal mammary / left internal thoracic artery
+		- Branch of _left subclavian_
+	- Others
+		- RIMA
+		- Radial
+		- Gastroepiploic
+		- Inf epigastric
+
+
+
+\pagebreak
+
+
+# Shock
+## Definition
+It is a state of **systemic hypoperfusion** that is **inadequate** for
+ normal **cellular respiration**.
+
+## Pathophys
+### Cellular
+- $\downarrow$ Perfusion $\rightarrow$ anaerobic meta $\rightarrow$
+**lactic acidosis**.
+- Eventually, _glucose runs out_ $\rightarrow$ no more meta $\rightarrow$
+$\downarrow$ ATP $\rightarrow$ **failure of Na-K pump** $\rightarrow$
+**release of lysosomal enzymes** $\rightarrow$ intracellular contents
+ e.g. K released into the bloodstream.
+
+## Classification
+- **Hypovolaemic**
+- **Cardiogenic**: MI, cardiomyopathy, valvular disease
+- **Obstructive**: tamponade, tension pneumo, massive PE
+- **Distributive**: systemic vasodilation, due to _histamine_ (anaphylaxis)
+ or _nitric oxide_ (sepsis)_failure of neuroregulation_ (neuro shock)
+	- **Septic**
+	- **Anaphylactic**
+	- **Neurogenic**
+- **Endocrine**: hypo/hyperthyroid, adrenal insufficiency (Addisonian
+ crisis).
+
+## Features
+- Cold, clammy skin: due to vasoconstriction (to maintain BP)
+- Tachycardia: due to baroreflex response (to maintain BP)
+- Hypotension
+- Low urine output
+
+### Exceptions
+- **distributive shock $\rightarrow$ vasodilation $\rightarrow$
+warm skin**
+- **neurogenic shock $\rightarrow$ loss of baroreflex response $\rightarrow$
+bradycardia**
+
+## Sequelae of shock
+- **Unresuscitable shock**
+	- unresponsive to therapy
+	- compensatory abilities lost due to cell death caused by prolonged
+	 ischaemia
+	- death inevitable
+
+- **Multi organ failure**
+	-  $\ge$ 2 failed organ systems
+	- Cardiac: failure
+	- Lung: ARDS
+	- Kidney: Acute renal insufficiency
+	- Clotting: DIC
+
+## Pathogenesis of Septic Shock
+\includegraphics[width=0.6\textwidth]{../assets/septicshock.jpg}
+\pagebreak
+
+## Pathogenesis of Anaphylactic Shock
+\begin{center}
+Allergen \\
+ $\downarrow$  \\
+ bind to IgE on mast cell  \\
+ $\downarrow$  \\
+ cross-linking of IgE receptors  \\
+ $\downarrow$  \\
+ \textbf{mast cell degranulation}  \\
+ $\downarrow$  \\
+ \textbf{histamine}  \\
+ $\downarrow$  \\
+ \textbf{vasodilation}\\  
+ $\downarrow$  \\
+ shock\\
+\end{center}
+
+## Management principles
+- **Maintenance of ABC**
+- **Monitor**
+	- Minimum: **ECG, BP, pulse oximetry, urine output**
+	- Additional:
+		- CVP
+		- Cardiac output
+		- Base deficit
+		- Serum lactate
+- **Resuscitate**
+- Haemorrhagic $\rightarrow$ blood trasnfusion
+- Cardiogenic $\rightarrow$ inotropes (e.g. dobutamine)
+- Anaphylactic $\rightarrow$ epinephrine
+- Septic $\rightarrow$
+	- norepinephrine/phenylephrine
+	- broad spec antibiotics
+
+\pagebreak
+
+# Blood transfusion
+
+## Indications
+- Acute blood loss
+- Periop anaemia
+- Symptomatic chronic anaemia
+
+## Complications
+### Single transfusion
+- Haemolysis (haemolytic transfusion reaction)
+- Fever (febrile transfusion reaction)
+- Allergic reaction
+- Infections
+	- Hep B, C
+	- HIV
+	- Malaria
+	- Bacterial inf
+- Air embolism
+- Thrombophlebitis
+- TRALI
+
+### Massive transfusion
+- Coagulopathy
+- Hypothermia
+- Hypo-Ca
+- Hypo-K
+- Hyper-K
+
+## Blood & blood products
+- Whole blood
+- Components
+	- Packed red cells
+	- FFP
+		- Plasma stored at -40 to -50$^\circ$C
+		- Rich in _coagulation factors_
+		- 2y shelf-life
+	- Cryoprecipitate
+		- Supernatant of FFP
+		- Rich in $\fbox{factor VIII}$, $\fbox{fibrinogen}$, and $\fbox{vWF}$
+		 (von Willebrand factor)
+		 	- Without vWF, factor VIII has a very low half life. So normally
+		 	 in blood it's transported bound to vWF.
+		- Stored at -30$^\circ$C
+		- Indications:
+			- Haemophilia
+			- Fibrinogen deficiency
+			- Von Willebrand disease
+	- Platelet concentrate
+	- Prothrombin complex concentrate
+
+## Clinical factoids
+- Target Hb level: 10g/dL
+- 1 unit transfusion = 1g/dL improvement
+
+
+\pagebreak
+
+
+# Burns
+## Mechanism of fluid loss
+Intense inflammation in burnt areas $\rightarrow\;\;\uparrow$ permeability
+ $\rightarrow$ leakage of fluid into extravascular compartment  
+
+## Assessment
+- Rule of 9:
+	- First approx
+	- Adult
+		- Head-neck $\rightarrow$ 9%
+		- Each upper limb $\rightarrow$ 9%
+		- Torso front 18%
+		- Torso back 18%
+		- Each lower limb 18%
+		- Perineum 1%
+- Lund and Browder chart
+	- More accurate
+- For smaller burns, a piece of paper about the size of the hand to measure 
+the burnt area directly. Size of hand $\approx$ 1%.
+
+## Criteria for admission
+- Suspected inhalation injury / airway injury
+- Any burn likely to require surgery
+- Any burns in the extremes of age
+- Significant burns to the hands, feet, face or perineum (joint synaechia)
+- Any suspicion of non-accidental injury
+
+## Fluid resuscitation
+### Indications
+- **If >10% TBSA in children or >15% TBSA in adults** (B&L)
+- To correct hypovolaemia
+- " " electrolyte imbalance
+- To prevent shock
+- To provide nutrition
+
+### Principles
+- **Parkland formula**: $4\cdot W \cdot A$ mL fluid for the 1st 24h
+	- Infuse $\frac{1}{2}$ over 8h, $\frac{1}{2}$ over 16h
+- First 12h $\rightarrow$ crystalloid only (massive fluid shift to
+ extravascular compartment takes protein out with it)
+- Then add colloid (human albumin solution)
+	- Provides necessary oncotic pressure for keeping infused fluid
+	 within the vascular compartment
+
+
+## Definitive management
+### Superficial partial-thickness burns
+- Regular dressing
+- Heal spontaneously within 2 wks  without scar
+ irrespective of choice of dressing
+
+### Deep partial-thickness/full-thickness burns
+- Nanocrystalline silver dressing until surgery (to prevent colonisation)
+- Escharotomy for circumferential full-thickness burns
+- Debridement + split-skin grafting
+- Without surgery, heal by hypertrophic scarring
+
+### Nanocrystalline silver dressing
+- 1% silver sulfadiazine
+- 0.5% silver nitrate
+- Mafenide nitrate
+- Silver sulfadiazine + cerium nitrate 
+
+## Prevention of post-burn contracture
+- Joint exercise in full range during recovery period
+- Topical silicon sheeting
+- Saline expanders for scars
+
+\pagebreak
+
+
+
+# Grafts and Flaps
+## Graft
+- Tissue transferred _without its original blood supply_
+- Need to revascularise in recipient site
+
+### Types of skin graft
+- Split-thickness skin graft: epidermis + part of dermis
+- Full-thickness skin graft: epidermis + whole dermis
+- Composite skin graft: skin + cartilage, skin + fat etc.
+
+## Flap
+- Tissue transferred _with its original blood supply_
+
+## Causes of graft failure
+- Inadequate vascularity of recipient site: due to
+	- residual pus
+	- residual exudate
+	- residual dead tissue
+- Haematoma
+- Shearing forces
+- Group A $\beta$-haemolytic streptococcal infection
+	- can destroy grafts completely, so contraindication to grafting
+
+
+
+\pagebreak
+
+
+# Important anticancer drugs
+- **Mitosis interferers**
+	1. Vincristine
+	2. Vinblastine
+	3. Taxanes (e.g. Paclitaxel)
+- **Antimetabolites** (i.e. DNA synthesis inhibitors)
+	1. Methotrexate
+	2. 5-FU
+- **DNA damagers**
+	1. Platinum drugs
+		- Cisplatin
+		- Carboplatin
+		- Oxaloplatin
+	2. Cyclophosphamide
+	3. Bleomycin
+	4. Doxorubicin
+	5. Etoposide
+- **Hormones**
+	1. Tamoxifen: ER blocker (Breast ca)
+	2. Goserelin: GnRH analogue/LHRH agonist; downregulate ant. pituitary 
+	$\rightarrow\;\;\downarrow$ testosterone (Prostate ca)
+	3. Flutamide: Androgen antagonist (Prostate ca)
+	4. Bromocriptine: D2 agonist; blocks ant. pituitary stimul
+	 (Pituitary tumour)
+
+
+\pagebreak
+
+
+# Deadly Dozen and ATLS
+## "Deadly dozen" of chest injury
+### Immediately life threatening
+_Manage in 1$^\circ$ survey_
+
+- Airway obstruction
+- Tension pneumo
+- Open pneumo
+- Massive haemothorax
+- Flail chest
+- Pericardial tamponade
+
+### Potentially life threatening
+_Manage in 2$^\circ$ survey_
+
+- Tracheobronchial injury
+- Oesophageal injury
+- Aortic injury
+- Myocardial contusion
+- Pulmonary contusion
+- Diaphragm rupture
+
+
+\pagebreak
+
+
+# Lung cancer
+## Types
+- Non-small cell (NSCLC)
+	- Squamous
+	- Adeno
+	- Large cell
+	- Carcinoid
+- Small cell (SCLC)
+
+## Features
+- Cough (esp. changing cough)
+- Dyspnoea
+- Haemoptysis
+- Wt loss
+- Chest pain
+- Clubbing
+- Pancoast $\rightarrow$ compress sympathetic trunk
+ $\rightarrow$ _Horner's_
+ 	- Miosis
+ 	- Enophthalmos
+ 	- Anhidrosis
+ 	- Partial ptosis
+- Paraneoplastic features (SCLC)
+	- SIADH
+	- Cushing
+	- Lambert-Eaton
+	
+## Investigations
+### Diagnostic
+- Chest X-ray
+- Chest CT
+- Sputum cytology
+- Bronchoscopy + biopsy
+- PET-CT
+
+### Staging
+- USG whole abdomen
+- X-ray skull
+- Bone scintigraphy (aka isotope bone scan)
+- Pleural fluid cytology (if effusion)
+
+
+## Treatment
+- If NSCLC && within T3 N1 M0
+	- Surgery: Choice depends on extent of pathology
+		1. Segmentectomy
+		2. Lobectomy
+		3. Pneumonectomy
+	- Chemo:
+		1. Platins
+		2. Gemcitabine
+	- Radio
+- Else (i.e. SCLC and $>$ T3N1M0 NSCLC)
+	- Palliative therapy
+	- Surgery not helpful
+	- Median survival: a few months
+
+
+\pagebreak
+
+# Orthopaedics
+## Orthopaedic emergencies
+_Open DESC_
+
+- Open fracture
+- Dislocation
+	- Because dislocation $\Rightarrow$ ruptured synovial membrane 
+	 $\Rightarrow$ stoppage of synovial fluid production
+	 $\Rightarrow$ articular cartilage, which has no blood
+	 supply and derives nutrition from synoFlu, eventually dies
+	 $\Rightarrow$ waiting too long can lead to permanent joint immobility
+- Epiphyseal injury
+- Septic arthritis
+- Compartment syndrome
+
+
+\pagebreak
+
+
+## Osteomyelitis
+### Types
+According to duration, _acute_ and _chronic_.
+
+### Acute
+
+#### $\blacksquare$ Causative organisms
+
+- _<u>Staph aureus</u>_
+- _Strep pyogenes_
+- _Strep pneumo_ (pneumococcus)
+- _Salmonella_
+- _Pseudomonas_
+
+
+#### $\blacksquare$ Clinical features
+- Severe pain
+- Tenderness
+- Restricted movement
+- Raised local temperature
+- Fever (high grade)
+- Tachycardia
+
+#### $\blacksquare$ Radiology
+- Early phase
+	- MRI: more sensitive in early phase
+		- bone oedema
+		- periosteal elevation
+	- X-ray:
+		- may be normal
+		- soft tissue swelling
+- 5-7d later
+	- X-ray:
+		- osteopoenia
+		- periosteal new bone formation
+
+### Chronic
+
+#### $\blacksquare$ Causative organisms
+- TB (_Myco TB_)
+- Syphilis (_Trepo pallidum_)
+- Fungal
+- Parasitic
+
+#### $\blacksquare$ Clinical features
+- Chronic discharging sinus
+- Pieces of bone may come out through the sinus
+- Joint swelling, stiffness
+- May be past history of acute osteomyelitis
+- May be recurrent pain, fever, swelling (acute on chronic)
+
+**$\bullet$ Sequestrum**
+A segment of bone that is
+
+- Devitalised
+- Avascular
+- Surrounded by pus/granulation tissue
+
+**$\bullet$ Involucrum**
+
+- Subperiosteal bone deposition surrounding the sequestrum.
+- Purpose: walling off the sequestrum
+- _Cloaca_: opening in involucrum due to rising pressure of the pus underneath
+
+#### $\blacksquare$ Radiology
+- Bony destruction
+- Surrounding soft tissue swelling
+- Sequestrum
+- Subperiosteal reaction (involucrum)
+
+#### $\blacksquare$ Management:
+**Sequestrectomy and saucerization** followed by **antibiotic therapy for
+ 6 wks** according to C/S report of pus
+
+### Complications of osteomyelitis
+- Chronic osteomyelitis (if acute)
+- Deformity
+- Pathological fractures
+- Septic arthritis
+- Septicaemia
+
+
+\pagebreak
+
+
+## Congenital clubfoot / talipes equinovarus
+### Terminology
+- Talipes = clubfoot
+- Equinus deformity $\Rightarrow$ dorsiflexed foot
+- Varus deformity $\Rightarrow$ plantar surface turned _inwards_ (in-verted)
+- Valgus deformity $\Rightarrow$ plantar surface turned _outwards_ (e-verted)
+
+### Deformities in Congenital Clubfoot
+**CAVE**
+
+- Forefoot **C**avus
+- Midfoot **A**dductus
+- Hindfoot
+	- **V**arus
+	- **E**quinus
+
+### Treatment
+#### $\bullet$ Conservative: Ignacio Ponceti method
+- Serial plastering over 6 wks to correct deformities
+
+#### $\bullet$ Surgical: PMR (postero-medial release)
+- If conservative fails
+
+\pagebreak
+
+## Low Back Pain (LBP)
+### Causes
+- **Strenuous work** 
+
+- **Primary Back Pathologies**
+	- *Spondylosis*: degenerative arthritis of the spine
+	- *Spondylolysis*: defect in pars interarticularis without slippage
+	- *Spondylolisthesis*: forward slippage of vertebral body
+	- Lumbar *disc herniation*
+	- *Spinal stenosis*: narrowed spinal canal $\rightarrow$ compression of
+	 spinal cord/nerve roots
+	- *Fractures*
+	- *Cauda equina syndrome*
+		- Compression of cauda equina nerve roots
+		- Most freq cause $\Rightarrow$ lumbar disc protrusion at L4/5
+	- *Scoliosis*
+	- *Discitis*
+
+
+- **Infections**
+	- *Epidural abscess*
+	- *Pott's disease*
+
+
+
+- **Metastatic disease**
+	- Sources:
+		- Thyroid
+		- Breast
+		- Lung
+		- Kidneys
+		- Prostate
+
+
+- **Autoimmune conditions**
+	- *Ankylosing spondylitis*
+
+
+
+### Investigations
+- Plain X-rays
+- CT: Best for assessing **bone anatomy**
+- MRI: Detailed visualization of
+	- Spinal cord
+	- Meninges
+	- Epidural space
+	- Discs
+	- Nerve roots
+	- Bone marrow
+- Bone scintigraphy
+- DEXA (dual energy x-ray absorptiometry) scan: measure bone density
+- Provocative discography
+- Spinal biopsy
+
+
+\pagebreak
+
+# Breast cancer
+## Aetiology
+- Age
+- Sex
+- Genetic: family history (BRCA1, BRCA2, TP53)
+- Geographic: $\uparrow$ in West
+- Diet: 
+	- Low in phytoestrogens
+	- High in alcohol
+- **_Endocrine_**: due to less exposure to _oestradiol_
+	- More in 
+		- _Nullipara_
+		- _Obese_: fat converts steroid hormones to oestradiol
+		- _OCP/HRT_ users
+		- _Early menarche_
+		- _Late menopause_
+	- Less in
+		- Breastfeeders
+		- First child at early age
+
+## Features
+- Hard lump (painful in <10%)
+- Nipple discharge
+- Nipple retraction
+- In _advanced_,
+	- Peau d'Orange ($\ge$ T$_3$): due to lymphatic congestion
+	- Ulceration ($\ge$ T$_3$)
+	- Fixation to chest wall ($\ge$ T$_3$)
+	- Palpable axillary nodes ($\ge$ N$_1$)
+- Constitutional
+	- Wt loss
+	- Anaemia
+	- Anorexia
+
+## Staging
+1. TNM
+2. Manchester (i, ii, iii, iv)
+
+### TNM
+- **T**: Tumour size
+	- 1: < 2cm
+	- 2: 2-5cm
+	- 3: 5-10cm
+	- 4: >10cm
+- **N**: Nodal involvement
+	- 0: No palpable axillary nodes
+	- 1: Mobile palpable axillary nodes
+	- 2: Fixed palpable axillary nodes
+	- 3: Palpable supraclavicular nodes
+- **M**:
+	- 0: No distant mets
+	- 1: Distant mets
+
+### Manchester
+- **Stg-I** = T$_1$N$_0$M$_0$
+- **Stg-II** = T$_2$N$_1$M$_0$
+- **Stg-IIIa** = T$_3$N$_2$M$_0$
+- **Stg-IIIb** = T$_4$N$_3$M$_0$
+- **Stg-IV** = M$_1$ (irrespective of T and N stage)
+
+## Treatment
+### Options
+- Surgery
+	- Conservative
+		- Lumpectomy
+		- Quadrantectomy
+		- Oncoplastic lumpectomy (lumpectomy + reconstruction to restore
+		 normal appearance)
+	- Mastectomy
+		- Simple
+		- Radical
+		- Modified radical mastectomy (MRM = simple + axillary node dissection)
+- Chemo
+- Radio
+- Hormone: _tamoxifen_
+- Immuno: _herceptin_ (trastuzumab)
+
+### Protocol
+- Stg-i: conservative surgery
+- Stg-ii:
+	- MRM + chemo + horm (if ER+) + immuno (if HER+)
+- Stg-iii:
+	- Neoadjuvant chemo 2-3 cycles to downstage
+	- Then mx of stg-ii
+- Stg-iv:
+	- Palliative
+	- Toilet mastectomy + chemo + radio + horm + immuno
+
+\pagebreak
+
+
+# Random-ish general surgery concepts
+## Sepsis, SIRS, MODS, MSOF {SIRS}
+### $\bullet$ SIRS (Systemic inflammatory response syndrome)
+- **Any two** of
+	- Hyperthermia (>38$^\circ$C) or hypothermia (<36$^\circ$C)
+	- Tachycardia or tachypnoea
+	- Leucocytosis or leucopoenia
+- Causes
+	- Sepsis
+	- Polytrauma
+	- Burns
+	- Pancreatitis without infection
+
+### $\bullet$ Sepsis
+- SIRS + documented infection
+
+### $\bullet$ MODS (Multiple organ dysfunction syndrome)
+- Systemic effect of SIRS
+
+### $\bullet$ MSOF (Multiple system organ failure)
+- End stage of uncontrolled MODS
+- Includes
+	- Heart failure
+	- Liver ""
+	- Pulmonary ""
+	- Shock
+
+## Haemorrhage
+### $\bullet\; 1^\circ$: Occurs immediately due to injury/surgery.
+
+### $\bullet$ Reactionary: Within 24h
+- Due to 
+	- $\fbox{dislodgement of clot}$ as a result of resuscitation and blood flow
+ restoration
+	- _slippage of ligature_
+
+### $\bullet\; 2^\circ$: Within 7-14d
+- Due to $\fbox{sloughing off of vessel wall}$
+	- Precipitated by
+		- Infection
+		- Pressure necrosis
+		- Cancer
+
+### $\bullet$ Principles of haemorrhage control
+- Pressure
+- Position (elevation in case of limb)
+- Packing
+- Cautery (diathermy)
+- Ligation  
+
+## Incisions in abdominal surgery
+### $\blacksquare$ Upper midline
+- $\fbox{xiphoid}\rightarrow\fbox{umbilicus}$
+
+<br>
+
+- **Structures cut**
+	- Skin
+	- Subcutaneous tissue
+	- Linea alba
+	- Fascia transversalis
+	- Parietal peritoneum 
+
+- Advantages
+	- Rapid
+	- Less vascular area $\Rightarrow$ less bleeding
+- Disadvantages
+	- Less vascular area $\Rightarrow$ heals late
+	- $\uparrow$ wound dehiscence, incisional hernia
+
+### $\blacksquare$ Kocher / right subcostal
+- From xiphoid, start cutting 2.5cm below parallelly to the costal margin
+- Keep cutting till cut length = 10cm
+- **Structures cut**: ???
+- Use: gallbladder surgeries, rt hepatic lobectomy
+
+### $\blacksquare$ Pfannenstiel
+- Curved, 2.5cm above and parallel to the arch made by inguinal ligaments,
+ extend equally on both sides of the midline
+- Done in
+	- Caesarean section
+	- Prostatectomy
+	- Bladder surgery
+
+
+\pagebreak
+
+
+# Vascular surgery
+## Deep Vein Thrombosis (DVT)
+Formation of semisolid coagulum in a deep vein.
+
+### Virchow's triad
+- Abnormal surface (endothelial damage)
+- Abnormal flow (stasis / turbulence)
+- Abnormal blood (thrombophilia)
+
+### Factors
+- Immobility
+	- Age
+	- Obesity
+	- Prolonged surgery
+	- Pregnancy
+	- Puerperium
+	- Varicosity (effect of immobility, the rest are causes)
+- Hormone-replacement therapy (high oestrogen)
+- Previous DVT / PE
+- Thrombophilia
+
+### Common sites
+- Popliteal vein
+- Femoral ""
+- Iliac ""
+
+### Prevention
+- Early mobilization
+- Hydration
+- Compression stockings
+- Prophylactic LMW heparin
+- Calf pumps
+- Minimal use of tourniquets
+
+
+\pagebreak
+
+## Ischaemic limb
+(Ischaemia = reduced blood flow, NOT cell death)
+
+### Features
+- **Intermittent claudication**
+	- Debilitating crampy myalgia that is
+		- reliably brought on by walking
+		- not present on taking the first step
+		- reliably relieved by rest
+	- Raised workload while walking $\rightarrow$ anaerobic metabolism
+	 $\rightarrow$ intermittent claudication
+- **Rest pain**
+	- Advanced ischaemia
+	- Anaerobic metabolism occurring even at rest
+	- Exacerbated by lying down / foot elevation (due to loss of
+	 gravitational aid in flow) $\rightarrow$ _pain worse at night_ and
+	 _relieved by hanging the foot out of the bed_.
+- Coldness, numbness, paraesthesia, colour change
+- Ulceration
+- Gangrene
+- **Absent/diminished arterial pulse**
+- Arterial bruit
+- **Slow capillary refill**
+
+### Investigations
+#### $\blacksquare$ Specific
+- Doppler USG
+- Duplex scan:
+	- Duplex = plain USG + doppler
+	- Plain USG shows anatomy, doppler shows flow patterns
+- Digital subtraction angiography
+- CT angiography, MR angiography
+
+#### $\blacksquare$ General
+- CBC (see if anaemia)
+- RBS
+- Lipid profile
+- Serum urea and electrolytes
+
+### Treatment
+#### $\blacksquare$ Non-surgical
+- **Smoking cessation**
+- Regular exercise
+- Wt loss if obese
+- **Drugs**
+	- Beta blocker contraindicated: as sympathetic increases blood flow
+	 to muscles
+	- Statin
+	- Clopidogrel/aspirin
+- **Angioplasty** with/without stenting
+
+#### $\blacksquare$ Surgical
+- **Bypass operation**
+	
+\pagebreak
+
+## Peripheral Artery Disease (PAD)
+### 6Ps of PAD
+- Pain
+- Paraesthesia
+- Pulselessness
+- Pallor
+- Paralysis
+- Polar (cold)
+
+### PAD vs PVD
+- P**A**D relieved by h**a**nging the limb down, P**V**D relieved by
+ ele**v**ating the limb up.
+
+### Investigations
+- ABPI: ankle-brachial pressure index
+	-  <0.9 indicates PAD
+- Doppler
+- Duplex
+- DSA
+- CTA, MRA
+
+\pagebreak
+
+## Varicose veins
+### Management principles
+- Avoid prolonged standing
+- Compression stockings
+- **Endothermal ablation**
+	- _Laser ablation_
+	- _Radiofrequency ablation_
+- US-guided sclerotherapy
+	- Sclerosing agent: sodium tetradecyl sulfate
+- Open surgery
+	- Sapheno-femoral junction (SFJ) ligation + great saphenous vein (GSV) stripping
+	 (_Trendelenburg operation_)
+	 
+
+\pagebreak
+
+
+# Splenectomy
+## Indications
+(_Indications marked with $\star$ are absolute indications_)
+
+- Traumatic rupture with unsalvageable spleen $\star$
+- Splenic tumours (primary or secondary) $\star$
+- Bleeding varices due to splenic vein thrombosis $\star$
+- Hereditary spherocytosis $\star$
+- Splenic abscess
+- Hypersplenism
+	- Hypersplenism = splenomegaly + any cytopoenia(s) + improvement of
+	 symptoms after splenectomy
+- ITP
+- Thalassaemia major
+
+
+\pagebreak
+
+# Urology
+## LUTS (lower urinary tract symptoms)
+- **\fbox{Storage symptoms}**: FUN
+	- Frequency
+	- Urgency
+	- Urge incontinence
+	- Nocturia
+- **\fbox{Voiding symptoms}**: IHPS
+	- Intermittency
+	- Hesitancy
+	- Poor stream (reduced stream)
+	- Straining (muscular effort to initiate maintain or improve urinary flow)
+- **\fbox{Post-micturitional symptoms}**
+	- Incomplete emptying
+	- Post-mic dribble
+
+\pagebreak
+
+## Renal stones
+### Features
+- Asymptomatic
+- Ureteric colic: loin $\rightarrow$ groin
+- Renal pain: dull loin pain
+- Haematuria
+- Features of UTI, e.g.:
+	- Frequency: too frequent voiding
+	- Urgency: sudden compelling desire to urinate
+	- Dysuria: burning pain during urination
+	- Features of pyelonephritis (if ascending infection), e.g.:
+		- Fever with chills
+		- Vomiting
+		- Renal angle tenderness
+		- Rigidity, guarding
+
+### Investigations
+- X-ray KUB, IVU
+- USG KUB
+- CT KUB
+- Urine RME, culture
+
+### Treatment
+- Assess size of stone by USG/CT
+- **Small ($\le$ 5mm)**:
+	- Conservative management
+	- 90% pass spontaneously
+	- Drink plenty of water
+	- Analgesics, antispasmodics
+	- Antiemetics
+	- Mobility
+- **> 5mm**:
+	- ESWL
+		- for $\le$ 1.5cm stones
+		- cystine stones resistant
+		- results in _steinstrasse_ ("stone street")
+		- contra
+			- obese
+			- pregnant
+			- patients on oral anticoagulants
+	- Ureteroscopy + retrieval by Dormia basket: for <6mm stones in distal
+	 ureter
+	- PCNL
+		- for larger stones / ESWL contraindications / ESWL resistant stones
+	- Open surgeries: depending on location of stone
+		- Nephrolithotomy
+		- Pyelolithotomy
+		- Ureterolithotomy
+
+\pagebreak
+
+## Bladder stones
+### Features
+- 8x more common in males
+- Asymptomatic
+- Frequency
+- Sense of incomplete voiding
+- Pain (strangury)
+	- at the end of micturition
+	- referred to the tip of the penis or the labia majora
+- Haematuria: terminal, few drops, bright red
+
+### Investigations: usual
+
+### Treatment
+- _Perurethral litholapaxy_
+
+- _Percutaneous suprapubic litholapaxy_
+
+- _Suprapubic cystolithotomy_
+
+\pagebreak
+
+## Ruptured urethra
+### Features
+- Perineal bruising & haematoma
+- Bleeding from urethral meatus
+- Urinary retention
+- Pain
+
+### Investigations
+Confirmed by **urethrography** with water-soluble contrast
+
+- Urethrogram = insert catheter upto urethral meatus, then inject contrast
+ and image with x-rays
+
+### Management
+- Antibiotics
+- Analgesics
+- **Catheterisation** by percutaneous suprapubic puncture (Seldinger technique)
+- _After bruising and swelling have setted_ (8-12wks later), **delayed
+ anastomotic urethroplasty**. 
+
+\pagebreak
+
+## Bladder cancer
+### Painless haematuria in 60yo male
+**4T**
+
+- Tumours
+	- _**Painless gross haematuria, until proved otherwise, is bladder
+	 cancer**_
+- TB
+- Tension (hypertensive nephropathy)
+- Tubular necrosis (ATN)
+
+### Features
+- Painless gross haematuria
+	- may lead to large clots in the bladder $\rightarrow$ clot
+	 retention
+- Frequency
+- Pain may arise in later stages due to
+	- extravesical spread
+	- pyelonephritis
+
+### Investigations
+- Urine culture and cytology for malignant cells
+- Hb, urea, electrolytes
+- CT, MRI, USG, IVU
+- _Cystourethroscopy_
+
+### Treatment
+- **Non-muscle invasive tumour**: (does not invade the detrusor)
+	- **Endoscopic resection** followed by **intravesical BCG** chemotherapy
+- **Muscle-invasive tumour**
+	- External beam radiotherapy
+	- Surgery
+		- Partial cystectomy
+		- Radical cystectomy and pelvic lymphadenectomy
+
+\pagebreak
+
+## Prostate cancer
+### Features
+- Asymptomatic until advanced
+- In advanced,
+	- Bladder outlet obstruction (boo) $\rightarrow$ retention
+	- Pelvic pain
+	- Haematuria
+	- Bone pain, arthritis
+	- Renal failure
+	- Anaemia, pancytopoenia
+- DRE:
+	- Hard irregular lump
+	- Median sulcus obliterated
+	- Examining finger blood stained
+
+### Investigations
+- **Prostate biopsy**
+	- _Transperineal_ approach: under G/A
+	- _Transrectal_ approach: under L/A
+- **PSA**
+	- Normal: < 4ng/mol
+	- $>10$ng/mol: suggestive
+	- $>35$ng/mol: almost diagnostic of advanced carcinoma
+- LFT: liver mets
+- ALP: liver or bone mets
+- Chest x-ray: lung/rib mets
+
+### Treatment
+- **Early stage**: 
+	- _radical prostatectomy_
+	- radiotherapy
+		- external beam radiotherapy or
+		- brachytherapy
+- **Late stage**:
+	- _orchidectomy_ ("surgical castration")
+	- _medical castration_
+		- stilbestrol
+		- LHRH agonists: goserelin
+	- radiotherapy
+	- chemo: docetaxel
+
+\pagebreak
+
+## Testicular tumours
+### Classification
+- $\fbox{Germ cell tumours}$
+	- Seminoma
+	- Nonseminomatous GCT
+		- Embryonal carcinoma
+		- Yolk sac tumour
+		- Choriocarcinoma
+		- Teratoma
+- $\fbox{Interstitial cell tumours}$
+	- Sertoli $\rightarrow$ _feminizes_
+	- Leydig $\rightarrow$ _masculinizes_ (secretes androgens)
+		- layDICK $\rightarrow$ masculin
+- $\fbox{Lymphoma}$
+
+### Features
+- Painless testicular lump
+- Heaviness (if 2-3x enlarged)
+- Gynaecomastia (especially with _NSGCT_)
+- Acute swelling and severely painful testis
+	- due to bleeding in the tumour
+- Metastatic features
+	- abdominal mets: abdominal pain
+	- lung mets: dyspnoea, chest pain, haemoptysis
+
+### Investigations
+- **Confirmed by USG**
+- AFP: $\uparrow$ in NSGCT
+- hCG: $\uparrow$ both seminoma and NSGCT
+- X-ray / CT of chest, abdomen, pelvis: for staging
+
+### Treatment
+**Orchidectomy**, followed by
+
+- Histopathology: for histological classification
+- Stg I
+	- **Seminoma**: radiosensitive, only radiotherapy + follow-up
+	- **NSGCT**
+		- not radiosensitive
+		- **BEP chemotherapy**
+			- Bleomycin
+			- Etoposide
+			- Platinum (cisplatin)
+- Stg II-IV
+	- **BEP chemotherapy** for both seminoma and NSGCT
+	
+\pagebreak
+
+# GIT, hepatobiliary, pancreas
+## Acute Pancreatitis
+### Causes
+- Gallstone
+- ERCP
+- Trauma
+- Alcoholism
+- Hyperparathyroidism
+- Hypercalcaemia
+- Autoimmune
+- Drugs: corticosteroids,azathioprine
+
+### Features
+- Pain
+	- Severe epigastric pain
+	- Radiates to back in 50%
+	- Relieved by leaning forwards
+	- Can mimic most other causes of acute abdomen
+- Nausea, vomiting, retching
+- Shock
+	- Tachycardia, tachypnoea, hypotension
+	- SIRS
+- Bleeding into fascial planes $\rightarrow$ bluish discoloration of
+	- Flanks: Gray-Turner's
+	- Umbilicus: Cullen's
+- Muscle guarding
+- Pleural effusion
+
+### Investigations
+- Clinical assessment + **serum amylase (>3x above normal)** indicative of
+ acute pancreatitis
+- Serum lipase: more sensitive and specific
+- USG: detect gallstones
+- X-ray, CECT: exclude other causes of acute abdomen
+
+### Severity assessment
+- Ranson, Glasgow, APACHE scoring
+- Atlanta classification
+	- Mild:
+		- no organ failure
+		- no local/systemic complis
+	- Moderate: transient organ failure (resolves by 48h)
+	- Severe: persistent organ failure (>48h)
+
+### Treatment
+- **Mild**
+	- observation
+	- IV fluid
+	- analgesic (no need for antibiotics)
+	- antiemetic
+- **Severe**
+	- HDU/ICU admission
+	- IV fluids
+	- Analgesic: pethidine (morphine contraindicated; causes sphincter of
+	 Oddi dysfunction)
+	- Antibiotics: IV cefuroxime, or imipenem, or cipro+metro
+	- O2 inhalation
+	- Invasive monitoring of vitals, CVP, blood glucose
+	- ERCP within 72h if severe gallstone pancreatitis/signs of cholangitis
+
+### Complis
+- Systemic (mostly manifest within the 1st wk)
+	- CVS: Shock
+	- Haemato: DIC
+	- Resp: ARDS
+	- Renal: Acute renal failure
+	- Metabolic:
+		- Hypo-Ca
+		- Hyperglycaemia
+		- Hyperlipidaemia
+- Local (usually occur after the 1st wk)
+	- Pseudocyst
+	- Abscess
+	- Pancreatic necrosis
+	- Peripancreatic fluid collection
+	- Pancreatic ascites
+	- Pleural effusion
+	- Portal/splenic vein thrombosis
+
+\pagebreak
+
+## Pancreatic pseudocyst
+### Definition
+Collection of amylase-rich fluid enclosed by a wall of fibrous/granulation
+ tissue.
+
+### Diagnosis
+- History of recent pancreatitis ($\ge$ 4wks)
+- USG
+- CT
+- FNA of fluid under EUS guidance and measurement of
+	- CEA
+	- amylase
+	- cytology
+- Differentiating from cystic neoplasm:
+	- history
+	- appearance in US, CT
+	- Aspiration:
+		- CEA: $\uparrow$ in tumour
+		- Amylase: $\uparrow$ in pseudocyst
+		- Cytology: inflammatory cells in pseudocyst
+
+
+\pagebreak
+
+
+## Chronic pancreatitis
+- Mostly due to chronic alcoholism
+
+### Features
+- Pain
+	- may radiate to back
+	- dull, gnawing
+- Nausea, vomiting
+- Wt loss (due to anorexia)
+- Steatorrhoea
+- Symptoms of DM
+
+### Investigations
+- Serum amylase: $\uparrow$ in early stg
+- X-ray abdomen, CT: calcifications
+- CT, MRI
+- MRCP: identify biliary obstruction, condition of pancreatic duct
+- ERCP
+
+### Treatment
+- Relieve pain
+- Cure addiction
+- Diet: low fat, high protein & carb
+- Fat-soluble vitamin supplementation
+- Pancreatic enzymes supplementation
+- Insulin therapy
+- Steroid for autoimmune pancreatitis
+
+\pagebreak
+
+## Gallstones
+### Types
+- Cholesterol: more common in USA
+- Pigment: more common in BD
+	- Black: haemolysis
+	- Brown: bile stasis
+- Mixed
+
+### Factors
+- **Supersaturated bile**: female fair fatty forty fertile
+	- Age: Forty (>40y)
+	- Sex: Female
+	- Fatty (obese)
+	- Fair-skinned
+	- OCP
+	- Diet: Fat high, fibre low
+- **Impaired GB function**
+- **Cholesterol nucleating factors**
+- **Enterohepatic circulation of bile**
+	- ileal resection $\rightarrow\; \;\downarrow$ enterohepatic
+	 circulation $\rightarrow$ depletion of bile pool $\rightarrow$
+	 increased cholesterol with respect to bile $\rightarrow$ supersaturation
+
+### Pathogenesis
+\begin{center}
+\fbox{Supersaturated bile from above factors} \\
+$\downarrow$ \\
+\fbox{Unstable phospholipid vesicles} \\
+$\downarrow$ \\
+\fbox{Nucleation of cholesterol monohydrate crystal} \\
+$\downarrow$ \\
+\fbox{Aggregation of crystals to form stone}
+\end{center}
+
+\pagebreak
+
+## Carcinoma head of the pancreas
+### Treatment options
+- **Whipple's**: 
+	- in resectable cases
+	- pancreaticoduodenectomy
+- **Palliative**:
+	- unresectable cases
+	- if detected to be unresectable during laparotomy (to do Whipple's),
+	 then choledochoenterostomy to relieve jaundice
+	- if detected by imaging, dilate by ERCP to relieve jaundice
+	- enzyme replacement
+	- treatment of DM
+	- chemotherapy

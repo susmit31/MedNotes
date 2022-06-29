@@ -1,0 +1,26 @@
+---
+title: "Medicine"
+author: "Susmit"
+date: "`r Sys.Date()`"
+documentclass: memoir
+output: pdf_document
+fontsize: 14pt
+geometry: margin=2cm
+---
+
+\openany
+\raggedbottom
+\twocoltocetc
+\tableofcontents
+
+\pagebreak
+
+
+# Cardiology
+## Presenting problems in CVS disease
+### Features of benign murmur
+- Soft
+- Midsystolic
+- Heard at left sternal edge
+- No radiation
+- No other cardiac abnormalities
