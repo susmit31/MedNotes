@@ -60,3 +60,61 @@ geometry: margin=2cm
 	- $\fbox{oestrogen}\rightarrow$ **$\downarrow$** $\fbox{sebum}$
 - Sweat glands
 	- innerved by _sympathetic cholinergic_ fibres
+
+## Principles of management of skin disease
+### Topical treatments
+- Ointments vs Creams
+	- Ointments preferred to creams for dry skin (e.g. chronic eczema) as
+		- more hydrating
+			- 80% oil + 20% water in ointments (vs 50-50 for creams) $\rightarrow$
+		 	prevent water loss from skin by oil layer
+		- less preservatives $\rightarrow$ less risk of allergy
+- Emollients
+	- Moisturise, lubricate, protect skin
+	- _Vehicles without active drug_
+- Gluocorticoids
+
+### Phototherapy
+- **UVB**
+- **Psoralen UVA**
+	- Psoralen:
+		- natural photosensitiser from plant source
+		- cross-link DNA strands on excitation with UVA
+	- Cumulative exposure to PUVA $\rightarrow\;\;\uparrow$
+	 risk of SCC, so reserved for UVB resistance
+- Uses
+	- Psoriasis
+	- Atopic eczema
+	- Vitiligo
+	- Chronic urticaria
+
+### Systemics
+- Antihistamines
+- **Retinoids**
+	- _Anti-inflammatory_
+	- Promote _differentiation of skin cells_
+	- **Teratogenic**
+		- must be prescribed with robust contraception
+		- females must have negative pregnancy test before, during, and after
+		 therapy
+
+## Pseudorandom factoids
+### SPF (sun protection factor)
+- $\frac{\LARGE{\text{UV dose for producing erythema with sunscreen}}}
+{\LARGE{\text{UV dose for producing erythema without sunscreen}}}$
+
+### Mechanism of venous ulceration
+\begin{center}
+\fbox{Incompetent valves} \\
+$\downarrow$ \\
+\fbox{$\uparrow$ capillary pressure} \\
+$\downarrow$ \\
+\fbox{Fibrinogen leaks out of capillary} \\
+$\downarrow$ \\
+\fbox{Forms fibrin clot around capillary (pericapillary cuffing)} \\
+$\downarrow$ \\
+\fbox{Impaired diffusion from capillaries} \\
+$\downarrow$ \\
+\fbox{Impaired oxygenation}
+\end{center}
+
