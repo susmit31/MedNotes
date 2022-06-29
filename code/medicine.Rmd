@@ -164,7 +164,7 @@ $\downarrow$ \\
 ### Features
 - **Headache**
 - **Vomiting**
-- **Diplopia / blurred vision**: Due to **6th nerve palsy**
+- **Diplopia / blurred vision**: Due to _6th nerve palsy_
 	- 6th nerve palsy due to
 		- stretching of the long, slender nerve
 		- compression against petrous temporal bone
@@ -172,3 +172,14 @@ $\downarrow$ \\
 - **Bradycardia**
 - **Hypertension**
 - **Depressed consciousness**
+
+### Management
+- According to cause:
+	- Mass lesion $\rightarrow$ surgical decompression
+	- Hydrocephalus $\rightarrow$ _ventriculoperitoneal shunt_ operation
+	- Oedema $\rightarrow$ glucocorticoids
+- Supportive:
+	- Head elevation
+	- Fluid balance
+	- BP control
+	- Diuretics: mannitol
