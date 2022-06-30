@@ -282,15 +282,43 @@ Most types have the following clinical features:
 \includegraphics[width=.85\textwidth]{../assets/psoriasis.jpg}
 
 \pagebreak
-## Vitiligo
+## Hypopigmentation
+### Causes
+- Vitiligo
+- Albinism
+- Pityriasis alba
+- Pityriasis versicolor
+
+### Vitiligo
 - **Acquired**
 - Cell-mediated **autoimmune destruction of melanocytes**
 - Loss of melanocytes $\rightarrow$ hypopigmented patches
 
-## Albinism
+### Albinism
 - **Autosomal recessive**
 - **Reduced melanin production** by **normal number of melanocytes**
 - $\uparrow\uparrow$ risk of sunburn, skin cancer
+
+## Hyperpigmentation
+### Causes
+- **Endocrine**
+	- Melasma/chloasma:
+		- in pregnancy / some OCP users
+		- discrete patches of facial pigmentation
+	- Addison's disease
+	- Cushing's syndrome
+	- Nelson's syndrome
+		- hyper-ACTH 2$^\circ$ to bilateral adrenalectomy for Cushing's
+		- due to loss of -ve feedback from plasma cortisol
+	- CKD
+- **Drugs**
+	- Amiodarone
+	- Anti-cancers:
+		- Bleomycin: Hodgkin's
+		- Busulfan: CML
+	- Choroquine
+	- Psoralens
+
 
 ## Pseudorandom factoids
 ### SPF (sun protection factor)
@@ -353,3 +381,11 @@ $\downarrow$ \\
 	- Fluid balance
 	- BP control
 	- Diuretics: mannitol
+
+## Neurological emergencies
+- **Status epilepticus**
+- **Stroke**
+- **Subarachnoid haemorrhage**
+- **Cord compression**
+- **GBS**
+- **Myasthenia gravis** (if bulbar and/or respiratory)
