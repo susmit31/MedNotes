@@ -73,7 +73,7 @@ toccolor: gray
 #### Basic pathophys of STEMI
 - Occurs due to proximal **complete occlusion of major coronary artery**
 
-\includegraphics[width=.7\textwidth]{../assets/STEMI.jpg}
+\includegraphics[width=.5\textwidth]{../assets/STEMI.jpg}
 
 $$
 \begin{aligned}
@@ -123,10 +123,12 @@ $$
 	- Atrial fibrillation (irregular narrow complex tachycardia)
 	- Atrial flutter
 	- AV Nodal Re-entry Tachycardia (AVNRT aka SVT)
-	- AV Re-entry Tachycardia (AVRT e.g. Wolff-Parkinson-White syndrome)
 
 - **Broad complex**: QRS > 120ms (3 small sqs)
 	- Ventricular tachycardia
+	- AV Re-entry Tachycardia (AVRT e.g. Wolff-Parkinson-White syndrome)
+		- Abnormal band of conductive tissue connecting atria and ventricles
+		 (accessory pathway)
 
 ### Management of SVT
 - Carotid sinus massage or
