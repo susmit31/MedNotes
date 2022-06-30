@@ -202,6 +202,8 @@ Key components are:
 		- UVB phototherapy
 		- PDT
 
+\pagebreak
+
 ## Eczemas
 - Seborrhoeic dermatitis is associated with _Malassezia_ yeasts
 
@@ -223,7 +225,10 @@ Most types have the following clinical features:
 	- Dyspigmentation
 
 ### Management
-\includegraphics[width=1.2\textwidth]{../assets/eczema.jpg}
+\includegraphics[width=.8\textwidth]{../assets/eczema.jpg}
+
+
+\pagebreak
 
 ## Psoriasis
 - Chronic inflammatory hyperproliferative skin disease
@@ -274,7 +279,7 @@ Most types have the following clinical features:
 - **Pustular** psoriasis
 
 ### Management
-\includegraphics[width=.8\textwidth]{../assets/psoriasis.jpg}
+\includegraphics[width=.85\textwidth]{../assets/psoriasis.jpg}
 
 \pagebreak
 ## Pseudorandom factoids
