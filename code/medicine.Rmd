@@ -126,9 +126,9 @@ $$
 	- AV Re-entry Tachycardia (AVRT e.g. Wolff-Parkinson-White syndrome)
 
 - **Broad complex**: QRS > 120ms (3 small sqs)
-	- V-tach
+	- Ventricular tachycardia
 
-### SVT Management
+### Management of SVT
 - Carotid sinus massage or
 - Valsalva manoeuvre
 - If the manoeuvre fails,
@@ -152,7 +152,7 @@ $$
 - Echo: to see valvular condition
 - Thyroid function test: to exclude thyrotoxicosis
 
-### Management
+### Management of AF
 - **Rhythm control**:
 	- Pharmacological cardioversion
 		- Pt stable + no history of heart disease $\rightarrow$ IV flecainide
