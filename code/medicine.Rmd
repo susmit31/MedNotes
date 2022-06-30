@@ -131,6 +131,24 @@ geometry: margin=2cm
 	- Less common
 	- More metastatic risk $\rightarrow$ cause of most skin cancer deaths
 
+
+## Fungal infections
+### Types
+- Superficial
+	- Dermatophytes
+		- aka **ringworm / tineasis**
+		- Agents
+			- _Trichophyton_
+			- _Epidermophyton_
+			- _Microsporum_
+			
+	- Yeast
+- Deep: less common
+	- Chromomycosis
+	- Sporotrichosis
+
+
+
 ## Scabies
 ### Agent
 Caused by the mite _Sarcoptis scabies hominis_
