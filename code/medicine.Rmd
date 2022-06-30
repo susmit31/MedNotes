@@ -90,6 +90,8 @@ T inversion}\\
 \end{aligned}
 $$
 
+\pagebreak
+
 #### NSTEMI
 - **Partial occlusion of major** or **complete occlusion of minor** coronary
  artery
