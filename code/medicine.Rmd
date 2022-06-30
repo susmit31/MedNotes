@@ -116,6 +116,59 @@ $$
 	 	- asystole
 	 	- massive MI
 
+## Arrhythmias
+### Classification according to ECG morphology
+- **Narrow complex**: QRS < 120ms (3 small sqs)
+	- Sinus tachycardia
+	- Atrial fibrillation (irregular narrow complex tachycardia)
+	- Atrial flutter
+	- AV Nodal Re-entry Tachycardia (AVNRT aka SVT)
+	- AV Re-entry Tachycardia (AVRT e.g. Wolff-Parkinson-White syndrome)
+
+- **Broad complex**: QRS > 120ms (3 small sqs)
+	- V-tach
+
+### SVT Management
+- Carotid sinus massage or
+- Valsalva manoeuvre
+- If the manoeuvre fails,
+	- Adenosine (3-12mg IV) or
+	- Rate-limiting CCB (Verapamil 5mg IV) or
+	- $\beta$-blocker
+- If haemodynamic state compromised, DC cardioversion
+- Recurrent SVT $\rightarrow$ catheter ablation
+
+## Atrial fibrillation
+### Causes
+- CAD (including acute MI)
+- Mitral stenosis (MS; rheumatic mitral valve disease)
+- Hypertension
+- Thyrotoxicosis
+- Cardiomyopathy
+- Pulmonary embolism
+
+### Investigations
+- ECG
+- Echo: to see valvular condition
+- Thyroid function test: to exclude thyrotoxicosis
+
+### Management
+- **Rhythm control**:
+	- Pharmacological cardioversion
+		- Pt stable + no history of heart disease $\rightarrow$ IV flecainide
+		- Structural / ischaemic heart disease $\rightarrow$ IV amiodarone
+	- DC cardioversion if drugs fail
+- **Rate control**
+	- $\beta$-blockers
+	- Digoxin
+	- Rate-limiting CCB: verapamil / diltiazem
+- **Thromboprophylaxis:**
+	- Oral Warfarin
+	- Target INR: 2.0-3.0
+	- Reduces risk of stroke by $\frac{2}{3}$
+	- Start 4wks before cardioversion, continue till 3mo after successful
+	 cardioversion
+
 \pagebreak
 
 # Dermatology
