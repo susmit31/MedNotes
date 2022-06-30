@@ -220,6 +220,10 @@ Most types have the following clinical features:
 	- Fissures
 	- Dyspigmentation
 
+### Management
+\includegraphics[width=0.8\textwidth]{../assets/eczema.jpg}
+
+\pagebreak
 ## Pseudorandom factoids
 ### SPF (sun protection factor)
 - $\frac{\LARGE{\text{UV dose for producing erythema with sunscreen}}}
