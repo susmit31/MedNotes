@@ -135,12 +135,10 @@ geometry: margin=2cm
 ## Fungal infections
 ### Types
 - Superficial
-	- Dermatophytes
-		- aka **ringworm / tineasis**
-		- Agents
-			- _Trichophyton_
-			- _Epidermophyton_
-			- _Microsporum_
+	- Dermatophytes: aka **ringworm / tineasis**
+		- _Trichophyton_
+		- _Epidermophyton_
+		- _Microsporum_
 			
 	- Yeast
 - Deep: less common
