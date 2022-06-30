@@ -223,7 +223,7 @@ Most types have the following clinical features:
 	- Dyspigmentation
 
 ### Management
-\includegraphics[width=0.9\textwidth]{../assets/eczema.jpg}
+\includegraphics[width=1.2\textwidth]{../assets/eczema.jpg}
 
 ## Psoriasis
 - Chronic inflammatory hyperproliferative skin disease
@@ -274,7 +274,7 @@ Most types have the following clinical features:
 - **Pustular** psoriasis
 
 ### Management
-\includegraphics[width=0.9\textwidth]{../assets/psoriasis.jpg}
+\includegraphics[width=.8\textwidth]{../assets/psoriasis.jpg}
 
 \pagebreak
 ## Pseudorandom factoids
