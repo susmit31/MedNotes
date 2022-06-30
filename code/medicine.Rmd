@@ -167,6 +167,12 @@ Caused by the mite _Sarcoptis scabies hominis_
 ## Acne
 - _Chronic inflammation_ of _pilosebaceous_ units
 
+### Pathogenesis
+Key components are:
+- $\uparrow$ Sebum production
+- Colonisation of pilosebaceous ducts by _Propionibacterium acnes_
+- Occlusion of pilosebaceous ducts
+
 ## Pseudorandom factoids
 ### SPF (sun protection factor)
 - $\frac{\LARGE{\text{UV dose for producing erythema with sunscreen}}}
