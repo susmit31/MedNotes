@@ -39,7 +39,7 @@ toccolor: gray
 - Height > 1mm
 - Present in $\ge$ 2 leads
 - Assocd with loss of R height (Q > R/4; normally Q $\le$ R/4)
-- **Indicates myocardial necrosis**
+- **Indicates _transmural_ myocardial necrosis**
 
 #### Segments vs intervals
 - e.g. ST segment = end of S $\rightarrow$ start of T
@@ -71,10 +71,30 @@ toccolor: gray
 \includegraphics[width=.7\textwidth]{../assets/reciprocal-leads.jpg}
 
 #### Basic pathophys of STEMI
-\includegraphics[width=.5\textwidth]{../assets/STEMI.jpg}
+- Occurs due to proximal **complete occlusion of major coronary artery**
 
-- Occurs due to proximal **occlusion of major coronary artery**
-- Initially ST-elevation
+\includegraphics[width=.7\textwidth]{../assets/STEMI.jpg}
+
+$$
+\begin{aligned}
+&\fbox{A. Before the onset of infarction}\\
+&\downarrow\\
+&\fbox{B. In acute phase, ST elevation}\\
+&\downarrow\\
+&\fbox{C. Progressive loss of R and deepening Q}\\
+&\downarrow\\
+&\fbox{D. Resolution of ST elevation; fully developed pathological Q;
+T inversion}\\
+&\downarrow\\
+&\fbox{E. In old infarcts, T-wave inversion may or may not persist}\\
+\end{aligned}
+$$
+
+#### NSTEMI
+- **Partial occlusion of major** or **complete occlusion of minor** coronary
+ artery
+- _Subendocardial/partial-thickness MI_ $\rightarrow$ no path-Q
+- **ST depression** + **T inversion** in chest leads
 
 \pagebreak
 
