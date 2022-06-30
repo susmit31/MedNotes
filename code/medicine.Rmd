@@ -202,6 +202,24 @@ Key components are:
 		- UVB phototherapy
 		- PDT
 
+## Eczemas
+### Features
+Most types have the following clinical features:
+
+#### Acute
+- Ill-defined erythema, oedema
+- Papules, vesicles, bullae
+- Exudation
+- Scaling
+
+#### Chronic
+- Above features
+- Lichenification
+	- Skin thickening with pronounced skin markings, 2$^\circ$ to chronic
+	 scratching
+	- Fissures
+	- Dyspigmentation
+
 ## Pseudorandom factoids
 ### SPF (sun protection factor)
 - $\frac{\LARGE{\text{UV dose for producing erythema with sunscreen}}}
