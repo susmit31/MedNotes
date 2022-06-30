@@ -95,7 +95,7 @@ $$
 #### NSTEMI
 - **Partial occlusion of major** or **complete occlusion of minor** coronary
  artery
-- _Subendocardial/partial-thickness MI_ $\rightarrow$ no path-Q
+- _Subendocardial/partial-thickness MI_ $\rightarrow$ **no pathological Q**
 - **ST depression** + **T inversion** in chest leads
 
 \pagebreak
