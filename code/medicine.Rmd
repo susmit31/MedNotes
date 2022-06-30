@@ -224,7 +224,7 @@ Most types have the following clinical features:
 	- Fissures
 	- Dyspigmentation
 
-### Management
+### Management of eczema
 \includegraphics[width=.8\textwidth]{../assets/eczema.jpg}
 
 
@@ -278,7 +278,7 @@ Most types have the following clinical features:
 - **Erythrodermic** sporiasis: generalised $\rightarrow$ medical emergency
 - **Pustular** psoriasis
 
-### Management
+### Management of psoriasis
 \includegraphics[width=.85\textwidth]{../assets/psoriasis.jpg}
 
 \pagebreak
