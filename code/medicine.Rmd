@@ -145,8 +145,6 @@ geometry: margin=2cm
 	- Chromomycosis
 	- Sporotrichosis
 
-
-
 ## Scabies
 ### Agent
 Caused by the mite _Sarcoptis scabies hominis_
@@ -165,6 +163,9 @@ Caused by the mite _Sarcoptis scabies hominis_
 	- Single dose
 	- For poor adherence, immunosuppresion or heavy infestation
 
+
+## Acne
+- _Chronic inflammation_ of _pilosebaceous_ units
 
 ## Pseudorandom factoids
 ### SPF (sun protection factor)
