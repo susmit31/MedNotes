@@ -169,6 +169,7 @@ Caused by the mite _Sarcoptis scabies hominis_
 
 ### Pathogenesis
 Key components are:
+
 - $\uparrow$ Sebum production
 - Colonisation of pilosebaceous ducts by _Propionibacterium acnes_
 - Occlusion of pilosebaceous ducts
