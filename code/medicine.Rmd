@@ -203,6 +203,8 @@ Key components are:
 		- PDT
 
 ## Eczemas
+- Seborrhoeic dermatitis is associated with _Malassezia_ yeasts
+
 ### Features
 Most types have the following clinical features:
 
@@ -222,6 +224,57 @@ Most types have the following clinical features:
 
 ### Management
 \includegraphics[width=0.9\textwidth]{../assets/eczema.jpg}
+
+## Psoriasis
+- Chronic inflammatory hyperproliferative skin disease
+- **Characteristics**
+	- **Well-defined erythematous scaly plaques**
+	- Affecting **extensor surfaces, scalp, nails**
+
+### Histological features
+- Keratinocyte hyperproliferation + abnormal differentiation $\rightarrow$
+ nucleated stratum corneum cells (transit time from basale to corneum reduced
+ to 5 from 28 $\rightarrow$ keratinocytes reach the surface while immature)
+- Inflammation with Th-1 and Th-17 infiltration
+- Tortuosity of dermal capillaries and release of VEGF
+
+### Exacerbating factors
+- **Sunlight**
+- **Trauma**
+- **Infection**
+	- $\beta$-haemolytic strep $\uparrow$ guttate psoriasis
+	- HIV may initally present with severe psoriasis
+- **Drugs**
+	- Antimalarials
+	- $\beta$-blockers
+	- Lithium
+	- NSAIDs
+- **Stress and anxiety**
+
+### Clinical types
+- **Plaque** psoriasis:
+	- most common
+	- well-demarcated erythematous plaques
+	- silver-white scales in untreated
+		- bleed on scraping (due to dilated vessels underneath) $\rightarrow$
+		 **Auspitz sign**
+	- **Sites**
+		- extensor surfaces
+			- elbows
+			- knees
+			- lower back
+		- scalp
+		- nails
+- **Guttate** psoriasis:
+	- follows _Strep_ throat
+	- common in children/adolescent
+	- UVB highly effective
+	- may herald the onset of plaque psoriasis in adulthood
+- **Erythrodermic** sporiasis: generalised $\rightarrow$ medical emergency
+- **Pustular** psoriasis
+
+### Management
+\includegraphics[width=0.9\textwidth]{../assets/psoriasis.jpg}
 
 \pagebreak
 ## Pseudorandom factoids
