@@ -1,6 +1,7 @@
 % Options for packages loaded elsewhere
 \PassOptionsToPackage{unicode}{hyperref}
 \PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames*,x11names*}{xcolor}
 %
 \documentclass[
   12pt,
@@ -39,7 +40,11 @@
 \hypersetup{
   pdftitle={Medicine},
   pdfauthor={Susmit},
-  hidelinks,
+  colorlinks=true,
+  linkcolor=blue,
+  filecolor=Maroon,
+  citecolor=Blue,
+  urlcolor=red,
   pdfcreator={LaTeX via pandoc}}
 \urlstyle{same} % disable monospaced font for URLs
 \usepackage[margin=2cm]{geometry}
@@ -104,6 +109,11 @@ disease}\label{presenting-problems-in-cvs-disease}}
 \hypertarget{ecg}{%
 \section{ECG}\label{ecg}}
 
+\hypertarget{anatomy-of-an-ecg}{%
+\subsection{Anatomy of an ECG}\label{anatomy-of-an-ecg}}
+
+\includegraphics[width=0.7\textwidth]{../assets/ecg-anatomy.jpg}
+
 \hypertarget{abnormalities-of-components}{%
 \subsection{Abnormalities of
 components}\label{abnormalities-of-components}}
@@ -122,6 +132,90 @@ components}\label{abnormalities-of-components}}
 \item
   Assocd with loss of R height (Q \textgreater{} R/4; normally Q \(\le\)
   R/4)
+\item
+  \textbf{Indicates myocardial necrosis}
+\end{itemize}
+
+\hypertarget{segments-vs-intervals}{%
+\subsubsection{Segments vs intervals}\label{segments-vs-intervals}}
+
+\begin{itemize}
+\tightlist
+\item
+  e.g.~ST segment = end of S \(\rightarrow\) start of T
+\item
+  PR interval = start of P \(\rightarrow\) start of R
+\end{itemize}
+
+\hypertarget{st-segment-elevation}{%
+\subsubsection{ST segment elevation}\label{st-segment-elevation}}
+
+\begin{itemize}
+\tightlist
+\item
+  Normal: upto 1mm in limb leads, upto 2mm in chest leads
+\item
+  \textbf{Causes}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{STEMI:} \textbf{convexity} upwards
+  \item
+    \textbf{Acute periCArditis:}: \textbf{conCAvity} upwards
+  \end{itemize}
+\item
+  \textbf{Indicates ongoing myocardial injury}
+\end{itemize}
+
+\hypertarget{myocardial-infarction}{%
+\subsection{Myocardial infarction}\label{myocardial-infarction}}
+
+\href{https://www.cvphysiology.com/CAD/CAD012}{A somewhat interesting
+physiological explanation on how the changes arise}
+
+\hypertarget{sites-of-infarction-based-on-lead}{%
+\subsubsection{Sites of infarction based on
+lead}\label{sites-of-infarction-based-on-lead}}
+
+\begin{itemize}
+\tightlist
+\item
+  Septal: V\(_1\), V\(_2\)
+\item
+  Anterior: V\(_3\), V\(_4\)
+\item
+  Lateral: I, aVL, V\(_5\), V\(_6\)
+\item
+  Extensive anterior: V\(_1\)-V\(_6\)
+\item
+  Anterolateral: I, aVL, V\(_1\)-V\(_6\)
+\end{itemize}
+
+\hypertarget{reciprocal-changes}{%
+\subsubsection{Reciprocal changes}\label{reciprocal-changes}}
+
+\begin{itemize}
+\tightlist
+\item
+  Acute STEMI in some surface of the heart \(\rightarrow\) ST elevation
+  in corresponding leads, and ST depression in reciprocal leads
+\end{itemize}
+
+\includegraphics[width=.7\textwidth]{../assets/reciprocal-leads.jpg}
+
+\hypertarget{basic-pathophys-of-stemi}{%
+\subsubsection{Basic pathophys of
+STEMI}\label{basic-pathophys-of-stemi}}
+
+\includegraphics[width=.5\textwidth]{../assets/STEMI.jpg}
+
+\begin{itemize}
+\tightlist
+\item
+  Occurs due to proximal \textbf{occlusion of major coronary artery}
+\item
+  Initially ST-elevation
 \end{itemize}
 
 \pagebreak

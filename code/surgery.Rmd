@@ -6,6 +6,10 @@ documentclass: memoir
 output: pdf_document
 fontsize: 14pt
 geometry: margin=2cm
+colorlinks: true
+linkcolor: blue
+urlcolor: red
+toccolor: gray
 ---
 <!-- $\colorbox{red}{\textcolor{white}{HELLO}}$ 
 \setlrmarginsandblock{2cm}{2cm}{*}

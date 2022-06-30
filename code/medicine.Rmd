@@ -6,6 +6,10 @@ documentclass: memoir
 output: pdf_document
 fontsize: 12pt
 geometry: margin=2cm
+colorlinks: true
+linkcolor: blue
+urlcolor: red
+toccolor: gray
 ---
 
 \openany
@@ -26,12 +30,51 @@ geometry: margin=2cm
 - No other cardiac abnormalities
 
 ## ECG
+### Anatomy of an ECG
+\includegraphics[width=0.7\textwidth]{../assets/ecg-anatomy.jpg}
+
 ### Abnormalities of components
 #### Pathological Q
 - Depth > 2mm
 - Height > 1mm
 - Present in $\ge$ 2 leads
 - Assocd with loss of R height (Q > R/4; normally Q $\le$ R/4)
+- **Indicates myocardial necrosis**
+
+#### Segments vs intervals
+- e.g. ST segment = end of S $\rightarrow$ start of T
+- PR interval = start of P $\rightarrow$ start of R
+
+#### ST segment elevation
+- Normal: upto 1mm in limb leads, upto 2mm in chest leads
+- **Causes**
+	- **STEMI:** **convexity** upwards
+	- **Acute periCArditis:**: **conCAvity** upwards
+- **Indicates ongoing myocardial injury**
+
+### Myocardial infarction
+[A somewhat interesting physiological explanation on how the changes arise](
+	https://www.cvphysiology.com/CAD/CAD012
+)
+
+#### Sites of infarction based on lead
+- Septal: V$_1$, V$_2$
+- Anterior: V$_3$, V$_4$
+- Lateral: I, aVL, V$_5$, V$_6$
+- Extensive anterior: V$_1$-V$_6$
+- Anterolateral: I, aVL, V$_1$-V$_6$
+
+#### Reciprocal changes
+- Acute STEMI in some surface of the heart $\rightarrow$ ST elevation in
+ corresponding leads, and ST depression in reciprocal leads 
+ 
+\includegraphics[width=.7\textwidth]{../assets/reciprocal-leads.jpg}
+
+#### Basic pathophys of STEMI
+\includegraphics[width=.5\textwidth]{../assets/STEMI.jpg}
+
+- Occurs due to proximal **occlusion of major coronary artery**
+- Initially ST-elevation
 
 \pagebreak
 
