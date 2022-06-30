@@ -122,6 +122,34 @@ geometry: margin=2cm
 	- Causes cell membrane destruction $\rightarrow$ death
 - Laser
 
+## Skin cancers
+### Classification
+- Non-melanoma skin cancer (NMSC): most common
+	- SCC
+	- BCC
+- Melanoma
+	- Less common
+	- More metastatic risk $\rightarrow$ cause of most skin cancer deaths
+
+## Scabies
+### Agent
+Caused by the mite _Sarcoptis scabies hominis_
+
+### Diagnosis
+- Identify the skin burrow 
+- Visualize the mite by dermatoscope / extracting with a needle
+
+### Treatment
+- Affected + all asymptomatic family members / physical contacts
+- Topical permethrin / malathion
+	- 2 applications
+	- 1 wk apart
+	- Whole body, except head
+- Oral Ivermectin:
+	- Single dose
+	- For poor adherence, immunosuppresion or heavy infestation
+
+
 ## Pseudorandom factoids
 ### SPF (sun protection factor)
 - $\frac{\LARGE{\text{UV dose for producing erythema with sunscreen}}}
