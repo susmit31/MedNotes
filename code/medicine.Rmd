@@ -90,6 +90,8 @@ T inversion}\\
 \end{aligned}
 $$
 
+- ST elevation resolves after a few days
+
 \pagebreak
 
 #### NSTEMI
@@ -97,6 +99,22 @@ $$
  artery
 - _Subendocardial/partial-thickness MI_ $\rightarrow$ **no pathological Q**
 - **ST depression** + **T inversion** in chest leads
+
+## Coronary Artery Disease
+- Diseases arising due to narrowing of the lumen of one or more coronary
+ arteries and the resulting myocardial ischaemia/infarction.
+- **Types**:
+	 - Stable angina: Fixed atheromatous stenosis
+	 - Unstable angina:
+	 	- dynamic obstruction
+	 	- due to plaque rupture/erosion with thrombosis
+	 - MI
+	 - Heart failure
+	 - Arrhythmia
+	 - Sudden cardiac death
+	 	- ventricular arrhythmia
+	 	- asystole
+	 	- massive MI
 
 \pagebreak
 
