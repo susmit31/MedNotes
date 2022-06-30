@@ -282,6 +282,16 @@ Most types have the following clinical features:
 \includegraphics[width=.85\textwidth]{../assets/psoriasis.jpg}
 
 \pagebreak
+## Vitiligo
+- **Acquired**
+- Cell-mediated **autoimmune destruction of melanocytes**
+- Loss of melanocytes $\rightarrow$ hypopigmented patches
+
+## Albinism
+- **Autosomal recessive**
+- **Reduced melanin production** by **normal number of melanocytes**
+- $\uparrow\uparrow$ risk of sunburn, skin cancer
+
 ## Pseudorandom factoids
 ### SPF (sun protection factor)
 - $\frac{\LARGE{\text{UV dose for producing erythema with sunscreen}}}
