@@ -25,6 +25,14 @@ geometry: margin=2cm
 - No radiation
 - No other cardiac abnormalities
 
+## ECG
+### Abnormalities of components
+#### Pathological Q
+- Depth > 2mm
+- Height > 1mm
+- Present in $\ge$ 2 leads
+- Assocd with loss of R height (Q > R/4; normally Q $\le$ R/4)
+
 \pagebreak
 
 # Dermatology
@@ -384,7 +392,7 @@ $\downarrow$ \\
 
 ## Neurological emergencies
 - **Status epilepticus**
-- **Stroke**
+- **Stroke** (if thrombo)
 - **Subarachnoid haemorrhage**
 - **Cord compression**
 - **GBS**
