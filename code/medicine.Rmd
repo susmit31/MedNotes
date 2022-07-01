@@ -612,7 +612,7 @@ Presence of > 10$^5$ organisms/mL in a mid-stream sample of urine.
 		- Systemic sclerosis
 		- Rheumatoid arthritis
 - **Complement C3**
-	- $\downarrow$ C3 $\rightarrow$ active SLE (due to consumption of C3
+	- Active SLE $\rightarrow\;\;\downarrow$ C3  (due to consumption of C3
 	 by immune complexes)
 
 \pagebreak
