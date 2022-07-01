@@ -743,6 +743,18 @@ Continuous or recurrent **seizures** for **$\ge$ 30 mins without gain of
 \pagebreak
 
 # Diabetes Mellitus
+## Mechanism of insulin secretion
+\includegraphics[width=.7\textwidth]{../assets/insulin-secr.jpg}
+
+## Incretin effect
+For the same glucose load applied orally and IV, the oral load stimulates
+ more insulin secretion (because oral load $\rightarrow$ release of gut
+ peptides GLP-1 and GIP $\rightarrow\;\;\uparrow$ insulin secretion).
+
+\includegraphics[width=.6\textwidth]{../assets/incretin.png}
+
+
+
 ## Diabetic ketoacidosis (DKA)
 - **Medical emergency**
 - Cause of death
@@ -804,6 +816,67 @@ Continuous or recurrent **seizures** for **$\ge$ 30 mins without gain of
 
 ### Management
 \includegraphics[width=.7\textwidth]{../assets/hypogly.png}
+
+## Insulin therapy
+- Indications
+	- Type I DM
+	- Type II DM not controlled by OHA
+	- DIP / GDM
+	- DKA
+	- Hyperkalaemia
+
+### Preparations
+- **Rapid-acting** (rapid=LAG-less)
+	- Lispro
+	- Aspart
+	- Glulisine
+- **Short-acting:** soluble/regular insulin
+- **Intermediate-acting:** Isophane (I for I)
+- **Long-acting**
+	- Glargine (gLARGE-in)
+	- Detemir
+Route of administration: **subcutaneous**
+
+### Oral Hypoglycaemic Agents
+- **Biguanides**: Metformin
+	- Insulin _sensitiser_
+	- **Mechanism of action**
+		- $\downarrow$ hepatic glucose production (gluconeogenesis and
+		 glycogenolysis)
+		- $\uparrow$ gut glucose uptake & utilisation
+		- weak inhibitor of mitochondrial respiration $\rightarrow\;$
+		 $\uparrow$ AMP, $\downarrow$ ATP $\rightarrow\;\;\uparrow$
+		  glucose uptake utilisation etc.
+	- **Side effects profile**
+		- Weight neutral
+		- Non-hypoglycaemic
+		- _Lactic acidosis_
+- **Sulphonylureas**: Glibenclamide, Gliclazide, Glimepiride
+	- Insulin _secretagogue_
+	- **Mechanism of action:** Block K$^+$ channel in $\beta$-cells
+	 $\rightarrow\;\;\uparrow$ insulin secretion 
+	- **Side effects profile**
+		- Wt gain
+		- Hypoglycaemia
+- **$\alpha$-glucosidase inhibitors:** Acarbose
+	- **Mechanism of action**: delay absorption of carbs
+	- **Side effects profile**
+		- Non-hypoglycaemic
+		- Flatulence
+		- Bloating
+		- Diarrhoea
+- **Incretin-based therapies:**
+	- **DPP-4 inhibitors:** Gliptins
+		- **MoA**
+			- DPP-4: breaks down GLP-1 & GIP $\rightarrow$ inhibit incretin
+			 effect
+	- **GLP-1 receptor agonists:** Exenatide, liraglutide 
+- **Thiazolidinediones:** Pioglitazone
+	- **Mechanism of action**
+		- PPAR-$\gamma$ agonist $\rightarrow$ enhance action of insulin
+	- **Side effects profile**
+		- Non-hypoglycaemic
+		- Wt gain (increase fat cells)
 
 - Oral fast-acting carbohydrate (10-15g) e.g. glucose drink / confectionery
  / honey to buccal mucosa
