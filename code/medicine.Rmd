@@ -751,7 +751,7 @@ For the same glucose load applied orally and IV, the oral load stimulates
  more insulin secretion (because oral load $\rightarrow$ release of gut
  peptides GLP-1 and GIP $\rightarrow\;\;\uparrow$ insulin secretion).
 
-\includegraphics[width=.6\textwidth]{../assets/incretin.png}
+\includegraphics[width=.5\textwidth]{../assets/incretin.png}
 
 
 
