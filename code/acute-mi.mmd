@@ -1,0 +1,12 @@
+graph TB
+A[Immediate clinical assessment<br/>ECG<br/>Troponin]-->B["<b>Aspirin 300mg PO</b> (crush 4 tablets of 75mg)<br/><b>Clopidogrel 300mg PO</b><br/><b>Morphine</b><br/> Transfer to CCU"]
+B-->C[<b>ST elevated MI?</b>]
+C-->|Yes|D[Presented within <b>12h<br/> of symptom onset?</b>]
+C-->|No|E[Enoxaparin or LMW<br/> heparin]
+D-->|Yes|F[<b>Reperfusion therapy</b>]
+D-->|No|E
+F-->G["<b>PCI feasible within 120mins?</b>"]
+G-->|Yes|H["PCI<br/> (= angioplasty + stenting)"]
+G-->|No|I["Eligible for<br/> thrombolysis?"]
+I-->|Yes|J["Thrombolysis<br/> (alteplase / streptokinase)"]
+I-->|No|E
