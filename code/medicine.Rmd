@@ -615,6 +615,15 @@ Presence of > 10$^5$ organisms/mL in a mid-stream sample of urine.
 	- Active SLE $\rightarrow\;\;\downarrow$ C3  (due to consumption of C3
 	 by immune complexes)
 
+## Seropositive vs Seronegative arthritis
+- Seropositive: RF+ inflammatory arthritis
+	- Rheumatoid arthritis
+	- SLE
+- Seronegative: RF- inflammatory arthritis
+	- Ankylosing spondylitis
+	- Reactive arthritis
+	- Psoriatic arthropathy
+
 ## Osteoarthritis
 - Characterised by
 	- degeneration of articular cartilage
@@ -627,6 +636,28 @@ Presence of > 10$^5$ organisms/mL in a mid-stream sample of urine.
 	- PIPs
 	- DIPs
 	- cervical and lumbar spine
+- Investigations:
+	- X-ray of affected joint: findings described above in characteristics
+	- MRI spine if spine OA + suspected root compression / spinal stenosis 
+- Treatment
+	- Conservative:
+		- Wt loss
+		- Exercise
+		- NSAIDs
+		- Intraarticular glucocorticoids
+	- Surgical: if refractory
+		- Total joint replacement
+		- Osteotomy
+
+## Spondyloarthropathies
+- Asymmetrical oligoarthrites associated with HLA-B27 and typically involving
+ the spine
+	- Ankylosing spondylitis
+	- Reactive arthritis
+	- Psoriatic arthropathy
+	- Axial spondyloarthritis
+	- Entropathic spondyloarthritis (arthritis associated with IBD)
+
 
 \pagebreak
 
