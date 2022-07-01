@@ -543,6 +543,8 @@ $\downarrow$ \\
 - **GBS**
 - **Myasthenia gravis** (if bulbar and/or respiratory)
 
+\pagebreak
+
 ## Status epilepticus
 ### Definition
 Continuous or recurrent **seizures** for **$\ge$ 30 mins without gain of
