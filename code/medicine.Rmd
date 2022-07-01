@@ -781,9 +781,11 @@ Continuous or recurrent **seizures** for **$\ge$ 30 mins without gain of
 	- Else: $\frac{1}{2}$L over 15mins $\rightarrow$ reassess.
 	 If BP still < 90mmHg, repeat.
 - **Insulin therapy**: **IV** 0.1 U/kg/h
+	- Corrects hyperglycaemia & acidosis
 - **Monitor**
 	- Every 1h: 
 		- capillary blood glucose and ketone
 		- vitals: pulse, BP, resp rate, O$_2$ sat, urine output
 	- Every 2h: Venous HCO$_3^{-}$ and K$^+$
 	- Every 4h: Serum electrolytes
+- If K$^+$ is low, 40mmol/L KCl with normal saline
