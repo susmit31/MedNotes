@@ -102,7 +102,8 @@ $$
 
 ## Coronary Artery Disease
 - Diseases arising due to narrowing of the lumen of one or more coronary
- arteries and the resulting myocardial ischaemia/infarction.
+ arteries and the resulting ischaemia/infarction of the myocardium or
+ the conductive system.
 - **Types**:
 	 - Stable angina: Fixed atheromatous stenosis
 	 - Unstable angina:
@@ -496,6 +497,72 @@ $\downarrow$ \\
 
 \pagebreak
 
+# Nephrology
+## UTI
+### Definition
+Presence of > 10$^5$ organisms/mL in a mid-stream sample of urine.
+
+### Features
+- **LUTI**: cystitis/urethritis
+	- Frequency
+	- Urgency
+	- Dysuria (burning urethral pain during micturition)
+	- Haematuria
+	- Strangury (intense desire to pass more urine after voiding, due to
+	 spasm of inflamed bladder wall)
+- **UUTI**: acute pyelonephritis
+	- Fever with chills and rigor
+	- Vomiting
+	- Loin pain
+	- Renal angle tenderness
+
+### Commonly involved pathogens
+- _E. coli_: 75%
+- _Proteus_
+- _Pseudomonas_
+- _Streptococci_
+- _Staph. epidermidis_
+
+
+### Investigations
+- Dipstick test for nitrites, leucocyte esterase, and glucose
+	- Most urinary pathogens (e.g. _E. coli, Proteus_ etc) reduce nitrate to
+	 nitrite
+	- UTI $\rightarrow$ Neutrophils in urine $\rightarrow$ leucocyte esterase
+- Microscopy for WBC and organisms
+- Urine culture
+
+### Treatment
+#### Cystitis
+- **1st choice**
+	- **Trimethoprim** (200mg bds 3 days)
+	- **Nitrofurantoin** (50mg qds 3 days)
+- **Pregnancy**
+	- Nitrofurantoin (50mg qds 7 days)
+	- Cefalexin (250mg qds 7 days)
+- Avoid trimethoprim during pregnancy, and nitrofurantoin at term
+
+#### Pyelonephritis
+- **1st choice**
+	- **Cefalexin** (1g qds 14 days)
+	- **Ciprofloxacin** (500mg bds 7 days)
+- Hospitalise if no response within 24h
+
+#### Epididymo-orchitis
+- _1st choice_: Ciprofloxacin
+
+#### Acute prostatitis
+- _1st choice_: Trimethoprim
+
+### Prophylactic measures in women with recurrent UTI
+- Fluid intake $ge$ 2L/day
+- Regular complete bladder evacuation
+- Emptying the bladder before and after intercourse
+- Good personal hygiene
+- Continuous prophylactic trimethoprim (100mg) and nitrofurantoin (50 mg) at
+ night
+
+\pagebreak
 
 # Neurology
 ## Raised ICP
