@@ -823,6 +823,7 @@ For the same glucose load applied orally and IV, the oral load stimulates
 	- If still hypo, repeat upto 3 cycles
 	- Still hypo after 3 cycles $\rightarrow$ glucagon 1mg IM
 
+\pagebreak
 
 ## Insulin therapy
 - Indications
