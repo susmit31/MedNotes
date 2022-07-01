@@ -826,12 +826,12 @@ For the same glucose load applied orally and IV, the oral load stimulates
 \pagebreak
 
 ## Insulin therapy
-- Indications
-	- Type I DM
-	- Type II DM not controlled by OHA
-	- DIP / GDM
-	- DKA
-	- Hyperkalaemia
+### Indications
+- Type I DM
+- Type II DM not controlled by OHA
+- DIP / GDM
+- DKA
+- Hyperkalaemia
 
 ### Preparations
 - **Rapid-acting** (rapid=LAG-less)
