@@ -615,6 +615,19 @@ Presence of > 10$^5$ organisms/mL in a mid-stream sample of urine.
 	- Active SLE $\rightarrow\;\;\downarrow$ C3  (due to consumption of C3
 	 by immune complexes)
 
+## Osteoarthritis
+- Characterised by
+	- degeneration of articular cartilage
+	- subchondral osteosclerosis
+	- osteophyte formation at joint margin
+	- enlargement of affected joint
+- Sites
+	- hips
+	- knees
+	- PIPs
+	- DIPs
+	- cervical and lumbar spine
+
 \pagebreak
 
 # Neurology
@@ -674,6 +687,13 @@ Continuous or recurrent **seizures** for **$\ge$ 30 mins without gain of
 \includegraphics[width=.7\textwidth]{../assets/stat-epi.png}
 
 
-
+## All jerks root values
+- Biceps: C5
+- Supinator: C6
+- Triceps: C7
+- Finger (aka Hoffmann test): C8
+- Knee: L3, L4
+- Ankle: S1, S2
+- Plantar: S1 (technically not a jerk since it's a superficial reflex)
 
 \pagebreak
