@@ -741,3 +741,49 @@ Continuous or recurrent **seizures** for **$\ge$ 30 mins without gain of
 - Plantar: S1 (technically not a jerk since it's a superficial reflex)
 
 \pagebreak
+
+# Diabetes Mellitus
+## Diabetic ketoacidosis (DKA)
+- **Medical emergency**
+- Cause of death
+	- Children: cerebral oedema
+	- Adults:
+		- **Hypokalaemia**
+		- ARDS
+		- Comorbidities: acute MI, sepsis, pneumonia
+- **Cardinal biochemical features**
+	- Hyperglycaemia $\rightarrow$ osmotic diuresis $\rightarrow$ dehydration,
+	 dyselectrolytaemia
+	- Hyperketonaemia:
+		- Insulin deficiency + elevated catecholamines $\rightarrow$
+		 unrestrained lipolysis to make FFA $\rightarrow$ hepatic
+		 ketogenesis
+	- Metabolic acidosis
+### Clinical features
+- **Symptoms**
+	- Polyuria, thirst
+	- Weakness
+	- Nausea, vomiting
+	- Abdominal pain
+	- Blurred vision
+- **Signs**
+	- Dehydration
+	- Hypotension
+	- Tachycardia
+	- Air hunger / Kussmaul breathing (deep and sighing breathing)
+	- Acetone breath
+	- Delirium, drowsiness, coma
+
+### Management
+- Establish IV access
+- **Volume replacement**: 0.9% NaCl 
+	- If systolic BP $\ge$ 90mmHg: 1L over 1h
+	- Else: $\frac{1}{2}$L over 15mins $\rightarrow$ reassess.
+	 If BP still < 90mmHg, repeat.
+- **Insulin therapy**: **IV** 0.1 U/kg/h
+- **Monitor**
+	- Every 1h: 
+		- capillary blood glucose and ketone
+		- vitals: pulse, BP, resp rate, O$_2$ sat, urine output
+	- Every 2h: Venous HCO$_3^{-}$ and K$^+$
+	- Every 4h: Serum electrolytes
