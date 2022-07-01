@@ -658,6 +658,16 @@ Presence of > 10$^5$ organisms/mL in a mid-stream sample of urine.
 	- Axial spondyloarthritis
 	- Entropathic spondyloarthritis (arthritis associated with IBD)
 
+### Reactive arthritis
+- "Reactive" to certain infections e.g. _Chlamydia, Campylobacter
+ Salmonella, Shigella_.
+- **Reiter's syndrome**:
+	- Triad of _can't see, can't pee, can't bend the knee_
+		- **Conjunctivitis**
+		- **Urethritis**
+		- **Reactive arthritis**
+	- Due to _Chlamydia_
+	
 
 \pagebreak
 
