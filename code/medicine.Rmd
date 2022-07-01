@@ -657,6 +657,10 @@ Presence of > 10$^5$ organisms/mL in a mid-stream sample of urine.
 	- Psoriatic arthropathy
 	- Axial spondyloarthritis
 	- Entropathic spondyloarthritis (arthritis associated with IBD)
+- Common features:
+	- Asymmetric oligoarthritis
+	- Sacroilitis
+	- Enthesitis (inflammation where tendon attaches to bone)
 
 ### Reactive arthritis
 - "Reactive" to certain infections e.g. _Chlamydia, Campylobacter
@@ -667,7 +671,6 @@ Presence of > 10$^5$ organisms/mL in a mid-stream sample of urine.
 		- **Urethritis**
 		- **Reactive arthritis**
 	- Due to _Chlamydia_
-	
 
 \pagebreak
 
