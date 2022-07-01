@@ -564,6 +564,59 @@ Presence of > 10$^5$ organisms/mL in a mid-stream sample of urine.
 
 \pagebreak
 
+# Rheumatology
+## Investigations of musculoskeletal disease
+### Joint fluid aspiration
+- Normal:
+	- Amount small
+	- Viscosity high
+	- Colourless / pale yellow
+- Inflammation:
+	- Amount raised
+	- Viscosity lowered (due to enzymatic degradation of hyaluronan & aggrecan)
+	- Turbid (due to neutrophils)
+- Crystal-induced arthropathies
+	- Crystals seen by polarised light microscopy
+	- Urate crystals $\rightarrow$ long, needle shaped, -ve birefringence
+	- Ca pyrophosphate crystals $\rightarrow$ small, rhomboid, +ve
+	 birefringence
+### Bone scintigraphy
+- Dx of metastatic bone disease and Paget's
+- $^99$Tc radiolabelled bisphosphonate used
+
+### DEXA (Dual Emission X-ray Absorptiometry)
+- Measure BMD (bone mineral density)
+	- < -2.5 $\rightarrow$ osteoporosis
+	- Between -2.5 and -1 $\rightarrow$ osteopoenia
+	- \> 2.5 $\rightarrow$ high bone mass (most common cause osteoarthritis)
+
+### Immunology
+- **RF**
+	- Antibody to Fc fragment of human Ig
+	- 70% sensitive for RA (if nodules & extra-articular manifestations
+	 then 100% sensitive); specificity poor
+	- **RF +ve diseases**
+		- Rheumatoid arthritis
+		- Sjogren's syndrome
+		- SLE
+		- Old age (> 65)
+- **ACPA**
+	- Antibody to peptides in which arginine has been converted to citrulline
+	 by peptidylarginine deiminase, an enzyme abundant in inflamed synovium.
+	- 70% sensitive, >95% specific for RA
+- **ANA** (antinuclear antibodies)
+	- 100% sensitive for SLE but poor specificity
+	- **ANA +ve diseases**
+		- SLE
+		- Sjogren's
+		- Systemic sclerosis
+		- Rheumatoid arthritis
+- **Complement C3**
+	- $\downarrow$ C3 $\rightarrow$ active SLE (due to consumption of C3
+	 by immune complexes)
+
+\pagebreak
+
 # Neurology
 ## Raised ICP
 - Normal ICP = **5-15 mmHg**
