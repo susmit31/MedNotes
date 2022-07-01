@@ -542,3 +542,16 @@ $\downarrow$ \\
 - **Cord compression**
 - **GBS**
 - **Myasthenia gravis** (if bulbar and/or respiratory)
+
+## Status epilepticus
+### Definition
+Continuous or recurrent **seizures** for **$\ge$ 30 mins without gain of
+ consciousness** in between.
+
+### Management
+\includegraphics[width=.7\textwidth]{../assets/stat-epi.png}
+
+
+
+
+\pagebreak
