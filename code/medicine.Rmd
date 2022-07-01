@@ -803,6 +803,8 @@ Continuous or recurrent **seizures** for **$\ge$ 30 mins without gain of
 	- Incoordination
 
 ### Management
+\includegraphics[width=.7\textwidth]{../assets/hypogly.png}
+
 - Oral fast-acting carbohydrate (10-15g) e.g. glucose drink / confectionery
  / honey to buccal mucosa
 - Repeat capillary glucose measurement 10-15mins later

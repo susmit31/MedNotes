@@ -1,0 +1,6 @@
+graph TB
+
+A[Patient conscious?]-->|Yes|B["Oral glucose 15-20g <br/>(drink / honey / confectionery)"]
+A-->|No|C["200mL 10% dextrose IV<br/>over 15 mins"]
+B & C-->D["Repeat capillary glucose<br/>measurement after<br/>15 minutes"]
+D-->|Still hypo?|E[Repeat as per patient's status]
