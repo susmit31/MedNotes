@@ -817,6 +817,13 @@ For the same glucose load applied orally and IV, the oral load stimulates
 ### Management
 \includegraphics[width=.7\textwidth]{../assets/hypogly.png}
 
+- Oral fast-acting carbohydrate (10-15g) e.g. glucose drink / confectionery
+ / honey to buccal mucosa
+- Repeat capillary glucose measurement 10-15mins later
+	- If still hypo, repeat upto 3 cycles
+	- Still hypo after 3 cycles $\rightarrow$ glucagon 1mg IM
+
+
 ## Insulin therapy
 - Indications
 	- Type I DM
@@ -877,9 +884,3 @@ Route of administration: **subcutaneous**
 	- **Side effects profile**
 		- Non-hypoglycaemic
 		- Wt gain (increase fat cells)
-
-- Oral fast-acting carbohydrate (10-15g) e.g. glucose drink / confectionery
- / honey to buccal mucosa
-- Repeat capillary glucose measurement 10-15mins later
-	- If still hypo, repeat upto 3 cycles
-	- Still hypo after 3 cycles $\rightarrow$ glucagon 1mg IM
