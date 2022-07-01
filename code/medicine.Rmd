@@ -775,8 +775,8 @@ Continuous or recurrent **seizures** for **$\ge$ 30 mins without gain of
 	- Delirium, drowsiness, coma
 
 ### Management
-- Establish IV access
-- **Volume replacement**: 0.9% NaCl 
+- **Establish IV access**
+- **Volume replacement: 0.9% NaCl **
 	- If systolic BP $\ge$ 90mmHg: 1L over 1h
 	- Else: $\frac{1}{2}$L over 15mins $\rightarrow$ reassess.
 	 If BP still < 90mmHg, repeat.
