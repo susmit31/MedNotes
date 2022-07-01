@@ -885,3 +885,9 @@ Route of administration: **subcutaneous**
 	- **Side effects profile**
 		- Non-hypoglycaemic
 		- Wt gain (increase fat cells)
+- **SGLT-2 inhibitors:** empagliflozin, dapagliflozin
+	- **MoA:** inhibit reabsorption of glucose in renal tubules $\rightarrow$
+	 25% of filtered glucose excreted
+	- Resulting glycosuria can lead to genital fungal infections
+	- Empagliflozin $\rightarrow$ 35% reduced mortality in heart failure
+	
