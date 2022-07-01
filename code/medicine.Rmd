@@ -555,7 +555,7 @@ Presence of > 10$^5$ organisms/mL in a mid-stream sample of urine.
 - _1st choice_: Trimethoprim
 
 ### Prophylactic measures in women with recurrent UTI
-- Fluid intake $ge$ 2L/day
+- Fluid intake $\ge$ 2L/day
 - Regular complete bladder evacuation
 - Emptying the bladder before and after intercourse
 - Good personal hygiene
