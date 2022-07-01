@@ -176,7 +176,7 @@ $$
 ## Myocardial Infarction
 
 ### Management of acute MI
-\includegraphics[width=.8\textwidth]{../assets/MI-mx.png}
+\includegraphics[width=.7\textwidth]{../assets/MI-mx.png}
 
 \pagebreak
 
