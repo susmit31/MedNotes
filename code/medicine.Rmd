@@ -789,3 +789,22 @@ Continuous or recurrent **seizures** for **$\ge$ 30 mins without gain of
 	- Every 2h: Venous HCO$_3^{-}$ and K$^+$
 	- Every 4h: Serum electrolytes
 - If K$^+$ is low, 40mmol/L KCl with normal saline
+
+## Hypoglycaemia
+### Features
+- **Autonomic**
+	- Sweating
+	- Trembling
+	- Palpitations
+- **Neuroglycopoenic**
+	- Delirium
+	- Drowsiness
+	- Speech difficulty
+	- Incoordination
+
+### Management
+- Oral fast-acting carbohydrate (10-15g) e.g. glucose drink / confectionery
+ / honey to buccal mucosa
+- Repeat capillary glucose measurement 10-15mins later
+	- If still hypo, repeat upto 3 cycles
+	- Still hypo after 3 cycles $\rightarrow$ glucagon 1mg IM
