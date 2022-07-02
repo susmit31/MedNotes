@@ -143,12 +143,15 @@ $$
 
 ## Atrial fibrillation
 ### Causes
-- CAD (including acute MI)
-- Mitral stenosis (MS; rheumatic mitral valve disease)
-- Hypertension
-- Thyrotoxicosis
-- Cardiomyopathy
-- Pulmonary embolism
+- **Cardiac**
+	- CAD (including acute MI)
+	- Mitral stenosis (MS; rheumatic mitral valve disease)
+	- Hypertension
+	- Cardiomyopathy
+- **Non-cardiac**
+	- Thyrotoxicosis
+	- Pulmonary embolism
+	- Pneumonia
 
 ### Investigations
 - ECG
