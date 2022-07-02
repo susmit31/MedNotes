@@ -746,6 +746,32 @@ Continuous or recurrent **seizures** for **$\ge$ 30 mins without gain of
 
 \pagebreak
 
+## Subarachnoid haemorrhage
+### Causes
+- Ruptured berry aneurysm (85%)
+- Arterio-venous malformations
+
+### Features
+- Sudden severe "thunderclap" headache (often occipital)
+- Vomiting
+- High BP
+- Neck stiffness
+- May be loss of consciousness
+- Photophobia
+
+### Investigations
+- CT scan: hyperdense material in the subarachnoid space
+- Lumbar puncture: blood, xanthochromia
+
+### Management
+- **Nimodipine** 30-60mg IV for 5-14d, followed by 360mg oral for 7d
+	- _prevents delayed ischaemia_
+- Insertion of **Pt coils** into aneurysm
+- **Surgical clipping** of the neck of the aneurysm
+- Surgical removal if AVM
+
+\pagebreak
+
 # Diabetes Mellitus
 ## Mechanism of insulin secretion
 \includegraphics[width=.7\textwidth]{../assets/insulin-secr.jpg}
