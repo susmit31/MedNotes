@@ -924,3 +924,44 @@ Route of administration: **subcutaneous**
 	- Anorexia nervosa
 	- Bulimia nervosa
 	- Alcoholism
+
+
+# Haematology
+## Chronic myeloid leukaemia (CML)
+Defining characteristic: **Philadelphia chromosome**
+
+- Shortened chr22 by _reciprocal translocation_ with chr9
+- Results in **BCR-ABL fusion gene**
+- BCR-ABL codes for a **tyrosine kinase** which influences cell
+ proliferation and survival
+
+### Features
+- Wt loss
+- Lethargy
+- Abdominal discomfort
+- Splenomegaly
+- Hepatomegaly
+
+### Phases
+- Chronic
+- Accelerated
+- Blastic crisis
+
+### Investigations
+- CBC: anaemia, leucocytosis
+- PBF: full range of granulocytic precursors, from _myeloblasts_ to _mature
+ neutrophils_. Predominant: neutrophils and myelocytes. Myeloblasts < 10%.
+- Bone marrow examination
+- Chromosome analysis to detect Ph chromosome
+
+### Management
+#### Chronic phase
+- **1st line: Tyrosine kinase inhibitors (TKIs):** normalise blood count
+ within a month, complete cytogenetic response (disappearance of Ph chr)
+ within 6 months in 90% patients. Resample bone marrow at 6mo to confirm.
+ Thereafter monitor 3-monthly by RT-PCR for BCR-ABL mRNA transcripts.
+	- **Imatinib**
+	- **Dasatinib**
+	- **Nilotinib**
+- Allogeneic HSC transplant: if TKI fails
+- Hydroxycarbamide
