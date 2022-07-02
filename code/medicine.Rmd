@@ -948,12 +948,15 @@ Defining characteristic: **Philadelphia chromosome**
 - Blastic crisis
 
 ### Investigations
-- CBC: anaemia, leucocytosis
-- PBF: full range of granulocytic precursors, from _myeloblasts_ to _mature
+- **CBC:** anaemia, leucocytosis
+- **PBF:** full range of granulocytic precursors, from _myeloblasts_ to _mature
  neutrophils_. Predominant: neutrophils and myelocytes. Myeloblasts < 10%.
-- Bone marrow examination: 
-	- Hypercellular marrow with increased myeloid precursors
-	- Chromosome analysis to detect Ph chromosome
+- **Bone marrow examination: **
+	- Hypercellular marrow
+	- $\uparrow$ M/E ratio
+	- $\downarrow$ erythrpoiesis
+	- $\uparrow$ leucopoiesis
+- **Chromosome analysis** to detect Ph chromosome
 
 ### Management
 #### Chronic phase
