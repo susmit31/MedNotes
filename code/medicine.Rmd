@@ -964,5 +964,6 @@ Defining characteristic: **Philadelphia chromosome**
 	  (disappearance of Ph chr) within 6 months in 90% patients. Resample
 	  bone marrow at 6mo to confirm. Thereafter monitor 3-monthly by RT-PCR
 	  for BCR-ABL mRNA transcripts.
-- Allogeneic HSC transplant: if TKI fails
-- Hydroxycarbamide
+- **Allogeneic HSC transplant:** if TKI fails
+- **Hydroxycarbamide**
+- **Interferon:** in pregnancy
