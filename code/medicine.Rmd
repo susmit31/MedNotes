@@ -896,3 +896,30 @@ Route of administration: **subcutaneous**
 	- Resulting glycosuria can lead to genital fungal infections
 	- Empagliflozin $\rightarrow$ 35% reduced mortality in heart failure
 	
+
+# Gastrointestinal diseases
+## Weight loss
+### Causes
+- **Endocrine**
+	- DM (more in type I)
+	- Thyrotoxicosis
+	- Addison's
+- **GI**
+	- Any cause of dysphagia e.g.
+		- Stroke
+		- MS
+		- Ca oesophagus
+		- Achalasia cardia
+		- Plummer-Vinson syndrome (oesophageal webs+IDA)
+	- Malabsorption syndrome
+		- IBD
+		- Chronic pancreatitis (due to enzyme insufficiency)
+		- Coeliac disease
+- **Chronic infection**
+	- TB
+	- AIDS
+- **Psychological**
+	- Depression
+	- Anorexia nervosa
+	- Bulimia nervosa
+	- Alcoholism
