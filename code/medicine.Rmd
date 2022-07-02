@@ -930,7 +930,7 @@ Route of administration: **subcutaneous**
 ## Chronic myeloid leukaemia (CML)
 Defining characteristic: **Philadelphia chromosome**
 
-- Shortened chr22 by _reciprocal translocation_ with chr9
+- Shortened **chr22** by _reciprocal translocation_ with **chr9**
 - Results in **BCR-ABL fusion gene**
 - BCR-ABL codes for a **tyrosine kinase** which influences cell
  proliferation and survival
@@ -949,8 +949,11 @@ Defining characteristic: **Philadelphia chromosome**
 
 ### Investigations
 - **CBC:** anaemia, leucocytosis
-- **PBF:** full range of granulocytic precursors, from _myeloblasts_ to _mature
- neutrophils_. Predominant: neutrophils and myelocytes. Myeloblasts < 10%.
+- **PBF:**
+	- Full range of granulocytic precursors, from _myeloblasts_ to _mature
+ neutrophils_. 
+ 	- Predominant: neutrophils and myelocytes.
+ 	- Myeloblasts < 10%.
 - **Bone marrow examination: **
 	- Hypercellular marrow
 	- $\uparrow$ M/E ratio
