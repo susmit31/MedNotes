@@ -778,7 +778,7 @@ Continuous or recurrent **seizures** for **$\ge$ 30 mins without gain of
 
 ## Subacute combined degeneration
 ### Features
-- **Peripheral neuropathy**
+- **Peripheral neuropathy**: due to **demyelination**
 - Signs of **dorsal column lesion**: **position and vibration sense lost**
 - Signs of **pyramidal lesion**:
 	- **plantar extensor**
