@@ -951,7 +951,8 @@ Defining characteristic: **Philadelphia chromosome**
 - CBC: anaemia, leucocytosis
 - PBF: full range of granulocytic precursors, from _myeloblasts_ to _mature
  neutrophils_. Predominant: neutrophils and myelocytes. Myeloblasts < 10%.
-- Bone marrow examination
+- Bone marrow examination: hypercellular marrow with increased myeloid
+ precursors
 - Chromosome analysis to detect Ph chromosome
 
 ### Management
