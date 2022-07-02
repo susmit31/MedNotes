@@ -1012,3 +1012,47 @@ Defining characteristic: **Philadelphia chromosome**
 - **Allogeneic HSC transplant:** if TKI fails
 - **Hydroxycarbamide**
 - **Interferon:** in pregnancy
+
+\pagebreak
+
+# Nutritional diseases
+## Vitamins
+### B$_1$ (thiamin) deficiency
+#### Functions of thiamin
+- Cofactor in different pathways of aerobic metabolism of glucose
+	- decarboxylation of pyruvate to acetyl-coA (so bridge between glycolysis
+	 and Krebs)
+	- decarboxylation of $\alpha$-ketoglutarate to succinate in Krebs
+
+#### Features
+- For its pivotal role in aerobic glucose meta, the largest blow is dealt
+ to the tissues most dependent on glucose - the **brain** and the **heart**.
+- **Beri-beri**
+	- **Dry:** Neurological beri-beri
+		- Peripheral neuropathy
+		- Wrist/foot drop
+		- **Korsakoff's psychosis**
+		- **Wernicke's encephalopathy**
+	- **Wet:** Cardiac beri-beri (wet as it causes generalised oedema)
+		- Biventricular failure
+		- Generalised oedema
+		- Pulmonary oedema
+
+#### Treatment
+- Wet and Wernicke's should be treated by IV vit-B and C mixture
+- Korsakoff's: irreversible, nonresponsive to thiamin
+	
+
+### B$_12$ deficiency
+#### Functions of B$_12$
+- Recycles folate $\rightarrow$ essential for **cell division**
+ (especially in RBC)
+- **Myelination**
+
+#### Features
+- Megaloblastic anaemia
+- **Neurologic features**
+	- Peripheral neuropathy
+	- Autonomic neuropathy
+	- Optic atropy
+	- Subacute combined degeneration of spinal cord
