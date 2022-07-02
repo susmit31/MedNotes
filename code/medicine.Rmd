@@ -787,6 +787,7 @@ Continuous or recurrent **seizures** for **$\ge$ 30 mins without gain of
 	 first, the afferent pathway for ankle jerk is damaged by the PN while
 	 the same for knee jerk is not. Combined with the corticospinal tract
 	 lesion, this makes knee jerks brisk and ankle jerks absent.
+- **Optic atrophy**:  death of retinal ganglion cell axons
 
 \pagebreak
 # Diabetes Mellitus
@@ -1068,3 +1069,9 @@ Defining characteristic: **Philadelphia chromosome**
 	- Autonomic neuropathy
 	- Optic atropy
 	- Subacute combined degeneration of spinal cord
+
+#### Treatment
+- Vit-B$_{12}$ IM
+- If combined folate and B$_{12}$ deficiency, only folate should not be
+ given without B$_{12}$, as B$_{12}$ gets used up in folate recycling,
+ deteriorating the B$_{12}$ deficiency symptoms. Always give both together.
