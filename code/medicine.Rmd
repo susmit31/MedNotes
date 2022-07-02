@@ -36,6 +36,9 @@ toccolor: gray
 - **Ethambutol:**
 	- Retrobulbar neuritis (reversible)
 	- Arthralgia
+- **Streptomycin:**
+	- Ototoxicity (8th nerve palsy)
+	- Rash
 
 
 \pagebreak
