@@ -776,8 +776,19 @@ Continuous or recurrent **seizures** for **$\ge$ 30 mins without gain of
 - **Surgical clipping** of the neck of the aneurysm
 - Surgical removal if AVM
 
-\pagebreak
+## Subacute combined degeneration
+### Features
+- **Peripheral neuropathy**
+- Signs of **dorsal column lesion**: **position and vibration sense lost**
+- Signs of **pyramidal lesion**:
+	- **plantar extensor**
+	- **knee jerk brisk**
+	- **ankle jerk absent**: as peripheral neuropathy affects longer nerves
+	 first, the afferent pathway for ankle jerk is damaged by the PN while
+	 the same for knee jerk is not. Combined with the corticospinal tract
+	 lesion, this makes knee jerks brisk and ankle jerks absent.
 
+\pagebreak
 # Diabetes Mellitus
 ## Mechanism of insulin secretion
 \includegraphics[width=.7\textwidth]{../assets/insulin-secr.jpg}
@@ -1050,7 +1061,8 @@ Defining characteristic: **Philadelphia chromosome**
 - **Myelination**
 
 #### Features
-- Megaloblastic anaemia
+- **Megaloblastic anaemia**
+- **Glossitis**
 - **Neurologic features**
 	- Peripheral neuropathy
 	- Autonomic neuropathy
