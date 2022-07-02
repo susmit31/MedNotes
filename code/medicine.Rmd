@@ -19,7 +19,26 @@ toccolor: gray
 
 \pagebreak
 
+# Respiratory medicine
+## Tuberculosis
+### Side effects of anti-TB drugs
+- Isoniazid:
+	- Hepatitis
+	- Rash
+	- B$_6$ deficiency $\rightarrow$ peripheral neuropathy (so pyridoxine
+	 supplement required during therapy)
+- Rifampicin:
+	- Hepatitis
+	- Rash
+- Pyrazinamide:
+	- Hepatitis
+	- Hyperuricaemia (rarely turns into gout)
+- Ethambutol:
+	- Retrobulbar neuritis (reversible)
+	- Arthralgia
 
+
+\pagebreak
 # Cardiology
 ## Presenting problems in CVS disease
 ### Features of benign murmur
