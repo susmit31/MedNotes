@@ -1043,8 +1043,8 @@ Defining characteristic: **Philadelphia chromosome**
 - Korsakoff's: irreversible, nonresponsive to thiamin
 	
 
-### B$_12$ deficiency
-#### Functions of B$_12$
+### B$_{12}$ deficiency
+#### Functions of B$_{12}$
 - Recycles folate $\rightarrow$ essential for **cell division**
  (especially in RBC)
 - **Myelination**
