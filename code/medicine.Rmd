@@ -439,6 +439,12 @@ Most types have the following clinical features:
 ### Management of psoriasis
 \includegraphics[width=.85\textwidth]{../assets/psoriasis.jpg}
 
+### Complications
+- Psoriatic arthropathy
+- Exfoliative dermatitis
+- Secondary infection
+- Hyperuricaemia and gout
+
 \pagebreak
 ## Hypopigmentation
 ### Causes
@@ -922,6 +928,12 @@ Route of administration: **subcutaneous**
 	- Resulting glycosuria can lead to genital fungal infections
 	- Empagliflozin $\rightarrow$ 35% reduced mortality in heart failure
 	
+\pagebreak
+
+## Diabetic retinopathy
+\includegraphics[width=.8\textwidth]{../assets/diabetic-retino.png}
+
+\pagebreak
 
 # Gastrointestinal diseases
 ## Weight loss
