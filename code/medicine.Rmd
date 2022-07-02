@@ -915,6 +915,7 @@ Route of administration: **subcutaneous**
 		- IBD
 		- Chronic pancreatitis (due to enzyme insufficiency)
 		- Coeliac disease
+- **Malignancies**
 - **Chronic infection**
 	- TB
 	- AIDS
