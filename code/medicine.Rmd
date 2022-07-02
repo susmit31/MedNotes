@@ -22,18 +22,18 @@ toccolor: gray
 # Respiratory medicine
 ## Tuberculosis
 ### Side effects of anti-TB drugs
-- Isoniazid:
+- **Isoniazid:**
 	- Hepatitis
 	- Rash
 	- B$_6$ deficiency $\rightarrow$ peripheral neuropathy (so pyridoxine
 	 supplement required during therapy)
-- Rifampicin:
+- **Rifampicin:**
 	- Hepatitis
 	- Rash
-- Pyrazinamide:
+- **Pyrazinamide:**
 	- Hepatitis
 	- Hyperuricaemia (rarely turns into gout)
-- Ethambutol:
+- **Ethambutol:**
 	- Retrobulbar neuritis (reversible)
 	- Arthralgia
 
