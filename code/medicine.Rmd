@@ -829,7 +829,29 @@ Continuous or recurrent **seizures** for **$\ge$ 30 mins without gain of
 	\end{subfigure}
 \end{figure}
 
-###
+- During development, the spine grows faster than the spinal cord, which
+ is why the spinal nerves exit the spinal column at increasingly oblique
+ angles.
+- The spinal cord ends as the tapered conus medullaris at around L1.
+
+\pagebreak
+
+### Relevant physiology
+- S2-4:
+	- Parasympathetic fibres for bladder sphincter (activation causes
+	 emptying)
+	- Somatic fibres for pudendal nerves (activation causes relaxation of
+	 urethral and anal sphincters $\rightarrow$ emptying).
+- Conus is surrounded by spinal nerve roots bundled up together around it,
+ so injury / compression in this region leads to a combination of UMN
+ and LMN lesion features.
+- Lesion in the cauda region leads only to LMN lesion features as there's
+ no cord there.
+
+### Features of Cauda Equina syndrome vs Conus Medullaris syndrome
+\includegraphics[width=.9\linewidth]{../assets/med/cauda-vs-conus.png}
+
+
 
 \pagebreak
 # Diabetes Mellitus
