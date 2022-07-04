@@ -821,6 +821,7 @@ Continuous or recurrent **seizures** for **$\ge$ 30 mins without gain of
 	\centering
 	\begin{subfigure}[b]{.4\linewidth}
 		\includegraphics[width=\linewidth]{../assets/med/cauda.jpg}
+		\vspace*{10mm}
 		\caption{The Conus and the Cauda}
 	\end{subfigure}\hfill
 	\begin{subfigure}[b]{.4\linewidth}
