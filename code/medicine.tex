@@ -65,10 +65,12 @@
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 \setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{graphicx}
+\usepackage{subcaption}
 
 \title{Medicine}
 \author{Susmit}
-\date{2022-07-02}
+\date{2022-07-04}
 
 \begin{document}
 \frontmatter
@@ -181,7 +183,7 @@ disease}\label{presenting-problems-in-cvs-disease}}
 \hypertarget{anatomy-of-an-ecg}{%
 \subsection{Anatomy of an ECG}\label{anatomy-of-an-ecg}}
 
-\includegraphics[width=0.7\textwidth]{../assets/ecg-anatomy.jpg}
+\includegraphics[width=0.7\textwidth]{../assets/med/ecg-anatomy.jpg}
 
 \hypertarget{abnormalities-of-components}{%
 \subsection{Abnormalities of
@@ -271,7 +273,7 @@ lead}\label{sites-of-infarction-based-on-lead}}
   in corresponding leads, and ST depression in reciprocal leads
 \end{itemize}
 
-\includegraphics[width=.7\textwidth]{../assets/reciprocal-leads.jpg}
+\includegraphics[width=.7\textwidth]{../assets/med/reciprocal-leads.jpg}
 
 \hypertarget{basic-pathophys-of-stemi}{%
 \subsubsection{Basic pathophys of
@@ -284,7 +286,7 @@ STEMI}\label{basic-pathophys-of-stemi}}
   artery}
 \end{itemize}
 
-\includegraphics[width=.5\textwidth]{../assets/STEMI.jpg}
+\includegraphics[width=.5\textwidth]{../assets/med/STEMI.jpg}
 
 \[
 \begin{aligned}
@@ -552,7 +554,7 @@ morphology}\label{classification-according-to-ecg-morphology}}
 \hypertarget{management-of-acute-mi}{%
 \subsection{Management of acute MI}\label{management-of-acute-mi}}
 
-\includegraphics[width=.7\textwidth]{../assets/MI-mx.png}
+\includegraphics[width=.7\textwidth]{../assets/med/MI-mx.png}
 
 \pagebreak
 
@@ -1151,7 +1153,7 @@ Most types have the following clinical features:
 \hypertarget{management-of-eczema}{%
 \subsection{Management of eczema}\label{management-of-eczema}}
 
-\includegraphics[width=.8\textwidth]{../assets/eczema.jpg}
+\includegraphics[width=.8\textwidth]{../assets/med/eczema.jpg}
 
 \pagebreak
 
@@ -1297,7 +1299,7 @@ Most types have the following clinical features:
 \hypertarget{management-of-psoriasis}{%
 \subsection{Management of psoriasis}\label{management-of-psoriasis}}
 
-\includegraphics[width=.85\textwidth]{../assets/psoriasis.jpg}
+\includegraphics[width=.85\textwidth]{../assets/med/psoriasis.jpg}
 
 \hypertarget{complications}{%
 \subsection{Complications}\label{complications}}
@@ -2038,13 +2040,13 @@ arthritis}\label{seropositive-vs-seronegative-arthritis}}
     \end{itemize}
   \end{itemize}
 \item
+  \textbf{Depressed consciousness}
+\item
   \textbf{Papilloedema}
 \item
   \textbf{Bradycardia}
 \item
   \textbf{Hypertension}
-\item
-  \textbf{Depressed consciousness}
 \end{itemize}
 
 \hypertarget{management-1}{%
@@ -2114,7 +2116,7 @@ without gain of consciousness} in between.
 \hypertarget{management-2}{%
 \subsection{Management}\label{management-2}}
 
-\includegraphics[width=.7\textwidth]{../assets/stat-epi.png}
+\includegraphics[width=.7\textwidth]{../assets/med/stat-epi.png}
 
 \hypertarget{all-jerks-root-values}{%
 \section{All jerks root values}\label{all-jerks-root-values}}
@@ -2241,6 +2243,27 @@ degeneration}\label{subacute-combined-degeneration}}
 
 \pagebreak
 
+\hypertarget{cauda-equina-and-conus-medullaris-lesions}{%
+\section{Cauda equina and Conus medullaris
+lesions}\label{cauda-equina-and-conus-medullaris-lesions}}
+
+\hypertarget{anatomy}{%
+\subsection{Anatomy}\label{anatomy}}
+
+\begin{figure}[h!]
+    \centering
+    \begin{subfigure}[b]{.4\linewidth}
+        \includegraphics[width=\linewidth]{../assets/med/cauda.jpg}
+        \caption{The Conus and the Cauda}
+    \end{subfigure}\hfill
+    \begin{subfigure}[b]{.4\linewidth}
+        \includegraphics[width=\linewidth]{../assets/med/cauda-2.jpg}
+        \caption{Vertebrae with corresponding spinal cord segments}
+    \end{subfigure}
+\end{figure}
+
+\pagebreak
+
 \hypertarget{diabetes-mellitus}{%
 \chapter{Diabetes Mellitus}\label{diabetes-mellitus}}
 
@@ -2248,7 +2271,7 @@ degeneration}\label{subacute-combined-degeneration}}
 \section{Mechanism of insulin
 secretion}\label{mechanism-of-insulin-secretion}}
 
-\includegraphics[width=.7\textwidth]{../assets/insulin-secr.jpg}
+\includegraphics[width=.7\textwidth]{../assets/med/insulin-secr.jpg}
 
 \hypertarget{incretin-effect}{%
 \section{Incretin effect}\label{incretin-effect}}
@@ -2258,7 +2281,7 @@ stimulates more insulin secretion (because oral load \(\rightarrow\)
 release of gut peptides GLP-1 and GIP \(\rightarrow\;\;\uparrow\)
 insulin secretion).
 
-\includegraphics[width=.5\textwidth]{../assets/incretin.png}
+\includegraphics[width=.5\textwidth]{../assets/med/incretin.png}
 
 \hypertarget{diabetic-ketoacidosis-dka}{%
 \section{Diabetic ketoacidosis (DKA)}\label{diabetic-ketoacidosis-dka}}
@@ -2440,7 +2463,7 @@ insulin secretion).
 \hypertarget{management-5}{%
 \subsection{Management}\label{management-5}}
 
-\includegraphics[width=.7\textwidth]{../assets/hypogly.png}
+\includegraphics[width=.7\textwidth]{../assets/med/hypogly.png}
 
 \begin{itemize}
 \tightlist
@@ -2665,7 +2688,7 @@ insulin secretion).
 \hypertarget{diabetic-retinopathy}{%
 \section{Diabetic retinopathy}\label{diabetic-retinopathy}}
 
-\includegraphics[width=.8\textwidth]{../assets/diabetic-retino.png}
+\includegraphics[width=.8\textwidth]{../assets/med/diabetic-retino.png}
 
 \pagebreak
 
