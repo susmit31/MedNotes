@@ -818,7 +818,6 @@ Continuous or recurrent **seizures** for **$\ge$ 30 mins without gain of
 ## Cauda equina and Conus medullaris lesions
 ### Anatomy
 \begin{figure}[h!]
-	\centering
 	\begin{subfigure}[b]{.4\linewidth}
 		\includegraphics[width=\linewidth]{../assets/med/cauda.jpg}
 		\vspace*{10mm}
@@ -830,6 +829,7 @@ Continuous or recurrent **seizures** for **$\ge$ 30 mins without gain of
 	\end{subfigure}
 \end{figure}
 
+###
 
 \pagebreak
 # Diabetes Mellitus
