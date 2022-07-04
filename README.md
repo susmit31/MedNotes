@@ -9,6 +9,7 @@ Just a little repo to store my notes from the last-day cramming sessions
 
 ### Medicine
 - _Davidson's Principles and Practice of Medicine_ 23rd ed.
+- _Oxford Handbook of Clinical Medicine_ 10th ed.
 - _Long Cases in Clinical Medicine_ 2nd ed by Prof. ABM Abdullah.
 - _Short Cases in Clinical Medicine_ 6th ed by Prof. ABM Abdullah.
 - _Macleod's Clinical Examination_ 14th ed.
