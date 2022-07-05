@@ -848,10 +848,17 @@ Continuous or recurrent **seizures** for **$\ge$ 30 mins without gain of
 - Lesion in the cauda region leads only to LMN lesion features as there's
  no cord there.
 
+\pagebreak
 ### Features of Cauda Equina syndrome vs Conus Medullaris syndrome
-\includegraphics[width=.9\linewidth]{../assets/med/cauda-vs-conus.png}
-
-
+\begin{figure}
+\centering
+\includegraphics[width=.85\linewidth]{../assets/med/cauda-vs-conus-1.png}
+\end{figure}
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=.9\linewidth]{../assets/med/cauda-vs-conus-2.png}
+\vfill
+\end{figure}
 
 \pagebreak
 # Diabetes Mellitus
