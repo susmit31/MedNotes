@@ -1,7 +1,8 @@
 # MedNotes
 Just a little repo to store my notes from the last-day cramming sessions
  for my MBBS finals. Ended up adding to these even after the finals tho.
- The topics are arranged kinda randomly but thanks to LaTeX there's a nice
+ The topics are arranged kinda randomly but they're divided into chapters
+ according to broad categories and, thanks to LaTeX, there's a nice
  table of contents which you can use to navigate through the material with
  relative ease. 
 
