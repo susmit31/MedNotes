@@ -639,9 +639,9 @@ $\downarrow$ \\
 		- orthopnoea
 		- gallop rhythm
 		- bilateral basal crepitations
-	- $\fbox{Hypertensive encephalopathy}: headache, blurred vision,
+	- $\fbox{Hypertensive encephalopathy}$: headache, blurred vision,
 	 convulsion, delirium, papilloedema
-	- $\fbox{AKI}: anuria
+	- $\fbox{AKI}$: anuria
 
 ### Investigations
 - **Evidence of nephritis**
