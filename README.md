@@ -1,6 +1,13 @@
 # MedNotes
 Just a little repo to store my notes from the last-day cramming sessions
  for my MBBS finals. Ended up adding to these even after the finals tho.
+ The topics are arranged kinda randomly but thanks to LaTeX there's a nice
+ table of contents which you can use to navigate through the material with
+ relative ease. 
+
+ Disclaimer: While I've taken much care to compile these nuggets
+ of useful information, it's unlikely that they're devoid of errors.
+ All the errors herein are my own. Use at your own peril.
 
 ## Major resources
 ### General
