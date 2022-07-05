@@ -639,8 +639,8 @@ $\downarrow$ \\
 		- orthopnoea
 		- gallop rhythm
 		- bilateral basal crepitations
-	- $\fbox{Hypertensive encephalopathy}$: headache, blurred vision,
-	 convulsion, delirium, papilloedema
+	- $\fbox{Hypertensive encephalopathy}$:
+		- headache, blurred vision, convulsion, delirium, papilloedema
 	- $\fbox{AKI}$: anuria
 
 ### Investigations
@@ -660,12 +660,12 @@ $\downarrow$ \\
 	- X-ray chest
 
 ### Treatment
-- Rest
-- Diet: restrict fluid, salt, protein.
-- Diuretics: furosemide
-- Antibiotics: phenoxymethyl penicillin PO to prevent spread of
+- **Rest**
+- **Diet**: restrict fluid, salt, protein.
+- **Diuretics**: furosemide
+- **Antibiotics**: phenoxymethyl penicillin PO to prevent spread of
  remaining strep within the body
-- Antihypertensive
+- **Antihypertensive**
 
 ## UTI
 ### Definition
