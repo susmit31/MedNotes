@@ -532,6 +532,141 @@ $\downarrow$ \\
 \pagebreak
 
 # Nephrology
+## Nephrotic syndrome
+### Features
+- Massive proteinuria (> 3.5 g/day (medicine) or 1 g/m$^2$/day (paediatrics))
+	- Generalised oedema (pitting)
+	- Ascites, pleural **effusion**, pericardial effusion
+- Features of reduced circulatory volume
+	- Scanty urination (colour normal)
+	- Pulse: weak
+	- BP: low
+	- Capillary refill: prolonged (> 3s)
+- Hyperlipidaemia & lipiduria
+	- due to $\uparrow$ lipoprotein production by liver
+- **Recurrent infections**
+	- loss of immunoglobulins with urine
+
+### Histopathology
+- Histological types include
+	- **Minimal change disease:**
+		- no pathology visible with light microscope,
+		 visible pathology only under electron microscope.
+	 	- most common type in **children** (2-8y)
+	- **Membranous nephropathy:** most common type in **adults**
+
+\pagebreak
+### Pathogenesis
+\begin{figure}[h!]
+	\centering
+	\begin{subfigure}{.45\textwidth}
+		\includegraphics[width=\textwidth]{../assets/med/nephrotic-mcd.png}
+		\caption{Minimal change disease}
+	\end{subfigure}\hfill
+	\begin{subfigure}{.45\textwidth}
+		\includegraphics[width=\textwidth]{../assets/med/nephrotic-mn.png}
+		\caption{Membranous nephropathy}
+	\end{subfigure}
+	\vspace{5mm}
+	\caption{Pathogenesis of nephrotic syndrome}
+\end{figure}
+
+#### Minimal change disease
+- Effacement of podocyte foot processes
+
+#### Membranous nephropathy
+- MAC-mediated glomerular capillary injury
+- Aetiology:
+	- Primary: HLA-DQA1
+	- Secondary:
+		- Drugs e.g. NSAIDs, penicillamine (treatment for Wilson's)
+		- Hep-B
+		- Malignancy
+		- SLE
+
+### Investigations
+- Urine RME
+	- Albuminuria
+	- Granular & hyaline casts
+	- Pus cells if associated with UTI
+- Diagnostic
+	- 24h total protein: > 1g/m$^2$/day
+	- PCR (Protein-Creatinine ratio) > 2 
+	- Serum albumin < 25 g/L
+	- Serum cholesterol > 220 mg/dL
+- Renal biopsy: if nonresponsive to corticosteroid therapy
+
+### Treatment
+- **Specific:**
+	- Prednisolone 1 mg/kg/day for 6wks
+	- After 6wks start tapering (alternate-day therapy)
+- **Supportive:**
+	- Diet:
+		- normal with adequate protein
+		- salt restriction
+	- Oedema: if severe,
+		- restrict salt and fluid intake
+		- diuretics
+	- Hypovolaemia: infuse albumin
+	- Infections: treat & prevent
+
+## Acute glomerulonephritis
+### Pathogenesis
+- Occurs following sore throat or skin infection by **group-A $\beta$-haemolytic
+ streptococcus** (nephritogenic strains: 12, 49)
+- **Antibodies against streptococcal M protein cross-react** with
+ glomerular antigens because of molecular mimicry
+- Complement activation, inflammatory cell infiltration. Net effects:
+	- Oliguria
+	- Haematuria
+	- Hypervolaemia, hypertension, hyperkalaemia
+	- Azotaemia
+	- Acidosis
+- **Complications** (due mostly to acute hypertension)
+	- Acute LVF
+	- Hypertensive encephalopathy
+	- Acute kidney injury
+
+### Features
+- Age: 5-12y; history of strep throat/skin infection a few wks prior
+- Scanty, smoky urine
+- Puffy face
+- Hypertension
+- Features of complications
+	- ALVF:
+		- cough
+		- respiratory distress
+		- orthopnoea
+		- gallop rhythm
+		- bilateral basal crepitations
+	- Hypertensive encephalopathy: headache, blurred vision, convulsion,
+	 delirium, papilloedema
+	- AKI: anuria
+
+### Investigations
+- **Evidence of nephritis**
+	- Urine RME:
+		- RBC, RBC casts
+		- Mild proteinuria
+		- Leucocytes
+	- Serum C3: $\downarrow$
+	- Serum C4: normal
+- **Evidence of prior strep infection**
+	- ASO titre: $\uparrow$
+	- Anti-DNAse B: $\uparrow$
+- **Evidence of complications**
+	- Serum electrolytes: may show hyperkalaemia and acidosis
+	- Serum creatinine
+	- X-ray chest
+
+### Treatment
+- Rest
+- Diet: restrict fluid, salt, protein.
+- Diuretics: furosemide
+- Antibiotics: phenoxymethyl penicillin PO to prevent spread of
+ remaining strep within the body
+- Antihypertensive
+
 ## UTI
 ### Definition
 Presence of > 10$^5$ organisms/mL in a mid-stream sample of urine.
@@ -859,16 +994,10 @@ Presence of > 10$^5$ organisms/mL in a mid-stream sample of urine.
 \includegraphics[width=.75\textwidth]{../assets/med/cauda-vs-conus-2.png}
 \vspace{10mm}
 \end{figure}
-\pagebreak
+
 
 ## Neurogenic Bladder
 ### Physiological control of micturition: the Micturition Reflex
-\begin{figure}
-\centering
-\includegraphics[width=.6\textwidth]{../assets/med/micturition-reflex.png}
-\end{figure}
-\pagebreak
-
 #### "Components"
 - **Detrusor muscle**
 	- Muscles of the bladder wall
@@ -892,6 +1021,12 @@ Presence of > 10$^5$ organisms/mL in a mid-stream sample of urine.
 		- causes retention
 
 #### The big picture (highest yield for clinical interpretation)
+\begin{figure}
+\centering
+\includegraphics[width=.6\textwidth]{../assets/med/micturition-reflex.png}
+\end{figure}
+
+
 \begin{center}
 $\fbox{Lesion in S}$ $\rightarrow$ $\fbox{Stores (retention)}$\\
 $\fbox{Lesion in L and above}$ $\rightarrow$ $\fbox{Leaks (incontinence)}$\\
@@ -940,16 +1075,23 @@ $\fbox{Lesion in L and above}$ $\rightarrow$ $\fbox{Leaks (incontinence)}$\\
 \begin{figure}
 \centering
 \includegraphics[width=.7\textwidth]{../assets/med/insulin-secr.jpg}
+\caption{Mechanism of insulin secretion}
 \end{figure}
 
 
 ## Incretin effect
-For the same glucose load applied orally and IV, the oral load stimulates
- more insulin secretion (because oral load $\rightarrow$ release of gut
+For the same glucose load applied orally and IV, the **oral load stimulates
+ more insulin secretion** (because oral load $\rightarrow$ release of gut
  peptides GLP-1 and GIP $\rightarrow\;\;\uparrow$ insulin secretion).
 
-\includegraphics[width=.5\textwidth]{../assets/med/incretin.png}
+\vfill
 
+\begin{figure}[h!]
+\centering
+\includegraphics[width=.4\textwidth]{../assets/med/incretin.png}
+\vspace{10mm}
+\caption{The incretin effect}
+\end{figure}
 
 
 ## Diabetic ketoacidosis (DKA)
@@ -1013,7 +1155,12 @@ For the same glucose load applied orally and IV, the oral load stimulates
 	- Incoordination
 
 ### Management
+\begin{figure}
+\centering
 \includegraphics[width=.7\textwidth]{../assets/med/hypogly.png}
+\vspace{5mm}
+\caption{Managing hypoglycaemia}
+\end{figure}
 
 - Oral fast-acting carbohydrate (10-15g) e.g. glucose drink / confectionery
  / honey to buccal mucosa
