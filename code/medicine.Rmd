@@ -633,15 +633,15 @@ $\downarrow$ \\
 - Puffy face
 - Hypertension
 - Features of complications
-	- _ALVF_:
+	- $\fbox{ALVF}$:
 		- cough
 		- respiratory distress
 		- orthopnoea
 		- gallop rhythm
 		- bilateral basal crepitations
-	- _Hypertensive encephalopathy_: headache, blurred vision, convulsion,
-	 delirium, papilloedema
-	- _AKI_: anuria
+	- $\fbox{Hypertensive encephalopathy}: headache, blurred vision,
+	 convulsion, delirium, papilloedema
+	- $\fbox{AKI}: anuria
 
 ### Investigations
 - **Evidence of nephritis**
