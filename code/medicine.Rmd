@@ -914,6 +914,24 @@ $\fbox{Lesion in L and above}$ $\rightarrow$ $\fbox{Leaks (incontinence)}$\\
  we no longer have access to the bladder emptying circuit. So
  there will be urinary **retention**.
 
+\pagebreak
+#### The details
+\begin{figure}
+	\centering
+	\begin{subfigure}{.4\textwidth}
+		\includegraphics[width=\textwidth]{../assets/med/mic-part.png}
+		\vspace{6mm}
+		\caption{Partly filled bladder}
+	\end{subfigure}\hfill
+	\begin{subfigure}{.55\textwidth}
+		\includegraphics[width=\textwidth]{../assets/med/mic-filled.png}
+		\vspace{6mm}
+		\caption{Fully filled bladder}
+	\end{subfigure}
+	\vspace{10mm}
+	\caption{Neural control of micturition}
+
+\end{figure}
 
 
 \pagebreak
