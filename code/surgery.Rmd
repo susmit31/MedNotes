@@ -241,9 +241,9 @@ Allergen \\
 	\vspace{5mm}
 	\caption{Clinically relevant skin histology}
 \end{figure}
-- Epidermis: basal layer contains stem cells from which the epidermis
+- **Epidermis:** basal layer contains stem cells from which the epidermis
  can regenerate
-- Dermis:
+- **Dermis:**
 	- Papillary dermis: superficial
 		- mostly loose areolar tissue
 		- contains subpapillary vascular plexus
@@ -251,10 +251,10 @@ Allergen \\
 		- mostly collagen
 		- contains pilosebaceous units, sweat glands, nerves, deep
 		 vascular plexus (extending into subcutaneous layer)
-- Blisters:
+- **Blisters:**
 	- fluid collection between epidermis and dermis
 	- due to loss of adhesion in dermoepidermal junction
-- Tactile receptors:
+- **Tactile receptors:**
 	- Most are within dermis. $\fbox{Epidermis only contains free nerve endings
 	 and Merkel cells.}$
 	- _Free nerve endings:_
