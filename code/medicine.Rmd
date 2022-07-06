@@ -1121,7 +1121,7 @@ $\fbox{Lesion in L and above}$ $\rightarrow$ $\fbox{Leaks (incontinence)}$\\
 		- Antipsychotics (older)
 		- Metoclopramide (D$_2$ blocker $\rightarrow$ undo D$_2$
 		 mediated inhibition of cholinergic stimulation in GIT $\rightarrow$
-		 $\uparrow$GI motility $\righarrow$ antiemesis)
+		 $\uparrow$GI motility $\rightarrow$ antiemesis)
 		 	- Domperidone, which is also a D$_2$ blocker, selectively acts
 		 	 on D$_2$s in the GIT, so no parkinsonism 
 		 	- Metoclopramide is nonselective
