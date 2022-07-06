@@ -156,9 +156,7 @@ Allergen \\
 - **Haemorrhagic**: blood trasnfusion
 - **Cardiogenic**: inotropes (e.g. dobutamine)
 - **Anaphylactic**: epinephrine, antihistamines, steroids
-- **Septic**:
-	- norepinephrine/phenylephrine
-	- broad spec antibiotics
+- **Septic**: norepinephrine/phenylephrine, broad spec antibiotics
 
 \pagebreak
 
