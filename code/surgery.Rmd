@@ -153,10 +153,10 @@ Allergen \\
 - **Resuscitate**
 
 ### Specific
-- Haemorrhagic $\rightarrow$ blood trasnfusion
-- Cardiogenic $\rightarrow$ inotropes (e.g. dobutamine)
-- Anaphylactic $\rightarrow$ epinephrine, antihistamines, steroids
-- Septic $\rightarrow$
+- **Haemorrhagic**: blood trasnfusion
+- **Cardiogenic**: inotropes (e.g. dobutamine)
+- **Anaphylactic**: epinephrine, antihistamines, steroids
+- **Septic**:
 	- norepinephrine/phenylephrine
 	- broad spec antibiotics
 
