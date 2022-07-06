@@ -300,9 +300,9 @@ the burnt area directly. Size of hand $\approx$ 1%.
 - Need to revascularise in recipient site
 
 ### Types of skin graft
-- Split-thickness skin graft: epidermis + part of dermis
-- Full-thickness skin graft: epidermis + whole dermis
-- Composite skin graft: skin + cartilage, skin + fat etc.
+- **Split-thickness skin graft**: epidermis + part of dermis
+- **Full-thickness skin graft**: epidermis + whole dermis
+- **Composite skin graft**: skin + cartilage, skin + fat etc.
 
 ## Flap
 - Tissue transferred _with its original blood supply_
