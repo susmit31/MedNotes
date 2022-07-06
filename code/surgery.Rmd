@@ -836,7 +836,6 @@ Formation of semisolid coagulum in a deep vein.
 - Minimal use of tourniquets
 
 
-\pagebreak
 
 ## Ischaemic limb
 (Ischaemia = reduced blood flow, NOT cell death)
@@ -892,7 +891,6 @@ Formation of semisolid coagulum in a deep vein.
 #### $\blacksquare$ Surgical
 - **Bypass operation**
 	
-\pagebreak
 
 ## Peripheral Artery Disease (PAD)
 ### 6Ps of PAD
@@ -919,14 +917,14 @@ Formation of semisolid coagulum in a deep vein.
 
 ## Varicose veins
 ### Management principles
-- Avoid prolonged standing
-- Compression stockings
+- **Avoid prolonged standing**
+- **Compression stockings**
 - **Endothermal ablation**
 	- _Laser ablation_
 	- _Radiofrequency ablation_
-- US-guided sclerotherapy
+- **US-guided sclerotherapy**
 	- Sclerosing agent: sodium tetradecyl sulfate
-- Open surgery
+- **Surgery**
 	- Sapheno-femoral junction (SFJ) ligation + great saphenous vein (GSV) stripping
 	 (_Trendelenburg operation_)
 	 
