@@ -708,7 +708,7 @@ A segment of bone that is
 
 
 # Random-ish general surgery concepts
-## Sepsis, SIRS, MODS, MSOF {SIRS}
+## Sepsis, SIRS, MODS, MSOF
 ### $\bullet$ SIRS (Systemic inflammatory response syndrome)
 - **Any two** of
 	- Hyperthermia (>38$^\circ$C) or hypothermia (<36$^\circ$C)
