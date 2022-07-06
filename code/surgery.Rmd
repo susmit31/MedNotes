@@ -330,7 +330,8 @@ the burnt area directly. Size of hand $\approx$ 1%.
 - **Parkland formula**: $4\cdot W \cdot A$ mL fluid for the 1st 24h
 	- Infuse $\frac{1}{2}$ over 8h, $\frac{1}{2}$ over 16h
 - First 12h $\rightarrow$ crystalloid only (massive fluid shift to
- extravascular compartment takes protein out with it)
+ extravascular compartment takes protein out with it, so colloids
+ of no use)
 - Then add colloid (human albumin solution): Provides necessary oncotic
  pressure for keeping infused fluid within the vascular compartment
 
