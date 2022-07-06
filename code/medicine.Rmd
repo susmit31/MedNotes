@@ -532,6 +532,39 @@ $\downarrow$ \\
 \pagebreak
 
 # Nephrology
+## Presenting problems in urinary disease
+- **Oliguria:** < 400mL/day
+- **Anuria:** < 100mL/day
+- **Haematuria:**
+	- Healthy indiviuals may have upto 12,500 RBCs/mL
+	- Macroscopic or microscopic-dipstick+ haematuria indicates significant
+	 pathology
+- **Proteinuria:**
+	- Very small amounts of high molecular weight and moderate amounts of
+	 low molecular weight proteins pass through the healthy GBM (glomerular
+	 basement membrane)
+	- Whatever passes is also completely reabsorbed by receptors on tubular
+	 cells
+	- So in healthy individuals, < 150mg/day protein excreted through urine
+	- Transient proteinuria
+		- Causes
+			- Vigorous exercise
+			- Fever
+			- Heart failure
+			- UTI
+		- Retest after trigger has resolved to verify if persistent
+		 proteinuria
+	- Proteinuria best tested on early morning sample, as some have
+	 orthostatic proteinuria (benign, < 1g/day, associated with upright
+	 posture)
+	- Dipstick positive when > 0.5 g/day
+		- If persistent dipstick proteinuria, 24h urinary protein must
+		 be quantified. > 1g/day $\rightarrow$ likely glomerular disease
+		- PCR (Protein:Creatinine ratio) in spot sample might give better
+		 estimates than 24h protein as 24h urine collection is often inaccurate
+		- Renal biopsy to confirm dx in significant proteinuria
+		
+
 ## Nephrotic syndrome
 ### Features
 - Massive proteinuria (> 3.5 g/day (medicine) or 1 g/m$^2$/day (paediatrics))
@@ -546,6 +579,11 @@ $\downarrow$ \\
 	- due to $\uparrow$ lipoprotein production by liver
 - **Recurrent infections**
 	- loss of immunoglobulins with urine
+- Features of **complications**
+	- Shiny abdominal wall, rigidity and tenderness, absent bowel sounds
+	 $\rightarrow$ **peritonitis**, likely by _Strep pneumo_
+	- Palpable kidney + haematuria $\rightarrow$ **renal vein thrombosis**
+	- Alterations of consciousness, hemiplegia $\rightarrow$ **stroke** 
 
 ### Histopathology
 - Histological types include
@@ -608,7 +646,11 @@ $\downarrow$ \\
 		- restrict salt and fluid intake
 		- diuretics
 	- Hypovolaemia: infuse albumin
-	- Infections: treat & prevent
+	- Infections: treat & prevent (pneumococcus, meningococcus vaccine)
+	- Hypercoagulability: 
+		- due to loss of coagulation inhibitors (antithrombin III, protein C,
+		 protein S) + $\uparrow$ liver production of procoagulants
+		- consider LMW heparin / warfarin if severe NS
 
 ## Acute glomerulonephritis
 ### Pathogenesis
