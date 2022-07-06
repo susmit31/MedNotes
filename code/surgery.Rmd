@@ -347,7 +347,7 @@ the burnt area directly. Size of hand $\approx$ 1%.
 - Debridement + split-skin grafting
 - Without surgery, heal by hypertrophic scarring
 
-### Nanocrystalline silver dressing
+#### Nanocrystalline silver dressing
 - 1% silver sulfadiazine
 - 0.5% silver nitrate
 - Mafenide nitrate
