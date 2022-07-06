@@ -337,14 +337,14 @@ the burnt area directly. Size of hand $\approx$ 1%.
 
 ## Definitive management
 ### Superficial partial-thickness burns
-- Regular dressing
+- **Regular dressing**
 - Heal spontaneously within 2 wks  without scar
  irrespective of choice of dressing
 
 ### Deep partial-thickness/full-thickness burns
-- Nanocrystalline silver dressing until surgery (to prevent colonisation)
+- **Nanocrystalline silver dressing** until surgery (to prevent colonisation)
 - Escharotomy for circumferential full-thickness burns
-- Debridement + split-skin grafting
+- **Debridement + split-skin grafting**
 - Without surgery, heal by hypertrophic scarring
 
 #### Nanocrystalline silver dressing
