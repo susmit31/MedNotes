@@ -263,9 +263,8 @@ the burnt area directly. Size of hand $\approx$ 1%.
 	- Infuse $\frac{1}{2}$ over 8h, $\frac{1}{2}$ over 16h
 - First 12h $\rightarrow$ crystalloid only (massive fluid shift to
  extravascular compartment takes protein out with it)
-- Then add colloid (human albumin solution)
-	- Provides necessary oncotic pressure for keeping infused fluid
-	 within the vascular compartment
+- Then add colloid (human albumin solution): Provides necessary oncotic
+ pressure for keeping infused fluid within the vascular compartment
 
 
 ## Definitive management
