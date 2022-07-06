@@ -1267,7 +1267,6 @@ Confirmed by **urethrography** with water-soluble contrast
 	- Pleural effusion
 	- Portal/splenic vein thrombosis
 
-\pagebreak
 
 ## Pancreatic pseudocyst
 ### Definition
@@ -1289,9 +1288,6 @@ Collection of amylase-rich fluid enclosed by a wall of fibrous/granulation
 		- CEA: $\uparrow$ in tumour
 		- Amylase: $\uparrow$ in pseudocyst
 		- Cytology: inflammatory cells in pseudocyst
-
-
-\pagebreak
 
 
 ## Chronic pancreatitis
@@ -1322,7 +1318,6 @@ Collection of amylase-rich fluid enclosed by a wall of fibrous/granulation
 - Insulin therapy
 - Steroid for autoimmune pancreatitis
 
-\pagebreak
 
 ## Gallstones
 ### Types
@@ -1358,7 +1353,6 @@ $\downarrow$ \\
 \fbox{Aggregation of crystals to form stone}
 \end{center}
 
-\pagebreak
 
 ## Carcinoma head of the pancreas
 ### Treatment options
