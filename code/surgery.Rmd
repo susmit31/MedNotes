@@ -255,8 +255,8 @@ Allergen \\
 	- fluid collection between epidermis and dermis
 	- due to loss of adhesion in dermoepidermal junction
 - Tactile receptors:
-	- Most are within dermis. Epidermis only contains free nerve endings
-	 and Merkel cells.
+	- Most are within dermis. _Epidermis only contains free nerve endings
+	 and Merkel cells._
 	- _Free nerve endings:_
 		- heat, cold, pain, itching
 		- located in papillary dermis and lower epidermis
