@@ -1207,6 +1207,7 @@ $\fbox{Lesion in L and above}$ $\rightarrow$ $\fbox{Leaks (incontinence)}$\\
 
 ### Treatment
 - **Only symptomatic, no cure**
+- **Physiotherapy $\pm$ drugs**
 - **Levodopa + carbidopa**
 	- Most effective in reducing **rigidity and bradykinesia**
 	- **Role of dietary protein**: amino acids in dietary protein compete
