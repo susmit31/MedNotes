@@ -1114,7 +1114,7 @@ $\fbox{Lesion in L and above}$ $\rightarrow$ $\fbox{Leaks (incontinence)}$\\
 ## Parkinson's disease
 ### Parkinsonism
 - Triad of **TRH**: tremor, rigidity, hypokinesia (bradykinesia)
-- Causes
+- **Causes**
 	- Idiopathic $\rightarrow$ Parkinson's disease
 	- Cerebrovascular disease
 	- Drugs:
