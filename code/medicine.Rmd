@@ -1134,6 +1134,129 @@ $\fbox{Lesion in L and above}$ $\rightarrow$ $\fbox{Leaks (incontinence)}$\\
 		- Huntington's
 		- Wilson's
 
+### Pathophysiology
+- Loss of pigmented dopaminergic neurons in substantia nigra
+- **Lewy bodies in nigral cells**: pathological hallmark
+	- Eosinophilic cytoplasmic inclusions
+	- Lewy body = aggregation of $\alpha$-synuclein (hence the
+	 alternative name $\alpha$-synucleinopathy)
+	- Other $\alpha$-synucleinopathies (diseases associated with Lewy body
+	 deposition (differ in the initial site of deposition and hence
+	 initial features):
+		- Lewy body dementia
+		- Multiple system atrophy
+
+
+### Features
+- Average age of onset: 60y
+- First degreee relative with PD $\rightarrow$ 2-3x risk
+- Progressive, incurable
+- Initially motor symptoms dominate, but eventually nonmotor symptoms
+ (e.g. depression, anxiety, cognitive impairment) become increasingly
+ prominent
+- Motor symptoms **initially asymmetrical**
+- The hallmark is **bradykinesia**, which leads to
+	- Micrographia (small handwriting)
+	- Difficulty tying shoelaces / buttoning clothes
+	- Difficulty rolling over in bed
+- **Resting tremor** affecting limbs, chin and jaw but not the head
+- **Rigidity**
+- Soft, indistinct speech
+
+#### Signs
+- General:
+	- Hypomimia (expressionless / mask-like face)
+	- Dysphonia (soft, indistinct speech)
+	- Flexed (stooped) posture with impaired postural reflexes
+	- Bradykinesia
+	- **Glabellar tap:**
+		- tapping on glabella (above bridge of nose) $\rightarrow$ blink
+		- normal $\rightarrow$ blinking stops after 3-5 times
+		- Parkinson's $\rightarrow$ sustained blinking
+- Gait: **Festinating gait**
+	- Slow to start
+	- Short, shuffling steps (festination)
+	- Reduced arm swing
+	- Impaired balance on turning (fractionated turn)
+- Tremor:
+	- First in arm/hand (**pill-rolling** tremor)
+- Rigidity:
+	- **Leadpipe rigidity**: 
+		- better seen in elbow / knee
+		- uniform throughout movement
+	- **Cogwheel rigidity** (= tremor superimposed on rigidity) better
+	 seen in wrist
+	- Rigidity vs Spasticity:
+		- Rigidity:
+			- uniform resistance throughout range of motion
+			- due to _extrapyramidal_ lesion
+		- Spasticity:
+			- initially increased resistance, followed by lessening
+			- due to _pyramidal_ lesion
+- The following will be normal (if abnormal, consider other causes)
+	- Power, jerks, plantar
+	- Eye movements
+	- Sensory exam
+	- Cerebellar exam
+
+### Investigations
+- Dx is clinical
+- CT / MRI normal
+- Functional dopaminergic imaging (SPECT / PET) abnormal even early
+- In younger, exclude Huntington's and Wilson's
+
+### Treatment
+- **Only symptomatic, no cure**
+- **Levodopa + carbidopa**
+	- Most effective in reducing **rigidity and bradykinesia**
+	- **Role of dietary protein**: amino acids in dietary protein compete
+	 with levodopa for intestinal absorption and transport across BBB
+	 $\rightarrow\;\;\downarrow$ efficacy of levodopa
+	- Side effects:
+		- Postural hypotension
+		- Nausea, vomiting
+		- Hallucinations
+	- Fluctuating response after 3-5y of use
+		- _End of dose dyskinesia_: due to progressive loss of dopamine,
+		 duration of action of levodopa becomes shorter. Freezing and
+		 rigidity before next dose of levodopa.
+		 	- Management: smaller, frequent dosage
+		- _On-off phenomenon_: periods of severe parkinsonism (freezing
+		 and immobility - _off period_) alternating with periods of
+		 dopamine-induced dyskinesia (_on period_).
+		 	- Management: lower levodopa dose, add selegiline with levodopa
+	- Contraindications:
+		- Psychosis
+		- Narrow angle glaucoma
+		- Malignant melanoma
+		- PUD
+- **Anticholinergics**
+	- Benzhexol, benztropine, trihexyphenidyl
+	- Reduce **tremor and rigidity**, not bradykinesia
+	- Side effects:
+		- Urinary retention, constipation, dry mouth
+		- Worsening of glaucoma
+	- Contraindications:
+		- BEP
+		- Narrow angle glaucoma
+- **Dopamine receptor agonists**
+	- Ergot-derived (e.g. bromocriptine) or non-ergot-derived (e.g.
+	 ropinirole)
+	- Compared to levodopa, less therapeutic effect, more side effects
+	- Side effects:
+		- Postural hypotension
+		- Nausea, vomiting
+		- Hallucination
+		- Confusion
+- **MAO-B inhibitors**
+	- Selegiline, rasagiline
+	- MAO-B facilitates dopamine breakdown $\rightarrow$ MAO-Bi potentiates
+	 the action of levodopa by inhibiting breakdown
+- **COMT inhibitors**
+	- Tolcapone, entacapone
+	- COMT $\rightarrow$ peripheral breakdown of levodopa
+- **Amantadine**: rarely used unless patient unable to tolerate other drugs.
+ Mild, short-lived effect.
 
 \pagebreak
 # Diabetes Mellitus

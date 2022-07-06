@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.29)  6 JUL 2022 12:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.29)  6 JUL 2022 13:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -906,41 +906,46 @@ Underfull \hbox (badness 10000) in paragraph at lines 2946--2948
 [][]
  []
 
-[40 <../assets/med/mic-part.png> <../assets/med/mic-filled.png>] [41]
-<../assets/med/insulin-secr.jpg, id=739, 740.7675pt x 440.14438pt>
+[40 <../assets/med/mic-part.png> <../assets/med/mic-filled.png>]
+Overfull \hbox (0.6389pt too wide) in paragraph at lines 3040--3043
+[]\T1/lmr/m/n/12 Lewy body = ag-gre-ga-tion of $\OML/lmm/m/it/12 $\T1/lmr/m/n/12 -synuclein (hence the al-ter-na-tive name $\OML/lmm/m/it/12 $\T1/lmr/m/n/12 -synucleinopathy) 
+ []
+
+[41] [42] [43] [44]
+<../assets/med/insulin-secr.jpg, id=761, 740.7675pt x 440.14438pt>
 File: ../assets/med/insulin-secr.jpg Graphic file (type jpg)
 <use ../assets/med/insulin-secr.jpg>
-Package pdftex.def Info: ../assets/med/insulin-secr.jpg  used on input line 3036.
+Package pdftex.def Info: ../assets/med/insulin-secr.jpg  used on input line 3386.
 (pdftex.def)             Requested size: 350.34229pt x 208.16408pt.
-<../assets/med/incretin.png, id=740, 411.5375pt x 592.2125pt>
+<../assets/med/incretin.png, id=762, 411.5375pt x 592.2125pt>
 File: ../assets/med/incretin.png Graphic file (type png)
 <use ../assets/med/incretin.png>
-Package pdftex.def Info: ../assets/med/incretin.png  used on input line 3052.
+Package pdftex.def Info: ../assets/med/incretin.png  used on input line 3402.
 (pdftex.def)             Requested size: 200.192pt x 288.08118pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[42
+[45
 
- <../assets/med/insulin-secr.jpg>] [43 <../assets/med/incretin.png>]
-<../assets/med/hypogly.png, id=757, 488.82625pt x 582.175pt>
+ <../assets/med/insulin-secr.jpg>] [46 <../assets/med/incretin.png>]
+<../assets/med/hypogly.png, id=780, 488.82625pt x 582.175pt>
 File: ../assets/med/hypogly.png Graphic file (type png)
 <use ../assets/med/hypogly.png>
-Package pdftex.def Info: ../assets/med/hypogly.png  used on input line 3239.
+Package pdftex.def Info: ../assets/med/hypogly.png  used on input line 3589.
 (pdftex.def)             Requested size: 350.3435pt x 417.2469pt.
-[44] [45 <../assets/med/hypogly.png>] [46] [47]
-<../assets/med/diabetic-retino.png, id=791, 797.98125pt x 451.6875pt>
+[47] [48 <../assets/med/hypogly.png>] [49] [50]
+<../assets/med/diabetic-retino.png, id=813, 797.98125pt x 451.6875pt>
 File: ../assets/med/diabetic-retino.png Graphic file (type png)
 <use ../assets/med/diabetic-retino.png>
-Package pdftex.def Info: ../assets/med/diabetic-retino.png  used on input line 3467.
+Package pdftex.def Info: ../assets/med/diabetic-retino.png  used on input line 3817.
 (pdftex.def)             Requested size: 400.38991pt x 226.63579pt.
-[48 <../assets/med/diabetic-retino.png>] [49
+[51 <../assets/med/diabetic-retino.png>] [52
 
-] [50
+] [53
 
-] [51] [52
+] [54] [55
 
-] [53]
+] [56]
 \tf@toc=\write5
 \openout5 = `medicine.toc'.
 
@@ -949,18 +954,18 @@ Package rerunfilecheck Info: File `medicine.out' has not changed.
 (rerunfilecheck)             Checksum: 0DFFAA060EE00C37BB77DC00DF4D9A9F;8385.
  ) 
 Here is how much of TeX's memory you used:
- 16465 strings out of 479997
- 258470 string characters out of 5888008
- 611009 words of memory out of 5000000
- 34019 multiletter control sequences out of 15000+600000
+ 16483 strings out of 479997
+ 258677 string characters out of 5888008
+ 611279 words of memory out of 5000000
+ 34024 multiletter control sequences out of 15000+600000
  546141 words of font info for 82 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  72i,12n,77p,344b,617s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/home/shanks31/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/home/shanks31/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/home/shanks31/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/home/shanks31/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/home/shanks31/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}</home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr12.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr8.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmri12.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmro12.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy8.pfb>
-Output written on medicine.pdf (55 pages, 1293380 bytes).
+Output written on medicine.pdf (58 pages, 1298292 bytes).
 PDF statistics:
- 1000 PDF objects out of 1000 (max. 8388607)
- 880 compressed objects within 9 object streams
- 396 named destinations out of 1000 (max. 500000)
+ 1027 PDF objects out of 1200 (max. 8388607)
+ 903 compressed objects within 10 object streams
+ 409 named destinations out of 1000 (max. 500000)
  549 words of extra memory for PDF output out of 10000 (max. 10000000)
 
