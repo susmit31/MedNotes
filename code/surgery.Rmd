@@ -4,7 +4,7 @@ author: "Susmit"
 date: "`r Sys.Date()`"
 documentclass: memoir
 output: pdf_document
-fontsize: 14pt
+fontsize: 12pt
 geometry: margin=2cm
 colorlinks: true
 linkcolor: blue
@@ -113,8 +113,13 @@ bradycardia**
 	- Kidney: Acute renal insufficiency
 	- Clotting: DIC
 
-## Pathogenesis of Septic Shock
-\includegraphics[width=0.6\textwidth]{../assets/surg/septicshock.jpg}
+\pagebreak
+## Pathogenesis 
+\begin{figure}
+\centering
+\includegraphics[width=0.6\textwidth]{../assets/surg/septicshock.png}
+\caption{Pathogenesis of septic shock}
+\end{figure}
 \pagebreak
 
 ## Pathogenesis of Anaphylactic Shock
@@ -392,6 +397,8 @@ _Manage in 2$^\circ$ survey_
 	- SIADH
 	- Cushing
 	- Lambert-Eaton
+	- Hypercalcaemia
+	- Carcinoid syndrome
 	
 ## Investigations
 ### Diagnostic
@@ -557,40 +564,37 @@ A segment of bone that is
 
 ## Low Back Pain (LBP)
 ### Causes
-- **Strenuous work** 
-
-- **Primary Back Pathologies**
-	- *Spondylosis*: degenerative arthritis of the spine
-	- *Spondylolysis*: defect in pars interarticularis without slippage
-	- *Spondylolisthesis*: forward slippage of vertebral body
-	- Lumbar *disc herniation*
+- **Mechanical:** strenuous work
+- **Intervertebral disc pathologies**
+	- **PLID** (Prolapsed lumbar intervertebral disc)
+	- **Disc degeneration**
+	- *Discitis*
+- **Spinal pathologies**
+	- **Spondylosis**: degenerative arthritis (osteoarthritis) of the spine
+	- **Ankylosing spondylitis**
+	- **Fractures**
+	- **Paget's disease**
+		- dysregulated remodelling: excessive resorption followed by
+		 disorganised osteogenesis
+	- *Spondylolysis*: stress fracture in pars interarticularis
+	- *Spondylolisthesis*: spondylolysis + forward slippage of vertebral body
 	- *Spinal stenosis*: narrowed spinal canal $\rightarrow$ compression of
 	 spinal cord/nerve roots
-	- *Fractures*
+	- *Scoliosis*
+- **Neuropathic**
 	- *Cauda equina syndrome*
 		- Compression of cauda equina nerve roots
 		- Most freq cause $\Rightarrow$ lumbar disc protrusion at L4/5
-	- *Scoliosis*
-	- *Discitis*
-
-
-- **Infections**
+- **Infectious**
+	- **Pott's disease**
 	- *Epidural abscess*
-	- *Pott's disease*
-
-
-
-- **Metastatic disease**
+- **Metastatic cancer**
 	- Sources:
 		- Thyroid
 		- Breast
 		- Lung
 		- Kidneys
 		- Prostate
-
-
-- **Autoimmune conditions**
-	- *Ankylosing spondylitis*
 
 
 
