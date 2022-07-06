@@ -141,6 +141,7 @@ Allergen \\
 \end{center}
 
 ## Management principles
+### General
 - **Maintenance of ABC**
 - **Monitor**
 	- Minimum: **ECG, BP, pulse oximetry, urine output**
@@ -150,6 +151,8 @@ Allergen \\
 		- Base deficit
 		- Serum lactate
 - **Resuscitate**
+
+### Specific
 - Haemorrhagic $\rightarrow$ blood trasnfusion
 - Cardiogenic $\rightarrow$ inotropes (e.g. dobutamine)
 - Anaphylactic $\rightarrow$ epinephrine, antihistamines, steroids
