@@ -1110,6 +1110,30 @@ $\fbox{Lesion in L and above}$ $\rightarrow$ $\fbox{Leaks (incontinence)}$\\
 
 \end{figure}
 
+\pagebreak
+## Parkinson's disease
+### Parkinsonism
+- Triad of **TRH**: tremor, rigidity, hypokinesia (bradykinesia)
+- Causes
+	- Idiopathic $\rightarrow$ Parkinson's disease
+	- Cerebrovascular disease
+	- Drugs:
+		- Antipsychotics (older)
+		- Metoclopramide (D$_2$ blocker $\rightarrow$ undo D$_2$
+		 mediated inhibition of cholinergic stimulation in GIT $\rightarrow$
+		 $\uparrow$GI motility $\righarrow$ antiemesis)
+		 	- Domperidone, which is also a D$_2$ blocker, selectively acts
+		 	 on D$_2$s in the GIT, so no parkinsonism 
+		 	- Metoclopramide is nonselective
+		- Na-valproate, Lithium
+	- Other neurodegenerative diseases
+		- Lewy body dementia
+		- Multiple system atrophy
+		- Alzheimer's
+	- Genetic
+		- Huntington's
+		- Wilson's
+
 
 \pagebreak
 # Diabetes Mellitus
