@@ -313,10 +313,12 @@ the burnt area directly. Size of hand $\approx$ 1%.
 
 ## Criteria for admission
 - Suspected inhalation injury / airway injury
-- Any burn likely to require surgery
+- Any burn likely to require fluid resuscitation / surgery
 - Any burns in the extremes of age
-- Significant burns to the hands, feet, face or perineum (joint synaechia)
+- Significant burns to the hands, feet, face or perineum
 - Any suspicion of non-accidental injury
+- Any burn with potentially serious sequelae (e.g. high tension electrical
+ burns)
 
 ## Fluid resuscitation
 ### Indications
