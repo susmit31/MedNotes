@@ -966,7 +966,6 @@ Formation of semisolid coagulum in a deep vein.
 	- Incomplete emptying
 	- Post-mic dribble
 
-\pagebreak
 
 ## Renal stones
 ### Features
@@ -1017,7 +1016,6 @@ Formation of semisolid coagulum in a deep vein.
 		- Pyelolithotomy
 		- Ureterolithotomy
 
-\pagebreak
 
 ## Bladder stones
 ### Features
@@ -1039,7 +1037,6 @@ Formation of semisolid coagulum in a deep vein.
 
 - _Suprapubic cystolithotomy_
 
-\pagebreak
 
 ## Ruptured urethra
 ### Features
@@ -1061,7 +1058,6 @@ Confirmed by **urethrography** with water-soluble contrast
 - _After bruising and swelling have setted_ (8-12wks later), **delayed
  anastomotic urethroplasty**. 
 
-\pagebreak
 
 ## Bladder cancer
 ### Painless haematuria in 60yo male
