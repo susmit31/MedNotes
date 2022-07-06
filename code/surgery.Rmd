@@ -152,7 +152,7 @@ Allergen \\
 - **Resuscitate**
 - Haemorrhagic $\rightarrow$ blood trasnfusion
 - Cardiogenic $\rightarrow$ inotropes (e.g. dobutamine)
-- Anaphylactic $\rightarrow$ epinephrine
+- Anaphylactic $\rightarrow$ epinephrine, antihistamines, steroids
 - Septic $\rightarrow$
 	- norepinephrine/phenylephrine
 	- broad spec antibiotics
