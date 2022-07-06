@@ -3,7 +3,9 @@ title: "Surgery"
 author: "Susmit"
 date: "`r Sys.Date()`"
 documentclass: memoir
-output: pdf_document
+output:
+ pdf_document:
+  extra_dependencies: ["graphicx", "subcaption"]
 fontsize: 12pt
 geometry: margin=2cm
 colorlinks: true
@@ -232,7 +234,7 @@ Allergen \\
 		\caption{Layers of the skin}
 	\end{subfigure}
 	\begin{subfigure}{.4\textwidth}
-		\includegraphics[width=\textwidht]{../assets/surg/tactile.jpg}
+		\includegraphics[width=\textwidth]{../assets/surg/tactile.jpg}
 		\caption{Tactile receptors in the skin}
 	\end{subfigure}
 	\caption{Clinically relevant skin histology}
