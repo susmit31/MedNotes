@@ -271,24 +271,24 @@ Allergen \\
 	- **2nd degree:**
 		- extend upto _papillary dermis_
 		- blisters
-- Blanch on pressure (as dermal capillaries are mostly unscathed)
-- Painful (irritation of free nerve endings)
+- _Blanch_ on pressure (as dermal capillaries are mostly unscathed)
+- _Painful_ (irritation of free nerve endings)
 - Pinprick sensation intact
-- Heal without scarring in 2 wks
+- _Heal without scarring_ in 2 wks
 
 ### Deep partial-thickness burns
 - Extend upto reticular dermis (but not its entirety)
-- *2nd degree*
+- 2nd degree
 - May blister
-- Less/no blanching (as dermal capillaries have been burnt)
-- Sensation reduced; unable to distinguish fine and crude touch
-- Heal with hypertrophic scarring and contractures so need grafting
+- _Less/no blanching_ (as dermal capillaries have been burnt)
+- _Sensation reduced_; unable to distinguish fine and crude touch
+- _Heal with hypertrophic scarring_ and contractures so need _grafting_
 
 ### Full-thickness burns
 - Destroy the whole thickness of dermis
-- *3rd degree*
-- No blanching
-- Completely anaesthetised (nerve endings have been burnt off)
+- _3rd degree_
+- _No blanching_
+- _Completely anaesthetised_ (nerve endings have been burnt off)
 - Needle prick causes neither pain nor bleeding (capillary plexuses
  have been burnt off)
 
