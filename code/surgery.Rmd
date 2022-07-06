@@ -1016,6 +1016,7 @@ Formation of semisolid coagulum in a deep vein.
 		- Pyelolithotomy
 		- Ureterolithotomy
 
+\pagebreak
 
 ## Bladder stones
 ### Features
@@ -1058,6 +1059,7 @@ Confirmed by **urethrography** with water-soluble contrast
 - _After bruising and swelling have setted_ (8-12wks later), **delayed
  anastomotic urethroplasty**. 
 
+\pagebreak
 
 ## Bladder cancer
 ### Painless haematuria in 60yo male
@@ -1137,7 +1139,6 @@ Confirmed by **urethrography** with water-soluble contrast
 	- radiotherapy
 	- chemo: docetaxel
 
-\pagebreak
 
 ## Testicular tumours
 ### Classification
