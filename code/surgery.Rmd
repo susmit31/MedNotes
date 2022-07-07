@@ -92,7 +92,7 @@ $\downarrow$ ATP $\rightarrow$ **failure of Na-K pump** $\rightarrow$
 - **Cardiogenic**: MI, cardiomyopathy, valvular disease
 - **Obstructive**: tamponade, tension pneumo, massive PE
 - **Distributive**: systemic vasodilation, due to _histamine_ (anaphylaxis)
- or _nitric oxide_ (sepsis)_failure of neuroregulation_ (neuro shock)
+ or _nitric oxide_ (sepsis) or _failure of neuroregulation_ (neuro shock)
 	- **Septic**
 	- **Anaphylactic**
 	- **Neurogenic**
