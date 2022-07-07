@@ -920,6 +920,10 @@ Presence of > 10$^5$ organisms/mL in a mid-stream sample of urine.
 	- 6th nerve palsy due to
 		- stretching of the long, slender nerve
 		- compression against petrous temporal bone
+	- This palsy of the 6th nerve secondary to raised ICP is known as a
+	 _false localisation sign_, as the findings of diplopia with medial
+	 squint would falsely localise the primary defect to the 6th nerve. So in
+	 6th nerve palsy always exclude RICP by looking for papilloedema. 
 - **Depressed consciousness**
 - **Papilloedema**
 - **Bradycardia**
