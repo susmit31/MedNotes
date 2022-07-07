@@ -104,28 +104,33 @@ toccolor: gray
 #### Reciprocal changes
 - Acute STEMI in some surface of the heart $\rightarrow$ ST elevation in
  corresponding leads, and ST depression in reciprocal leads 
- 
+
+\begin{figure}
+\centering
 \includegraphics[width=.7\textwidth]{../assets/med/reciprocal-leads.jpg}
+\end{figure}
 
 #### Basic pathophys of STEMI
 - Occurs due to proximal **complete occlusion of major coronary artery**
 
+\begin{figure}
+\centering
 \includegraphics[width=.5\textwidth]{../assets/med/STEMI.jpg}
+\end{figure}
 
-$$
-\begin{aligned}
-&\fbox{A. Before the onset of infarction}\\
-&\downarrow\\
-&\fbox{B. In acute phase, ST elevation}\\
-&\downarrow\\
-&\fbox{C. Progressive loss of R and deepening Q}\\
-&\downarrow\\
-&\fbox{D. Resolution of ST elevation; fully developed pathological Q;
-T inversion}\\
-&\downarrow\\
-&\fbox{E. In old infarcts, T-wave inversion may or may not persist}\\
-\end{aligned}
-$$
+\begin{center}
+$\fbox{A. Before the onset of infarction}$\\
+$\downarrow$\\
+$\fbox{B. In acute phase, ST elevation}$\\
+$\downarrow$\\
+$\fbox{C. Progressive loss of R and deepening Q}$\\
+$\downarrow$\\
+$\fbox{D. Resolution of ST elevation; fully developed pathological Q;
+T inversion}$\\
+$\downarrow$\\
+$\fbox{E. In old infarcts, T-wave inversion may or may not persist}$\\
+\end{center}
+
 
 - ST elevation resolves after a few days
 
