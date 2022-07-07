@@ -112,7 +112,7 @@ toccolor: gray
 
 \pagebreak
 
-#### Basic pathophys of STEMI
+#### Evolution over time of the ECG appearance of STEMI
 - Occurs due to proximal **complete occlusion of major coronary artery**
 
 \begin{figure}
