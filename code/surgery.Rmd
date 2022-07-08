@@ -31,9 +31,11 @@ What follows are my own notes on various topics in surgery,
  The date below tells
  you the last time when I edited this document, so refer to that if you're
  worried about the temporal validity of the contents.
- The chapters are arranged somewhat at random, reflecting the order in
- which I studied these before my finals. These notes are, first and foremost,
+ The chapters are arranged somewhat at random, somewhat reflecting the
+ order in which I studied these before my finals.
+ These notes are, first and foremost,
  for my personal use, so pardon the inconvenience.
+ Over time I'll try tidying things up more.
  There's probably plenty of mistakes, all my own.
  **Use at your own peril.** 
 
