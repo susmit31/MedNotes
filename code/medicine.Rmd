@@ -40,9 +40,8 @@ The date below tells you the last time when I edited this
  There's probably plenty of mistakes, all my own.
  **Use at your own peril.**
 
-Susmit Islam
-
-`r Sys.Date()`
+\hfill Susmit Islam
+\hfill `r Sys.Date()`
 
 # Respiratory medicine
 ## Tuberculosis
