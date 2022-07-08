@@ -1,7 +1,6 @@
 ---
 title: "Medicine"
 author: "Susmit"
-date: "`r Sys.Date()`"
 documentclass: memoir
 output:
  pdf_document:
@@ -32,7 +31,7 @@ What follows are my own notes on various topics in medicine,
 -  _Long Cases in Clinical Medicine_ 2nd ed.,
 -  _Short Cases in Clinical Medicine_ 6th ed.
 
-The date in the front matter tells you the last time when I edited this
+The date below tells you the last time when I edited this
  document, so refer to that if you're worried about the temporal validity
  of the contents. The chapters are arranged somewhat at random, partly
  reflecting the order in which I studied them. These notes are,
@@ -40,6 +39,9 @@ The date in the front matter tells you the last time when I edited this
  Over time I will try tidying things up more.
  There's probably plenty of mistakes, all my own.
  **Use at your own peril.**
+
+Susmit Islam
+`r Sys.Date()`
 
 # Respiratory medicine
 ## Tuberculosis
