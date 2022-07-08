@@ -5,8 +5,6 @@ documentclass: memoir
 output:
  pdf_document:
   extra_dependencies: ["graphicx", "subcaption", "pdfpages"]
-  includes:
-   before_body: cover-med-pdf.tex
 fontsize: 12pt
 geometry: margin=2cm
 colorlinks: true
@@ -822,9 +820,10 @@ Presence of > 10$^5$ organisms/mL in a mid-stream sample of urine.
 	- Urate crystals $\rightarrow$ long, needle shaped, -ve birefringence
 	- Ca pyrophosphate crystals $\rightarrow$ small, rhomboid, +ve
 	 birefringence
+	 
 ### Bone scintigraphy
 - Dx of metastatic bone disease and Paget's
-- $^99$Tc radiolabelled bisphosphonate used
+- $^{99}$Tc radiolabelled bisphosphonate used
 
 ### DEXA (Dual Emission X-ray Absorptiometry)
 - Measure BMD (bone mineral density)
