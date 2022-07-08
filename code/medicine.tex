@@ -67,26 +67,17 @@
 \setcounter{secnumdepth}{-\maxdimen} % remove section numbering
 \usepackage{graphicx}
 \usepackage{subcaption}
+\usepackage{pdfpages}
 
 \title{Medicine}
 \author{Susmit}
-\date{2022-07-07}
+\date{2022-07-08}
 
 \begin{document}
 \frontmatter
+\includepdf[pages=1,fitpaper]{../pdfs/cover-med.pdf}
 \maketitle
-\begin{abstract}
-What follows are my own notes on various topics in medicine, mostly
-based off of the following sources: \emph{Davidson's Principles and
-Practice of Medicine} 23rd ed., \emph{Oxford Handbook of Clinical
-Medicine} 10th ed., \emph{Long Cases in Clinical Medicine} 2nd ed.,
-\emph{Short Cases in Clinical Medicine} 6th ed.~The date above tells you
-the last time when I edited this document, so refer to that if you're
-worried about the temporal validity of the contents. The chapters are
-arranged somewhat at random. These notes are, first and foremost, for my
-personal use, so pardon the inconvenience. There's probably plenty of
-mistakes, all my own. Use at your own peril.
-\end{abstract}
+
 
 \mainmatter
 \openany
@@ -95,6 +86,33 @@ mistakes, all my own. Use at your own peril.
 \tableofcontents
 
 \pagebreak
+
+\hypertarget{preface}{%
+\chapter*{Preface}\label{preface}}
+\addcontentsline{toc}{chapter}{Preface}
+
+What follows are my own notes on various topics in medicine, mostly
+based off of the following sources:
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{Davidson's Principles and Practice of Medicine} 23rd ed.,
+\item
+  \emph{Oxford Handbook of Clinical Medicine} 10th ed.,
+\item
+  \emph{Long Cases in Clinical Medicine} 2nd ed.,
+\item
+  \emph{Short Cases in Clinical Medicine} 6th ed.
+\end{itemize}
+
+The date in the front matter tells you the last time when I edited this
+document, so refer to that if you're worried about the temporal validity
+of the contents. The chapters are arranged somewhat at random, partly
+reflecting the order in which I studied them. These notes are, first and
+foremost, for my personal use, so pardon the inconvenience. Over time I
+will try tidying things up more. There's probably plenty of mistakes,
+all my own. \textbf{Use at your own peril.}
 
 \hypertarget{respiratory-medicine}{%
 \chapter{Respiratory medicine}\label{respiratory-medicine}}

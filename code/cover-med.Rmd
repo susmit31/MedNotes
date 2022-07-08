@@ -1,0 +1,11 @@
+---
+title: "Medicine cover"
+author: "Susmit"
+documentclass: article
+output:
+ pdf_document:
+  extra_dependencies: ["graphicx"]
+fontsize: 12pt
+---
+
+\includegraphics[width=\textwidth]{../assets/med/medicine.png}
