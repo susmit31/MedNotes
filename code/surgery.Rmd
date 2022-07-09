@@ -244,7 +244,7 @@ Allergen \\
 
 
 # Burns
-## Relevant skin histology
+## Relevant skin microanatomy and physiology
 \begin{figure}
 	\centering
 	\begin{subfigure}{.4\textwidth}
