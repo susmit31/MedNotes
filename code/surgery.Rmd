@@ -44,43 +44,6 @@ What follows are my own notes on various topics in surgery,
 \hfill `r Sys.Date()`
 
 
-
-# CABG
-## Investigations for IHD
-- ECG (first line)
-- Cardiac enzymes (in acute coronary syndrome)
-- Exercise tolerance test
-- Echo: Evaluate
-	- ventricular function
-	- regional wall motion abnormalities
-	- valvular lesions
-- **Coronary angiography: gold std**
-	- Extent, severity and location of stenoses
-	- $>$ 70% reduction of diameter (i.e. >90% reduction of cross-sec) => severe
-	 
-## Indications for surgery
--  $>$ 50% stenosis of the left coronary artery ("_left main stem_")
--  $>$ 50% stenosis of the proximal _LAD_
-- 2/3 main coronary arteries diseased (_RCA, LAD, LCx_)
-
-## Graft selection
-### Types
-- **Venous**: long saphenous vein
-- **Arterial**:
-	- LIMA most common
-		- left internal mammary / left internal thoracic artery
-		- Branch of _left subclavian_
-	- Others
-		- RIMA
-		- Radial
-		- Gastroepiploic
-		- Inf epigastric
-
-
-
-\pagebreak
-
-
 # Shock
 ## Definition
 It is a state of **systemic hypoperfusion** that is **inadequate** for
@@ -420,36 +383,40 @@ the burnt area directly. Size of hand $\approx$ 1%.
 \pagebreak
 
 
-# Important anticancer drugs
-- **Mitosis interferers**
-	1. Vincristine
-	2. Vinblastine
-	3. Taxanes (e.g. Paclitaxel)
-- **Antimetabolites** (i.e. DNA synthesis inhibitors)
-	1. Methotrexate
-	2. 5-FU
-- **DNA damagers**
-	1. Platinum drugs
-		- Cisplatin
-		- Carboplatin
-		- Oxaloplatin
-	2. Cyclophosphamide
-	3. Bleomycin
-	4. Doxorubicin
-	5. Etoposide
-- **Hormones**
-	1. Tamoxifen: ER blocker (Breast ca)
-	2. Goserelin: GnRH analogue/LHRH agonist; downregulate ant. pituitary 
-	$\rightarrow\;\;\downarrow$ testosterone (Prostate ca)
-	3. Flutamide: Androgen antagonist (Prostate ca)
-	4. Bromocriptine: D2 agonist; blocks ant. pituitary stimul
-	 (Pituitary tumour)
+# Cardiothoracic surgery
+## CABG
+### Investigations for IHD
+- ECG (first line)
+- Cardiac enzymes (in acute coronary syndrome)
+- Exercise tolerance test
+- Echo: Evaluate
+	- ventricular function
+	- regional wall motion abnormalities
+	- valvular lesions
+- **Coronary angiography: gold std**
+	- Extent, severity and location of stenoses
+	- $>$ 70% reduction of diameter (i.e. >90% reduction of cross-sec) => severe
+	 
+### Indications for surgery
+-  $>$ 50% stenosis of the left coronary artery ("_left main stem_")
+-  $>$ 50% stenosis of the proximal _LAD_
+- 2/3 main coronary arteries diseased (_RCA, LAD, LCx_)
 
 
+### Graft selection
+#### Types
+- **Venous**: long saphenous vein
 \pagebreak
+- **Arterial**:
+	- LIMA most common
+		- left internal mammary / left internal thoracic artery
+		- Branch of _left subclavian_
+	- Others
+		- RIMA
+		- Radial
+		- Gastroepiploic
+		- Inf epigastric
 
-
-# Deadly Dozen and ATLS
 ## "Deadly dozen" of chest injury
 ### Immediately life threatening
 _Manage in 1$^\circ$ survey_
@@ -472,11 +439,8 @@ _Manage in 2$^\circ$ survey_
 - Diaphragm rupture
 
 
-\pagebreak
-
-
-# Lung cancer
-## Types
+## Lung cancer
+### Types
 - Non-small cell (NSCLC)
 	- Squamous
 	- Adeno
@@ -484,7 +448,7 @@ _Manage in 2$^\circ$ survey_
 	- Carcinoid
 - Small cell (SCLC)
 
-## Features
+### Features
 - Cough (esp. changing cough)
 - Dyspnoea
 - Haemoptysis
@@ -504,22 +468,22 @@ _Manage in 2$^\circ$ survey_
 	- Hypercalcaemia
 	- Carcinoid syndrome
 	
-## Investigations
-### Diagnostic
+### Investigations
+#### Diagnostic
 - Chest X-ray
 - Chest CT
 - Sputum cytology
 - Bronchoscopy + biopsy
 - PET-CT
 
-### Staging
+#### Staging
 - USG whole abdomen
 - X-ray skull
 - Bone scintigraphy (aka isotope bone scan)
 - Pleural fluid cytology (if effusion)
 
 
-## Treatment
+### Treatment
 - If NSCLC && within T3 N1 M0
 	- Surgery: Choice depends on extent of pathology
 		1. Segmentectomy
@@ -529,7 +493,7 @@ _Manage in 2$^\circ$ survey_
 		1. Platins
 		2. Gemcitabine
 	- Radio
-- Else (i.e. SCLC and $>$ T3N1M0 NSCLC)
+- Else (i.e. SCLC or $>$ T3N1M0 NSCLC)
 	- Palliative therapy
 	- Surgery not helpful
 	- Median survival: a few months
@@ -895,6 +859,31 @@ A segment of bone that is
 	- Prostatectomy
 	- Bladder surgery
 
+## Important anticancer drugs
+- **Mitosis interferers**
+	1. Vincristine
+	2. Vinblastine
+	3. Taxanes (e.g. Paclitaxel)
+- **Antimetabolites** (i.e. DNA synthesis inhibitors)
+	1. Methotrexate
+	2. 5-FU
+- **DNA damagers**
+	1. Platinum drugs
+		- Cisplatin
+		- Carboplatin
+		- Oxaloplatin
+	2. Cyclophosphamide
+	3. Bleomycin
+	4. Doxorubicin
+	5. Etoposide
+- **Hormones**
+	1. Tamoxifen: ER blocker (Breast ca)
+	2. Goserelin: GnRH analogue/LHRH agonist; downregulate ant. pituitary 
+	$\rightarrow\;\;\downarrow$ testosterone (Prostate ca)
+	3. Flutamide: Androgen antagonist (Prostate ca)
+	4. Bromocriptine: D2 agonist; blocks ant. pituitary stimul
+	 (Pituitary tumour)
+
 
 \pagebreak
 
@@ -1026,25 +1015,6 @@ Formation of semisolid coagulum in a deep vein.
 	- Sapheno-femoral junction (SFJ) ligation + great saphenous vein (GSV) stripping
 	 (_Trendelenburg operation_)
 	 
-
-\pagebreak
-
-
-# Splenectomy
-## Indications
-(_Indications marked with $\star$ are absolute indications_)
-
-- Traumatic rupture with unsalvageable spleen $\star$
-- Splenic tumours (primary or secondary) $\star$
-- Bleeding varices due to splenic vein thrombosis $\star$
-- Hereditary spherocytosis $\star$
-- Splenic abscess
-- Hypersplenism
-	- Hypersplenism = splenomegaly + any cytopoenia(s) + improvement of
-	 symptoms after splenectomy
-- ITP
-- Thalassaemia major
-
 
 \pagebreak
 
@@ -1465,3 +1435,22 @@ $\downarrow$ \\
 	- enzyme replacement
 	- treatment of DM
 	- chemotherapy
+
+
+## Splenectomy
+### Indications
+(_Indications marked with $\star$ are absolute indications_)
+
+- Traumatic rupture with unsalvageable spleen $\star$
+- Splenic tumours (primary or secondary) $\star$
+- Bleeding varices due to splenic vein thrombosis $\star$
+- Hereditary spherocytosis $\star$
+- Splenic abscess
+- Hypersplenism
+	- Hypersplenism = splenomegaly + any cytopoenia(s) + improvement of
+	 symptoms after splenectomy
+- ITP
+- Thalassaemia major
+
+
+\pagebreak
