@@ -269,6 +269,8 @@ Allergen \\
 		- mostly collagen
 		- contains pilosebaceous units, sweat glands, nerves, deep
 		 vascular plexus (extending into subcutaneous layer)
+		- some keratinocytes around the hair follicles and sweat glands
+		 (help in regeneration i.e. healing without scarring)
 - **Blisters:**
 	- fluid collection between epidermis and dermis
 	- due to loss of adhesion in dermoepidermal junction
@@ -292,7 +294,8 @@ Allergen \\
 - _Blanch_ on pressure (as dermal capillaries are mostly unscathed)
 - _Painful_ (irritation of free nerve endings)
 - Pinprick sensation intact
-- _Heal without scarring_ in 2 wks
+- As the deeper (reticular dermis) keratinocyte reserves are unscathed,
+ _heal without scarring_ in 2 wks.
 
 ### Deep partial-thickness burns
 - Extend upto reticular dermis (but not its entirety)
@@ -300,7 +303,9 @@ Allergen \\
 - May blister
 - _Less/no blanching_ (as dermal capillaries have been burnt)
 - _Sensation reduced_; unable to distinguish fine and crude touch
-- _Heal with hypertrophic scarring_ and contractures so need _grafting_
+- As the reticular dermis has been burnt, the deeper keratinocyte reserves
+ can no longer help with regeneration, so these
+ _heal with hypertrophic scarring_ and contractures (so need _grafting_)
 
 ### Full-thickness burns
 - Destroy the whole thickness of dermis
