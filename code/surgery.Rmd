@@ -259,8 +259,11 @@ Allergen \\
 	\vspace{5mm}
 	\caption{Clinically relevant skin histology}
 \end{figure}
-- **Epidermis:** basal layer contains stem cells from which the epidermis
- can regenerate
+- **Epidermis:**
+	- composed of keratinocytes
+	- basal layer composed of single layer of cuboidal cells (basal cells
+	 aka basal keratinocytes) some of which are stem cells and can help
+	 with regeneration
 - **Dermis:**
 	- Papillary dermis: superficial
 		- mostly loose areolar tissue
