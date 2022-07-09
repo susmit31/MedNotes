@@ -76,7 +76,11 @@ The date below tells you the last time when I edited this
 
 ## ECG
 ### Anatomy of an ECG
-\includegraphics[width=0.7\textwidth]{../assets/med/ecg-anatomy.jpg}
+\begin{figure}
+	\centering
+	\includegraphics[width=0.7\textwidth]{../assets/med/ecg-anatomy.jpg}
+	\caption{Parts of a normal ECG}
+\end{figure}
 
 ### Abnormalities of components
 #### Pathological Q
@@ -233,8 +237,13 @@ $\fbox{E. In old infarcts, T-wave inversion may or may not persist}$\\
 
 ## Myocardial Infarction
 
-### Management of acute MI
+### Management
+\begin{figure}
+\centering
 \includegraphics[width=.7\textwidth]{../assets/med/MI-mx.png}
+\vspace{5mm}
+\caption{Management of acute MI}
+\end{figure}
 
 \pagebreak
 
@@ -451,9 +460,13 @@ Most types have the following clinical features:
 	- Fissures
 	- Dyspigmentation
 
-### Management of eczema
-\includegraphics[width=.8\textwidth]{../assets/med/eczema.jpg}
-
+### Management
+\begin{figure}[h!]
+\centering
+\includegraphics[width=.7\textwidth]{../assets/med/eczema.jpg}
+\vspace{-10mm}
+\caption{Management of eczema}
+\end{figure}
 
 \pagebreak
 
@@ -505,8 +518,13 @@ Most types have the following clinical features:
 - **Erythrodermic** sporiasis: generalised $\rightarrow$ medical emergency
 - **Pustular** psoriasis
 
-### Management of psoriasis
-\includegraphics[width=.85\textwidth]{../assets/med/psoriasis.jpg}
+\pagebreak
+### Management
+\begin{figure}
+\centering
+\includegraphics[width=.7\textwidth]{../assets/med/psoriasis.jpg}
+\caption{Management of psoriasis}
+\end{figure}
 
 ### Complications
 - Psoriatic arthropathy
@@ -1489,8 +1507,7 @@ Route of administration: **subcutaneous**
 	
 \pagebreak
 
-## Diabetic retinopathy
-\includegraphics[width=.8\textwidth]{../assets/med/diabetic-retino.png}
+## Diabetic retinopathy (TBF)
 
 \pagebreak
 
