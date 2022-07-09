@@ -240,18 +240,34 @@ $\fbox{E. In old infarcts, T-wave inversion may or may not persist}$\\
 
 # Dermatology
 ## Anatomy and physiology
-- Layers of skin:
-	- Epidermis: further layered into (from out$\rightarrow$in)
+\begin{figure}
+	\centering
+	\includegraphics[width=.5\textwidth]{../assets/surg/skin-layers.jpg}
+	\caption{Layers of the skin}
+\end{figure}
+
+- **Layers of skin**:
+	- **Epidermis**: further layered into (from out$\rightarrow$in)
 		- corneum
 		- lucidum
 		- granulosum
 		- spinosum
 		- basale
-	- Dermis: contains
-		- blood vessels
-		- nerves
-		- pilosebaceous units (hair follicle + sebaceous gland)
-	- Subcutis: adipose
+	- **Dermis**: 
+		- **Papillary dermis**: more superficial part, containing
+			- loose areolar tissue
+			- subpapillary vascular plexus
+		- **Reticular dermis**: deeper part, containing
+			- collagen
+			- deep vascular plexus
+			- nerves
+			- pilosebaceous units (hair follicle + sebaceous gland)
+			- sweat glands
+			- some keratinocytes around the hair follicles and sweat glands
+			 (important for wound healing - these are the reasons behind
+			 healing without scarring in upto partial-thickness skin wounds)
+	- Subcutis / subcutaneous tissue: (technically not part of the skin)
+	 adipose tissue
 
 ### Epidermal appendages
 - Hair follicles:
