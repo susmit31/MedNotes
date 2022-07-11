@@ -4,7 +4,7 @@ author: "Susmit"
 documentclass: memoir
 output:
  pdf_document:
-  extra_dependencies: ["graphicx", "subcaption", "pdfpages"]
+  extra_dependencies: ["graphicx", "subcaption", "pdfpages", "palatino"]
 fontsize: 12pt
 geometry: margin=2cm
 colorlinks: true
