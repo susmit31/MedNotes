@@ -945,7 +945,7 @@ $\draw[-{Stealth[length=5mm]}, very thick] (Aldo.south) to node[right] {} (htn.n
 #### Surgical
 - Angioplasty
 - Indications:
-	- $le$ 40y age (more)
+	- $\le$ 40y age
 	- BP not controlled by antihypertensive / history of malignant htn
 	- History of flash pulmonary oedema
 	- Deteriorating renal function
