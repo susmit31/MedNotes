@@ -4,7 +4,7 @@ author: "Susmit"
 documentclass: memoir
 output:
  pdf_document:
-  extra_dependencies: ["graphicx", "subcaption", "hyperref", "pdfpages", "palatino"]
+  extra_dependencies: ["graphicx", "subcaption", "hyperref", "pdfpages", "palatino", "tikz", "pgfplots"]
 fontsize: 12pt
 geometry: margin=2cm
 colorlinks: true
@@ -826,7 +826,6 @@ $\downarrow$ \\
 - **Antihypertensive**
 
 
-\pagebreak
 ## Alport's syndrome
 - Mutation / deletion of COL4A5 on chr-X $\rightarrow$ **defect of collagen
  type IV**
@@ -886,6 +885,70 @@ $\downarrow$ \\
 	- Reduce kidney enlargement
 	- Slow rate of GFR decline
 - **RRT** (renal replacement therapy) **:** dialysis /  transplantation
+
+\pagebreak
+
+## Renal artery stenosis
+- **Most common cause of 2$^{\circ}$ hypertension**
+- Most cases are due to **atherosclerosis**
+- Younger ($\le$ 40) cases mostly non-atheromatous, due to _fibromuscular
+ dysplasia_
+
+### Pathophysiology
+\begin{center}
+\begin{tikzpicture}[
+	FCT/.style={rectangle, draw=red!60, fill=red!5, very thick, minimum size
+	=5 mm},
+]
+$\node[FCT] (Sten) {Renal artery stenosis};$
+$\node[FCT] (Perf) [below=of Sten] {$\downarrow$ Renal perfusion pressure};$
+$\node[FCT] (RAAS) [below=of Perf] {$\bigoplus$ Renin-angiotensin system};$
+$\node[FCT] (Vasocons) [below left=25mm of RAAS, xshift=25mm] {Vasoconstriction};$
+$\node[FCT] (Aldo) [below right=25mm of RAAS, xshift=-30mm] {$\uparrow$ Aldosterone production};$
+$\node[FCT] (htn) [below=40mm of RAAS] {2$^{\circ}$ hypertension};$
+
+$\draw[-{Stealth[length=5mm]}, very thick] (Sten.south) to node[right] {} (Perf.north);$
+$\draw[-{Stealth[length=5mm]}, very thick] (Perf.south) to node[right] {} (RAAS.north);$
+$\draw[-{Stealth[length=5mm]}, very thick] (RAAS.south) to node[right] {} (Vasocons.north);$
+$\draw[-{Stealth[length=5mm]}, very thick] (RAAS.south) to node[right] {} (Aldo.north);$
+$\draw[-{Stealth[length=5mm]}, very thick] (Vasocons.south) to node[right] {} (htn.north);$
+$\draw[-{Stealth[length=5mm]}, very thick] (Aldo.south) to node[right] {} (htn.north);$
+
+\end{tikzpicture}
+\end{center}
+
+### Features
+- Hypertension: may be severe and difficult to control
+- Acute pulmonary oedema: associated with severe hypertension
+- Progressive renal failure
+- Worsened renal function with ACEi or ARB administration ($\ge$ 30%
+ increase in serum creatinine raises possibility of renal artery
+ stenosis)
+- Peripheral vascular disease: associated, but not caused by the stenosis
+	- In older patients with atherosclerotic renal artery stenosis
+	 (due to generalised atherosclerosis)
+	- Especially in legs
+
+### Investigations
+- CT / MR angiogram of renal vasculature: confirmatory
+- Serum creatinine: to see if worsening renal function
+- Plasma renin: may be elevated
+- Serum electrolytes: may be hypokalaemia due to hyperaldosteronism
+- USG: asymmetrically sized kidneys
+
+### Treatment
+#### Medical
+- Antihypertensives: not ACEi or ARB
+- Lipid-lowering agents: Statins
+- Anti-platelets: Low-dose aspirin 
+
+#### Surgical
+- Angioplasty
+- Indications:
+	- $le$ 40y age (more)
+	- BP not controlled by antihypertensive / history of malignant htn
+	- History of flash pulmonary oedema
+	- Deteriorating renal function
 
 ## UTI
 ### Definition

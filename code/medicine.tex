@@ -70,6 +70,9 @@
 \usepackage{hyperref}
 \usepackage{pdfpages}
 \usepackage{palatino}
+\usepackage{tikz}
+\usepackage{pgfplots}
+\usetikzlibrary{positioning,arrows.meta}
 
 \title{Medicine}
 \author{Susmit}
@@ -117,7 +120,7 @@ all my own. \textbf{Use at your own peril.}
 
 \hfill Susmit Islam
 
-\hfill 2022-07-13
+\hfill 2022-07-14
 
 \hypertarget{respiratory-medicine}{%
 \chapter{Respiratory medicine}\label{respiratory-medicine}}
@@ -2176,8 +2179,6 @@ glomerulonephritis}\label{acute-post-streptococcal-glomerulonephritis}}
   \textbf{Antihypertensive}
 \end{itemize}
 
-\pagebreak
-
 \hypertarget{alports-syndrome}{%
 \section{Alport's syndrome}\label{alports-syndrome}}
 
@@ -2333,6 +2334,132 @@ Disease}\label{adult-polycystic-kidney-disease}}
   transplantation
 \end{itemize}
 
+\pagebreak
+
+\hypertarget{renal-artery-stenosis}{%
+\section{Renal artery stenosis}\label{renal-artery-stenosis}}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Most common cause of 2\(^{\circ}\) hypertension}
+\item
+  Most cases are due to \textbf{atherosclerosis}
+\item
+  Younger (\(\le\) 40) cases mostly non-atheromatous, due to
+  \emph{fibromuscular dysplasia}
+\end{itemize}
+
+\hypertarget{pathophysiology}{%
+\subsection{Pathophysiology}\label{pathophysiology}}
+
+\begin{center}
+\begin{tikzpicture}[
+    FCT/.style={rectangle, draw=red!60, fill=red!5, very thick, minimum size
+    =5 mm},
+]
+$\node[FCT] (Sten) {Renal artery stenosis};$
+$\node[FCT] (Perf) [below=of Sten] {$\downarrow$ Renal perfusion pressure};$
+$\node[FCT] (RAAS) [below=of Perf] {$\bigoplus$ Renin-angiotensin system};$
+$\node[FCT] (Vasocons) [below left=25mm of RAAS, xshift=25mm] {Vasoconstriction};$
+$\node[FCT] (Aldo) [below right=25mm of RAAS, xshift=-30mm] {$\uparrow$ Aldosterone production};$
+$\node[FCT] (htn) [below=40mm of RAAS] {2$^{\circ}$ hypertension};$
+
+$\draw[-{Stealth[length=5mm]}, very thick] (Sten.south) to node[right] {} (Perf.north);$
+$\draw[-{Stealth[length=5mm]}, very thick] (Perf.south) to node[right] {} (RAAS.north);$
+$\draw[-{Stealth[length=5mm]}, very thick] (RAAS.south) to node[right] {} (Vasocons.north);$
+$\draw[-{Stealth[length=5mm]}, very thick] (RAAS.south) to node[right] {} (Aldo.north);$
+$\draw[-{Stealth[length=5mm]}, very thick] (Vasocons.south) to node[right] {} (htn.north);$
+$\draw[-{Stealth[length=5mm]}, very thick] (Aldo.south) to node[right] {} (htn.north);$
+
+\end{tikzpicture}
+\end{center}
+
+\hypertarget{features-5}{%
+\subsection{Features}\label{features-5}}
+
+\begin{itemize}
+\tightlist
+\item
+  Hypertension: may be severe and difficult to control
+\item
+  Acute pulmonary oedema: associated with severe hypertension
+\item
+  Progressive renal failure
+\item
+  Worsened renal function with ACEi or ARB administration (\(\ge\) 30\%
+  increase in serum creatinine raises possibility of renal artery
+  stenosis)
+\item
+  Peripheral vascular disease: associated, but not caused by the
+  stenosis
+
+  \begin{itemize}
+  \tightlist
+  \item
+    In older patients with atherosclerotic renal artery stenosis (due to
+    generalised atherosclerosis)
+  \item
+    Especially in legs
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{investigations-4}{%
+\subsection{Investigations}\label{investigations-4}}
+
+\begin{itemize}
+\tightlist
+\item
+  CT / MR angiogram of renal vasculature: confirmatory
+\item
+  Serum creatinine: to see if worsening renal function
+\item
+  Plasma renin: may be elevated
+\item
+  Serum electrolytes: may be hypokalaemia due to hyperaldosteronism
+\item
+  USG: asymmetrically sized kidneys
+\end{itemize}
+
+\hypertarget{treatment-3}{%
+\subsection{Treatment}\label{treatment-3}}
+
+\hypertarget{medical}{%
+\subsubsection{Medical}\label{medical}}
+
+\begin{itemize}
+\tightlist
+\item
+  Antihypertensives: not ACEi or ARB
+\item
+  Lipid-lowering agents: Statins
+\item
+  Anti-platelets: Low-dose aspirin
+\end{itemize}
+
+\hypertarget{surgical}{%
+\subsubsection{Surgical}\label{surgical}}
+
+\begin{itemize}
+\tightlist
+\item
+  Angioplasty
+\item
+  Indications:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \(le\) 40y age (more)
+  \item
+    BP not controlled by antihypertensive / history of malignant htn
+  \item
+    History of flash pulmonary oedema
+  \item
+    Deteriorating renal function
+  \end{itemize}
+\end{itemize}
+
 \hypertarget{uti}{%
 \section{UTI}\label{uti}}
 
@@ -2346,8 +2473,8 @@ Disease}\label{adult-polycystic-kidney-disease}}
   sample of urine (if asymptomatic).
 \end{itemize}
 
-\hypertarget{features-5}{%
-\subsection{Features}\label{features-5}}
+\hypertarget{features-6}{%
+\subsection{Features}\label{features-6}}
 
 \begin{itemize}
 \tightlist
@@ -2402,8 +2529,8 @@ pathogens}\label{commonly-involved-pathogens}}
   \emph{Staph. epidermidis}
 \end{itemize}
 
-\hypertarget{investigations-4}{%
-\subsection{Investigations}\label{investigations-4}}
+\hypertarget{investigations-5}{%
+\subsection{Investigations}\label{investigations-5}}
 
 \begin{itemize}
 \tightlist
@@ -2425,8 +2552,8 @@ pathogens}\label{commonly-involved-pathogens}}
   Urine culture
 \end{itemize}
 
-\hypertarget{treatment-3}{%
-\subsection{Treatment}\label{treatment-3}}
+\hypertarget{treatment-4}{%
+\subsection{Treatment}\label{treatment-4}}
 
 \hypertarget{cystitis}{%
 \subsubsection{Cystitis}\label{cystitis}}
@@ -2895,8 +3022,8 @@ arthritis}\label{seropositive-vs-seronegative-arthritis}}
   \textbf{Venous sinus obstruction} e.g.~cerebral venous thrombosis
 \end{itemize}
 
-\hypertarget{features-6}{%
-\subsection{Features}\label{features-6}}
+\hypertarget{features-7}{%
+\subsection{Features}\label{features-7}}
 
 \begin{itemize}
 \tightlist
@@ -3048,8 +3175,8 @@ arthritis}\label{seropositive-vs-seronegative-arthritis}}
   Arterio-venous malformations
 \end{itemize}
 
-\hypertarget{features-7}{%
-\subsection{Features}\label{features-7}}
+\hypertarget{features-8}{%
+\subsection{Features}\label{features-8}}
 
 \begin{itemize}
 \tightlist
@@ -3067,8 +3194,8 @@ arthritis}\label{seropositive-vs-seronegative-arthritis}}
   Photophobia
 \end{itemize}
 
-\hypertarget{investigations-5}{%
-\subsection{Investigations}\label{investigations-5}}
+\hypertarget{investigations-6}{%
+\subsection{Investigations}\label{investigations-6}}
 
 \begin{itemize}
 \tightlist
@@ -3104,8 +3231,8 @@ arthritis}\label{seropositive-vs-seronegative-arthritis}}
 \section{Subacute combined
 degeneration}\label{subacute-combined-degeneration}}
 
-\hypertarget{features-8}{%
-\subsection{Features}\label{features-8}}
+\hypertarget{features-9}{%
+\subsection{Features}\label{features-9}}
 
 \begin{itemize}
 \tightlist
@@ -3423,8 +3550,8 @@ $\fbox{Lesion in L and above}$ $\rightarrow$ $\fbox{Leaks (incontinence)}$\\
   \end{itemize}
 \end{itemize}
 
-\hypertarget{pathophysiology}{%
-\subsection{Pathophysiology}\label{pathophysiology}}
+\hypertarget{pathophysiology-1}{%
+\subsection{Pathophysiology}\label{pathophysiology-1}}
 
 \begin{itemize}
 \tightlist
@@ -3455,8 +3582,8 @@ $\fbox{Lesion in L and above}$ $\rightarrow$ $\fbox{Leaks (incontinence)}$\\
   \end{itemize}
 \end{itemize}
 
-\hypertarget{features-9}{%
-\subsection{Features}\label{features-9}}
+\hypertarget{features-10}{%
+\subsection{Features}\label{features-10}}
 
 \begin{itemize}
 \tightlist
@@ -3606,8 +3733,8 @@ $\fbox{Lesion in L and above}$ $\rightarrow$ $\fbox{Leaks (incontinence)}$\\
   \end{itemize}
 \end{itemize}
 
-\hypertarget{investigations-6}{%
-\subsection{Investigations}\label{investigations-6}}
+\hypertarget{investigations-7}{%
+\subsection{Investigations}\label{investigations-7}}
 
 \begin{itemize}
 \tightlist
@@ -3621,8 +3748,8 @@ $\fbox{Lesion in L and above}$ $\rightarrow$ $\fbox{Leaks (incontinence)}$\\
   In younger, exclude Huntington's and Wilson's
 \end{itemize}
 
-\hypertarget{treatment-4}{%
-\subsection{Treatment}\label{treatment-4}}
+\hypertarget{treatment-5}{%
+\subsection{Treatment}\label{treatment-5}}
 
 \begin{itemize}
 \tightlist
@@ -3986,8 +4113,8 @@ insulin secretion).
 \hypertarget{hypoglycaemia}{%
 \section{Hypoglycaemia}\label{hypoglycaemia}}
 
-\hypertarget{features-10}{%
-\subsection{Features}\label{features-10}}
+\hypertarget{features-11}{%
+\subsection{Features}\label{features-11}}
 
 \begin{itemize}
 \tightlist
@@ -4360,8 +4487,8 @@ Defining characteristic: \textbf{Philadelphia chromosome}
   proliferation and survival
 \end{itemize}
 
-\hypertarget{features-11}{%
-\subsection{Features}\label{features-11}}
+\hypertarget{features-12}{%
+\subsection{Features}\label{features-12}}
 
 \begin{itemize}
 \tightlist
@@ -4390,8 +4517,8 @@ Defining characteristic: \textbf{Philadelphia chromosome}
   Blastic crisis
 \end{itemize}
 
-\hypertarget{investigations-7}{%
-\subsection{Investigations}\label{investigations-7}}
+\hypertarget{investigations-8}{%
+\subsection{Investigations}\label{investigations-8}}
 
 \begin{itemize}
 \tightlist
@@ -4491,8 +4618,8 @@ deficiency}{B\_1 (thiamin) deficiency}}\label{b_1-thiamin-deficiency}}
   \end{itemize}
 \end{itemize}
 
-\hypertarget{features-12}{%
-\subsubsection{Features}\label{features-12}}
+\hypertarget{features-13}{%
+\subsubsection{Features}\label{features-13}}
 
 \begin{itemize}
 \tightlist
@@ -4535,8 +4662,8 @@ deficiency}{B\_1 (thiamin) deficiency}}\label{b_1-thiamin-deficiency}}
   \end{itemize}
 \end{itemize}
 
-\hypertarget{treatment-5}{%
-\subsubsection{Treatment}\label{treatment-5}}
+\hypertarget{treatment-6}{%
+\subsubsection{Treatment}\label{treatment-6}}
 
 \begin{itemize}
 \tightlist
@@ -4563,8 +4690,8 @@ B\(_{12}\)}{Functions of B\_\{12\}}}\label{functions-of-b_12}}
   \textbf{Myelination}
 \end{itemize}
 
-\hypertarget{features-13}{%
-\subsubsection{Features}\label{features-13}}
+\hypertarget{features-14}{%
+\subsubsection{Features}\label{features-14}}
 
 \begin{itemize}
 \tightlist
@@ -4588,8 +4715,8 @@ B\(_{12}\)}{Functions of B\_\{12\}}}\label{functions-of-b_12}}
   \end{itemize}
 \end{itemize}
 
-\hypertarget{treatment-6}{%
-\subsubsection{Treatment}\label{treatment-6}}
+\hypertarget{treatment-7}{%
+\subsubsection{Treatment}\label{treatment-7}}
 
 \begin{itemize}
 \tightlist
