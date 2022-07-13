@@ -822,7 +822,7 @@ $\downarrow$ \\
 ## Adult Polycystic Kidney Disease
 ### Introduction
 - Better known as Autosomal Dominant PKD (ADPKD)
-	- There's a much rarer (1:20k) autosomal recessive PKD (ARPKD)
+	- There's a much rarer (1:20,000) autosomal recessive PKD (ARPKD)
 - Prevalence 1:1000
 - **Autosomal dominant**
 - Small cysts lined by tubular epithelium develop from childhood, enlarge
