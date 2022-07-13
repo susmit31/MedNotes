@@ -67,6 +67,7 @@
 \setcounter{secnumdepth}{-\maxdimen} % remove section numbering
 \usepackage{graphicx}
 \usepackage{subcaption}
+\usepackage{hyperref}
 \usepackage{pdfpages}
 \usepackage{palatino}
 
@@ -116,7 +117,7 @@ all my own. \textbf{Use at your own peril.}
 
 \hfill Susmit Islam
 
-\hfill 2022-07-11
+\hfill 2022-07-13
 
 \hypertarget{respiratory-medicine}{%
 \chapter{Respiratory medicine}\label{respiratory-medicine}}
@@ -1176,8 +1177,6 @@ Key components are:
   \end{itemize}
 \end{itemize}
 
-\pagebreak
-
 \hypertarget{eczemas}{%
 \section{Eczemas}\label{eczemas}}
 
@@ -1635,8 +1634,9 @@ disease}\label{presenting-problems-in-urinary-disease}}
   \end{itemize}
 \end{itemize}
 
-\hypertarget{nephrotic-syndrome}{%
-\section{Nephrotic syndrome}\label{nephrotic-syndrome}}
+\section[Nephrotic syndrome]{Nephrotic syndrome\footnote{Most parts of this section, unless specifically
+ mentioned to be for membranous nephropathy, refers to minimal change
+ disease i.e. (most cases of) paediatric nephrotic syndrome}}
 
 \hypertarget{features-2}{%
 \subsection{Features}\label{features-2}}
@@ -1644,15 +1644,18 @@ disease}\label{presenting-problems-in-urinary-disease}}
 \begin{itemize}
 \tightlist
 \item
-  Massive proteinuria (\textgreater{} 3.5 g/day (medicine) or 1
+  Massive \textbf{proteinuria} (\textgreater{} 3.5 g/day (medicine) or 1
   g/m\(^2\)/day (paediatrics))
 
   \begin{itemize}
   \tightlist
   \item
-    Generalised oedema (pitting)
+    \textbf{Hypoalbuminaemia} (\textless{} 3 g/dL)
   \item
-    Ascites, pleural \textbf{effusion}, pericardial effusion
+    Generalised \textbf{oedema} (pitting)
+  \item
+    \textbf{``Effusions'':} Ascites, pleural effusion, pericardial
+    effusion
   \end{itemize}
 \item
   Features of reduced circulatory volume
@@ -1729,8 +1732,8 @@ disease}\label{presenting-problems-in-urinary-disease}}
 
 \pagebreak
 
-\hypertarget{pathogenesis-1}{%
-\subsection{Pathogenesis}\label{pathogenesis-1}}
+\hypertarget{aetiopathogenesis}{%
+\subsection{Aetiopathogenesis}\label{aetiopathogenesis}}
 
 \begin{figure}[h!]
     \centering
@@ -1752,7 +1755,7 @@ disease}\label{presenting-problems-in-urinary-disease}}
 \begin{itemize}
 \tightlist
 \item
-  Effacement of podocyte foot processes
+  \textbf{Effacement of podocyte foot processes}
 \end{itemize}
 
 \hypertarget{membranous-nephropathy}{%
@@ -1761,14 +1764,24 @@ disease}\label{presenting-problems-in-urinary-disease}}
 \begin{itemize}
 \tightlist
 \item
-  MAC-mediated glomerular capillary injury
+  \textbf{Autoantibodies to podocyte surface antigens} (e.g.~M-type
+  phospholipase A\(_2\) receptor 1)\(\rightarrow\) \textbf{MAC-mediated
+  glomerular capillary injury}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Antibodies to phospholipase A\(_2\) (PLA2Rab), thus, can be used for
+    diagnosis without biopsy (but may be absent in early disease so
+    biopsy might still be needed)
+  \end{itemize}
 \item
   Aetiology:
 
   \begin{itemize}
   \tightlist
   \item
-    Primary: HLA-DQA1
+    Primary / Idiopathic: HLA-DQA1
   \item
     Secondary:
 
@@ -1777,12 +1790,26 @@ disease}\label{presenting-problems-in-urinary-disease}}
     \item
       Drugs e.g.~NSAIDs, penicillamine (treatment for Wilson's)
     \item
+      Heavy metal poisoning
+    \item
       Hep-B
     \item
       Malignancy
     \item
       SLE
     \end{itemize}
+  \end{itemize}
+\item
+  Fates:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    1/3 spontaneous remission
+  \item
+    1/3 remain nephrotic
+  \item
+    1/3 progressive CKD
   \end{itemize}
 \end{itemize}
 
@@ -1824,17 +1851,24 @@ disease}\label{presenting-problems-in-urinary-disease}}
 \hypertarget{treatment-1}{%
 \subsection{Treatment}\label{treatment-1}}
 
+\hypertarget{minimal-change-nephropathy}{%
+\subsubsection{Minimal Change
+Nephropathy}\label{minimal-change-nephropathy}}
+
 \begin{itemize}
 \tightlist
 \item
-  \textbf{Specific:}
+  \textbf{Specific:}\footnote{\url{https://kdigo.org/wp-content/uploads/2017/02/KDIGO-GD-Guideline-Key-Takeaways-for-Clinicians-Nephrotic-Syndrome-in-Children.pdf}}
 
   \begin{itemize}
   \tightlist
   \item
-    Prednisolone 1 mg/kg/day for 6wks
+    \textbf{High dose glucocorticoid for 6wks}
   \item
-    After 6wks start tapering (alternate-day therapy)
+    Prednisolone 1 mg/kg/day
+  \item
+    KDIGO guidelines: (4wks daily + 4wks alternate day) or (6wks daily +
+    6wks alternate day)
   \end{itemize}
 \item
   \textbf{Supportive:}
@@ -1859,7 +1893,7 @@ disease}\label{presenting-problems-in-urinary-disease}}
     \item
       restrict salt and fluid intake
     \item
-      diuretics
+      loop diuretics
     \end{itemize}
   \item
     Hypovolaemia: infuse albumin
@@ -1879,11 +1913,37 @@ disease}\label{presenting-problems-in-urinary-disease}}
   \end{itemize}
 \end{itemize}
 
+\hypertarget{membranous-nephropathy-1}{%
+\subsubsection{Membranous Nephropathy}\label{membranous-nephropathy-1}}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Specific:}\footnote{\url{https://kdigo.org/wp-content/uploads/2017/02/KDIGO-GD-Guideline-Key-Takeaways-for-Clinicians-Membranous-Nephropathy.pdf}}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{High-dose glucocorticoids + cyclophosphamide} (Ponticelli
+    regimen)
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Reserved for severe cases for risk of toxicity of this regimen
+    \end{itemize}
+  \item
+    If secondary, \textbf{treat the underlying cause}
+  \end{itemize}
+\item
+  \textbf{Supportive:} same as above
+\end{itemize}
+
 \hypertarget{acute-glomerulonephritis}{%
 \section{Acute glomerulonephritis}\label{acute-glomerulonephritis}}
 
-\hypertarget{pathogenesis-2}{%
-\subsection{Pathogenesis}\label{pathogenesis-2}}
+\hypertarget{pathogenesis-1}{%
+\subsection{Pathogenesis}\label{pathogenesis-1}}
 
 \begin{itemize}
 \tightlist

@@ -4,7 +4,7 @@ author: "Susmit"
 documentclass: memoir
 output:
  pdf_document:
-  extra_dependencies: ["graphicx", "subcaption", "pdfpages", "palatino"]
+  extra_dependencies: ["graphicx", "subcaption", "hyperref", "pdfpages", "palatino"]
 fontsize: 12pt
 geometry: margin=2cm
 colorlinks: true
@@ -438,8 +438,6 @@ Key components are:
 		- UVB phototherapy
 		- PDT
 
-\pagebreak
-
 ## Eczemas
 - Seborrhoeic dermatitis is associated with _Malassezia_ yeasts
 
@@ -628,11 +626,15 @@ $\downarrow$ \\
 		- Renal biopsy to confirm dx in significant proteinuria
 		
 
-## Nephrotic syndrome
+\section[Nephrotic syndrome]{Nephrotic syndrome\footnote{Most parts of this section, unless specifically
+ mentioned to be for membranous nephropathy, refers to minimal change
+ disease i.e. (most cases of) paediatric nephrotic syndrome}}
+
 ### Features
-- Massive proteinuria (> 3.5 g/day (medicine) or 1 g/m$^2$/day (paediatrics))
-	- Generalised oedema (pitting)
-	- Ascites, pleural **effusion**, pericardial effusion
+- Massive **proteinuria** (> 3.5 g/day (medicine) or 1 g/m$^2$/day (paediatrics))
+	- **Hypoalbuminaemia** (< 3 g/dL)
+	- Generalised **oedema** (pitting)
+	- **"Effusions":** Ascites, pleural effusion, pericardial effusion
 - Features of reduced circulatory volume
 	- Scanty urination (colour normal)
 	- Pulse: weak
@@ -657,7 +659,7 @@ $\downarrow$ \\
 	- **Membranous nephropathy:** most common type in **adults**
 
 \pagebreak
-### Pathogenesis
+### Aetiopathogenesis
 \begin{figure}[h!]
 	\centering
 	\begin{subfigure}{.45\textwidth}
@@ -673,17 +675,27 @@ $\downarrow$ \\
 \end{figure}
 
 #### Minimal change disease
-- Effacement of podocyte foot processes
+- **Effacement of podocyte foot processes**
 
 #### Membranous nephropathy
-- MAC-mediated glomerular capillary injury
+- **Autoantibodies to podocyte surface antigens** (e.g. M-type phospholipase
+ A$_2$ receptor 1)$\rightarrow$ **MAC-mediated glomerular capillary injury**
+ 	- Antibodies to phospholipase A$_2$ (PLA2Rab), thus, can be used for
+ 	 diagnosis without biopsy (but may be absent in early disease so biopsy
+ 	 might still be needed)
 - Aetiology:
-	- Primary: HLA-DQA1
+	- Primary / Idiopathic: HLA-DQA1
 	- Secondary:
 		- Drugs e.g. NSAIDs, penicillamine (treatment for Wilson's)
+		- Heavy metal poisoning
 		- Hep-B
 		- Malignancy
 		- SLE
+- Fates:
+	- 1/3 spontaneous remission
+	- 1/3 remain nephrotic
+	- 1/3 progressive CKD
+
 
 ### Investigations
 - Urine RME
@@ -698,22 +710,32 @@ $\downarrow$ \\
 - Renal biopsy: if nonresponsive to corticosteroid therapy
 
 ### Treatment
-- **Specific:**
-	- Prednisolone 1 mg/kg/day for 6wks
-	- After 6wks start tapering (alternate-day therapy)
+#### Minimal Change Nephropathy
+- **Specific:**^[https://kdigo.org/wp-content/uploads/2017/02/KDIGO-GD-Guideline-Key-Takeaways-for-Clinicians-Nephrotic-Syndrome-in-Children.pdf]
+	- **High dose glucocorticoid for 6wks**
+	- Prednisolone 1 mg/kg/day
+	- KDIGO guidelines: (4wks daily + 4wks alternate day) or
+	 (6wks daily + 6wks	 alternate day)
 - **Supportive:**
 	- Diet:
 		- normal with adequate protein
 		- salt restriction
 	- Oedema: if severe,
 		- restrict salt and fluid intake
-		- diuretics
+		- loop diuretics
 	- Hypovolaemia: infuse albumin
 	- Infections: treat & prevent (pneumococcus, meningococcus vaccine)
 	- Hypercoagulability: 
 		- due to loss of coagulation inhibitors (antithrombin III, protein C,
 		 protein S) + $\uparrow$ liver production of procoagulants
 		- consider LMW heparin / warfarin if severe NS
+
+#### Membranous Nephropathy
+- **Specific:**^[https://kdigo.org/wp-content/uploads/2017/02/KDIGO-GD-Guideline-Key-Takeaways-for-Clinicians-Membranous-Nephropathy.pdf]
+	- **High-dose glucocorticoids + cyclophosphamide** (Ponticelli regimen)
+		- Reserved for severe cases for risk of toxicity of this regimen
+	- If secondary,  **treat the underlying cause**
+- **Supportive:** same as above
 
 ## Acute glomerulonephritis
 ### Pathogenesis
@@ -771,6 +793,9 @@ $\downarrow$ \\
 - **Antibiotics**: phenoxymethyl penicillin PO to prevent spread of
  remaining strep within the body
 - **Antihypertensive**
+
+
+
 
 ## UTI
 ### Definition

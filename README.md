@@ -15,6 +15,7 @@ Just a little repo to store my notes from the last-day cramming sessions
 - _Robbins and Cotran's Pathological Basis of Disease_ 9th ed.
 - [Medscape](https://emedicine.medscape.com)
 - [Wikipedia](https://en.wikipedia.org)
+- [KDIGO guidelines](https://kdigo.org)
 
 ### Medicine
 - _Davidson's Principles and Practice of Medicine_ 23rd ed.
