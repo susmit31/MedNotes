@@ -795,11 +795,72 @@ $\downarrow$ \\
 - **Antihypertensive**
 
 
+\pagebreak
+## Genetic renal diseases
+### Alport's syndrome
+- Mutation / deletion of COL4A5 on chr-X $\rightarrow$ **defect of collagen
+ type IV**
+- **X-linked recessive**
+- $\fbox{Deposition of abnormal collagen}\;\rightarrow\;
+	\fbox{progressive degeneration of GBM}$
+	 - Haematuria starts in early infancy
+	 - ESRD by late teens / twenties
+	 - Female carriers usually have haematuria, rarely significant
+	  renal disease
+- Other basement membranes with collagen IV are also involved
+	- cochlear BM $\rightarrow$ **SNHL** (sensorineural hearing loss;
+	 especially in high-frequencies)
+	- **ocular abnormalities**:
+		- lenticonus
+		- keratoconus
+		- cataracts
+		- corneal erosions
+- ACEi may slow (but not prevent) loss of renal function
+- Might require RRT (renal replacement therapy)
 
+
+## Adult Polycystic Kidney Disease
+### Introduction
+- Better known as Autosomal Dominant PKD (ADPKD)
+	- There's a much rarer (1:20k) autosomal recessive PKD (ARPKD)
+- Prevalence 1:1000
+- **Autosomal dominant**
+- Small cysts lined by tubular epithelium develop from childhood, enlarge
+ slowly
+- Surrounding normal kidney tissue compressed and progressively damaged
+- Mutations: PKD1 (in 85%), PKD2 (15%) (code for polycystin 1 and 2,
+ respectively)
+
+### Features
+- Asymptomatic initially
+- **Hypertension** from around 20 yrs of age
+- Either (or both) kidney may be palpable, nodular
+- Vague **loin discomfort** due to **enlarging mass**
+- Acute loin pain due to haemorrhage into a cyst
+- **Haematuria** with little / no proteinuria
+- About 30% have **hepatic cysts** (mostly with no liver function impairment)
+- **Berry aneurysms** of cerebral vessels in $\approx$ 5% (may lead to SAH)
+- **Renal failure** $\rightarrow$ features of CKD
+- Mitral / aortic regurgitation (frequent, rarely severe)
+
+### Investigations
+- Dx is based on family history, clinical features, and USG
+- Criteria for dx in patients with +ve family history
+	- 15-39y: $\ge$ 3 unilateral or bilateral cysts
+	- 40-59y: $\ge$ 2 cysts in each kidney (total: $\ge$ 4)
+	- $\ge$ 60y: $ge$ 4 cysts in each kidney (total: $ge$ 8)
+
+### Management
+- **BP control:** 1st choice ACEi / ARBs
+- **Vasopressin V2 receptor antagonist:** Tolvaptan
+	- Reduce kidney enlargement
+	- Slow rate of GFR decline
+- **RRT** (renal replacement therapy) **:** dialysis /  transplantation
 
 ## UTI
 ### Definition
-Presence of > 10$^5$ organisms/mL in a mid-stream sample of urine.
+- Presence of > 10$^5$ organisms/mL in a mid-stream sample of urine (if
+ asymptomatic). 
 
 ### Features
 - **LUTI**: cystitis/urethritis
