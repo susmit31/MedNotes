@@ -625,10 +625,39 @@ $\downarrow$ \\
 		 estimates than 24h protein as 24h urine collection is often inaccurate
 		- Renal biopsy to confirm dx in significant proteinuria
 		
+## Glomerular diseases ("Glomerulonephritides")
+- Though strictly means inflammation of the glomeruli, used to describe
+ all glomerular disease (even if non-inflammatory e.g. minimal change 
+ disease)
+- Lie on a _spectrum_, from _nephrosis_ (podocyte pathology $\rightarrow$
+ proteinuria) to _nephritis_ (inflammation + GBM damage $\rightarrow$
+ haematuria)
 
-\section[Nephrotic syndrome]{Nephrotic syndrome\footnote{Most parts of this section, unless specifically
- mentioned to be for membranous nephropathy, refers to minimal change
- disease i.e. (most cases of) paediatric nephrotic syndrome}}
+### Types
+#### Nephrotic presentation
+- **Minimal change disease**
+	- Normal except on electron microscopy
+	- Electron microscopy shows fusion of podocyte foot processes
+- Focal segmental glomerulosclerosis (FSGS)
+- **Membranous nephropathy**
+
+#### Mild glomerulonephritic presentation
+- IgA nephropathy
+- Mesangiocapillary glomerulonephritis
+
+#### Rapidly progressive glomerulonephritic presentation
+- Focal necrotising glomerulonephritis
+- Diffuse proliferative glomerulonephritis
+- Anti-GBM disease
+
+
+\section[Nephrotic syndrome]
+	{Nephrotic syndrome
+		\footnote
+			{Most parts of this section, unless specifically
+ 			mentioned to be for membranous nephropathy, refers to minimal
+ 			change disease i.e. (most cases of) paediatric nephrotic
+ 			syndrome}}
 
 ### Features
 - Massive **proteinuria** (> 3.5 g/day (medicine) or 1 g/m$^2$/day (paediatrics))
@@ -658,7 +687,7 @@ $\downarrow$ \\
 	 	- most common type in **children** (2-8y)
 	- **Membranous nephropathy:** most common type in **adults**
 
-\pagebreak
+
 ### Aetiopathogenesis
 \begin{figure}[h!]
 	\centering
@@ -737,18 +766,20 @@ $\downarrow$ \\
 	- If secondary,  **treat the underlying cause**
 - **Supportive:** same as above
 
-## Acute glomerulonephritis
+## Acute post-streptococcal glomerulonephritis
 ### Pathogenesis
 - Occurs following sore throat or skin infection by **group-A $\beta$-haemolytic
  streptococcus** (nephritogenic strains: 12, 49)
 - **Antibodies against streptococcal M protein cross-react** with
  glomerular antigens because of molecular mimicry
 - Complement activation, inflammatory cell infiltration. Net effects:
-	- Oliguria
-	- Haematuria
-	- Hypervolaemia, hypertension, hyperkalaemia
-	- Azotaemia
-	- Acidosis
+	- **Oliguria**
+	- **Haematuria**
+	- Hypervolaemia, **hypertension**, hyperkalaemia
+	- **Oedema**
+	- **$\downarrow$ Renal function** $\implies$
+		- Azotaemia
+		- Acidosis
 - **Complications** (due mostly to acute hypertension)
 	- Acute LVF
 	- Hypertensive encephalopathy
@@ -796,8 +827,7 @@ $\downarrow$ \\
 
 
 \pagebreak
-## Genetic renal diseases
-### Alport's syndrome
+## Alport's syndrome
 - Mutation / deletion of COL4A5 on chr-X $\rightarrow$ **defect of collagen
  type IV**
 - **X-linked recessive**
@@ -1382,7 +1412,7 @@ $\fbox{Lesion in L and above}$ $\rightarrow$ $\fbox{Leaks (incontinence)}$\\
 		 	- Management: smaller, frequent dosage
 		- _On-off phenomenon_: periods of severe parkinsonism (freezing
 		 and immobility - _off period_) alternating with periods of
-		 dopamine-induced dyskinesia (_on period_).
+		 dopamine-induced dyskinesia / chorea (_on period_).
 		 	- Management: lower levodopa dose, add selegiline with levodopa
 	- Contraindications:
 		- Psychosis
