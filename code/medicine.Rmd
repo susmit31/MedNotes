@@ -648,7 +648,7 @@ $\downarrow$ \\
 #### Rapidly progressive glomerulonephritic presentation
 - Focal necrotising glomerulonephritis
 - Diffuse proliferative glomerulonephritis
-- Anti-GBM disease
+- Anti-GBM disease (aka Goodpasture's syndrome)
 
 
 \section[Nephrotic syndrome]
