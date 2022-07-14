@@ -995,7 +995,9 @@ $\draw[-{Stealth[length=5mm]}, very thick] (Aldo.south) to node[right] {} (htn.n
 ### Definition
 - Sudden, (usually) reversible loss of renal function, developing over
  days or weeks, evidenced by rising serum creatinine and / or falling GFR.
-- KDIGO criteria: presence of any of the following
+- KDIGO criteria^[
+	https://kdigo.org/wp-content/uploads/2016/10/KDIGO-2012-AKI-Guideline-English.pdf
+]: presence of any of the following
 	- $\Delta$SCr $\ge$ +0.3 mg/dL over 48h
 	- $\Delta$SCr $\ge$ +1.5x baseline over 7d
 	- Urine volume $\le$ 0.5 mL/kg/h for $\ge$ 6h
@@ -1005,6 +1007,7 @@ $\draw[-{Stealth[length=5mm]}, very thick] (Aldo.south) to node[right] {} (htn.n
 - Cardiac failure
 - Blood loss
 - Dehydration
+- Burns
 - Sepsis
 
 #### Renal
@@ -1026,6 +1029,35 @@ $\draw[-{Stealth[length=5mm]}, very thick] (Aldo.south) to node[right] {} (htn.n
 - Urethral stricture
 - Meatal stenosis
 - Phimosis
+
+### Features
+- Pre-renal: features of shock
+- Renal: 
+	- AGN: haematuria, mild proteinuria, oedema, htn
+	- AIN: worsened renal function following drugs (PPIs, penicillins,
+	 NSAIDs)
+	- ATN: dense granular ("muddy brown") casts
+- Post-renal: bladder distension, hydronephrosis on USG
+
+### Management
+- Assess **fluid status**
+	- If hypovolaemic, fluid resuscitation and inotropes as needed
+	- Once euvolaemic, fluid intake = urine output + 500mL (for covering
+	 insensible loss)
+	- If hypervolaemic, diuretics
+- Manage **hyperkalaemia**
+	- If K$^+$ > 6.5 mmol/L
+		- **Calcium resonium** to _stabilize myocardium_
+		- **Glucose + Insulin** to _reduce K_
+- Manage **acidosis**
+	- NaHCO$_3$ if pH < 7
+- **Treat the cause**
+- Discontinue nephrotoxic drugs
+- Reduce doses of other drugs according to renal function
+- Diet: sufficient energy and protein while avoiding high protein intake
+ (as renal function is poor, metabolic wastes from protein i.e. urea
+ will accumulate in blood leading to uraemia)
+- Renal replacement therapy: if not improving with the above measures 
 
 ## UTI
 ### Definition
