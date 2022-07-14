@@ -1057,7 +1057,7 @@ $\draw[-{Stealth[length=5mm]}, very thick] (Aldo.south) to node[right] {} (htn.n
 - Diet: sufficient energy and protein while avoiding high protein intake
  (as renal function is poor, metabolic wastes from protein i.e. urea
  will accumulate in blood leading to uraemia)
-- Renal replacement therapy: if not improving with the above measures 
+- **Renal replacement therapy**: if not improving with the above measures 
 
 \pagebreak
 
