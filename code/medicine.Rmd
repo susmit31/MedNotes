@@ -991,6 +991,42 @@ $\draw[-{Stealth[length=5mm]}, very thick] (Aldo.south) to node[right] {} (htn.n
 	- destruction of ADAMTS-13 $\rightarrow\;\;\uparrow$ vWF $\rightarrow$
 	 thrombosis
 
+## Acute kidney injury (AKI)
+### Definition
+- Sudden, (usually) reversible loss of renal function, developing over
+ days or weeks, evidenced by rising serum creatinine and / or falling GFR.
+- KDIGO criteria: presence of any of the following
+	- $\Delta$SCr $\ge$ +0.3 mg/dL over 48h
+	- $\Delta$SCr $\ge$ +1.5x baseline over 7d
+	- Urine volume $\le$ 0.5 mL/kg/h for $\ge$ 6h
+
+### Causes
+#### Pre-renal
+- Cardiac failure
+- Blood loss
+- Dehydration
+- Sepsis
+
+#### Renal
+- _AGN_ (acute glomerulonephritis)
+- _AIN_ (acute interstitial nephritis)
+	- Drugs
+	- Toxins
+	- Inflammatory disease
+	- Infection
+- _ATN_ (acute tubular necrosis)
+	- Drugs
+	- Toxins
+	- Prolonged hypotension
+
+#### Post-renal
+- Bilateral renal stone
+- BEP (benign enlargement of prostate)
+- Bladder / prostate / cervical cancer
+- Urethral stricture
+- Meatal stenosis
+- Phimosis
+
 ## UTI
 ### Definition
 - Presence of > 10$^5$ organisms/mL in a mid-stream sample of urine (if
