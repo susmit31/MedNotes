@@ -569,7 +569,7 @@ Most types have the following clinical features:
 	- Psoralens
 
 
-## Pseudorandom factoids
+## Stuff not large enough to devote a section to
 ### SPF (sun protection factor)
 - $\frac{\LARGE{\text{UV dose for producing erythema with sunscreen}}}
 {\LARGE{\text{UV dose for producing erythema without sunscreen}}}$
@@ -626,6 +626,7 @@ $\downarrow$ \\
 		- Renal biopsy to confirm dx in significant proteinuria
 		
 ## Glomerular diseases ("Glomerulonephritides")
+### Introduction
 - Though strictly means inflammation of the glomeruli, used to describe
  all glomerular disease (even if non-inflammatory e.g. minimal change 
  disease)
@@ -889,6 +890,7 @@ $\downarrow$ \\
 \pagebreak
 
 ## Renal artery stenosis
+### Introduction
 - **Most common cause of 2$^{\circ}$ hypertension**
 - Most cases are due to **atherosclerosis**
 - Younger ($\le$ 40) cases mostly non-atheromatous, due to _fibromuscular
@@ -949,6 +951,45 @@ $\draw[-{Stealth[length=5mm]}, very thick] (Aldo.south) to node[right] {} (htn.n
 	- BP not controlled by antihypertensive / history of malignant htn
 	- History of flash pulmonary oedema
 	- Deteriorating renal function
+
+## Thrombotic microangiopathies (HUS, TTP)
+### Introduction
+- Thrombotic occlusion of arterioles and capillaries especially in
+ the kidneys or brain
+- Common feature of these is **microangiopathic haemolytic anaemia (MAHA)**
+	- Haemolysis due to passage of RBCs through abnormal vessels
+	- **Schistocytes** (fragmented RBC) may be seen on PBF
+	- **Reticulocytosis**
+	- **$\uparrow$ unconjugated bilirubin, serum LDH**
+	- **$\downarrow$ serum haptoglobin**
+		- Lysed RBCs release free Hb into the bloodstream. This can enter
+		 into tissues and trigger the inflammatory cascade, leading to
+		 tissue damage. To protect from this, the body comes equipped with
+		 a plasma protein called _haptoglobin_, which binds to free Hb.
+		 When there's intravascular haemolysis, free Hb is released, and
+		 haptoglobin is used up, leading to its decreased serum levels.
+
+### Haemolytic uraemic syndrome
+- Thrombotic microangiopathy predominantly involving renal microcirculation
+- Cause: **shiga-like toxin producing bacteria**
+	- Enterohaemorrhagic _Escherichia coli_
+	- _Shigella dysenteriae_
+- Most common cause of AKI in children
+- If no bloody diarrhoea, atypical causes of HUS (e.g. complement system
+ abnormalities - familial HUS) should be considered
+
+### Thrombotic thrombocytopoenic purpura
+- Thrombotic microangiopathy predominantly involving cerebral
+ microcirculation
+- MAHA + thrombocytopoenia
+- Autoimmune: antibodies to ADAMTS-13
+	- aka vWF cleaving protease
+		- functions of vWF: haemostasis (thrombus + clot)
+			- bind to and stabilize Factor VIII (unbound half-life: 1h,
+			 bound to vWF: 12h)
+			- help platelet aggregation
+	- destruction of ADAMTS-13 $\rightarrow\;\;\uparrow$ vWF $\rightarrow$
+	 thrombosis
 
 ## UTI
 ### Definition
@@ -1014,6 +1055,10 @@ $\draw[-{Stealth[length=5mm]}, very thick] (Aldo.south) to node[right] {} (htn.n
 - Good personal hygiene
 - Continuous prophylactic trimethoprim (100mg) and nitrofurantoin (50 mg) at
  night
+
+\pagebreak
+
+## Stuff not large enough to devote a section to
 
 \pagebreak
 
