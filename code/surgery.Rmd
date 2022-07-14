@@ -1371,9 +1371,9 @@ Collection of amylase-rich fluid enclosed by a wall of fibrous/granulation
 - Symptoms of DM
 
 ### Investigations
-- **CT scan:** 
+- **CT scan** (plain / contrast enhanced)
 	- **calcifications** confirm the dx
-	- single most useful investigation
+	- single most useful investigation 
 - Serum amylase: $\uparrow$ in early stg
 - X-ray abdomen: calcifications
 - MRI
