@@ -1059,6 +1059,8 @@ $\draw[-{Stealth[length=5mm]}, very thick] (Aldo.south) to node[right] {} (htn.n
  will accumulate in blood leading to uraemia)
 - Renal replacement therapy: if not improving with the above measures 
 
+\pagebreak
+
 ## UTI
 ### Definition
 - Presence of > 10$^5$ organisms/mL in a mid-stream sample of urine (if
