@@ -677,7 +677,8 @@ $\downarrow$ \\
 - Features of **complications**
 	- Shiny abdominal wall, rigidity and tenderness, absent bowel sounds
 	 $\rightarrow$ **peritonitis**, likely by _Strep pneumo_
-	- Palpable kidney + haematuria $\rightarrow$ **renal vein thrombosis**
+	- Loin pain $\pm$ palpable kidney + haematuria $\rightarrow$ **renal
+	 vein thrombosis**
 	- Alterations of consciousness, hemiplegia $\rightarrow$ **stroke** 
 
 ### Histopathology
@@ -766,6 +767,8 @@ $\downarrow$ \\
 ### Complications
 - Hypercoagulability $\rightarrow$ **renal vein thrombosis**, **pulmonary
  embolism**
+ 	- Dx of RVT: Doppler, CT, or MRI
+ 	- Rx: Heparin 6 days (5-7d), Warfarin 6 months (3-6m)
 - Infections: due to loss of immunoglobulins
 	- **Pneumococcal infection** $\rightarrow$ peritonitis, septicaemia
 	- Cellulitis
