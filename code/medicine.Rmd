@@ -610,10 +610,12 @@ $\downarrow$ \\
 		- Intermittent:
 			- cause: IgA nephropathy, Alport's, PKD, renal tumour
 - **Proteinuria:**
-	- Very small amounts of high molecular weight and moderate amounts of
-	 low molecular weight proteins pass through the healthy GBM (glomerular
+	- **Very small amounts of high molecular weight** and **moderate
+	 amounts of
+	 low molecular weight proteins pass through the healthy GBM** (glomerular
 	 basement membrane)
-	- Whatever passes is also completely reabsorbed by receptors on tubular
+	- Whatever passes is **almost completely reabsorbed** by receptors
+	 on tubular
 	 cells
 	- So in healthy individuals, < 150mg/day protein excreted through urine
 	- Transient proteinuria
@@ -1112,12 +1114,12 @@ $\draw[-{Stealth[length=5mm]}, very thick] (Aldo.south) to node[right] {} (htn.n
 ### Staging
 \renewcommand{\arraystretch}{1.5}
 \rowcolors{2}{gray!20}{gray!40}
-\begin{tabular}{l m{4cm} c m{5cm}}
+\begin{tabular}{l m{5cm} c m{5cm}}
 	\cellcolor{violet!60}\color{white}Stage & 
 	\cellcolor{violet!60}\color{white}Definition & 
 	\cellcolor{violet!60}\color{white}Description & 
 	\cellcolor{violet!60}\color{white}Features \\
-	1 & GFR $\ge$ 90 with evidence of kidney damage &
+	1 & GFR $\ge$ 90 mL/min/1.73m$^2$ with evidence of kidney damage &
 	 Normal function & Asymptomatic \\
 	2 & GFR 60-89 & Mild CKD & Asymptomatic \\
 	3A & GFR 45-59 & Mild to moderate CKD & Usually asymptomatic \\
@@ -1129,6 +1131,135 @@ $\draw[-{Stealth[length=5mm]}, very thick] (Aldo.south) to node[right] {} (htn.n
 	 
 \end{tabular}
 
+### Causes
+- Diabetes mellitus
+- Hypertension
+- Glomerular diseases (IgA nephropathy most common)
+- Tubulointerstitial diseases
+- Systemic inflammatory diseases (SLE, vasculitis)
+- Renal artery stenosis
+- Congenital / inherited (Alport's, PKD)
+
+### Features
+- Typically detected incidentally (by raised urea & creatinine)
+ during routine tests, especially in high-risk patients (e.g. DM, Htn)
+- Most cases asymptomatic until GFR $\ge$ 30 mL/min
+- _Nocturia_ is an early symptom, due to loss of concentrating ability.
+- When GFR falls to 15-20, symptoms and signs are common.
+	- Tiredness, breathlessness (due to anaemia, fluid overload)
+	- Pruritus
+	- Anorexia, nausea, vomiting, hiccups
+	- Wt loss
+	- Kussmaul breathing if profound metabolic acidosis
+
+#### Features according to systems
+- _Bone_ (**renal osteodystrophy**)
+	- Osteomalacia (renal rickets; due to $\downarrow$ vit-D)
+	- Osteoporosis
+	- Osteosclerosis ($\uparrow$ PTH $\rightarrow$ rugger jersey spine)
+- _Skin_
+	- Pruritus
+	- Dry skin
+- _Gastrointestinal_
+	- Anorexia
+	- Nausea
+	- Vomiting
+- _Metabolic_
+	- Hyponatraemia, hyperkalaemia (due to failure of RAAS system)
+	- Metabolic acidosis
+	- Hyperuricaemia, gout
+	- Hypocalcaemia, hyperphosphataemia
+	- Hypercholesterolaemia
+- _Endocrine_
+	- 2$^{\circ}$ hyperparathyroidism
+	- Hyperprolactinaemia
+- _Muscular_
+	- Generalised myopathy
+	- Muscle cramps
+	- Restless leg syndrome
+- _Cardiovascular_
+	- **Hypertension**
+	- Heart failure
+	- LVH (2$^{\circ}$ to anaemia or htn)
+	- Arrhythmias
+	- Pericardial tamponade $\rightarrow\;\;\uparrow$ JVP, pulsus paradoxus 
+- _Respiratory_
+	- Pulmonary oedema
+- _Nervous_
+
+### Investigations
+- Urea and creatinine: to assess stability / progression; compare to
+ previous results
+- CBC: to see Hb%
+- RBS and HbA1c: to see DM
+- Urinalysis: if haematuria / proteinuria indicate glomerular cause
+- Serum electrolytes: to see Na, K, acidosis
+- Ca, PO$_4^{3-}$, PTH, vit-D
+- Lipid profile
+
+### Management
+- **Monitoring** renal function
+	- GFR at least every 6 months for stage $\ge$ 3
+	- Plot GFR against time
+- **Reducing rate of progression**
+	- **Antihypertensive** therapy: Slows rate of decline irrespective
+	 of the medication
+	- **Proteinuria reduction:**
+		- Protein
+		- $\downarrow$ Proteinuria $\rightarrow$ risk of progression
+			- As protein in the tubules trigger inflammatory damage
+		- **ACEi / ARBs** can both reduce BP and reduce proteinuria
+			- Reduce perfusion pressure by dilating efferent
+			 arterioles $\rightarrow\;\;\downarrow$ proteinuria
+			- Should be prescribed even if no htn
+			- Reduce risk of cardiovascular events and all-cause
+			 mortality in CKD
+			- Angiotensin-II critical for GFR autoregulation in case of
+			 low renal perfusion, so may exacerbate, e.g., pre-renal AKI.
+			 So should be warned to stop taking the meds if fever, diarrhoea,
+			 vomiting (and other potential causes of dehydration / pre-renal
+			 AKI) arise, and restart after getting better.
+			- Should not be commenced if baseline K$^+$ > 5.5 mmol/L, as
+			 they cause hyperkalaemia
+- **Treatment of complications**
+	- **Fluid & electrolyte balance**
+		- **Limit protein intake**, especially in stages 4 and 5,
+		 as urea will accumulate.
+		- **Limit potassium intake**
+		- **Limit salt intake if oedema and htn**
+	- **Acid-base balance**
+		- $\downarrow$ excretion of acids $\rightarrow$ HAGMA (high
+		 anion gap metabolic acidosis)
+		- NaHCO$_3^-$ supplements
+	- **Renal osteodystrophy**
+		- Primary factors: **$\downarrow$ PO$_4^{3-}$ excretion & vit-D
+		 activation**
+		- Phosphate correction:
+			- **Limit high phosphate food** e.g. milk, cheese, eggs,
+			 protein-rich food
+			- **Phosphate-binding drugs** e.g. CaCO$_3$, Al(OH)$_3$
+		- Vit-D correction:
+			- **Vit-D supplements**
+	- **Anaemia**
+		- Causes:
+			- **$\boldsymbol\downarrow$ erythropoietin**
+			- Toxic effects of **uraemia** on RBCs
+			- **$\boldsymbol\downarrow$ RBC survival**
+			- **$\boldsymbol\uparrow$ capillary fragility** $\rightarrow$
+			 blood loss
+			- $\downarrow$ intake, uptake, and utilisation of dietary Fe
+		- **Treatment:** recombinant human **erythropoietin**
+	- **Cardiovascular risk factors**
+		- Mechanism of $\uparrow$ CV disease risk in CKD
+			- $\uparrow$ BP
+			- Vascular tunica media calcification $\rightarrow$ stiffness
+			- Inflammation, oxidative stress
+			- Abnormal endothelial function
+		- Treatment:
+			- Regular exercise
+			- Weight loss
+			- Smoking cessation
+			- Statins, low-dose aspirin
 
 \pagebreak
 
