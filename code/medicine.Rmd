@@ -1198,68 +1198,70 @@ $\draw[-{Stealth[length=5mm]}, very thick] (Aldo.south) to node[right] {} (htn.n
 - Lipid profile
 
 ### Management
-- **Monitoring** renal function
-	- GFR at least every 6 months for stage $\ge$ 3
-	- Plot GFR against time
-- **Reducing rate of progression**
-	- **Antihypertensive** therapy: Slows rate of decline irrespective
-	 of the medication
-	- **Proteinuria reduction:**
-		- Protein
-		- $\downarrow$ Proteinuria $\rightarrow$ risk of progression
-			- As protein in the tubules trigger inflammatory damage
-		- **ACEi / ARBs** can both reduce BP and reduce proteinuria
-			- Reduce perfusion pressure by dilating efferent
-			 arterioles $\rightarrow\;\;\downarrow$ proteinuria
-			- Should be prescribed even if no htn
-			- Reduce risk of cardiovascular events and all-cause
-			 mortality in CKD
-			- Angiotensin-II critical for GFR autoregulation in case of
-			 low renal perfusion, so may exacerbate, e.g., pre-renal AKI.
-			 So should be warned to stop taking the meds if fever, diarrhoea,
-			 vomiting (and other potential causes of dehydration / pre-renal
-			 AKI) arise, and restart after getting better.
-			- Should not be commenced if baseline K$^+$ > 5.5 mmol/L, as
-			 they cause hyperkalaemia
-- **Treatment of complications**
-	- **Fluid & electrolyte balance**
-		- **Limit protein intake**, especially in stages 4 and 5,
-		 as urea will accumulate.
-		- **Limit potassium intake**
-		- **Limit salt intake if oedema and htn**
-	- **Acid-base balance**
-		- $\downarrow$ excretion of acids $\rightarrow$ HAGMA (high
-		 anion gap metabolic acidosis)
-		- NaHCO$_3^-$ supplements
-	- **Renal osteodystrophy**
-		- Primary factors: **$\downarrow$ PO$_4^{3-}$ excretion & vit-D
-		 activation**
-		- Phosphate correction:
-			- **Limit high phosphate food** e.g. milk, cheese, eggs,
-			 protein-rich food
-			- **Phosphate-binding drugs** e.g. CaCO$_3$, Al(OH)$_3$
-		- Vit-D correction:
-			- **Vit-D supplements**
-	- **Anaemia**
-		- Causes:
-			- **$\boldsymbol\downarrow$ erythropoietin**
-			- Toxic effects of **uraemia** on RBCs
-			- **$\boldsymbol\downarrow$ RBC survival**
-			- **$\boldsymbol\uparrow$ capillary fragility** $\rightarrow$
-			 blood loss
-			- $\downarrow$ intake, uptake, and utilisation of dietary Fe
-		- **Treatment:** recombinant human **erythropoietin**
-	- **Cardiovascular risk factors**
-		- Mechanism of $\uparrow$ CV disease risk in CKD
-			- $\uparrow$ BP
-			- Vascular tunica media calcification $\rightarrow$ stiffness
-			- Inflammation, oxidative stress
-			- Abnormal endothelial function
-		- Treatment:
-			- Regular exercise
-			- Weight loss
-			- Smoking cessation
-			- Statins, low-dose aspirin
+#### Monitoring renal function
+- GFR at least every 6 months for stage $\ge$ 3
+- Plot GFR against time
+	
+#### Reducing rate of progression
+- **Antihypertensive** therapy: Slows rate of decline irrespective
+ of the medication
+- **Proteinuria reduction:**
+	- Protein
+	- $\downarrow$ Proteinuria $\rightarrow$ risk of progression
+		- As protein in the tubules trigger inflammatory damage
+	- **ACEi / ARBs** can both reduce BP and reduce proteinuria
+		- Reduce perfusion pressure by dilating efferent
+		 arterioles $\rightarrow\;\;\downarrow$ proteinuria
+		- Should be prescribed even if no htn
+		- Reduce risk of cardiovascular events and all-cause
+		 mortality in CKD
+		- Angiotensin-II critical for GFR autoregulation in case of
+		 low renal perfusion, so may exacerbate, e.g., pre-renal AKI.
+		 So should be warned to stop taking the meds if fever, diarrhoea,
+		 vomiting (and other potential causes of dehydration / pre-renal
+		 AKI) arise, and restart after getting better.
+		- Should not be commenced if baseline K$^+$ > 5.5 mmol/L, as
+		 they cause hyperkalaemia
+			 
+#### Treatment of complications
+- **Fluid & electrolyte balance**
+	- **Limit protein intake**, especially in stages 4 and 5,
+	 as urea will accumulate.
+	- **Limit potassium intake**
+	- **Limit salt intake if oedema and htn**
+- **Acid-base balance**
+	- $\downarrow$ excretion of acids $\rightarrow$ HAGMA (high
+	 anion gap metabolic acidosis)
+	- NaHCO$_3^-$ supplements
+- **Renal osteodystrophy**
+	- Primary factors: **$\downarrow$ PO$_4^{3-}$ excretion & vit-D
+	 activation**
+	- Phosphate correction:
+		- **Limit high phosphate food** e.g. milk, cheese, eggs,
+		 protein-rich food
+		- **Phosphate-binding drugs** e.g. CaCO$_3$, Al(OH)$_3$
+	- Vit-D correction:
+		- **Vit-D supplements**
+- **Anaemia**
+	- Causes:
+		- **$\boldsymbol\downarrow$ erythropoietin**
+		- Toxic effects of **uraemia** on RBCs
+		- **$\boldsymbol\downarrow$ RBC survival**
+		- **$\boldsymbol\uparrow$ capillary fragility** $\rightarrow$
+		 blood loss
+		- $\downarrow$ intake, uptake, and utilisation of dietary Fe
+	- **Treatment:** recombinant human **erythropoietin**
+- **Cardiovascular risk factors**
+	- Mechanism of $\uparrow$ CV disease risk in CKD
+		- $\uparrow$ BP
+		- Vascular tunica media calcification $\rightarrow$ stiffness
+		- Inflammation, oxidative stress
+		- Abnormal endothelial function
+	- Treatment:
+		- Regular exercise
+		- Weight loss
+		- Smoking cessation
+		- Statins, low-dose aspirin
 
 \pagebreak
 
