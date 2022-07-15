@@ -713,7 +713,7 @@ $\downarrow$ \\
  	- Antibodies to phospholipase A$_2$ (PLA2Rab), thus, can be used for
  	 diagnosis without biopsy (but may be absent in early disease so biopsy
  	 might still be needed)
-- Aetiology:
+- **Aetiology:**
 	- Primary / Idiopathic: HLA-DQA1
 	- Secondary:
 		- Drugs e.g. NSAIDs, penicillamine (treatment for Wilson's)
