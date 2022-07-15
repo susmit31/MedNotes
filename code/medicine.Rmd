@@ -906,12 +906,10 @@ $\downarrow$ \\
 
 ### Management
 - **BP control:** 1st choice ACEi / ARBs
-- **Tolvaptan:**
-	- Vasopressin V2 receptor antagonist
+- **Tolvaptan:** Vasopressin V2 receptor antagonist
 	- Reduce cyst growth
 	- Slow rate of GFR decline
-- **Octreotide:**
-	- Long acting somatostatin analog
+- **Octreotide:** Long acting somatostatin analog
 	- Reduces rate of growth of liver and renal cysts
 - **Large cyst: US-guided aspiration / laproscopic cystectomy**
 - **RRT** (renal replacement therapy) **:** dialysis /  transplantation
