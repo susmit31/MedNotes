@@ -600,6 +600,15 @@ $\downarrow$ \\
 	- Healthy indiviuals may have upto 12,500 RBCs/mL
 	- Macroscopic or microscopic-dipstick+ haematuria indicates significant
 	 pathology
+	- **Types:**
+		- Initial: 
+			- blood during the start of micturition
+			- cause: penile urethral pathology
+		- Terminal:
+			- blood at the end of micturition
+			- cause: bladder / prostatic urethral pathology
+		- Intermittent:
+			- cause: IgA nephropathy, Alport's, PKD, renal tumour
 - **Proteinuria:**
 	- Very small amounts of high molecular weight and moderate amounts of
 	 low molecular weight proteins pass through the healthy GBM (glomerular
