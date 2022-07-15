@@ -764,6 +764,14 @@ $\downarrow$ \\
 		 protein S) + $\uparrow$ liver production of procoagulants
 		- consider LMW heparin / warfarin if severe NS
 
+
+#### Membranous Nephropathy
+- **Specific:**^[https://kdigo.org/wp-content/uploads/2017/02/KDIGO-GD-Guideline-Key-Takeaways-for-Clinicians-Membranous-Nephropathy.pdf]
+	- **High-dose glucocorticoids + cyclophosphamide** (Ponticelli regimen)
+		- Reserved for severe cases for risk of toxicity of this regimen
+	- If secondary,  **treat the underlying cause**
+- **Supportive:** same as above
+
 ### Complications
 - Hypercoagulability $\rightarrow$ **renal vein thrombosis**, **pulmonary
  embolism**
@@ -777,12 +785,6 @@ $\downarrow$ \\
 - **Pleural effusion**
 - **Pericardial effusion**
 
-#### Membranous Nephropathy
-- **Specific:**^[https://kdigo.org/wp-content/uploads/2017/02/KDIGO-GD-Guideline-Key-Takeaways-for-Clinicians-Membranous-Nephropathy.pdf]
-	- **High-dose glucocorticoids + cyclophosphamide** (Ponticelli regimen)
-		- Reserved for severe cases for risk of toxicity of this regimen
-	- If secondary,  **treat the underlying cause**
-- **Supportive:** same as above
 
 ## Acute post-streptococcal glomerulonephritis
 ### Pathogenesis
