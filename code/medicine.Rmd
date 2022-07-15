@@ -807,10 +807,10 @@ $\downarrow$ \\
 
 ### Features
 - Age: 5-12y; history of strep throat/skin infection a few wks prior
-- Scanty, smoky urine
-- Puffy face
-- Hypertension
-- Features of complications
+- **Scanty, smoky urine**
+- **Puffy face**
+- **Hypertension**
+- Features of _complications_
 	- $\fbox{ALVF}$:
 		- cough
 		- respiratory distress
