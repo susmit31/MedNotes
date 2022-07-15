@@ -673,7 +673,7 @@ $\downarrow$ \\
 - Hyperlipidaemia & lipiduria
 	- due to $\uparrow$ lipoprotein production by liver
 - **Recurrent infections**
-	- loss of immunoglobulins with urine
+	- due to loss of immunoglobulins with urine
 - Features of **complications**
 	- Shiny abdominal wall, rigidity and tenderness, absent bowel sounds
 	 $\rightarrow$ **peritonitis**, likely by _Strep pneumo_
@@ -906,9 +906,14 @@ $\downarrow$ \\
 
 ### Management
 - **BP control:** 1st choice ACEi / ARBs
-- **Vasopressin V2 receptor antagonist:** Tolvaptan
-	- Reduce kidney enlargement
+- **Tolvaptan:**
+	- Vasopressin V2 receptor antagonist
+	- Reduce cyst growth
 	- Slow rate of GFR decline
+- **Octreotide:**
+	- Long acting somatostatin analog
+	- Reduces rate of growth of liver and renal cysts
+- **Large cyst: US-guided aspiration / laproscopic cystectomy**
 - **RRT** (renal replacement therapy) **:** dialysis /  transplantation
 
 \pagebreak
