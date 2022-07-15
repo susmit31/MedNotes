@@ -999,7 +999,7 @@ $\draw[-{Stealth[length=5mm]}, very thick] (Aldo.south) to node[right] {} (htn.n
 	https://kdigo.org/wp-content/uploads/2016/10/KDIGO-2012-AKI-Guideline-English.pdf
 ]: presence of any of the following
 	- $\Delta$SCr $\ge$ +0.3 mg/dL over 48h
-	- SCr $\ge$ +1.5x baseline over 7d
+	- $\Delta$SCr $\ge$ +0.5x baseline (or SCr $\ge$ 1.5x baseline) over 7d
 	- Urine volume $\le$ 0.5 mL/kg/h for $\ge$ 6h
 
 ### Causes
