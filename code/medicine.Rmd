@@ -746,6 +746,9 @@ $\downarrow$ \\
 	- Prednisolone 1 mg/kg/day
 	- KDIGO guidelines: (4wks daily + 4wks alternate day) or
 	 (6wks daily + 6wks	 alternate day)
+	- Incomplete response to steroid: Cyclophosphamide (1.5-2 mg/kg/day)
+	 or Ciclosporin (3-5 mg/kg/day) for
+	 8-12wks with prednisolone 7.5-15 mg/day (i.e. low dose)
 - **Supportive:**
 	- Diet:
 		- normal with adequate protein
@@ -759,6 +762,17 @@ $\downarrow$ \\
 		- due to loss of coagulation inhibitors (antithrombin III, protein C,
 		 protein S) + $\uparrow$ liver production of procoagulants
 		- consider LMW heparin / warfarin if severe NS
+
+### Complications
+- Hypercoagulability $\rightarrow$ **renal vein thrombosis**, **pulmonary
+ embolism**
+- Infections: due to loss of immunoglobulins
+	- **Pneumococcal infection** $\rightarrow$ peritonitis, septicaemia
+	- Cellulitis
+	- Strep infection
+- Hyperlipidaemia $\rightarrow$ **atherosclerosis**
+- **Pleural effusion**
+- **Pericardial effusion**
 
 #### Membranous Nephropathy
 - **Specific:**^[https://kdigo.org/wp-content/uploads/2017/02/KDIGO-GD-Guideline-Key-Takeaways-for-Clinicians-Membranous-Nephropathy.pdf]
