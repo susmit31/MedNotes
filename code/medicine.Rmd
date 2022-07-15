@@ -664,7 +664,7 @@ $\downarrow$ \\
 - Massive **proteinuria** (> 3.5 g/day (medicine) or 1 g/m$^2$/day (paediatrics))
 	- **Hypoalbuminaemia** (< 3 g/dL)
 	- Generalised **oedema** (pitting)
-	- **"Effusions":** Ascites, pleural effusion, pericardial effusion
+	- "Effusions": Ascites, pleural effusion, pericardial effusion
 - Features of reduced circulatory volume
 	- Scanty urination (colour normal)
 	- Pulse: weak
@@ -788,7 +788,8 @@ $\downarrow$ \\
 
 ## Acute post-streptococcal glomerulonephritis
 ### Pathogenesis
-- Occurs following sore throat or skin infection by **group-A $\beta$-haemolytic
+- Occurs following sore throat or skin infection by **group-A
+ $\boldsymbol\beta$-haemolytic
  streptococcus** (nephritogenic strains: 12, 49)
 - **Antibodies against streptococcal M protein cross-react** with
  glomerular antigens because of molecular mimicry
@@ -818,7 +819,11 @@ $\downarrow$ \\
 		- gallop rhythm
 		- bilateral basal crepitations
 	- $\fbox{Hypertensive encephalopathy}$:
-		- headache, blurred vision, convulsion, delirium, papilloedema
+		- headache
+		- blurred vision
+		- convulsion
+		- delirium
+		- papilloedema
 	- $\fbox{AKI}$: anuria
 
 ### Investigations
