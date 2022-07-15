@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.15)  15 JUL 2022 12:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.15)  15 JUL 2022 19:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -460,7 +460,12 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 Package xcolor Info: Driver file: pdftex.def on input line 227.
 (/home/shanks31/.TinyTeX/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+) (/home/shanks31/.TinyTeX/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+\everycr=\toks32
+\minrowclearance=\skip194
 ) (/home/shanks31/.TinyTeX/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+\rownum=\count322
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
 Package xcolor Info: Model `RGB' extended on input line 1369.
@@ -490,7 +495,7 @@ Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 ) (/home/shanks31/.TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks32
+\KV@toks@=\toks33
 ) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 ) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
@@ -512,11 +517,11 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 (/home/shanks31/.TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count322
+\c@section@level=\count323
 )
 \@linkdim=\dimen192
-\Hy@linkcounter=\count323
-\Hy@pagecounter=\count324
+\Hy@linkcounter=\count324
+\Hy@pagecounter=\count325
 (/home/shanks31/.TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2022-06-20 v7.00s Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
@@ -526,7 +531,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 ) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count325
+\Hy@SavedSpaceFactor=\count326
 (/home/shanks31/.TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2022-06-20 v7.00s Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
@@ -540,7 +545,7 @@ Package hyperref Info: Plain pages OFF on input line 4177.
 Package hyperref Info: Backreferencing OFF on input line 4182.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4408.
-\c@Hy@tempcnt=\count326
+\c@Hy@tempcnt=\count327
 (/home/shanks31/.TinyTeX/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
@@ -552,7 +557,7 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count327
+\Fld@menulength=\count328
 \Field@Width=\dimen194
 \Fld@charsize=\dimen195
 Package hyperref Info: Hyper figures OFF on input line 6024.
@@ -566,9 +571,9 @@ Package hyperref Info: PDF/A mode OFF on input line 6054.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count328
-\c@Item=\count329
-\c@Hfootnote=\count330
+\Hy@abspage=\count329
+\c@Item=\count330
+\c@Hfootnote=\count331
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 (/home/shanks31/.TinyTeX/texmf-dist/tex/latex/hyperref/hpdftex.def
@@ -577,8 +582,8 @@ File: hpdftex.def 2022-06-20 v7.00s Hyperref driver for pdfTeX
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
 )
-\Fld@listcount=\count331
-\c@bookmark@seq@number=\count332
+\Fld@listcount=\count332
+\c@bookmark@seq@number=\count333
 (/home/shanks31/.TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
 (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
@@ -586,24 +591,24 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
-\Hy@SectionHShift=\skip194
+\Hy@SectionHShift=\skip195
 ) (/home/shanks31/.TinyTeX/texmf-dist/tex/latex/memoir/memhfixc.sty
 Package: memhfixc 2021/06/16 v1.19 nameref/hyperref package fixes for memoir class
 Redoing nameref's sectioning
 Redoing nameref's label
 LaTeX Info: Redefining \nameref on input line 102.
-\c@memhycontfloat=\count333
-\c@Hpagenote=\count334
+\c@memhycontfloat=\count334
+\c@Hpagenote=\count335
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 48.
+Package hyperref Info: Option `colorlinks' set `true' on input line 49.
 (/home/shanks31/.TinyTeX/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count335
-\Gm@cntv=\count336
-\c@Gm@tempcnt=\count337
+\Gm@cnth=\count336
+\Gm@cntv=\count337
+\c@Gm@tempcnt=\count338
 \Gm@bindingoffset=\dimen196
 \Gm@wd@mp=\dimen197
 \Gm@odd@mp=\dimen198
@@ -612,7 +617,7 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutheight=\dimen257
 \Gm@layouthoffset=\dimen258
 \Gm@layoutvoffset=\dimen259
-\Gm@dimlist=\toks33
+\Gm@dimlist=\toks34
 ) (/home/shanks31/.TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 (/home/shanks31/.TinyTeX/texmf-dist/tex/latex/graphics/graphics.sty
@@ -644,31 +649,31 @@ Package caption Info: memoir document class detected.
 (/home/shanks31/.TinyTeX/texmf-dist/tex/latex/caption/caption-memoir.sto
 File: caption-memoir.sto 2022/03/02 v2.2b Adaption of the caption package to the memoir document class (AR)
 ))
-\c@caption@flags=\count338
-\c@continuedfloat=\count339
+\c@caption@flags=\count339
+\c@continuedfloat=\count340
 Package caption Info: changepage package is loaded.
 \caption@adjustwidth@hsize=\dimen270
 \caption@adjustwidth@linewidth=\dimen271
 Package caption Info: hyperref package is loaded.
 )
-\c@subfigure=\count340
-\c@subtable=\count341
+\c@subfigure=\count341
+\c@subtable=\count342
 ) (/home/shanks31/.TinyTeX/texmf-dist/tex/latex/pdfpages/pdfpages.sty
 Package: pdfpages 2022/05/22 v0.5v Insert pages of external PDF documents (AM)
 (/home/shanks31/.TinyTeX/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 ) (/home/shanks31/.TinyTeX/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count342
-\calc@Bcount=\count343
+\calc@Acount=\count343
+\calc@Bcount=\count344
 \calc@Adimen=\dimen272
 \calc@Bdimen=\dimen273
-\calc@Askip=\skip195
-\calc@Bskip=\skip196
+\calc@Askip=\skip196
+\calc@Bskip=\skip197
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count344
-\calc@Cskip=\skip197
+\calc@Ccount=\count345
+\calc@Cskip=\skip198
 ) (/home/shanks31/.TinyTeX/texmf-dist/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
 \ESO@tempdima=\dimen274
@@ -680,17 +685,17 @@ Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
 (/home/shanks31/.TinyTeX/texmf-dist/tex/latex/pdfpages/pppdftex.def
 File: pppdftex.def 2022/05/22 v0.5v Pdfpages driver for pdfTeX (AM)
 )
-\pdfpages@includegraphics@status=\count345
+\pdfpages@includegraphics@status=\count346
 \AM@pagebox=\box58
-\AM@global@opts=\toks34
-\AM@pagecnt=\count346
-\AM@toc@title=\toks35
-\c@AM@survey=\count347
+\AM@global@opts=\toks35
+\AM@pagecnt=\count347
+\AM@toc@title=\toks36
+\c@AM@survey=\count348
 \AM@templatesizebox=\box59
 ) (/home/shanks31/.TinyTeX/texmf-dist/tex/latex/psnfss/palatino.sty
 Package: palatino 2020/03/25 PSNFSS-v9.3 (SPQR) 
 ) (/home/shanks31/.TinyTeX/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/home/shanks31/.TinyTeX/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (/home/shanks31/.TinyTeX/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks36
+\pgfutil@everybye=\toks37
 \pgfutil@tempdima=\dimen279
 \pgfutil@tempdimb=\dimen280
 (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
@@ -702,10 +707,10 @@ Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
 (/home/shanks31/.TinyTeX/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/home/shanks31/.TinyTeX/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
 (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks37
-\pgfkeys@temptoks=\toks38
+\pgfkeys@pathtoks=\toks38
+\pgfkeys@temptoks=\toks39
 (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
-\pgfkeys@tmptoks=\toks39
+\pgfkeys@tmptoks=\toks40
 ))
 \pgf@x=\dimen281
 \pgf@y=\dimen282
@@ -719,14 +724,14 @@ Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@yd=\dimen290
 \w@pgf@writea=\write4
 \r@pgf@reada=\read3
-\c@pgf@counta=\count348
-\c@pgf@countb=\count349
-\c@pgf@countc=\count350
-\c@pgf@countd=\count351
-\t@pgf@toka=\toks40
-\t@pgf@tokb=\toks41
-\t@pgf@tokc=\toks42
-\pgf@sys@id@count=\count352
+\c@pgf@counta=\count349
+\c@pgf@countb=\count350
+\c@pgf@countc=\count351
+\c@pgf@countd=\count352
+\t@pgf@toka=\toks41
+\t@pgf@tokb=\toks42
+\t@pgf@tokc=\toks43
+\pgf@sys@id@count=\count353
 (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
 )
@@ -737,21 +742,21 @@ File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
 File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
 ))) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfsyssoftpath@smallbuffer@items=\count353
-\pgfsyssoftpath@bigbuffer@items=\count354
+\pgfsyssoftpath@smallbuffer@items=\count354
+\pgfsyssoftpath@bigbuffer@items=\count355
 ) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
 Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
 (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen291
-\pgfmath@count=\count355
+\pgfmath@count=\count356
 \pgfmath@box=\box61
-\pgfmath@toks=\toks43
-\pgfmath@stack@operand=\toks44
-\pgfmath@stack@operation=\toks45
+\pgfmath@toks=\toks44
+\pgfmath@stack@operand=\toks45
+\pgfmath@stack@operation=\toks46
 ) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex))) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count356
+\c@pgfmathroundto@lastzeros=\count357
 )) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@picminx=\dimen292
@@ -781,7 +786,7 @@ File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfpic=\box62
 \pgf@hbox=\box63
 \pgf@layerbox@main=\box64
-\pgf@picture@serial@count=\count357
+\pgf@picture@serial@count=\count358
 ) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgflinewidth=\dimen310
@@ -802,8 +807,8 @@ File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@max=\dimen315
-\pgf@sys@shading@range@num=\count358
-\pgf@shadingcount=\count359
+\pgf@sys@shading@range@num=\count359
+\pgf@shadingcount=\count360
 ) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
@@ -833,13 +838,13 @@ Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
 (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
 \pgffor@iter=\dimen318
 \pgffor@skip=\dimen319
-\pgffor@stack=\toks46
-\pgffor@toks=\toks47
+\pgffor@stack=\toks47
+\pgffor@toks=\toks48
 )) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
 Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
 (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@plot@mark@count=\count360
+\pgf@plot@mark@count=\count361
 \pgfplotmarksize=\dimen320
 )
 \tikz@lastx=\dimen321
@@ -854,48 +859,48 @@ File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \tikz@figbox@bg=\box68
 \tikz@tempbox=\box69
 \tikz@tempbox@bg=\box70
-\tikztreelevel=\count361
-\tikznumberofchildren=\count362
-\tikznumberofcurrentchild=\count363
-\tikz@fig@count=\count364
+\tikztreelevel=\count362
+\tikznumberofchildren=\count363
+\tikznumberofcurrentchild=\count364
+\tikz@fig@count=\count365
 (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfmatrixcurrentrow=\count365
-\pgfmatrixcurrentcolumn=\count366
-\pgf@matrix@numberofcolumns=\count367
+\pgfmatrixcurrentrow=\count366
+\pgfmatrixcurrentcolumn=\count367
+\pgf@matrix@numberofcolumns=\count368
 )
-\tikz@expandcount=\count368
+\tikz@expandcount=\count369
 (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ))) (/home/shanks31/.TinyTeX/texmf-dist/tex/latex/pgfplots/pgfplots.sty (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
 Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
 (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
-\t@pgfplots@toka=\toks48
-\t@pgfplots@tokb=\toks49
-\t@pgfplots@tokc=\toks50
+\t@pgfplots@toka=\toks49
+\t@pgfplots@tokb=\toks50
+\t@pgfplots@tokc=\toks51
 \pgfplots@tmpa=\dimen329
-\c@pgfplots@coordindex=\count369
-\c@pgfplots@scanlineindex=\count370
+\c@pgfplots@coordindex=\count370
+\c@pgfplots@scanlineindex=\count371
 (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric.code.tex)) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgfplots/libs/pgfplotslibrary.code.tex) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfsupp_loader.code.tex (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex)) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code.tex (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststructure.code.tex) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststructureext.code.tex) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsarray.code.tex
-\c@pgfplotsarray@tmp=\count371
+\c@pgfplotsarray@tmp=\count372
 ) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsmatrix.code.tex) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstableshared.code.tex
-\c@pgfplotstable@counta=\count372
-\t@pgfplotstable@a=\toks51
+\c@pgfplotstable@counta=\count373
+\t@pgfplotstable@a=\toks52
 ) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsdeque.code.tex) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.code.tex (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.data.code.tex)) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.verb.code.tex) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplots.surfshading.code.tex
-\c@pgfplotslibrarysurf@no=\count373
+\c@pgfplotslibrarysurf@no=\count374
 (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots.surfshading.pgfsys-pdftex.def))) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.code.tex (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgfplots/util/pgfplotscolor.code.tex)) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgfplots/pgfplotsstackedplots.code.tex) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgfplots/pgfplotsplothandlers.code.tex (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplothandler.code.tex (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplotimage.code.tex))) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgfplots/pgfplots.scaling.code.tex) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgfplots/pgfplotscoordprocessing.code.tex) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgfplots/pgfplots.errorbars.code.tex) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgfplots/pgfplots.markers.code.tex) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgfplots/pgfplotsticks.code.tex) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgfplots/pgfplots.paths.code.tex) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.code.tex (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.code.tex
 \pgfdecoratedcompleteddistance=\dimen330
 \pgfdecoratedremainingdistance=\dimen331
 \pgfdecoratedinputsegmentcompleteddistance=\dimen332
 \pgfdecoratedinputsegmentremainingdistance=\dimen333
 \pgf@decorate@distancetomove=\dimen334
-\pgf@decorate@repeatstate=\count374
+\pgf@decorate@repeatstate=\count375
 \pgfdecorationsegmentamplitude=\dimen335
 \pgfdecorationsegmentlength=\dimen336
 )
 \tikz@lib@dec@box=\box71
 ) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathmorphing.code.tex (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathmorphing.code.tex)) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathreplacing.code.tex (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathreplacing.code.tex)) (/home/shanks31/.TinyTeX/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplots.contourlua.code.tex)
-\pgfplots@numplots=\count375
+\pgfplots@numplots=\count376
 \pgfplots@xmin@reg=\dimen337
 \pgfplots@xmax@reg=\dimen338
 \pgfplots@ymin@reg=\dimen339
@@ -915,41 +920,41 @@ File: pgflibraryarrows.meta.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfarrowwidth=\dimen345
 \pgfarrowlinewidth=\dimen346
 )
-LaTeX Font Info:    Trying to load font information for T1+ppl on input line 81.
+LaTeX Font Info:    Trying to load font information for T1+ppl on input line 82.
 (/home/shanks31/.TinyTeX/texmf-dist/tex/latex/psnfss/t1ppl.fd
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 ) (/home/shanks31/.TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-07-01 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count376
+\l__color_backend_stack_int=\count377
 \l__pdf_internal_box=\box72
 ) (./medicine.aux)
 \openout1 = `medicine.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
 (/home/shanks31/.TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
 (/home/shanks31/.TinyTeX/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring ON on input line 81.
+Package hyperref Info: Link coloring ON on input line 82.
 (./medicine.out) (./medicine.out)
 \@outlinefile=\write5
 \openout5 = `medicine.out'.
@@ -999,69 +1004,69 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable tick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into your preamble.
- on input line 81.
+ on input line 82.
 
-<../pdfs/cover-medicine.pdf, id=264, 614.295pt x 794.97pt>
+<../pdfs/cover-medicine.pdf, id=268, 614.295pt x 794.97pt>
 File: ../pdfs/cover-medicine.pdf Graphic file (type pdf)
 <use ../pdfs/cover-medicine.pdf>
-Package pdftex.def Info: ../pdfs/cover-medicine.pdf  used on input line 83.
+Package pdftex.def Info: ../pdfs/cover-medicine.pdf  used on input line 84.
 (pdftex.def)             Requested size: 500.49133pt x 647.69469pt.
 File: ../pdfs/cover-medicine.pdf Graphic file (type pdf)
 <use ../pdfs/cover-medicine.pdf>
-Package pdftex.def Info: ../pdfs/cover-medicine.pdf  used on input line 83.
+Package pdftex.def Info: ../pdfs/cover-medicine.pdf  used on input line 84.
 (pdftex.def)             Requested size: 500.49133pt x 647.69469pt.
-<../pdfs/cover-medicine.pdf, id=267, page=1, 614.295pt x 794.97pt>
+<../pdfs/cover-medicine.pdf, id=271, page=1, 614.295pt x 794.97pt>
 File: ../pdfs/cover-medicine.pdf Graphic file (type pdf)
 <use ../pdfs/cover-medicine.pdf, page 1>
-Package pdftex.def Info: ../pdfs/cover-medicine.pdf , page1 used on input line 83.
+Package pdftex.def Info: ../pdfs/cover-medicine.pdf , page1 used on input line 84.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: ../pdfs/cover-medicine.pdf Graphic file (type pdf)
 <use ../pdfs/cover-medicine.pdf, page 1>
-Package pdftex.def Info: ../pdfs/cover-medicine.pdf , page1 used on input line 83.
+Package pdftex.def Info: ../pdfs/cover-medicine.pdf , page1 used on input line 84.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: ../pdfs/cover-medicine.pdf Graphic file (type pdf)
 <use ../pdfs/cover-medicine.pdf, page 1>
-Package pdftex.def Info: ../pdfs/cover-medicine.pdf , page1 used on input line 83.
+Package pdftex.def Info: ../pdfs/cover-medicine.pdf , page1 used on input line 84.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: ../pdfs/cover-medicine.pdf Graphic file (type pdf)
 <use ../pdfs/cover-medicine.pdf, page 1>
-Package pdftex.def Info: ../pdfs/cover-medicine.pdf , page1 used on input line 83.
+Package pdftex.def Info: ../pdfs/cover-medicine.pdf , page1 used on input line 84.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: ../pdfs/cover-medicine.pdf Graphic file (type pdf)
 <use ../pdfs/cover-medicine.pdf, page 1>
-Package pdftex.def Info: ../pdfs/cover-medicine.pdf , page1 used on input line 83.
+Package pdftex.def Info: ../pdfs/cover-medicine.pdf , page1 used on input line 84.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [1
 
 
  <../pdfs/cover-medicine.pdf>]
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 85.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 86.
 (/home/shanks31/.TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 85.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 86.
 (/home/shanks31/.TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 85.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 86.
 (/home/shanks31/.TinyTeX/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 85.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 86.
 (/home/shanks31/.TinyTeX/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 85.
+(Font)              <14.4> on input line 86.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 85.
+(Font)              <10> on input line 86.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 85.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 85.
+(Font)              <7> on input line 86.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 86.
 (/home/shanks31/.TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 85.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 86.
 (/home/shanks31/.TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [2{/home/shanks31/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./medicine.toc
@@ -1092,17 +1097,17 @@ Underfull \hbox (badness 4556) in paragraph at lines 109--109
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 139--139
+Underfull \hbox (badness 10000) in paragraph at lines 142--142
  [][] [][][]\T1/ppl/m/n/12 Seropositive vs Seroneg-a-tive 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--160
+Underfull \hbox (badness 10000) in paragraph at lines 163--163
  [][] [][][]\T1/ppl/m/n/12 Cauda equina and Conus 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 196--196
+Underfull \hbox (badness 10000) in paragraph at lines 199--199
  [][] [][][]\T1/ppl/m/n/12 Chronic myeloid leukaemia 
  []
 
@@ -1112,7 +1117,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 196--196
 ]) [2
 
 ]
-LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 104.
+LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 105.
 (/home/shanks31/.TinyTeX/texmf-dist/tex/latex/psnfss/ts1ppl.fd
 File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
 ) [3
@@ -1121,210 +1126,220 @@ File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
 ] [4
 
 ]
-<../assets/med/ecg-anatomy.jpg, id=385, 1003.75pt x 603.25375pt>
+<../assets/med/ecg-anatomy.jpg, id=390, 1003.75pt x 603.25375pt>
 File: ../assets/med/ecg-anatomy.jpg Graphic file (type jpg)
 <use ../assets/med/ecg-anatomy.jpg>
-Package pdftex.def Info: ../assets/med/ecg-anatomy.jpg  used on input line 226.
+Package pdftex.def Info: ../assets/med/ecg-anatomy.jpg  used on input line 227.
 (pdftex.def)             Requested size: 350.33754pt x 210.55286pt.
 [5
 
  <../assets/med/ecg-anatomy.jpg>]
-<../assets/med/reciprocal-leads.jpg, id=401, 1099.10625pt x 333.245pt>
+<../assets/med/reciprocal-leads.jpg, id=406, 1099.10625pt x 333.245pt>
 File: ../assets/med/reciprocal-leads.jpg Graphic file (type jpg)
 <use ../assets/med/reciprocal-leads.jpg>
-Package pdftex.def Info: ../assets/med/reciprocal-leads.jpg  used on input line 320.
+Package pdftex.def Info: ../assets/med/reciprocal-leads.jpg  used on input line 321.
 (pdftex.def)             Requested size: 300.28456pt x 91.04517pt.
 [6 <../assets/med/reciprocal-leads.jpg>]
-<../assets/med/STEMI.jpg, id=421, 1585.925pt x 1634.105pt>
+<../assets/med/STEMI.jpg, id=426, 1585.925pt x 1634.105pt>
 File: ../assets/med/STEMI.jpg Graphic file (type jpg)
 <use ../assets/med/STEMI.jpg>
-Package pdftex.def Info: ../assets/med/STEMI.jpg  used on input line 337.
+Package pdftex.def Info: ../assets/med/STEMI.jpg  used on input line 338.
 (pdftex.def)             Requested size: 250.2443pt x 257.84665pt.
 [7 <../assets/med/STEMI.jpg>] [8] [9] [10]
-<../assets/med/MI-mx.png, id=458, 651.43375pt x 1033.8625pt>
+<../assets/med/MI-mx.png, id=463, 651.43375pt x 1033.8625pt>
 File: ../assets/med/MI-mx.png Graphic file (type png)
 <use ../assets/med/MI-mx.png>
-Package pdftex.def Info: ../assets/med/MI-mx.png  used on input line 606.
+Package pdftex.def Info: ../assets/med/MI-mx.png  used on input line 607.
 (pdftex.def)             Requested size: 350.34755pt x 556.02156pt.
 [11 <../assets/med/MI-mx.png>]
-<../assets/surg/skin-layers.jpg, id=470, 803.0pt x 702.625pt>
+<../assets/surg/skin-layers.jpg, id=475, 803.0pt x 702.625pt>
 File: ../assets/surg/skin-layers.jpg Graphic file (type jpg)
 <use ../assets/surg/skin-layers.jpg>
-Package pdftex.def Info: ../assets/surg/skin-layers.jpg  used on input line 621.
+Package pdftex.def Info: ../assets/surg/skin-layers.jpg  used on input line 622.
 (pdftex.def)             Requested size: 250.23848pt x 218.95866pt.
 [12
 
  <../assets/surg/skin-layers.jpg>] [13] [14] [15] [16]
-<../assets/med/eczema.jpg, id=527, 530.98375pt x 601.24625pt>
+<../assets/med/eczema.jpg, id=532, 530.98375pt x 601.24625pt>
 File: ../assets/med/eczema.jpg Graphic file (type jpg)
 <use ../assets/med/eczema.jpg>
-Package pdftex.def Info: ../assets/med/eczema.jpg  used on input line 1239.
+Package pdftex.def Info: ../assets/med/eczema.jpg  used on input line 1240.
 (pdftex.def)             Requested size: 350.34502pt x 396.70447pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [17] [18 <../assets/med/eczema.jpg>] [19]
-<../assets/med/psoriasis.jpg, id=559, 634.37pt x 787.94376pt>
+<../assets/med/psoriasis.jpg, id=564, 634.37pt x 787.94376pt>
 File: ../assets/med/psoriasis.jpg Graphic file (type jpg)
 <use ../assets/med/psoriasis.jpg>
-Package pdftex.def Info: ../assets/med/psoriasis.jpg  used on input line 1392.
+Package pdftex.def Info: ../assets/med/psoriasis.jpg  used on input line 1393.
 (pdftex.def)             Requested size: 350.34685pt x 435.16183pt.
 [20 <../assets/med/psoriasis.jpg>]
 
-LaTeX Font Warning: Command \LARGE invalid in math mode on input line 1533.
+LaTeX Font Warning: Command \LARGE invalid in math mode on input line 1534.
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <20.74> on input line 1533.
+(Font)              <20.74> on input line 1534.
 
-LaTeX Font Warning: Command \LARGE invalid in math mode on input line 1533.
+LaTeX Font Warning: Command \LARGE invalid in math mode on input line 1534.
 
 [21] [22] [23
 
 ]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <17.28> on input line 1750.
+(Font)              <17.28> on input line 1751.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 1750.
+(Font)              <5> on input line 1751.
 [24]
-<../assets/med/nephrotic-mcd.png, id=619, 402.50375pt x 330.23375pt>
+<../assets/med/nephrotic-mcd.png, id=624, 402.50375pt x 330.23375pt>
 File: ../assets/med/nephrotic-mcd.png Graphic file (type png)
 <use ../assets/med/nephrotic-mcd.png>
-Package pdftex.def Info: ../assets/med/nephrotic-mcd.png  used on input line 1849.
+Package pdftex.def Info: ../assets/med/nephrotic-mcd.png  used on input line 1850.
 (pdftex.def)             Requested size: 225.21631pt x 184.77846pt.
-<../assets/med/nephrotic-mn.png, id=620, 451.6875pt x 419.5675pt>
+<../assets/med/nephrotic-mn.png, id=625, 451.6875pt x 419.5675pt>
 File: ../assets/med/nephrotic-mn.png Graphic file (type png)
 <use ../assets/med/nephrotic-mn.png>
-Package pdftex.def Info: ../assets/med/nephrotic-mn.png  used on input line 1853.
+Package pdftex.def Info: ../assets/med/nephrotic-mn.png  used on input line 1854.
 (pdftex.def)             Requested size: 225.22289pt x 209.20705pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [25]
-Underfull \hbox (badness 10000) in paragraph at lines 1969--1969
+Underfull \hbox (badness 10000) in paragraph at lines 1970--1970
 [][] [][][][][]$\T1/ppl/m/n/10 https : / / kdigo . org / wp -[] content / uploads / 2017 / 02 / KDIGO -[] GD -[] Guideline -[] Key -[] Takeaways -[] for -[] Clinicians -[]
  []
 
 [26 <../assets/med/nephrotic-mcd.png> <../assets/med/nephrotic-mn.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 2034--2034
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
 [][] [][][][][]$\T1/ppl/m/n/10 https : / / kdigo . org / wp -[] content / uploads / 2017 / 02 / KDIGO -[] GD -[] Guideline -[] Key -[] Takeaways -[] for -[] Clinicians -[]
  []
 
 [27] [28] [29] [30] [31] [32] [33]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 2696.
-[34] [35] [36] [37] [38] [39
+(Font)              <9> on input line 2697.
+[34] [35]
+Underfull \hbox (badness 2865) in paragraph at lines 2894--2896
+[]|\T1/ppl/m/n/12 First symp-toms of-ten at
+ []
 
-] [40] [41] [42] [43
 
-] [44]
-<../assets/med/stat-epi.png, id=844, 503.8825pt x 560.0925pt>
+Underfull \hbox (badness 4279) in paragraph at lines 2896--2898
+\T1/ppl/m/n/12 com-pli-ca-tions. Dial-y-sis
+ []
+
+[36] [37] [38] [39] [40
+
+] [41] [42] [43] [44
+
+] [45]
+<../assets/med/stat-epi.png, id=861, 503.8825pt x 560.0925pt>
 File: ../assets/med/stat-epi.png Graphic file (type png)
 <use ../assets/med/stat-epi.png>
-Package pdftex.def Info: ../assets/med/stat-epi.png  used on input line 3541.
+Package pdftex.def Info: ../assets/med/stat-epi.png  used on input line 3585.
 (pdftex.def)             Requested size: 350.33957pt x 389.42126pt.
-[45 <../assets/med/stat-epi.png>] [46] [47]
-<../assets/med/cauda.jpg, id=877, 435.6275pt x 814.04124pt>
+[46 <../assets/med/stat-epi.png>] [47] [48]
+<../assets/med/cauda.jpg, id=895, 435.6275pt x 814.04124pt>
 File: ../assets/med/cauda.jpg Graphic file (type jpg)
 <use ../assets/med/cauda.jpg>
-Package pdftex.def Info: ../assets/med/cauda.jpg  used on input line 3677.
+Package pdftex.def Info: ../assets/med/cauda.jpg  used on input line 3721.
 (pdftex.def)             Requested size: 200.18501pt x 374.07845pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 3677--3679
+Underfull \hbox (badness 10000) in paragraph at lines 3721--3723
 [][]
  []
 
-<../assets/med/cauda-2.jpg, id=878, 219.82124pt x 492.84125pt>
+<../assets/med/cauda-2.jpg, id=896, 219.82124pt x 492.84125pt>
 File: ../assets/med/cauda-2.jpg Graphic file (type jpg)
 <use ../assets/med/cauda-2.jpg>
-Package pdftex.def Info: ../assets/med/cauda-2.jpg  used on input line 3682.
+Package pdftex.def Info: ../assets/med/cauda-2.jpg  used on input line 3726.
 (pdftex.def)             Requested size: 200.19528pt x 448.83968pt.
-[48 <../assets/med/cauda.jpg> <../assets/med/cauda-2.jpg>]
-<../assets/med/cauda-vs-conus-1.png, id=888, 702.625pt x 966.61125pt>
+[49 <../assets/med/cauda.jpg> <../assets/med/cauda-2.jpg>]
+<../assets/med/cauda-vs-conus-1.png, id=905, 702.625pt x 966.61125pt>
 File: ../assets/med/cauda-vs-conus-1.png Graphic file (type png)
 <use ../assets/med/cauda-vs-conus-1.png>
-Package pdftex.def Info: ../assets/med/cauda-vs-conus-1.png  used on input line 3731.
+Package pdftex.def Info: ../assets/med/cauda-vs-conus-1.png  used on input line 3775.
 (pdftex.def)             Requested size: 350.34673pt x 481.977pt.
-<../assets/med/cauda-vs-conus-2.png, id=889, 700.6175pt x 583.17876pt>
+<../assets/med/cauda-vs-conus-2.png, id=906, 700.6175pt x 583.17876pt>
 File: ../assets/med/cauda-vs-conus-2.png Graphic file (type png)
 <use ../assets/med/cauda-vs-conus-2.png>
-Package pdftex.def Info: ../assets/med/cauda-vs-conus-2.png  used on input line 3735.
+Package pdftex.def Info: ../assets/med/cauda-vs-conus-2.png  used on input line 3779.
 (pdftex.def)             Requested size: 375.36653pt x 312.44693pt.
-[49 <../assets/med/cauda-vs-conus-1.png>] [50 <../assets/med/cauda-vs-conus-2.png>]
-<../assets/med/micturition-reflex.png, id=909, 862.22125pt x 681.54625pt>
+[50 <../assets/med/cauda-vs-conus-1.png>] [51 <../assets/med/cauda-vs-conus-2.png>]
+<../assets/med/micturition-reflex.png, id=926, 862.22125pt x 681.54625pt>
 File: ../assets/med/micturition-reflex.png Graphic file (type png)
 <use ../assets/med/micturition-reflex.png>
-Package pdftex.def Info: ../assets/med/micturition-reflex.png  used on input line 3832.
+Package pdftex.def Info: ../assets/med/micturition-reflex.png  used on input line 3876.
 (pdftex.def)             Requested size: 300.28212pt x 237.3592pt.
-[51 <../assets/med/micturition-reflex.png>]
-<../assets/med/mic-part.png, id=917, 286.06876pt x 698.61pt>
+[52 <../assets/med/micturition-reflex.png>]
+<../assets/med/mic-part.png, id=934, 286.06876pt x 698.61pt>
 File: ../assets/med/mic-part.png Graphic file (type png)
 <use ../assets/med/mic-part.png>
-Package pdftex.def Info: ../assets/med/mic-part.png  used on input line 3871.
+Package pdftex.def Info: ../assets/med/mic-part.png  used on input line 3915.
 (pdftex.def)             Requested size: 200.19438pt x 488.89575pt.
-<../assets/med/mic-filled.png, id=918, 410.53375pt x 676.5275pt>
+<../assets/med/mic-filled.png, id=935, 410.53375pt x 676.5275pt>
 File: ../assets/med/mic-filled.png Graphic file (type png)
 <use ../assets/med/mic-filled.png>
-Package pdftex.def Info: ../assets/med/mic-filled.png  used on input line 3876.
+Package pdftex.def Info: ../assets/med/mic-filled.png  used on input line 3920.
 (pdftex.def)             Requested size: 275.2629pt x 453.61172pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 3876--3878
+Underfull \hbox (badness 10000) in paragraph at lines 3920--3922
 [][]
  []
 
-[52 <../assets/med/mic-part.png> <../assets/med/mic-filled.png>]
-Underfull \hbox (badness 4832) in paragraph at lines 3970--3973
+[53 <../assets/med/mic-part.png> <../assets/med/mic-filled.png>]
+Underfull \hbox (badness 4832) in paragraph at lines 4014--4017
 []\T1/ppl/m/n/12 Lewy body = ag-gre-ga-tion of $\OML/lmm/m/it/12 $\T1/ppl/m/n/12 -synuclein (hence the al-ter-na-tive name $\OML/lmm/m/it/12 $\T1/ppl/m/n/12 -
  []
 
-[53] [54] [55] [56]
-<../assets/med/insulin-secr.jpg, id=962, 740.7675pt x 440.14438pt>
+[54] [55] [56] [57]
+<../assets/med/insulin-secr.jpg, id=979, 740.7675pt x 440.14438pt>
 File: ../assets/med/insulin-secr.jpg Graphic file (type jpg)
 <use ../assets/med/insulin-secr.jpg>
-Package pdftex.def Info: ../assets/med/insulin-secr.jpg  used on input line 4353.
+Package pdftex.def Info: ../assets/med/insulin-secr.jpg  used on input line 4397.
 (pdftex.def)             Requested size: 350.34229pt x 208.16408pt.
-<../assets/med/incretin.png, id=963, 411.5375pt x 592.2125pt>
+<../assets/med/incretin.png, id=980, 411.5375pt x 592.2125pt>
 File: ../assets/med/incretin.png Graphic file (type png)
 <use ../assets/med/incretin.png>
-Package pdftex.def Info: ../assets/med/incretin.png  used on input line 4369.
+Package pdftex.def Info: ../assets/med/incretin.png  used on input line 4413.
 (pdftex.def)             Requested size: 200.192pt x 288.08118pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[57
+[58
 
- <../assets/med/insulin-secr.jpg>] [58 <../assets/med/incretin.png>]
-<../assets/med/hypogly.png, id=980, 488.82625pt x 582.175pt>
+ <../assets/med/insulin-secr.jpg>] [59 <../assets/med/incretin.png>]
+<../assets/med/hypogly.png, id=998, 488.82625pt x 582.175pt>
 File: ../assets/med/hypogly.png Graphic file (type png)
 <use ../assets/med/hypogly.png>
-Package pdftex.def Info: ../assets/med/hypogly.png  used on input line 4556.
+Package pdftex.def Info: ../assets/med/hypogly.png  used on input line 4600.
 (pdftex.def)             Requested size: 350.3435pt x 417.2469pt.
-[59] [60 <../assets/med/hypogly.png>] [61] [62] [63] [64
+[60] [61 <../assets/med/hypogly.png>] [62] [63] [64] [65
 
-] [65
+] [66
 
-] [66] [67
+] [67] [68
 
-] [68]
+] [69]
 \tf@toc=\write6
 \openout6 = `medicine.toc'.
 
 (./medicine.aux)
 Package rerunfilecheck Info: File `medicine.out' has not changed.
-(rerunfilecheck)             Checksum: D35E79736F16CA18A7FA0FC2E615779D;10334.
+(rerunfilecheck)             Checksum: AAEBD9592A00AD256D5F9CEA93167557;10545.
  ) 
 Here is how much of TeX's memory you used:
- 37985 strings out of 479983
- 848301 string characters out of 5887622
- 1303829 words of memory out of 5000000
- 55025 multiletter control sequences out of 15000+600000
+ 38062 strings out of 479983
+ 849641 string characters out of 5887622
+ 1305332 words of memory out of 5000000
+ 55090 multiletter control sequences out of 15000+600000
  550861 words of font info for 126 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  84i,17n,80p,744b,705s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/home/shanks31/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/home/shanks31/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/home/shanks31/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{/home/shanks31/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/home/shanks31/.TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}</home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmex10.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmmib10.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr12.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr8.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy9.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on medicine.pdf (70 pages, 1282977 bytes).
+Output written on medicine.pdf (71 pages, 1285193 bytes).
 PDF statistics:
- 1251 PDF objects out of 1440 (max. 8388607)
- 1106 compressed objects within 12 object streams
- 511 named destinations out of 1000 (max. 500000)
- 645 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1269 PDF objects out of 1440 (max. 8388607)
+ 1123 compressed objects within 12 object streams
+ 519 named destinations out of 1000 (max. 500000)
+ 653 words of extra memory for PDF output out of 10000 (max. 10000000)
 

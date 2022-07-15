@@ -34,7 +34,8 @@
 }{% if KOMA class
   \KOMAoptions{parskip=half}}
 \makeatother
-\usepackage{xcolor}
+\usepackage[table]{xcolor}
+
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
 \IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \hypersetup{
@@ -637,7 +638,7 @@ morphology}\label{classification-according-to-ecg-morphology}}
     \item
       corneum
     \item
-      lucidum
+      lucidum: \emph{only in thick skin} i.e.~palm and sole
     \item
       granulosum
     \item
@@ -2680,8 +2681,8 @@ purpura}\label{thrombotic-thrombocytopoenic-purpura}}
 \tightlist
 \item
   Sudden, (usually) reversible loss of renal function, developing over
-  days or weeks, evidenced by rising serum creatinine and / or falling
-  GFR.
+  days or weeks (\textbf{\textless{} 3 months}), evidenced by rising
+  serum creatinine and / or falling GFR.
 \item
   KDIGO criteria\footnote{
     \url{https://kdigo.org/wp-content/uploads/2016/10/KDIGO-2012-AKI-Guideline-English.pdf}}:
@@ -2856,11 +2857,54 @@ purpura}\label{thrombotic-thrombocytopoenic-purpura}}
 
 \pagebreak
 
-\hypertarget{uti}{%
-\section{UTI}\label{uti}}
+\hypertarget{chronic-kidney-disease-ckd}{%
+\section{Chronic kidney disease
+(CKD)}\label{chronic-kidney-disease-ckd}}
 
 \hypertarget{definition-1}{%
 \subsection{Definition}\label{definition-1}}
+
+\begin{itemize}
+\tightlist
+\item
+  Irreversible loss of renal function developing over years (Davidson)
+\item
+  Abnormalities of kidney structure or function, present for
+  \textgreater{} 3 months, with implications for health
+  (KDIGO)\footnote{\url{https://kdigo.org/wp-content/uploads/2017/02/KDIGO_2012_CKD_GL.pdf}}
+\item
+  End-stage renal disease (ESRD): death likely without RRT (CKD stage 5)
+\end{itemize}
+
+\hypertarget{staging}{%
+\subsection{Staging}\label{staging}}
+
+\renewcommand{\arraystretch}{1.5}
+\rowcolors{2}{gray!20}{gray!40}
+\begin{tabular}{l m{4cm} c m{5cm}}
+    \cellcolor{violet!60}\color{white}Stage & 
+    \cellcolor{violet!60}\color{white}Definition & 
+    \cellcolor{violet!60}\color{white}Description & 
+    \cellcolor{violet!60}\color{white}Features \\
+    1 & GFR $\ge$ 90 with evidence of kidney damage &
+     Normal function & Asymptomatic \\
+    2 & GFR 60-89 & Mild CKD & Asymptomatic \\
+    3A & GFR 45-59 & Mild to moderate CKD & Usually asymptomatic \\
+    3B & GFR 30-44 & Moderate to severe CKD & Anaemia in some patients \\
+    4 & GFR 15-29 & Severe CKD & First symptoms often at GFR < 20.
+     Electrolyte disorders. \\
+    5 & GFR < 15 & Kidney failure & Significant symptoms and complications.
+     Dialysis initiated if < 10. \\
+     
+\end{tabular}
+
+\pagebreak
+
+\hypertarget{uti}{%
+\section{UTI}\label{uti}}
+
+\hypertarget{definition-2}{%
+\subsection{Definition}\label{definition-2}}
 
 \begin{itemize}
 \tightlist
@@ -3523,8 +3567,8 @@ arthritis}\label{seropositive-vs-seronegative-arthritis}}
 \hypertarget{status-epilepticus}{%
 \section{Status epilepticus}\label{status-epilepticus}}
 
-\hypertarget{definition-2}{%
-\subsection{Definition}\label{definition-2}}
+\hypertarget{definition-3}{%
+\subsection{Definition}\label{definition-3}}
 
 \begin{itemize}
 \tightlist
