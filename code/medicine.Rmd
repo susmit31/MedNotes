@@ -1174,7 +1174,8 @@ $\draw[-{Stealth[length=5mm]}, very thick] (Aldo.south) to node[right] {} (htn.n
 	- 2$^{\circ}$ hyperparathyroidism
 	- Hyperprolactinaemia
 - _Cardiovascular_
-	- **Hypertension**
+	- **Hypertension** ($\downarrow$GFR $\rightarrow$ $\uparrow$Renin
+	 $\rightarrow\;\uparrow$Angiotensin )
 	- Heart failure
 	- LVH (2$^{\circ}$ to anaemia or htn)
 	- Arrhythmias
