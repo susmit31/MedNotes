@@ -1165,8 +1165,9 @@ $\draw[-{Stealth[length=5mm]}, very thick] (Aldo.south) to node[right] {} (htn.n
 	- Vomiting
 - _Metabolic_
 	- **Hyponatraemia, hyperkalaemia** (due to failure of RAAS system)
+	- **Hypocalcaemia, hyperphosphataemia** (mechanism
+	 Fig. \ref{fig:ckd-osteo})
 	- **Metabolic acidosis**
-	- **Hypocalcaemia, hyperphosphataemia**
 	- **Hyperuricaemia**, gout
 	- **Hypercholesterolaemia**
 - _Endocrine_
@@ -1266,7 +1267,7 @@ $\draw[-{Stealth[length=5mm]}, very thick] (Aldo.south) to node[right] {} (htn.n
 \begin{figure}[h!]
 	\centering
 	\includegraphics[width=.6\textwidth]{../assets/med/CKD-osteo.png}
-	\vspace{6mm}
+	\vspace{14mm}
 	\caption{Mechanism of renal osteodystrophy}
 	\label{fig:ckd-osteo}
 \end{figure}
