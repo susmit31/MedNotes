@@ -1201,6 +1201,7 @@ $\draw[-{Stealth[length=5mm]}, very thick] (Aldo.south) to node[right] {} (htn.n
 #### Reducing rate of progression
 - **Antihypertensive** therapy: Slows rate of decline irrespective
  of the medication
+- **Glycaemic control:** if DM present
 - **Proteinuria reduction:**
 	- Protein
 	- $\downarrow$ Proteinuria $\rightarrow$ risk of progression
@@ -1259,12 +1260,17 @@ $\draw[-{Stealth[length=5mm]}, very thick] (Aldo.south) to node[right] {} (htn.n
 		- Smoking cessation
 		- Statins, low-dose aspirin
 
-\begin{figure}
+\pagebreak
+\null
+\vfill
+\begin{figure}[h!]
 	\centering
-	\includegraphics[width=.5\textwidth]{../assets/med/CKD-osteo.png}
+	\includegraphics[width=.6\textwidth]{../assets/med/CKD-osteo.png}
+	\vspace{6mm}
 	\caption{Mechanism of renal osteodystrophy}
 	\label{fig:ckd-osteo}
 \end{figure}
+\vfill
 
 \pagebreak
 
