@@ -1157,6 +1157,7 @@ $\draw[-{Stealth[length=5mm]}, very thick] (Aldo.south) to node[right] {} (htn.n
 	- Osteomalacia (renal rickets; due to $\downarrow$ vit-D)
 	- Osteoporosis
 	- Osteosclerosis ($\uparrow$ PTH $\rightarrow$ rugger jersey spine)
+	- Osteitis fibrosa cystica
 - _Skin_
 	- Pruritus
 - _Gastrointestinal_
