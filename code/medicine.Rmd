@@ -664,12 +664,12 @@ $\downarrow$ \\
 
 
 \section[Nephrotic syndrome]
-	{Nephrotic syndrome
-		\footnote
-			{Most parts of this section, unless specifically
- 			mentioned to be for membranous nephropathy, refers to minimal
- 			change disease i.e. (most cases of) paediatric nephrotic
- 			syndrome}}
+{Nephrotic syndrome
+\footnote{
+Most parts of this section, unless specifically
+mentioned to be for membranous nephropathy, refers to minimal
+change disease i.e. (most cases of) paediatric nephrotic
+syndrome}}
 
 ### Features
 - Massive **proteinuria** (> 3.5 g/day (medicine) or 1 g/m$^2$/day (paediatrics))
@@ -1104,7 +1104,14 @@ $\draw[-{Stealth[length=5mm]}, very thick] (Aldo.south) to node[right] {} (htn.n
 
 \pagebreak
 
-## Chronic kidney disease (CKD)
+\section [Chronic kidney disease (CKD)]
+{Chronic kidney disease (CKD)\footnote{
+Here's an awesome
+ \href{https://www.youtube.com/watch?v=iyMw-b3Ypzw&list=TLPQMTQwNzIwMjJ11biDo7N03Q&index=15}{video by Ninja Nerd}
+ that discusses CKD in detail with its
+ pathophys, features, dx, and rx.}}
+
+	
 ### Definition
 - Irreversible loss of renal function developing over years (Davidson)
 - Abnormalities of kidney structure or function, present for > 3 months,
@@ -1259,6 +1266,7 @@ $\draw[-{Stealth[length=5mm]}, very thick] (Aldo.south) to node[right] {} (htn.n
 		 blood loss
 		- $\downarrow$ intake, uptake, and utilisation of dietary Fe
 	- **Treatment:** recombinant human **erythropoietin**
+	- Target Hb value: 10 g/dL
 - **Cardiovascular risk factors**
 	- Mechanism of $\uparrow$ CV disease risk in CKD
 		- $\uparrow$ BP
