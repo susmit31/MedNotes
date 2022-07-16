@@ -1178,10 +1178,18 @@ $\draw[-{Stealth[length=5mm]}, very thick] (Aldo.south) to node[right] {} (htn.n
 	- Heart failure
 	- LVH (2$^{\circ}$ to anaemia or htn)
 	- Arrhythmias
-	- Pericardial tamponade $\rightarrow\;\;\uparrow$ JVP, pulsus paradoxus 
+	- Pericardial tamponade (uraemic pericarditis)
+	 $\rightarrow\;\;\uparrow$ JVP, pulsus paradoxus 
 - _Respiratory_
 	- Pulmonary oedema
-- _Nervous_
+- _Nervous_: due to uraemic encephalopathy (azotaemia = elevated
+ urea _without symptoms_ i.e. no organ damage yet, uraemia = elevated
+  urea _with symptoms_)
+	- Fatigue, drowsiness
+	- Restless leg syndrome
+	- Asterixis (flapping tremor)
+	- Seizures
+	- Coma
 - _Muscular_
 
 ### Investigations
@@ -1266,9 +1274,18 @@ $\draw[-{Stealth[length=5mm]}, very thick] (Aldo.south) to node[right] {} (htn.n
 \vfill
 \begin{figure}[h!]
 	\centering
-	\includegraphics[width=.6\textwidth]{../assets/med/CKD-osteo.png}
-	\vspace{14mm}
-	\caption{Mechanism of renal osteodystrophy}
+	\begin{subfigure}[t]{.5\textwidth}
+		\includegraphics[width=\textwidth]{../assets/med/CKD-osteo.png}
+		\vspace{14mm}
+		\caption{Mechanism of renal osteodystrophy}
+	\end{subfigure}\hfill
+	\begin{subfigure}[t]{.4\textwidth}
+		\includegraphics[width=\textwidth]{../assets/med/PTH-bone.png}
+		\vspace{12mm}
+		\caption{Mechanism of PTH-induced bone resorption}
+	\end{subfigure}
+	\vspace{15mm}
+	\caption{PTH and renal osteodystrophy}
 	\label{fig:ckd-osteo}
 \end{figure}
 \vfill
