@@ -1153,30 +1153,25 @@ $\draw[-{Stealth[length=5mm]}, very thick] (Aldo.south) to node[right] {} (htn.n
 	- Kussmaul breathing if profound metabolic acidosis
 
 #### Features according to systems
-- _Bone_ (**renal osteodystrophy**)
+- _Bone_ (**renal osteodystrophy**; mechanism Fig. \ref{fig:ckd-osteo})
 	- Osteomalacia (renal rickets; due to $\downarrow$ vit-D)
 	- Osteoporosis
 	- Osteosclerosis ($\uparrow$ PTH $\rightarrow$ rugger jersey spine)
 - _Skin_
 	- Pruritus
-	- Dry skin
 - _Gastrointestinal_
 	- Anorexia
 	- Nausea
 	- Vomiting
 - _Metabolic_
-	- Hyponatraemia, hyperkalaemia (due to failure of RAAS system)
-	- Metabolic acidosis
-	- Hyperuricaemia, gout
-	- Hypocalcaemia, hyperphosphataemia
-	- Hypercholesterolaemia
+	- **Hyponatraemia, hyperkalaemia** (due to failure of RAAS system)
+	- **Metabolic acidosis**
+	- **Hypocalcaemia, hyperphosphataemia**
+	- **Hyperuricaemia**, gout
+	- **Hypercholesterolaemia**
 - _Endocrine_
 	- 2$^{\circ}$ hyperparathyroidism
 	- Hyperprolactinaemia
-- _Muscular_
-	- Generalised myopathy
-	- Muscle cramps
-	- Restless leg syndrome
 - _Cardiovascular_
 	- **Hypertension**
 	- Heart failure
@@ -1186,6 +1181,7 @@ $\draw[-{Stealth[length=5mm]}, very thick] (Aldo.south) to node[right] {} (htn.n
 - _Respiratory_
 	- Pulmonary oedema
 - _Nervous_
+- _Muscular_
 
 ### Investigations
 - Urea and creatinine: to assess stability / progression; compare to
@@ -1235,7 +1231,7 @@ $\draw[-{Stealth[length=5mm]}, very thick] (Aldo.south) to node[right] {} (htn.n
 	- NaHCO$_3^-$ supplements
 - **Renal osteodystrophy**
 	- Primary factors: **$\downarrow$ PO$_4^{3-}$ excretion & vit-D
-	 activation**
+	 activation** (details: Figure \ref{fig:ckd-osteo})
 	- Phosphate correction:
 		- **Limit high phosphate food** e.g. milk, cheese, eggs,
 		 protein-rich food
@@ -1262,6 +1258,13 @@ $\draw[-{Stealth[length=5mm]}, very thick] (Aldo.south) to node[right] {} (htn.n
 		- Weight loss
 		- Smoking cessation
 		- Statins, low-dose aspirin
+
+\begin{figure}
+	\centering
+	\includegraphics[width=.5\textwidth]{../assets/med/CKD-osteo.png}
+	\caption{Mechanism of renal osteodystrophy}
+	\label{fig:ckd-osteo}
+\end{figure}
 
 \pagebreak
 
