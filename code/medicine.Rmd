@@ -291,7 +291,8 @@ $\fbox{E. In old infarcts, T-wave inversion may or may not persist}$\\
 			- resting
 			- lasts months (in scalp)
 - Sebaceous glands
-	- usually _associated with a hair follicle_
+	- usually associated with a hair follicle (called a _pilosebaceous
+	 unit_)
 	- $\fbox{androgens}\rightarrow$ **$\uparrow$** $\fbox{sebum}$
 	- $\fbox{oestrogen}\rightarrow$ **$\downarrow$** $\fbox{sebum}$
 - Sweat glands
