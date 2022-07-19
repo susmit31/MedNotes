@@ -31,11 +31,13 @@ main = do
   putStrLn "Name of the source file? "
   fname <- getLine
   fcontents <- readFile fname
-  let splitcontents = split fcontents "\n"
+  let sfcontents = split fcontents "\n"
+  let format = head sfcontents
+  let splitcontents = tail sfcontents
   let splitfirstline = map (\text -> "\\cellcolor{violet!60}\\color{white}"++text) (split (splitcontents!!0) "|")
   let firstline = join splitfirstline " &\n"
   let restlines = join (map (\text -> replace text "|" " & ") (tail splitcontents)) " \\\\\n"
-  let textable = "\\renewcommand{\\arraystretch}{1.5}\n\\rowcolors{2}{gray!20}{gray!40}\n\\begin{tabular}{l m{5cm} c m{5cm}}\n"++firstline++" \\\\\n"++restlines++"\\end{tabular}"
+  let textable = "\\renewcommand{\\arraystretch}{1.5}\n\\rowcolors{2}{gray!20}{gray!40}\n\\begin{tabular}{"++format++"}\n"++firstline++" \\\\\n"++restlines++"\\end{tabular}"
   putStrLn ""
   putStrLn textable
   putStrLn ""

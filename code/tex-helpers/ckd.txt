@@ -1,3 +1,4 @@
+l m{5cm} c m{5cm}
 Stage|Definition|Description|Features
 1|GFR $\ge$ 90 mL/min/1.73m$^2$ with evidence of kidney damage|Normal function|Asymptomatic
 2|GFR 60-89|Mild CKD|Asymptomatic
