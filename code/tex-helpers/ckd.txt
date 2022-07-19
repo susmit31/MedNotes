@@ -2,3 +2,7 @@ l m{5cm} c m{5cm}
 Stage|Definition|Description|Features
 1|GFR $\ge$ 90 mL/min/1.73m$^2$ with evidence of kidney damage|Normal function|Asymptomatic
 2|GFR 60-89|Mild CKD|Asymptomatic
+3A|GFR 45-59|Mild to moderate CKD|Usually asymptomatic
+3B|GFR 30-44|Moderate to severe CKD|Anaemia in some patients
+4|GFR 15-29|Severe CKD|First symptoms often at GFR < 20. Electrolyte disorders
+5|GFR < 15|Kidney failure|Significant symptoms and complications. Dialysis initiated if < 10.
