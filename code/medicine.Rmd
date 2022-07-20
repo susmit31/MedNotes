@@ -2068,16 +2068,57 @@ Route of administration: **subcutaneous**
 - Ocular complications:
 	- Diabetic **retinopathy**
 	- **Cataract**
+- Foot complications: ulcer, gangrene
 
 #### Macrovascular
 - **Coronary**: myocardial ischaemia, infarction
 - **Cerebral**: Cerebrovascular disease
-- **Peripheral**: ischaemia, claudication, ulcer
+- **Peripheral**: ischaemia, claudication
 
 \pagebreak
 
 ## Pathogenesis of chronic complications
+- **\fbox{Thickened basement membrane}** and
+ **\fbox{$\boldsymbol\uparrow$ vascular permeability}** are the
+ pathophysiological hallmarks
+ 
+### Mechanisms
+- Formation of **advanced glycation end-products (AGEs)**
+	- Nonenzymatic addition of glucose to proteins
+	- Exert effects by both binding to receptors (RAGE) on endothelial,
+	 inflammatory and smooth muscle cells, and by direct (non-receptor)
+	 cross-linking of collagen in the basement membrane,
+	 mediated chiefly by **VEGF** and **TGF-$\boldsymbol\beta$**
+	 (details: fig. \ref{fig:dm-age})
+- Excess activation of **protein kinase C (PKC)**
+	- Mechanism: $\uparrow$intracellular glucose $\rightarrow$ $\uparrow$DAG synthesis
+	 (diacyl glycerol) $\rightarrow$ $\uparrow\bigoplus$PKC $\rightarrow$
+	 $\uparrow$VEGF, TGF-$\beta$, PAI-1 (plasminogen activator inhibitor-1)
+	 production by the vascular endothelium
+- **Oxidative stress** and **sorbitol accumulation**
+	- Mechanism: $\uparrow$intracellular glucose $\rightarrow$
+	 $\uparrow$metabolism to sorbitol (by aldose reductase)
+	 $\rightarrow$ fructose using _NADPH_ $\rightarrow$ NADPH used up
+	 $\rightarrow$ $\downarrow$availability for use in antioxidant
+	 pathway $\rightarrow$ $\uparrow$ROS-mediated damage
+	- Accumulation of sorbitol in the lens $\rightarrow$ cataract
+	  
 
+
+\pagebreak
+
+\null
+\vfill
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=1\textwidth]{../assets/med/DM-AGE.png}
+	\vspace{12mm}
+	\caption{Mechanisms of AGE-induced microvascular pathology}
+	\label{fig:dm-age}
+\end{figure}
+\vfill
+
+\pagebreak
 
 # Gastrointestinal diseases
 ## Weight loss
