@@ -1544,8 +1544,12 @@ Here's an awesome
 - Clinically we assume SE after 5mins of seizure activity.
 
 ### Management
-\includegraphics[width=.7\textwidth]{../assets/med/stat-epi.png}
-
+\begin{figure}
+	\centering
+	\includegraphics[width=.7\textwidth]{../assets/med/stat-epi.png}
+	\vspace{7mm}
+	\caption{Management algorithm for status epilepticus}
+\end{figure}
 
 ## All jerks root values
 - Biceps: C5
@@ -2069,6 +2073,13 @@ Route of administration: **subcutaneous**
 	- Diabetic **retinopathy**
 	- **Cataract**
 - Foot complications: ulcer, gangrene
+	- Causes of diabetic ulcer:
+		- ischaemia
+		- neuropathy
+		- combined ischaemia and neuropathy
+		- trauma
+		- infection
+
 
 #### Macrovascular
 - **Coronary**: myocardial ischaemia, infarction
@@ -2117,6 +2128,19 @@ Route of administration: **subcutaneous**
 	\label{fig:dm-age}
 \end{figure}
 \vfill
+
+\pagebreak
+
+## Stuff not large enough to devote a section to
+### Metabolic syndrome
+- AKA **insulin resistance syndrome** or **syndrome X**
+- Type 2 DM associated with central obesity + htn + dyslipidaemia (high
+ TGs/LDLs and/or low HDL)
+- Often associated with
+	- Nonalcoholic fatty liver disease (NAFLD)
+	- PCOS
+- $\uparrow$risk of stroke, CAD
+
 
 \pagebreak
 
