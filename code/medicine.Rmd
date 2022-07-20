@@ -1122,7 +1122,8 @@ Here's an awesome
 ### Staging
 \renewcommand{\arraystretch}{1.5}
 \rowcolors{2}{gray!20}{gray!40}
-\begin{tabular}{l m{5cm} c m{5cm}}
+\begin{table}[h!]
+\centering\begin{tabular}{l m{5cm} c m{5cm}}
 \cellcolor{violet!60}\color{white}Stage &
 \cellcolor{violet!60}\color{white}Definition &
 \cellcolor{violet!60}\color{white}Description &
@@ -1133,8 +1134,9 @@ Here's an awesome
 3B & GFR 30-44 & Moderate to severe CKD & Anaemia in some patients \\
 4 & GFR 15-29 & Severe CKD & First symptoms often at GFR < 20. Electrolyte disorders \\
 5 & GFR < 15 & Kidney failure & Significant symptoms and complications. Dialysis initiated if < 10. \\
-\end{tabular}
-
+\end{tabular}\caption{Stages of CKD}
+\label{table:tex-helpers/ckd.txt}
+\end{table}
 
 
 ### Causes
@@ -1881,7 +1883,6 @@ $\fbox{Lesion in L and above}$ $\rightarrow$ $\fbox{Leaks (incontinence)}$\\
 \caption{Mechanism of insulin secretion}
 \end{figure}
 
-
 ## Incretin effect
 For the same glucose load applied orally and IV, the **oral load stimulates
  more insulin secretion** (because oral load $\rightarrow$ release of gut
@@ -1896,6 +1897,17 @@ For the same glucose load applied orally and IV, the **oral load stimulates
 \caption{The incretin effect}
 \end{figure}
 
+## Diagnostic criteria
+- If _symptomatic_, any one of the following
+	- FBS $\ge$ 7.0 mmol/L
+	- RBS / 2h after OGTT $\ge$ 11.1 mmol/L
+	- HbA1c > 6.5%
+- If _asymptomatic_, two positives needed for dx.
+- IFG: 
+	- FBS between 6.1-6.9 mmol/L, 2h after OGTT < 7.8 mmol/L (WHO)
+	- FBS between 5.6-6.9 mmol/L (American diabetes association (ADA))
+- IGT:
+	- FBS < 7.0 mmol/L, 2h after 7.8-11 mmol/L
 
 ## Diabetic ketoacidosis (DKA)
 - **Medical emergency**

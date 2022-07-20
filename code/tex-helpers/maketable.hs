@@ -25,21 +25,29 @@ join strlist sep =
 replace :: String -> String -> String -> String
 replace srcstr old new = join (split srcstr old) new
 
+maketable :: String -> String -> String -> String
+maketable fname fcontents caption = headers ++format++"}\n"++firstline++" \\\\\n"++restlines++"\\end{tabular}\\caption{"++caption++"}\n\\label{table:"++fname++"}\n\\end{table}"
+  where headers = "\\renewcommand{\\arraystretch}{1.5}\n\\rowcolors{2}{gray!20}{gray!40}\n\\begin{table}[h!]\n\\centering\\begin{tabular}{"
+        format = head sfcontents
+        sfcontents = split fcontents "\n"
+        firstline = join splitfirstline " &\n"
+        splitfirstline = map (\text -> "\\cellcolor{violet!60}\\color{white}"++text) (split (splitcontents!!0) "|")
+        restlines = join (map (\text -> replace text "|" " & ") (tail splitcontents)) " \\\\\n"
+        splitcontents = tail sfcontents
+
 
 main :: IO ()
 main = do
-  putStrLn "Name of the source file? "
+  putStrLn "Name of the source file?"
   fname <- getLine
+  putStrLn "Caption of generated table?"
+  caption <- getLine
   fcontents <- readFile fname
-  let sfcontents = split fcontents "\n"
-  let format = head sfcontents
-  let splitcontents = tail sfcontents
-  let splitfirstline = map (\text -> "\\cellcolor{violet!60}\\color{white}"++text) (split (splitcontents!!0) "|")
-  let firstline = join splitfirstline " &\n"
-  let restlines = join (map (\text -> replace text "|" " & ") (tail splitcontents)) " \\\\\n"
-  let textable = "\\renewcommand{\\arraystretch}{1.5}\n\\rowcolors{2}{gray!20}{gray!40}\n\\begin{tabular}{"++format++"}\n"++firstline++" \\\\\n"++restlines++"\\end{tabular}"
+  let textable = maketable fname fcontents caption
   putStrLn ""
   putStrLn textable
   putStrLn ""
-  callCommand ("echo \"" ++ textable ++ "\" | xclip -sel clip")
+  appendFile "out.table" textable
+  callCommand "xclip -sel clip out.table"
   putStrLn "Copied!"
+  callCommand "rm out.table"

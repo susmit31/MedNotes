@@ -2885,7 +2885,8 @@ Here's an awesome
 
 \renewcommand{\arraystretch}{1.5}
 \rowcolors{2}{gray!20}{gray!40}
-\begin{tabular}{l m{5cm} c m{5cm}}
+\begin{table}[h!]
+\centering\begin{tabular}{l m{5cm} c m{5cm}}
 \cellcolor{violet!60}\color{white}Stage &
 \cellcolor{violet!60}\color{white}Definition &
 \cellcolor{violet!60}\color{white}Description &
@@ -2896,7 +2897,9 @@ Here's an awesome
 3B & GFR 30-44 & Moderate to severe CKD & Anaemia in some patients \\
 4 & GFR 15-29 & Severe CKD & First symptoms often at GFR < 20. Electrolyte disorders \\
 5 & GFR < 15 & Kidney failure & Significant symptoms and complications. Dialysis initiated if < 10. \\
-\end{tabular}
+\end{tabular}\caption{Stages of CKD}
+\label{table:tex-helpers/ckd.txt}
+\end{table}
 
 \hypertarget{causes-4}{%
 \subsection{Causes}\label{causes-4}}
@@ -4815,6 +4818,46 @@ insulin secretion).
 \vspace{10mm}
 \caption{The incretin effect}
 \end{figure}
+
+\hypertarget{diagnostic-criteria}{%
+\section{Diagnostic criteria}\label{diagnostic-criteria}}
+
+\begin{itemize}
+\tightlist
+\item
+  If \emph{symptomatic}, any one of the following
+
+  \begin{itemize}
+  \tightlist
+  \item
+    FBS \(\ge\) 7.0 mmol/L
+  \item
+    RBS / 2h after OGTT \(\ge\) 11.1 mmol/L
+  \item
+    HbA1c \textgreater{} 6.5\%
+  \end{itemize}
+\item
+  If \emph{asymptomatic}, two positives needed for dx.
+\item
+  IFG:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    FBS between 6.1-6.9 mmol/L, 2h after OGTT \textless{} 7.8 mmol/L
+    (WHO)
+  \item
+    FBS between 5.6-6.9 mmol/L (American diabetes association (ADA))
+  \end{itemize}
+\item
+  IGT:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    FBS \textless{} 7.0 mmol/L, 2h after 7.8-11 mmol/L
+  \end{itemize}
+\end{itemize}
 
 \hypertarget{diabetic-ketoacidosis-dka}{%
 \section{Diabetic ketoacidosis (DKA)}\label{diabetic-ketoacidosis-dka}}
