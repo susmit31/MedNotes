@@ -43,11 +43,12 @@ main = do
   putStrLn "Caption of generated table?"
   caption <- getLine
   fcontents <- readFile fname
-  let textable = maketable fname fcontents caption
-  putStrLn ""
-  putStrLn textable
-  putStrLn ""
-  appendFile "out.table" textable
-  callCommand "xclip -sel clip out.table"
-  putStrLn "Copied!"
-  callCommand "rm out.table"
+  let textable = maketable fname fcontents caption in
+    do
+      putStrLn ""
+      putStrLn textable
+      putStrLn ""
+      appendFile "out.table" textable
+      callCommand "xclip -sel clip out.table"
+      putStrLn "Copied!"
+      callCommand "rm out.table"

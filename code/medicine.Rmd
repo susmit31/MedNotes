@@ -1138,7 +1138,6 @@ Here's an awesome
 \label{table:tex-helpers/ckd.txt}
 \end{table}
 
-
 ### Causes
 - Diabetes mellitus
 - Hypertension
@@ -1909,6 +1908,8 @@ For the same glucose load applied orally and IV, the **oral load stimulates
 - IGT:
 	- FBS < 7.0 mmol/L, 2h after 7.8-11 mmol/L
 
+\pagebreak
+
 ## Diabetic ketoacidosis (DKA)
 - **Medical emergency**
 - Cause of death
@@ -2050,12 +2051,33 @@ Route of administration: **subcutaneous**
 	 25% of filtered glucose excreted
 	- Resulting glycosuria can lead to genital fungal infections
 	- Empagliflozin $\rightarrow$ 35% reduced mortality in heart failure
-	
+
+
+## Complications of DM
+### Acute complications
+- Hypoglycaemia
+- Diabetic ketoacidosis
+- Hyperglycaemic hyperosmolar state (HHS)
+- Lactic acidosis
+
+### Long-term complications
+#### Microvascular
+- Diabetic **neuropathy**: peripheral neuropathy (sensory, motor or mixed),
+ mononeuritis multiplex, autonomic neuropathy
+- Diabetic **nephropathy**
+- Ocular complications:
+	- Diabetic **retinopathy**
+	- **Cataract**
+
+#### Macrovascular
+- **Coronary**: myocardial ischaemia, infarction
+- **Cerebral**: Cerebrovascular disease
+- **Peripheral**: ischaemia, claudication, ulcer
+
 \pagebreak
 
-## Diabetic retinopathy (TBF)
+## Pathogenesis of chronic complications
 
-\pagebreak
 
 # Gastrointestinal diseases
 ## Weight loss
