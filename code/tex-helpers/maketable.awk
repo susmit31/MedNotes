@@ -1,3 +1,5 @@
+#!/usr/bin/awk -f
+
 BEGIN {
 	starting = "\\renewcommand{\\arraystretch}{1.5}\n\\rowcolors{2}{gray!20}{gray!40}\n\\begin{table}[h!]\n\\centering\n\\begin{tabular}"
 	heading = "\\cellcolor{violet!60}\\color{white}"
