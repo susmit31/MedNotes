@@ -594,6 +594,50 @@ $\downarrow$ \\
 \pagebreak
 
 # Nephrology
+## Anatomy and Physiology
+### Nephron
+- **Glomerulus** (fig. \ref{fig:glomerulus})
+	- Glomerular capillaries enclosed by Bowman's membrane
+	- Space between adjacent capillaries occupied by _mesangial cells_
+	- **Glomerular capillaries:**
+		- Endothelial cells with
+			- fenestrations ($\approx$ 70nm)
+			- charged glycocalyx (mostly -ve)
+		- GBM (glomerular basement membrane) made of _type IV collagen_ etc
+	- **Podocytes / visceral epithelial layer:** interdigitating foot
+	 processes cover up the fenestrations, making the filtration barrier
+	 tighter
+	- **Mesangial cells:**
+		- contract and relax to control capillary diameter $\rightarrow$
+		 blood flow $\rightarrow$ GFR
+- **Renal tubules**
+	- Lining different according to location and function
+	- **Interstitial fibroblasts** produce **erythropoietin**
+
+### Juxtaglomerular (JG) apparatus
+- **Macula densa** around the distal tubules
+	- Sense Na concentration in distal tubule filtrate
+		- If low GFR, release PGE2 $\rightarrow$ dilate afferent arteriole
+		 $\rightarrow$ $\uparrow$GFR
+		- If high GFR, make adenosine from ATP $\rightarrow$ adenosine
+		 binds to receptors on afferent arteriole $\rightarrow$
+		 afferent arteriolar constriction $\rightarrow$ $\downarrow$GFR
+			- As an aside, this is the mechanism behind the mild diuresis
+			 produced by caffeine. Adenosine carries the signal for
+			 tiredness in the brain, and caffeine blocks adenosine receptors.
+			 In the brain, the blocking means you feel less tired. In the
+			 afferent arterioles, blocking means you can't reduce your GFR. 
+	 
+		
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=.7\textwidth]{../assets/med/glomerulus.jpg}
+	\caption{Microstructure of the glomerulus}
+	\label{fig:glomerulus}
+\end{figure}
+
+
 ## Presenting problems in urinary disease
 - **Oliguria:** < 400mL/day
 - **Anuria:** < 100mL/day
