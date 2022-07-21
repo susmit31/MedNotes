@@ -1079,7 +1079,7 @@ $\draw[-{Stealth[length=5mm]}, very thick] (Aldo.south) to node[right] {} (htn.n
 - Pre-renal: features of shock
 - Renal: 
 	- AGN: haematuria, mild proteinuria, oedema, htn
-	- AIN: worsened renal function following drugs (NSAIDs, PPIs,
+	- AIN: worsened renal function following drugs (_NSAIDs_, PPIs,
 	penicillins)
 	 	- NSAIDs $\rightarrow\;\;\downarrow$ prostaglandins $\rightarrow$
 	 	 $\;\downarrow$ afferent arteriolar vasodilation $\rightarrow$
