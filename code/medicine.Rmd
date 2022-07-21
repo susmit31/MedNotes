@@ -620,8 +620,7 @@ $\downarrow$ \\
  
 	- If low GFR, release PGE2 $\rightarrow$ dilate afferent arteriole
 	 $\rightarrow$ $\uparrow$GFR
-	- If high GFR, make adenosine from ATP $\rightarrow$ adenosine
-	 binds to receptors on afferent arteriole $\rightarrow$
+	- If high GFR, make adenosine from ATP $\rightarrow$
 	 afferent arteriolar constriction $\rightarrow$ $\downarrow$GFR
 		- Aside: this is the mechanism behind the mild diuresis
 		 produced by caffeine. Adenosine carries the signal for
