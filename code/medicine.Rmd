@@ -1056,7 +1056,7 @@ $\draw[-{Stealth[length=5mm]}, very thick] (Aldo.south) to node[right] {} (htn.n
 #### Renal
 - _AGN_ (acute glomerulonephritis)
 - _AIN_ (acute interstitial nephritis)
-	- Drugs
+	- Drugs (more in \hyperref[ssec:aki-feat]{Features})
 	- Toxins
 	- Inflammatory disease
 	- Infection
@@ -1074,11 +1074,16 @@ $\draw[-{Stealth[length=5mm]}, very thick] (Aldo.south) to node[right] {} (htn.n
 - Phimosis
 
 ### Features
+\label{ssec:aki-feat}
+
 - Pre-renal: features of shock
 - Renal: 
 	- AGN: haematuria, mild proteinuria, oedema, htn
-	- AIN: worsened renal function following drugs (PPIs, penicillins,
-	 NSAIDs)
+	- AIN: worsened renal function following drugs (NSAIDs, PPIs,
+	penicillins)
+	 	- NSAIDs $\rightarrow\;\;\downarrow$ prostaglandins $\rightarrow$
+	 	 $\;\downarrow$ afferent arteriolar vasodilation $\rightarrow$
+	 	 $\;\downarrow$ GFR
 	- ATN: dense granular ("muddy brown") casts
 - Post-renal: bladder distension, hydronephrosis on USG
 
