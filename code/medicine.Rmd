@@ -616,7 +616,8 @@ $\downarrow$ \\
 
 ### Juxtaglomerular (JG) apparatus
 - **Macula densa** around the distal tubules
-	- Sense Na concentration in distal tubule filtrate
+	- Sense Na concentration in distal tubule filtrate, controlling the
+	 **tubuloglomerular feedback** mechanism
 		- If low GFR, release PGE2 $\rightarrow$ dilate afferent arteriole
 		 $\rightarrow$ $\uparrow$GFR
 		- If high GFR, make adenosine from ATP $\rightarrow$ adenosine
@@ -627,8 +628,7 @@ $\downarrow$ \\
 			 tiredness in the brain, and caffeine blocks adenosine receptors.
 			 In the brain, the blocking means you feel less tired. In the
 			 afferent arterioles, blocking means you can't reduce your GFR. 
-	 
-		
+		- If high GFR, stimulate **JG cells** to secrete renin
 
 \begin{figure}[h!]
 	\centering
