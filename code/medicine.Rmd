@@ -1417,6 +1417,54 @@ Here's an awesome
 - Continuous prophylactic trimethoprim (100mg) and nitrofurantoin (50 mg) at
  night
 
+## Renal cell cancer
+### Introduction
+- Peak incidence: 65-75y
+- Arises from _renal tubular cells_
+- Histological types:
+	- **Clear cell** (most common; 85%)
+	- Papillary
+	- Chromophobe
+	- Collecting duct
+
+### Features
+- $\approx$ 50% found incidentally (i.e. asymptomatic when diagnosed)
+- $\approx$ 10% present with the **classic triad** (especially if advanced
+ disease)
+	- **Haematuria** ($\approx$ 60% of symptomatics)
+	- **Loin pain** ($\approx$ 40% of symptomatics)
+	- **Loin mass** ($\approx$ 25% of symptomatics)
+- Pyrexia of unknown origin (PUO)
+- Anorexia, malaise, wt loss
+- **Metastasis:** ($\approx\frac{1}{4}$th have mets at presentation)
+	- Lymphatic: to _para-aortic nodes_
+	- Blood-borne: to _lungs, bones, brain_
+	
+### Investigations
+- USG: to differentiate solid tumour and cyst
+- CECT (contrast-enhanced CT) of abdomen and chest: for staging (
+ "cannon-ball" opacities in chest)
+- CBC: polycythaemia (due to $\uparrow$ erythropoietin)
+- ALP: to check bony mets
+
+### Management
+- **Radical nephrectomy**
+- **Partial nephrectomy**: If tumour $\le$ 4cm
+- If high operative risk / patient doesn't want surgery:
+	- **Cryotherapy**
+	- **Radiofrequency ablation**
+- If unresectable / metastatic:
+	- RCC is radio-resistant and also resistant to most chemo agents
+	- Current drugs of choice:
+		- **Tyrosine kinase inhibitors:**
+			- pazopanib, sunitinib
+			- inhibit angiogenesis
+		- **mTOR inhibitors** (mammalian target of rapamycin):
+			- temsirolimus, everolimus
+	- High-dose IL-2 
+	
+
+
 \pagebreak
 
 ## Stuff not large enough to devote a section to
