@@ -13,12 +13,18 @@ urlcolor: red
 toccolor: gray
 ---
 
+\renewcommand{\labelitemi}{$\blacktriangleright$}
+\renewcommand{\labelitemii}{\tiny$\blacksquare$}
+\renewcommand{\labelitemiii}{$\bullet$}
+\renewcommand{\labelitemiv}{$\circ$}
+
 \openany
 \raggedbottom
 \twocoltocetc
 \tableofcontents
 
 \pagebreak
+
 
 # Preface {-}
 What follows are my own notes on various topics in medicine,
