@@ -90,7 +90,24 @@ The date below tells you the last time when I edited this
 - **See also: table \ref{table:infarct-loc}**
 
 ### Conduction system
+#### Sinoatrial node
+- Spontaneous depolarization = _pacemaker potential_ 
+	- Due to small influx of Na$^+$ ions, with 2 components
+	- Background inward current $I_b$
+	- "_Funny_" current $I_f$
+		- "Funny" as the channels are activated in hyperpolarized cells,
+		 as opposed to most other voltage-gated channels, which activate
+		 upon depolarization
+- Atrial tissue is activated like a "forest fire", but by the time the
+ potential reaches the insulating annulus fibrosus at the AV junction,
+ it peters out (which is why we need the AV node to act as a "repeater")
 
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=.7\textwidth]{../assets/med/sa-node-ap.jpg}
+	\vspace{4mm}
+	\caption{SA node action potential}
+\end{figure}
 
 ## Presenting problems in CVS disease
 ### Features of benign murmur

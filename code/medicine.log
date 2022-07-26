@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.23)  27 JUL 2022 00:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.23)  27 JUL 2022 01:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1077,32 +1077,32 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 1.
 
-Underfull \hbox (badness 3590) in paragraph at lines 36--36
+Underfull \hbox (badness 3590) in paragraph at lines 37--37
  [][] [][][]\T1/ppl/m/n/12 Principles of man-age-ment of 
  []
 
 
-Overfull \hbox (1.2218pt too wide) in paragraph at lines 79--79
+Overfull \hbox (1.2218pt too wide) in paragraph at lines 80--80
  [][] [][][]\T1/ppl/m/n/12 Glomerular dis-eases (``Glomeru- 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--96
+Underfull \hbox (badness 10000) in paragraph at lines 97--97
  [][] [][][]\T1/ppl/m/n/12 Acute post-streptococcal 
  []
 
 
-Underfull \hbox (badness 4556) in paragraph at lines 115--115
+Underfull \hbox (badness 4556) in paragraph at lines 116--116
  [][] [][][]\T1/ppl/m/n/12 Thrombotic mi-croan-giopathies 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 161--161
+Underfull \hbox (badness 10000) in paragraph at lines 162--162
  [][] [][][]\T1/ppl/m/n/12 Seropositive vs Seroneg-a-tive 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 182--182
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
  [][] [][][]\T1/ppl/m/n/12 Cauda equina and Conus 
  []
 
@@ -1110,7 +1110,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 182--182
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 227--227
+Underfull \hbox (badness 10000) in paragraph at lines 228--228
  [][] [][][]\T1/ppl/m/n/12 Chronic myeloid leukaemia 
  []
 
@@ -1125,228 +1125,244 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 [4
 
 ]
-<../assets/med/ecg-anatomy.jpg, id=424, 1003.75pt x 603.25375pt>
-File: ../assets/med/ecg-anatomy.jpg Graphic file (type jpg)
-<use ../assets/med/ecg-anatomy.jpg>
-Package pdftex.def Info: ../assets/med/ecg-anatomy.jpg  used on input line 278.
-(pdftex.def)             Requested size: 350.33754pt x 210.55286pt.
+<../assets/med/sa-node-ap.jpg, id=424, 1284.8pt x 722.7pt>
+File: ../assets/med/sa-node-ap.jpg Graphic file (type jpg)
+<use ../assets/med/sa-node-ap.jpg>
+Package pdftex.def Info: ../assets/med/sa-node-ap.jpg  used on input line 283.
+(pdftex.def)             Requested size: 350.33142pt x 197.06142pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 [5
 
-] [6 <../assets/med/ecg-anatomy.jpg>] [7]
-<../assets/med/STEMI.jpg, id=472, 1585.925pt x 1634.105pt>
+]
+<../assets/med/ecg-anatomy.jpg, id=442, 1003.75pt x 603.25375pt>
+File: ../assets/med/ecg-anatomy.jpg Graphic file (type jpg)
+<use ../assets/med/ecg-anatomy.jpg>
+Package pdftex.def Info: ../assets/med/ecg-anatomy.jpg  used on input line 317.
+(pdftex.def)             Requested size: 350.33754pt x 210.55286pt.
+[6 <../assets/med/sa-node-ap.jpg>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[7 <../assets/med/ecg-anatomy.jpg>]
+<../assets/med/STEMI.jpg, id=477, 1585.925pt x 1634.105pt>
 File: ../assets/med/STEMI.jpg Graphic file (type jpg)
 <use ../assets/med/STEMI.jpg>
-Package pdftex.def Info: ../assets/med/STEMI.jpg  used on input line 428.
+Package pdftex.def Info: ../assets/med/STEMI.jpg  used on input line 467.
 (pdftex.def)             Requested size: 250.2443pt x 257.84665pt.
-[8 <../assets/med/STEMI.jpg>] [9] [10] [11]
-<../assets/med/MI-mx.png, id=509, 651.43375pt x 1033.8625pt>
+[8 <../assets/med/STEMI.jpg>] [9] [10] [11] [12]
+<../assets/med/MI-mx.png, id=518, 651.43375pt x 1033.8625pt>
 File: ../assets/med/MI-mx.png Graphic file (type png)
 <use ../assets/med/MI-mx.png>
-Package pdftex.def Info: ../assets/med/MI-mx.png  used on input line 697.
+Package pdftex.def Info: ../assets/med/MI-mx.png  used on input line 736.
 (pdftex.def)             Requested size: 350.34755pt x 556.02156pt.
-[12 <../assets/med/MI-mx.png>]
-<../assets/surg/skin-layers.jpg, id=520, 803.0pt x 702.625pt>
+[13 <../assets/med/MI-mx.png>]
+<../assets/surg/skin-layers.jpg, id=529, 803.0pt x 702.625pt>
 File: ../assets/surg/skin-layers.jpg Graphic file (type jpg)
 <use ../assets/surg/skin-layers.jpg>
-Package pdftex.def Info: ../assets/surg/skin-layers.jpg  used on input line 712.
+Package pdftex.def Info: ../assets/surg/skin-layers.jpg  used on input line 751.
 (pdftex.def)             Requested size: 250.23848pt x 218.95866pt.
-[13
+[14
 
- <../assets/surg/skin-layers.jpg>] [14] [15] [16] [17]
-<../assets/med/eczema.jpg, id=579, 530.98375pt x 601.24625pt>
+ <../assets/surg/skin-layers.jpg>] [15] [16] [17] [18]
+<../assets/med/eczema.jpg, id=588, 530.98375pt x 601.24625pt>
 File: ../assets/med/eczema.jpg Graphic file (type jpg)
 <use ../assets/med/eczema.jpg>
-Package pdftex.def Info: ../assets/med/eczema.jpg  used on input line 1331.
+Package pdftex.def Info: ../assets/med/eczema.jpg  used on input line 1370.
 (pdftex.def)             Requested size: 350.34502pt x 396.70447pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[18] [19 <../assets/med/eczema.jpg>] [20]
-<../assets/med/psoriasis.jpg, id=610, 634.37pt x 787.94376pt>
+[19] [20 <../assets/med/eczema.jpg>] [21]
+<../assets/med/psoriasis.jpg, id=619, 634.37pt x 787.94376pt>
 File: ../assets/med/psoriasis.jpg Graphic file (type jpg)
 <use ../assets/med/psoriasis.jpg>
-Package pdftex.def Info: ../assets/med/psoriasis.jpg  used on input line 1484.
+Package pdftex.def Info: ../assets/med/psoriasis.jpg  used on input line 1523.
 (pdftex.def)             Requested size: 350.34685pt x 435.16183pt.
-[21 <../assets/med/psoriasis.jpg>]
+[22 <../assets/med/psoriasis.jpg>]
 
-LaTeX Font Warning: Command \LARGE invalid in math mode on input line 1625.
+LaTeX Font Warning: Command \LARGE invalid in math mode on input line 1664.
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <20.74> on input line 1625.
+(Font)              <20.74> on input line 1664.
 
-LaTeX Font Warning: Command \LARGE invalid in math mode on input line 1625.
+LaTeX Font Warning: Command \LARGE invalid in math mode on input line 1664.
 
-[22] [23]
-<../assets/med/glomerulus.jpg, id=645, 746.01291pt x 559.50967pt>
+[23] [24]
+<../assets/med/glomerulus.jpg, id=654, 746.01291pt x 559.50967pt>
 File: ../assets/med/glomerulus.jpg Graphic file (type jpg)
 <use ../assets/med/glomerulus.jpg>
-Package pdftex.def Info: ../assets/med/glomerulus.jpg  used on input line 1743.
+Package pdftex.def Info: ../assets/med/glomerulus.jpg  used on input line 1782.
 (pdftex.def)             Requested size: 350.34152pt x 262.75615pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[24
+[25
 
-] [25 <../assets/med/glomerulus.jpg>]
+] [26 <../assets/med/glomerulus.jpg>]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <17.28> on input line 1939.
-[26]
-<../assets/med/nephrotic-mcd.png, id=678, 402.50375pt x 330.23375pt>
+(Font)              <17.28> on input line 1978.
+[27]
+<../assets/med/nephrotic-mcd.png, id=688, 402.50375pt x 330.23375pt>
 File: ../assets/med/nephrotic-mcd.png Graphic file (type png)
 <use ../assets/med/nephrotic-mcd.png>
-Package pdftex.def Info: ../assets/med/nephrotic-mcd.png  used on input line 2038.
+Package pdftex.def Info: ../assets/med/nephrotic-mcd.png  used on input line 2077.
 (pdftex.def)             Requested size: 225.21631pt x 184.77846pt.
-<../assets/med/nephrotic-mn.png, id=679, 451.6875pt x 419.5675pt>
+<../assets/med/nephrotic-mn.png, id=689, 451.6875pt x 419.5675pt>
 File: ../assets/med/nephrotic-mn.png Graphic file (type png)
 <use ../assets/med/nephrotic-mn.png>
-Package pdftex.def Info: ../assets/med/nephrotic-mn.png  used on input line 2042.
+Package pdftex.def Info: ../assets/med/nephrotic-mn.png  used on input line 2081.
 (pdftex.def)             Requested size: 225.22289pt x 209.20705pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[27] [28 <../assets/med/nephrotic-mcd.png> <../assets/med/nephrotic-mn.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 2158--2158
+[28] [29 <../assets/med/nephrotic-mcd.png> <../assets/med/nephrotic-mn.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 2197--2197
 [][] [][][][][]$\T1/ppl/m/n/10 https : / / kdigo . org / wp -[] content / uploads / 2017 / 02 / KDIGO -[] GD -[] Guideline -[] Key -[] Takeaways -[] for -[] Clinicians -[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2223--2223
+Underfull \hbox (badness 10000) in paragraph at lines 2262--2262
 [][] [][][][][]$\T1/ppl/m/n/10 https : / / kdigo . org / wp -[] content / uploads / 2017 / 02 / KDIGO -[] GD -[] Guideline -[] Key -[] Takeaways -[] for -[] Clinicians -[]
  []
 
-[29] [30] [31] [32] [33] [34] [35]
+[30] [31] [32] [33] [34] [35] [36]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 2885.
-[36] [37]
-Underfull \hbox (badness 1838) in paragraph at lines 3092--3092
+(Font)              <9> on input line 2924.
+[37] [38]
+Underfull \hbox (badness 1838) in paragraph at lines 3131--3131
 \T1/ppl/m/n/12 with ev-i-dence of kid-ney
  []
 
 
-Underfull \hbox (badness 2865) in paragraph at lines 3096--3097
+Underfull \hbox (badness 2865) in paragraph at lines 3135--3136
 []|\T1/ppl/m/n/12 First symp-toms of-ten at
  []
 
 
-Underfull \hbox (badness 4279) in paragraph at lines 3097--3098
+Underfull \hbox (badness 4279) in paragraph at lines 3136--3137
 \T1/ppl/m/n/12 com-pli-ca-tions. Dial-y-sis
  []
 
-[38] [39] [40] [41]
-<../assets/med/CKD-osteo.png, id=873, 413.545pt x 700.6175pt>
+[39] [40] [41] [42]
+<../assets/med/CKD-osteo.png, id=882, 413.545pt x 700.6175pt>
 File: ../assets/med/CKD-osteo.png Graphic file (type png)
 <use ../assets/med/CKD-osteo.png>
-Package pdftex.def Info: ../assets/med/CKD-osteo.png  used on input line 3488.
+Package pdftex.def Info: ../assets/med/CKD-osteo.png  used on input line 3527.
 (pdftex.def)             Requested size: 250.24911pt x 423.96576pt.
-<../assets/med/PTH-bone.png, id=874, 385.44pt x 843.15pt>
+<../assets/med/PTH-bone.png, id=883, 385.44pt x 843.15pt>
 File: ../assets/med/PTH-bone.png Graphic file (type png)
 <use ../assets/med/PTH-bone.png>
-Package pdftex.def Info: ../assets/med/PTH-bone.png  used on input line 3493.
+Package pdftex.def Info: ../assets/med/PTH-bone.png  used on input line 3532.
 (pdftex.def)             Requested size: 200.18881pt x 437.91304pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 3493--3495
+Underfull \hbox (badness 10000) in paragraph at lines 3532--3534
 [][]
  []
 
-[42 <../assets/med/CKD-osteo.png> <../assets/med/PTH-bone.png>] [43] [44] [45] [46] [47
+[43 <../assets/med/CKD-osteo.png> <../assets/med/PTH-bone.png>] [44] [45] [46] [47] [48
 
-] [48] [49] [50] [51
+] [49] [50] [51] [52
 
-] [52]
-<../assets/med/stat-epi.png, id=978, 503.8825pt x 560.0925pt>
+] [53]
+<../assets/med/stat-epi.png, id=988, 503.8825pt x 560.0925pt>
 File: ../assets/med/stat-epi.png Graphic file (type png)
 <use ../assets/med/stat-epi.png>
-Package pdftex.def Info: ../assets/med/stat-epi.png  used on input line 4325.
+Package pdftex.def Info: ../assets/med/stat-epi.png  used on input line 4364.
 (pdftex.def)             Requested size: 350.33957pt x 389.42126pt.
-[53 <../assets/med/stat-epi.png>] [54] [55]
-<../assets/med/cauda.jpg, id=1013, 435.6275pt x 814.04124pt>
+[54 <../assets/med/stat-epi.png>] [55] [56]
+<../assets/med/cauda.jpg, id=1022, 435.6275pt x 814.04124pt>
 File: ../assets/med/cauda.jpg Graphic file (type jpg)
 <use ../assets/med/cauda.jpg>
-Package pdftex.def Info: ../assets/med/cauda.jpg  used on input line 4464.
+Package pdftex.def Info: ../assets/med/cauda.jpg  used on input line 4503.
 (pdftex.def)             Requested size: 200.18501pt x 374.07845pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 4464--4466
+Underfull \hbox (badness 10000) in paragraph at lines 4503--4505
 [][]
  []
 
-<../assets/med/cauda-2.jpg, id=1014, 219.82124pt x 492.84125pt>
+<../assets/med/cauda-2.jpg, id=1023, 219.82124pt x 492.84125pt>
 File: ../assets/med/cauda-2.jpg Graphic file (type jpg)
 <use ../assets/med/cauda-2.jpg>
-Package pdftex.def Info: ../assets/med/cauda-2.jpg  used on input line 4469.
+Package pdftex.def Info: ../assets/med/cauda-2.jpg  used on input line 4508.
 (pdftex.def)             Requested size: 200.19528pt x 448.83968pt.
-[56 <../assets/med/cauda.jpg> <../assets/med/cauda-2.jpg>]
-<../assets/med/cauda-vs-conus-1.png, id=1023, 702.625pt x 966.61125pt>
+[57 <../assets/med/cauda.jpg> <../assets/med/cauda-2.jpg>]
+<../assets/med/cauda-vs-conus-1.png, id=1032, 702.625pt x 966.61125pt>
 File: ../assets/med/cauda-vs-conus-1.png Graphic file (type png)
 <use ../assets/med/cauda-vs-conus-1.png>
-Package pdftex.def Info: ../assets/med/cauda-vs-conus-1.png  used on input line 4518.
+Package pdftex.def Info: ../assets/med/cauda-vs-conus-1.png  used on input line 4557.
 (pdftex.def)             Requested size: 350.34673pt x 481.977pt.
-<../assets/med/cauda-vs-conus-2.png, id=1024, 700.6175pt x 583.17876pt>
+<../assets/med/cauda-vs-conus-2.png, id=1033, 700.6175pt x 583.17876pt>
 File: ../assets/med/cauda-vs-conus-2.png Graphic file (type png)
 <use ../assets/med/cauda-vs-conus-2.png>
-Package pdftex.def Info: ../assets/med/cauda-vs-conus-2.png  used on input line 4522.
+Package pdftex.def Info: ../assets/med/cauda-vs-conus-2.png  used on input line 4561.
 (pdftex.def)             Requested size: 375.36653pt x 312.44693pt.
-[57 <../assets/med/cauda-vs-conus-1.png>] [58 <../assets/med/cauda-vs-conus-2.png>]
-<../assets/med/micturition-reflex.png, id=1044, 862.22125pt x 681.54625pt>
+[58 <../assets/med/cauda-vs-conus-1.png>] [59 <../assets/med/cauda-vs-conus-2.png>]
+<../assets/med/micturition-reflex.png, id=1054, 862.22125pt x 681.54625pt>
 File: ../assets/med/micturition-reflex.png Graphic file (type png)
 <use ../assets/med/micturition-reflex.png>
-Package pdftex.def Info: ../assets/med/micturition-reflex.png  used on input line 4619.
+Package pdftex.def Info: ../assets/med/micturition-reflex.png  used on input line 4658.
 (pdftex.def)             Requested size: 300.28212pt x 237.3592pt.
-[59 <../assets/med/micturition-reflex.png>]
-<../assets/med/mic-part.png, id=1053, 286.06876pt x 698.61pt>
+[60 <../assets/med/micturition-reflex.png>]
+<../assets/med/mic-part.png, id=1062, 286.06876pt x 698.61pt>
 File: ../assets/med/mic-part.png Graphic file (type png)
 <use ../assets/med/mic-part.png>
-Package pdftex.def Info: ../assets/med/mic-part.png  used on input line 4658.
+Package pdftex.def Info: ../assets/med/mic-part.png  used on input line 4697.
 (pdftex.def)             Requested size: 200.19438pt x 488.89575pt.
-<../assets/med/mic-filled.png, id=1054, 410.53375pt x 676.5275pt>
+<../assets/med/mic-filled.png, id=1063, 410.53375pt x 676.5275pt>
 File: ../assets/med/mic-filled.png Graphic file (type png)
 <use ../assets/med/mic-filled.png>
-Package pdftex.def Info: ../assets/med/mic-filled.png  used on input line 4663.
+Package pdftex.def Info: ../assets/med/mic-filled.png  used on input line 4702.
 (pdftex.def)             Requested size: 275.2629pt x 453.61172pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 4663--4665
+Underfull \hbox (badness 10000) in paragraph at lines 4702--4704
 [][]
  []
 
-[60 <../assets/med/mic-part.png> <../assets/med/mic-filled.png>]
-Underfull \hbox (badness 4832) in paragraph at lines 4757--4760
+[61 <../assets/med/mic-part.png> <../assets/med/mic-filled.png>]
+Underfull \hbox (badness 4832) in paragraph at lines 4796--4799
 []\T1/ppl/m/n/12 Lewy body = ag-gre-ga-tion of $\OML/lmm/m/it/12 $\T1/ppl/m/n/12 -synuclein (hence the al-ter-na-tive name $\OML/lmm/m/it/12 $\T1/ppl/m/n/12 -
  []
 
-[61] [62] [63] [64]
-<../assets/med/insulin-secr.jpg, id=1097, 740.7675pt x 440.14438pt>
+[62] [63] [64] [65]
+<../assets/med/insulin-secr.jpg, id=1107, 740.7675pt x 440.14438pt>
 File: ../assets/med/insulin-secr.jpg Graphic file (type jpg)
 <use ../assets/med/insulin-secr.jpg>
-Package pdftex.def Info: ../assets/med/insulin-secr.jpg  used on input line 5140.
+Package pdftex.def Info: ../assets/med/insulin-secr.jpg  used on input line 5179.
 (pdftex.def)             Requested size: 350.34229pt x 208.16408pt.
-<../assets/med/incretin.png, id=1098, 411.5375pt x 592.2125pt>
+<../assets/med/incretin.png, id=1108, 411.5375pt x 592.2125pt>
 File: ../assets/med/incretin.png Graphic file (type png)
 <use ../assets/med/incretin.png>
-Package pdftex.def Info: ../assets/med/incretin.png  used on input line 5156.
+Package pdftex.def Info: ../assets/med/incretin.png  used on input line 5195.
 (pdftex.def)             Requested size: 200.192pt x 288.08118pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[65
+[66
 
- <../assets/med/insulin-secr.jpg>] [66 <../assets/med/incretin.png>] [67]
-<../assets/med/hypogly.png, id=1123, 488.82625pt x 582.175pt>
+ <../assets/med/insulin-secr.jpg>] [67 <../assets/med/incretin.png>] [68]
+<../assets/med/hypogly.png, id=1133, 488.82625pt x 582.175pt>
 File: ../assets/med/hypogly.png Graphic file (type png)
 <use ../assets/med/hypogly.png>
-Package pdftex.def Info: ../assets/med/hypogly.png  used on input line 5385.
+Package pdftex.def Info: ../assets/med/hypogly.png  used on input line 5424.
 (pdftex.def)             Requested size: 350.3435pt x 417.2469pt.
-[68] [69 <../assets/med/hypogly.png>] [70] [71] [72]
-<../assets/med/DM-AGE.png, id=1173, 771.88374pt x 772.8875pt>
+[69] [70 <../assets/med/hypogly.png>] [71] [72] [73]
+<../assets/med/DM-AGE.png, id=1182, 771.88374pt x 772.8875pt>
 File: ../assets/med/DM-AGE.png Graphic file (type png)
 <use ../assets/med/DM-AGE.png>
-Package pdftex.def Info: ../assets/med/DM-AGE.png  used on input line 5753.
+Package pdftex.def Info: ../assets/med/DM-AGE.png  used on input line 5792.
 (pdftex.def)             Requested size: 500.4818pt x 501.13263pt.
-[73 <../assets/med/DM-AGE.png>] [74] [75
+[74 <../assets/med/DM-AGE.png>] [75] [76
 
-] [76
+] [77
 
-] [77] [78
+] [78] [79
 
-] [79]
+] [80]
 \tf@toc=\write6
 \openout6 = `medicine.toc'.
 
@@ -1355,18 +1371,18 @@ Package rerunfilecheck Info: File `medicine.out' has not changed.
 (rerunfilecheck)             Checksum: 0FA136FD2E8EA18B643F87123222F48B;11701.
  ) 
 Here is how much of TeX's memory you used:
- 38171 strings out of 479983
- 851617 string characters out of 5887622
+ 38183 strings out of 479983
+ 851899 string characters out of 5887622
  1305331 words of memory out of 5000000
- 55129 multiletter control sequences out of 15000+600000
+ 55136 multiletter control sequences out of 15000+600000
  550307 words of font info for 124 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  84i,17n,80p,744b,705s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/home/shanks31/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/home/shanks31/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/home/shanks31/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{/home/shanks31/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/home/shanks31/.TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}</home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmbsy10.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmex10.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmmib10.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr12.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr8.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy9.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on medicine.pdf (81 pages, 1474831 bytes).
+{/home/shanks31/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/home/shanks31/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/home/shanks31/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{/home/shanks31/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/home/shanks31/.TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}</home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmbsy10.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmex10.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmmib10.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr12.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr8.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy9.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on medicine.pdf (82 pages, 1566554 bytes).
 PDF statistics:
- 1442 PDF objects out of 1728 (max. 8388607)
- 1275 compressed objects within 13 object streams
- 591 named destinations out of 1000 (max. 500000)
- 716 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1456 PDF objects out of 1728 (max. 8388607)
+ 1285 compressed objects within 13 object streams
+ 595 named destinations out of 1000 (max. 500000)
+ 721 words of extra memory for PDF output out of 10000 (max. 10000000)
 
