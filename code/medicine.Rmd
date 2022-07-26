@@ -72,6 +72,17 @@ The date below tells you the last time when I edited this
 
 \pagebreak
 # Cardiology
+## Anatomy and physiology
+### Coronary circulation
+- **RCA** $\rightarrow$ rt atrium, rt ventricle, SA node (in 60% individuals),
+ AV node (90%)
+	- **Posterior descending artery** $\rightarrow$ posteroinferior part of
+	 interventricular septum
+ 		- Branch of RCA (in 90%) or LCX (in 10%)
+- **LAD** $\rightarrow$ anteriorsuperior part of interventricular septum,
+ anterior wall of LV
+- **LCX** $\rightarrow$ lateral, posterior and inferior LV 
+
 ## Presenting problems in CVS disease
 ### Features of benign murmur
 - Soft
@@ -119,13 +130,29 @@ The date below tells you the last time when I edited this
 - Extensive anterior: V$_1$-V$_6$
 - Anterolateral: I, aVL, V$_1$-V$_6$
 
+\renewcommand{\arraystretch}{1.5}
+\rowcolors{2}{gray!20}{gray!40}
+\begin{table}[h!]
+\centering\begin{tabular}{c c c}
+\cellcolor{violet!60}\color{white}Location &
+\cellcolor{violet!60}\color{white}Leads &
+\cellcolor{violet!60}\color{white}Coronary artery \\
+Anterior & V$_2$-V$_4$ & LAD \\
+Lateral & V$_5$-V$_6$ & LCX > LAD \\
+Inferior & II, III, aVF & RCA >> LCX \\
+Posterior & V$_1$, V$_2$ (depression) & RCA >> LCX \\
+\end{tabular}\caption{ECG leads and arteries involved according to anatomical location of infarct}
+\label{table:infarct-loc}
+\end{table}
+
 #### Reciprocal changes
 - Acute STEMI in some surface of the heart $\rightarrow$ ST elevation in
  corresponding leads, and ST depression in reciprocal leads 
 
-\begin{figure}
+\begin{figure}[h!]
 \centering
 \includegraphics[width=.6\textwidth]{../assets/med/reciprocal-leads.jpg}
+\caption{Reciprocal changes according to location of infarct}
 \end{figure}
 
 \pagebreak
