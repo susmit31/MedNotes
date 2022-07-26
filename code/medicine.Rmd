@@ -82,6 +82,7 @@ The date below tells you the last time when I edited this
 - **LAD** $\rightarrow$ anteriorsuperior part of interventricular septum,
  anterior wall of LV
 - **LCX** $\rightarrow$ lateral, posterior and inferior LV 
+- **See also: table \ref{table:infarct-loc}**
 
 ## Presenting problems in CVS disease
 ### Features of benign murmur
