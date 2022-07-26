@@ -1,0 +1,7 @@
+c c c
+Site|Facing|Reciprocal
+Septal|V$_1$, V$_2$|V$_7$-V$_9$
+Anterior|V$_3$, V$_4$|None
+Lateral|I, aVL, V$_5$, V$_6$|II, III, aVF
+Inferior|II, III, aVF|I, aVF
+Posterior|V$_7$-V$_9$|V$_1$, V$_2$

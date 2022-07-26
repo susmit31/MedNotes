@@ -74,15 +74,20 @@ The date below tells you the last time when I edited this
 # Cardiology
 ## Anatomy and physiology
 ### Coronary circulation
-- **RCA** $\rightarrow$ rt atrium, rt ventricle, SA node (in 60% individuals),
+\label{ssec:coronary}
+
+- **RCA** $\rightarrow$ RA, RV, SA node (in 60% individuals),
  AV node (90%)
 	- **Posterior descending artery** $\rightarrow$ posteroinferior part of
-	 interventricular septum
+	 interventricular septum and posterior LV
  		- Branch of RCA (in 90%) or LCX (in 10%)
 - **LAD** $\rightarrow$ anteriorsuperior part of interventricular septum,
  anterior wall of LV
 - **LCX** $\rightarrow$ lateral, posterior and inferior LV 
 - **See also: table \ref{table:infarct-loc}**
+
+### Conduction system
+
 
 ## Presenting problems in CVS disease
 ### Features of benign murmur
@@ -130,6 +135,8 @@ The date below tells you the last time when I edited this
 - Lateral: I, aVL, V$_5$, V$_6$
 - Extensive anterior: V$_1$-V$_6$
 - Anterolateral: I, aVL, V$_1$-V$_6$
+- Further details: table \ref{table:infarct-loc} and section
+ \ref{ssec:coronary}
 
 \renewcommand{\arraystretch}{1.5}
 \rowcolors{2}{gray!20}{gray!40}
@@ -142,7 +149,9 @@ Anterior & V$_2$-V$_4$ & LAD \\
 Lateral & V$_5$-V$_6$ & LCX > LAD \\
 Inferior & II, III, aVF & RCA >> LCX \\
 Posterior & V$_1$, V$_2$ (depression) & RCA >> LCX \\
-\end{tabular}\caption{ECG leads and arteries involved according to anatomical location of infarct}
+\end{tabular}
+\vspace{5mm}
+\caption{ECG leads and arteries involved according to anatomical location of infarct}
 \label{table:infarct-loc}
 \end{table}
 
@@ -150,11 +159,23 @@ Posterior & V$_1$, V$_2$ (depression) & RCA >> LCX \\
 - Acute STEMI in some surface of the heart $\rightarrow$ ST elevation in
  corresponding leads, and ST depression in reciprocal leads 
 
-\begin{figure}[h!]
+\renewcommand{\arraystretch}{1.5}
+\rowcolors{2}{gray!20}{gray!40}
+\begin{table}[h!]
 \centering
-\includegraphics[width=.6\textwidth]{../assets/med/reciprocal-leads.jpg}
-\caption{Reciprocal changes according to location of infarct}
-\end{figure}
+\begin{tabular}{c c c}
+\cellcolor{violet!60}\color{white}Site &
+\cellcolor{violet!60}\color{white}Facing &
+\cellcolor{violet!60}\color{white}Reciprocal \\
+Septal & V$_1$, V$_2$ & V$_7$-V$_9$ \\
+Anterior & V$_3$, V$_4$ & None \\
+Lateral & I, aVL, V$_5$, V$_6$ & II, III, aVF \\
+Inferior & II, III, aVF & I, aVF \\
+Posterior & V$_7$-V$_9$ & V$_1$, V$_2$ \\
+\end{tabular}\caption{Reciprocal changes according to location of infarct}
+\label{table:}
+\end{table}
+
 
 \pagebreak
 
