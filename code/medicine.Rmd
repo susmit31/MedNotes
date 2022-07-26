@@ -147,10 +147,10 @@ The date below tells you the last time when I edited this
 \cellcolor{violet!60}\color{white}Coronary artery \\
 Anterior & V$_2$-V$_4$ & LAD \\
 Lateral & V$_5$-V$_6$ & LCX > LAD \\
-Inferior & II, III, aVF & RCA >> LCX \\
-Posterior & V$_1$, V$_2$ (depression) & RCA >> LCX \\
+Inferior & II, III, aVF & RCA $\gg$ LCX \\
+Posterior & V$_1$, V$_2$ (depression) & RCA $\gg$ LCX \\
 \end{tabular}
-\vspace{5mm}
+\vspace{3mm}
 \caption{ECG leads and arteries involved according to anatomical location of infarct}
 \label{table:infarct-loc}
 \end{table}
@@ -172,8 +172,10 @@ Anterior & V$_3$, V$_4$ & None \\
 Lateral & I, aVL, V$_5$, V$_6$ & II, III, aVF \\
 Inferior & II, III, aVF & I, aVF \\
 Posterior & V$_7$-V$_9$ & V$_1$, V$_2$ \\
-\end{tabular}\caption{Reciprocal changes according to location of infarct}
-\label{table:}
+\end{tabular}
+\vspace{3mm}
+\caption{Reciprocal changes according to location of infarct}
+\label{table:reciprocal}
 \end{table}
 
 
