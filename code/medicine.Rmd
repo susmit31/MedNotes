@@ -83,6 +83,9 @@ The date below tells you the last time when I edited this
  		- Branch of RCA (in 90%) or LCX (in 10%)
 - **LAD** $\rightarrow$ anteriorsuperior part of interventricular septum,
  anterior wall of LV
+ 	- LAD is called the _widowmaker_ artery, for almost the entirety of LV
+ 	 is supplied by it, and so infarctions involving this have high
+ 	 fatality.
 - **LCX** $\rightarrow$ lateral, posterior and inferior LV 
 - **See also: table \ref{table:infarct-loc}**
 
