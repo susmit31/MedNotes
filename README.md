@@ -13,6 +13,7 @@ Just a little repo to store my notes from the last-day cramming sessions
 ## Major resources
 ### General
 - _Robbins and Cotran's Pathological Basis of Disease_ 9th ed.
+- _Guyton and Hall's Textbook of Physiology_ 13th ed.
 - [Medscape](https://emedicine.medscape.com)
 - [Wikipedia](https://en.wikipedia.org)
 
