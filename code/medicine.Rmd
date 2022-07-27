@@ -89,9 +89,10 @@ The date below tells you the last time when I edited this
 - **LCX** $\rightarrow$ lateral, posterior and inferior LV 
 - **See also: table \ref{table:infarct-loc}**
 
-### Conduction system
+### Electrophysiology of the heart
 #### Sinoatrial node
-- Spontaneous depolarization = _pacemaker potential_ 
+- Spontaneous depolarization = _pacemaker potential_ (details: Fig.
+ \ref{fig:heart-ap})
 	- Due to small influx of Na$^+$ ions, with 2 components
 	- Background inward current $I_b$
 	- "_Funny_" current $I_f$
@@ -102,6 +103,7 @@ The date below tells you the last time when I edited this
  potential reaches the insulating annulus fibrosus at the AV junction,
  it peters out (which is why we need the AV node to act as a "repeater")
 
+#### Action potentials in the conductive system and the myocytes
 \begin{figure}[h!]
 	\centering
 	\includegraphics[width=.7\textwidth]{../assets/med/sa-node-myocyte-ap.jpg}
@@ -113,7 +115,10 @@ The date below tells you the last time when I edited this
 	 I$_{\text{To}}$: transient outward K$^+$ current,
 	 I$_{\text{CaL}}$: inward Ca$^{2+}$ current,
 	 I$_{\text{K}}$: delayed rectifier (outward) K$^+$ current. }
+	 \label{fig:heart-ap}
 \end{figure}
+
+- 
 
 ## Presenting problems in CVS disease
 ### Features of benign murmur
