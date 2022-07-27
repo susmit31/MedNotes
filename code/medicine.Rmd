@@ -212,15 +212,53 @@ HR & $\uparrow$ & $\downarrow$ \\
 
 
 ## Presenting problems in CVS disease
-### Features of benign murmur
+### Murmurs
+#### Features of benign murmur
 - Soft
 - Midsystolic
 - Heard at left sternal edge
 - No radiation
 - No other cardiac abnormalities
 
+#### Systolic murmurs
+- **Ejection systolic murmurs**
+	- Causes: **ventricular outflow obstruction**
+		- AS (aortic stenosis)
+		- PS (pulmonary stenosis)
+	- Occur during **mid-systole** with **crescendo-decrescendo pattern**
+	 (i.e. gradual rise followed by gradual fall)
+- **Pansystolic murmurs**
+	- Causes: **leakage of blood into low pressure chamber** from a
+	 ventricle
+		- MR (mitral regurgitation)
+		- TR (tricuspid regurgitation)
+		- VSD (ventricular septal defect)
+
+#### Diastolic murmurs
+- Low-pitched, often difficult to hear so should be examined with the bell
+- **Mid-diastolic murmur**
+	- Causes:
+		- MS (mitral stenosis): at the mitral area and radiated to the
+		 axilla
+		- TS (tricuspid stenosis): at the left sternal edge
+- **Early diastolic murmur**
+	- Soft, blowing, decrescendo pattern (gradual fall)
+	- Causes:
+		- AR (aortic regurgitation)
+		- PR (pulmonary regurgitation)
+	- In case of "systolic regurgitations" i.e. MR/TR, due to the high flow
+	 throughout systole, the murmur is pansystolic. In case of "diastolic
+	 regurgitations", the blood has already mostly flown out of the aorta
+	 or the pumonary trunk, leaving little blood for backflow. So in this
+	 case, it's early diastolic.
+
+#### Continuous murmurs
+- Cause: **PDA (persistent ductus arteriosus)**
+
+
 ## ECG
 \label{sec:ecg}
+
 ### Anatomy of an ECG
 \begin{figure}
 	\centering
@@ -334,8 +372,6 @@ $\fbox{E. In old infarcts, T-wave inversion may or may not persist}$\\
 
 - ST elevation resolves after a few days
 
-\pagebreak
-
 #### NSTEMI
 - **Partial occlusion of major** or **complete occlusion of minor** coronary
  artery
@@ -418,14 +454,12 @@ $\fbox{E. In old infarcts, T-wave inversion may or may not persist}$\\
 	- Start 4wks before cardioversion, continue till 3mo after successful
 	 cardioversion
 
-\pagebreak
 
 ## Myocardial Infarction
-
 ### Management
 \begin{figure}
 \centering
-\includegraphics[width=.7\textwidth]{../assets/med/MI-mx.png}
+\includegraphics[width=.65\textwidth]{../assets/med/MI-mx.png}
 \vspace{5mm}
 \caption{Management of acute MI}
 \end{figure}
