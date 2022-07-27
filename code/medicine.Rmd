@@ -103,6 +103,8 @@ The date below tells you the last time when I edited this
  potential reaches the insulating annulus fibrosus at the AV junction,
  it peters out (which is why we need the AV node to act as a "repeater")
 
+\pagebreak
+
 #### Action potentials in the conductive system and the myocytes
 \begin{figure}[h!]
 	\centering
@@ -118,7 +120,21 @@ The date below tells you the last time when I edited this
 	 \label{fig:heart-ap}
 \end{figure}
 
-- 
+### Effects of the autonomic nervous system on the heart
+- **$\boldsymbol\beta_1$-adrenergic stimulation $\rightarrow$
+ $\uparrow$force of contraction, heart rate**
+ 	- $\beta_1$ stimulation $\rightarrow\bigoplus$ adenlylyl
+ 	 cyclase-cAMP system $\rightarrow\bigoplus$ intracellular
+ 	 protein kinases $\rightarrow\;\uparrow$phosphorylation of proteins
+ 	 including L-type Ca$^{2+}$ channels $\rightarrow$ **enhanced Ca$^{2+}$
+ 	 influx** $\rightarrow\;\uparrow$ FoC
+	- Return of Ca$^{2+}$ to sarcoplasmic reticulum from the myocyte is
+	 mediated by phospholamban, which enhances Ca$^{2+}$ reuptake into
+	 the SR in its phosphorylated state. So $\beta_1$ stimulation also
+	 promotes Ca$^{2+}$ removal from the myocyte, thereby enhancing
+	 myocardial relaxation. Enhanced relaxation $\rightarrow\;
+	 \uparrow\uparrow$ventricular filling, and the $\uparrow$FoC helps
+	 the heart to pump that extra blood out properly.
 
 ## Presenting problems in CVS disease
 ### Features of benign murmur
