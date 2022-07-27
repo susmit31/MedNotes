@@ -122,7 +122,8 @@ The date below tells you the last time when I edited this
 
 ### Effects of the autonomic nervous system on the heart
 - **$\boldsymbol\beta_1$-adrenergic stimulation $\rightarrow$
- $\uparrow$force of contraction, heart rate**
+ $\uparrow$force of contraction, heart rate** (+ve inotropic and
+ chronotropic)
  	- $\beta_1$ stimulation $\rightarrow\bigoplus$ adenlylyl
  	 cyclase-cAMP system $\rightarrow\bigoplus$ intracellular
  	 protein kinases $\rightarrow\;\uparrow$phosphorylation of proteins
@@ -135,6 +136,54 @@ The date below tells you the last time when I edited this
 	 myocardial relaxation. Enhanced relaxation $\rightarrow\;
 	 \uparrow\uparrow$ventricular filling, and the $\uparrow$FoC helps
 	 the heart to pump that extra blood out properly.
+
+### Cardiac peptides
+- **ANP** (atrial natriuretic peptide)
+	- Released by atrial myocytes upon being stretched
+	- Vasodilator $\rightarrow\;\downarrow$BP
+	- Diuretic ($\uparrow$Na$^+$ and H$_2$O excretion)
+- **BNP** (brain/B-type natriuretic peptide)
+	- Called so because first discovered in porcine brain extracts
+	- Released by ventricular myocytes upon being stretched
+	- Diuretic
+- Neprilysin:
+	- NOT a cardiac peptide (made by the kidney and other tissues)
+	- Breaks down ANP, BNP $\rightarrow$ vasoconstrictor
+	- Therapeutic target in heart failure
+
+### Haemodynamic effects of respiration
+#### Effects
+\renewcommand{\arraystretch}{1.5}
+\rowcolors{2}{gray!20}{gray!40}
+\begin{table}[h!]
+\centering\begin{tabular}{l l l}
+\cellcolor{violet!60}\color{white} &
+\cellcolor{violet!60}\color{white}Inspiration &
+\cellcolor{violet!60}\color{white}Expiration \\
+JVP & $\downarrow$ & $\uparrow$ \\
+BP & $\downarrow$ (upto 10 mmHg) & $\uparrow$ \\
+HR & $\uparrow$ & $\downarrow$ \\
+2nd heart sound (S$_2$) splitting & $\uparrow$ & $\downarrow$ \\
+\end{tabular}
+\vspace{3mm}\caption{Haemodynamic effects of respiration}
+\label{table:haemo-resp.txt}
+\end{table}
+
+#### Mechanisms
+- BP:
+	- Inspiration $\rightarrow$ -ve intrathoracic pressure $\rightarrow$
+	 $\uparrow$ venous return to RA $\rightarrow\;\;\uparrow$ RV output
+	- Inspiration $\rightarrow\;\;\uparrow$ pulmonary vascular capacitance
+	 $\rightarrow\;\;\downarrow$ venous return to LA $\rightarrow\;\;
+	 \downarrow$ LV output $\rightarrow\;\;\downarrow$ BP
+- S$_2$ splitting (i.e. delay between A$_2$ and P$_2$):
+	- Inspiration $\rightarrow\;\;\uparrow$ RV filling $\rightarrow\;\;
+	 \uparrow$ prolonged ejection from RV $\rightarrow\;\;\uparrow$
+	 delayed P$_2$
+	- Inspiration $\rightarrow\;\;\downarrow$ LV filling $\rightarrow\;\;
+	 \downarrow$ faster ejection from LV $\rightarrow\;\;\downarrow$
+	 faster A$_2$
+
 
 ## Presenting problems in CVS disease
 ### Features of benign murmur

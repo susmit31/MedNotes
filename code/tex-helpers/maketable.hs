@@ -26,7 +26,7 @@ replace :: String -> String -> String -> String
 replace srcstr old new = join (split srcstr old) new
 
 maketable :: String -> String -> String -> String
-maketable fname fcontents caption = headers ++format++"}\n"++firstline++" \\\\\n"++restlines++"\\end{tabular}\\caption{"++caption++"}\n\\label{table:"++fname++"}\n\\end{table}"
+maketable fname fcontents caption = headers ++format++"}\n"++firstline++" \\\\\n"++restlines++"\\end{tabular}\n\\vspace{3mm}\\caption{"++caption++"}\n\\label{table:"++fname++"}\n\\end{table}"
   where headers = "\\renewcommand{\\arraystretch}{1.5}\n\\rowcolors{2}{gray!20}{gray!40}\n\\begin{table}[h!]\n\\centering\\begin{tabular}{"
         format = head sfcontents
         sfcontents = split fcontents "\n"
