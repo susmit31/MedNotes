@@ -187,6 +187,28 @@ HR & $\uparrow$ & $\downarrow$ \\
 	 \downarrow$ faster ejection from LV $\rightarrow\;\;\downarrow$
 	 faster A$_2$
 
+## Investigations of CVS disease
+### ECG
+- Discussed in Sec. \ref{sec:ecg}
+
+### Chest X-ray
+- Cardiomegaly: if cardiothoracic ratio (CTR) > 0.5
+- Findings according to the chamber enlarged:
+	- Left atrial enlargement: 
+		- Straight left heart border
+		- Double cardiac shadow to the right of sternum
+		- Widened carinal angle
+	- Right atrial enlargement:
+		- Projects from right heart border to right lower lung field
+	- Left ventricular enlargement: may be due to dilation or hypertrophy
+		- Cardiomegaly
+		- Rounding of left heart border ("globular" heart shadow) if
+		 hypertrophy
+	- Right ventricular enlargement: dilation or hypertrophy
+		- Cardiomegaly
+		- Upwards displacement of apex
+		- Straight left heart border
+
 
 ## Presenting problems in CVS disease
 ### Features of benign murmur
@@ -197,6 +219,7 @@ HR & $\uparrow$ & $\downarrow$ \\
 - No other cardiac abnormalities
 
 ## ECG
+\label{sec:ecg}
 ### Anatomy of an ECG
 \begin{figure}
 	\centering
