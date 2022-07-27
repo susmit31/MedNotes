@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.23)  27 JUL 2022 21:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.23)  27 JUL 2022 21:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1138,19 +1138,19 @@ File: ../assets/med/ecg-anatomy.jpg Graphic file (type jpg)
 Package pdftex.def Info: ../assets/med/ecg-anatomy.jpg  used on input line 362.
 (pdftex.def)             Requested size: 350.33754pt x 210.55286pt.
 [6 <../assets/med/sa-node-myocyte-ap.jpg>] [7 <../assets/med/ecg-anatomy.jpg>] [8]
-<../assets/med/STEMI.jpg, id=488, 1585.925pt x 1634.105pt>
+<../assets/med/STEMI.jpg, id=489, 1585.925pt x 1634.105pt>
 File: ../assets/med/STEMI.jpg Graphic file (type jpg)
 <use ../assets/med/STEMI.jpg>
 Package pdftex.def Info: ../assets/med/STEMI.jpg  used on input line 512.
 (pdftex.def)             Requested size: 250.2443pt x 257.84665pt.
 [9 <../assets/med/STEMI.jpg>] [10] [11] [12]
-<../assets/med/MI-mx.png, id=524, 651.43375pt x 1033.8625pt>
+<../assets/med/MI-mx.png, id=525, 651.43375pt x 1033.8625pt>
 File: ../assets/med/MI-mx.png Graphic file (type png)
 <use ../assets/med/MI-mx.png>
 Package pdftex.def Info: ../assets/med/MI-mx.png  used on input line 781.
 (pdftex.def)             Requested size: 350.34755pt x 556.02156pt.
 [13 <../assets/med/MI-mx.png>]
-<../assets/surg/skin-layers.jpg, id=535, 803.0pt x 702.625pt>
+<../assets/surg/skin-layers.jpg, id=536, 803.0pt x 702.625pt>
 File: ../assets/surg/skin-layers.jpg Graphic file (type jpg)
 <use ../assets/surg/skin-layers.jpg>
 Package pdftex.def Info: ../assets/surg/skin-layers.jpg  used on input line 796.
@@ -1158,7 +1158,7 @@ Package pdftex.def Info: ../assets/surg/skin-layers.jpg  used on input line 796.
 [14
 
  <../assets/surg/skin-layers.jpg>] [15] [16] [17] [18]
-<../assets/med/eczema.jpg, id=594, 530.98375pt x 601.24625pt>
+<../assets/med/eczema.jpg, id=595, 530.98375pt x 601.24625pt>
 File: ../assets/med/eczema.jpg Graphic file (type jpg)
 <use ../assets/med/eczema.jpg>
 Package pdftex.def Info: ../assets/med/eczema.jpg  used on input line 1415.
@@ -1167,7 +1167,7 @@ Package pdftex.def Info: ../assets/med/eczema.jpg  used on input line 1415.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [19] [20 <../assets/med/eczema.jpg>] [21]
-<../assets/med/psoriasis.jpg, id=625, 634.37pt x 787.94376pt>
+<../assets/med/psoriasis.jpg, id=626, 634.37pt x 787.94376pt>
 File: ../assets/med/psoriasis.jpg Graphic file (type jpg)
 <use ../assets/med/psoriasis.jpg>
 Package pdftex.def Info: ../assets/med/psoriasis.jpg  used on input line 1568.
@@ -1182,7 +1182,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Warning: Command \LARGE invalid in math mode on input line 1709.
 
 [23] [24]
-<../assets/med/glomerulus.jpg, id=660, 746.01291pt x 559.50967pt>
+<../assets/med/glomerulus.jpg, id=661, 746.01291pt x 559.50967pt>
 File: ../assets/med/glomerulus.jpg Graphic file (type jpg)
 <use ../assets/med/glomerulus.jpg>
 Package pdftex.def Info: ../assets/med/glomerulus.jpg  used on input line 1827.
@@ -1196,12 +1196,12 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <17.28> on input line 2023.
 [27]
-<../assets/med/nephrotic-mcd.png, id=694, 402.50375pt x 330.23375pt>
+<../assets/med/nephrotic-mcd.png, id=695, 402.50375pt x 330.23375pt>
 File: ../assets/med/nephrotic-mcd.png Graphic file (type png)
 <use ../assets/med/nephrotic-mcd.png>
 Package pdftex.def Info: ../assets/med/nephrotic-mcd.png  used on input line 2122.
 (pdftex.def)             Requested size: 225.21631pt x 184.77846pt.
-<../assets/med/nephrotic-mn.png, id=695, 451.6875pt x 419.5675pt>
+<../assets/med/nephrotic-mn.png, id=696, 451.6875pt x 419.5675pt>
 File: ../assets/med/nephrotic-mn.png Graphic file (type png)
 <use ../assets/med/nephrotic-mn.png>
 Package pdftex.def Info: ../assets/med/nephrotic-mn.png  used on input line 2126.
@@ -1361,14 +1361,14 @@ Package rerunfilecheck Info: File `medicine.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  38190 strings out of 479983
- 852255 string characters out of 5887622
+ 852245 string characters out of 5887622
  1305332 words of memory out of 5000000
  55139 multiletter control sequences out of 15000+600000
  550307 words of font info for 124 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  84i,17n,80p,869b,705s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/home/shanks31/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/home/shanks31/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/home/shanks31/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/home/shanks31/.TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}{/home/shanks31/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}</home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmbsy10.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmex10.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmmib10.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr12.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr8.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy9.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on medicine.pdf (82 pages, 1543713 bytes).
+{/home/shanks31/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/home/shanks31/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/home/shanks31/.TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}{/home/shanks31/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{/home/shanks31/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}</home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmbsy10.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmex10.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmmib10.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr12.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr8.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy9.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></home/shanks31/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on medicine.pdf (82 pages, 1543691 bytes).
 PDF statistics:
  1461 PDF objects out of 1728 (max. 8388607)
  1290 compressed objects within 13 object streams
