@@ -14,9 +14,9 @@ toccolor: gray
 ---
 
 \renewcommand{\labelitemi}{$\blacktriangleright$}
-\renewcommand{\labelitemii}{\tiny$\blacksquare$}
+\renewcommand{\labelitemii}{$\boldsymbol\circ$}
 \renewcommand{\labelitemiii}{$\bullet$}
-\renewcommand{\labelitemiv}{$\circ$}
+\renewcommand{\labelitemiv}{\tiny$\blacksquare$}
 
 \openany
 \raggedbottom
@@ -30,9 +30,10 @@ toccolor: gray
 What follows are my own notes on various topics in medicine,
  mostly based off of the following sources:
  
--  _Davidson's Principles and Practice of Medicine_ 23rd ed.,
--  _Oxford Handbook of Clinical Medicine_ 10th ed.,
--  _Long Cases in Clinical Medicine_ 2nd ed.,
+-  _Davidson's Principles and Practice of Medicine_ 23rd ed.
+- _Kumar and Clark's Clinical Medicine_ 10th ed.
+-  _Oxford Handbook of Clinical Medicine_ 10th ed.
+-  _Long Cases in Clinical Medicine_ 2nd ed.
 -  _Short Cases in Clinical Medicine_ 6th ed.
 
 The date below tells you the last time when I edited this
