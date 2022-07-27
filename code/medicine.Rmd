@@ -257,7 +257,7 @@ HR & $\uparrow$ & $\downarrow$ \\
 - Lateral: I, aVL, V$_5$, V$_6$
 - Extensive anterior: V$_1$-V$_6$
 - Anterolateral: I, aVL, V$_1$-V$_6$
-- Further details: table \ref{table:infarct-loc} and section
+- Further details: table \ref{table:infarct-loc} and subsection
  \ref{ssec:coronary}
 
 \renewcommand{\arraystretch}{1.5}
