@@ -203,8 +203,7 @@ HR & $\uparrow$ & $\downarrow$ \\
 		- Projects from right heart border to right lower lung field
 	- Left ventricular enlargement: may be due to dilation or hypertrophy
 		- Cardiomegaly
-		- Rounding of left heart border ("globular" heart shadow) if
-		 hypertrophy
+		- Rounding of left heart border if hypertrophy
 	- Right ventricular enlargement: dilation or hypertrophy
 		- Cardiomegaly
 		- Upwards displacement of apex
