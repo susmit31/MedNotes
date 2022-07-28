@@ -211,7 +211,10 @@ HR & $\uparrow$ & $\downarrow$ \\
 
 
 ## Presenting problems in CVS disease
-### Murmurs
+\subsection[Murmur]{Murmur\footnote{Here's some awesome videos by
+ \href{https://youtu.be/wYZbMoWjLEg}{ZeroToFinals} and
+ \href{https://youtu.be/teJcTTVZnzs}{DirtyMedicine} on murmurs.}}
+
 #### Features of benign murmur
 - Soft
 - Midsystolic
@@ -1383,7 +1386,8 @@ $\draw[-{Stealth[length=5mm]}, very thick] (Aldo.south) to node[right] {} (htn.n
 \section [Chronic kidney disease (CKD)]
 {Chronic kidney disease (CKD)\footnote{
 Here's an awesome
- \href{https://www.youtube.com/watch?v=iyMw-b3Ypzw&list=TLPQMTQwNzIwMjJ11biDo7N03Q&index=15}{video by Ninja Nerd}
+ \href{https://www.youtube.com/watch?v=iyMw-b3Ypzw&list=TLPQMTQwNzIwMjJ11biDo7N03Q&index=15}
+ {video by Ninja Nerd}
  that discusses CKD in detail with its
  pathophys, features, dx, and rx.}}
 
