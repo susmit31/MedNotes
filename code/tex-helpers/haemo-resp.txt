@@ -4,3 +4,5 @@ JVP|$\downarrow$|$\uparrow$
 BP|$\downarrow$ (upto 10 mmHg)|$\uparrow$
 HR|$\uparrow$|$\downarrow$
 2nd heart sound (S$_2$) splitting|$\uparrow$|$\downarrow$
+Right sided murmurs|\uparrow|\downarrow
+Left sided murmurs|\downarrow|\uparrow

@@ -160,8 +160,7 @@ The date below tells you the last time when I edited this
 \rowcolors{2}{gray!20}{gray!40}
 \begin{table}[h!]
 \centering
-\begin{tabular}{|l|l|l|}
-\hline
+\begin{tabular}{l l l}
 \cellcolor{violet!60}\color{white} &
 \cellcolor{violet!60}\color{white}Inspiration &
 \cellcolor{violet!60}\color{white}Expiration \\
@@ -169,7 +168,8 @@ JVP & $\downarrow$ & $\uparrow$ \\
 BP & $\downarrow$ (upto 10 mmHg) & $\uparrow$ \\
 HR & $\uparrow$ & $\downarrow$ \\
 2nd heart sound (S$_2$) splitting & $\uparrow$ & $\downarrow$ \\
-\hline
+Right sided murmurs & \uparrow & \downarrow \\
+Left sided murmurs & \downarrow & \uparrow \\
 \end{tabular}
 \vspace{3mm}\caption{Haemodynamic effects of respiration}
 \label{table:haemo-resp.txt}
@@ -216,6 +216,13 @@ HR & $\uparrow$ & $\downarrow$ \\
 \subsection[Murmur]{Murmur\footnote{Here's some awesome videos by
  \href{https://youtu.be/wYZbMoWjLEg}{ZeroToFinals} and
  \href{https://youtu.be/teJcTTVZnzs}{DirtyMedicine} on murmurs.}}
+
+#### Basics
+- Points to assess: SCRIPT
+	- Site: aortic, pulmonary, tricuspid or mitral area
+	- Character: soft / blowing / crescendo / decrescendo /
+	 crescendo-decrescendo
+	- Radiation: MR $\rightarrow$ axilla, AS $\rightarrow$ neck (carotid)
 
 #### Features of benign murmur
 - Soft
