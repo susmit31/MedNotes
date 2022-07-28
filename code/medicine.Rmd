@@ -255,6 +255,15 @@ HR & $\uparrow$ & $\downarrow$ \\
 - Cause: **PDA (persistent ductus arteriosus)**
 
 
+\begin{figure}[t!]
+	\centering
+	\includegraphics[width=.7\textwidth]{../assets/med/murmur.jpg}
+	\vspace{7mm}
+	\caption{The timing and pattern of heart murmurs}
+	\label{fig:murmur}
+\end{figure}
+
+
 ## ECG
 \label{sec:ecg}
 
