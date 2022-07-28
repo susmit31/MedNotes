@@ -257,7 +257,6 @@ HR & $\uparrow$ & $\downarrow$ \\
 #### Continuous murmurs
 - Cause: **PDA (persistent ductus arteriosus)**
 
-
 \begin{figure}[t!]
 	\centering
 	\includegraphics[width=.7\textwidth]{../assets/med/murmur.jpg}
@@ -267,11 +266,13 @@ HR & $\uparrow$ & $\downarrow$ \\
 \end{figure}
 
 
+\pagebreak
+
 ## ECG
 \label{sec:ecg}
 
 ### Anatomy of an ECG
-\begin{figure}
+\begin{figure}[h!]
 	\centering
 	\includegraphics[width=0.7\textwidth]{../assets/med/ecg-anatomy.jpg}
 	\caption{Parts of a normal ECG}
