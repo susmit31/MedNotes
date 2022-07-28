@@ -43,7 +43,8 @@ The date below tells you the last time when I edited this
  first and foremost, for my personal use, so pardon the inconvenience.
  Over time I will try tidying things up more.
  There's probably plenty of mistakes, all my own.
- Inform me whenever you find one.
+ Inform me whenever you find one.\newline
+ 
  **Use at your own peril.**
 
 \hfill Susmit Islam
