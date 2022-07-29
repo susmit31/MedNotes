@@ -224,7 +224,7 @@ Left sided murmurs & $\downarrow$ & $\uparrow$ \\
 #### Basics
 - Points to assess: SCRIPT
 	- Site: aortic, pulmonary, tricuspid or mitral area
-	- Character: soft / blowing / crescendo / decrescendo /
+	- Character: soft / blowing / decrescendo /
 	 crescendo-decrescendo
 	- Radiation: MR $\rightarrow$ axilla, AS $\rightarrow$ neck (carotid)
 	- Intensity / grading:
