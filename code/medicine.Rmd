@@ -507,13 +507,30 @@ $\fbox{E. In old infarcts, T-wave inversion may or may not persist}$\\
 
 ## Heart failure
 ### Pathophysiology
-\begin{figure}
+\begin{figure}[h!]
 	\centering
 	\includegraphics[width=.9\textwidth]{../assets/med/hf-patho.jpg}
 	\vspace{3mm}
 	\caption{Neurohumoral activation and compensatory mechanisms in HF}
 \end{figure}
 
+- Hazards of prolonged sympathetic stimulation
+	- Cardiomyocyte apoptosis
+	- Hypertrophy
+	- Focal myocardial necrosis
+	- Predispose to arrhythmias
+
+### Features
+#### Acute LVF
+- Sudden onset **dyspnoea** at rest
+	- Progresses rapidly to respiratory distress, orthopnoea
+- **Cool peripheries**
+- **Rapid pulse**
+- $\boldsymbol\uparrow$ **BP** (due to SNS activation)
+	- May be low or normal if goes into cardiogenic shock
+- $\uparrow$ JVP esp. if associated with fluid overload / RVF
+- **Gallop rhythm** (tachycardia + 3 heart sounds (addition of S$_3$))
+- **Bilateral basal crepitations** if pulmonary oedema
 
 
 \pagebreak
