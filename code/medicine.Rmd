@@ -217,9 +217,11 @@ Left sided murmurs & $\downarrow$ & $\uparrow$ \\
  \href{https://zerotofinals.com/medicine/cardiology/murmurs/}{ZeroToFinals}
  and
  \href{https://youtu.be/teJcTTVZnzs}{DirtyMedicine} on murmurs.
- And this one by \href{https://youtu.be/lFcf5a6BZGw}{Strong Medicine}
+ This one by \href{https://youtu.be/lFcf5a6BZGw}{Strong Medicine}
  covers the topic at a slightly deeper level with 5/6 exercises
- with actual recordings of murmurs.}}
+ with actual recordings of murmurs. And this one by
+ \href{https://youtu.be/dt9Ffu4T0Kw}{Dirty medicine} discusses heart sounds
+ and murmurs together.}}
 
 #### Basics
 - Points to assess: SCRIPT
