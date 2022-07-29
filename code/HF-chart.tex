@@ -1,0 +1,26 @@
+\begin{center}
+\begin{tikzpicture}[
+	FCT/.style={rectangle, draw=red!60, fill=red!5, very thick,
+	minimum size=5 mm},
+]
+
+$\node[FCT] (myo) {Myocyte loss};$
+$\node[FCT] (hf) [below of=myo] {Heart failure};$
+$\node[FCT] (neuro) [below of=hf] {Neurohumoral activation:$\newline$ SNS$\newline$ RAAS
+$\newline$
+ Vasopressin$\newline$ Endothelin};$
+$\node[FCT] (vcons) [left of=neuro] {Vasoconstriction1};$
+$\node[FCT] (retn) [right of=neuro] {Na$^+$ and H$_2$O retention};$
+$\node[FCT] (aload) [left of=hf] {$\uparrow$ Afterload};$
+$\node[FCT] (pload) [right of=hf] {$\uparrow$ Intravascular volume$\\ \;\uparrow$ Preload};$
+
+$\draw[-{Stealth[length=5mm]}, very thick] (myo) -- (hf);$
+$\draw[-{Stealth[length=5mm]}, very thick] (hf) -- (neuro);$
+$\draw[-{Stealth[length=5mm]}, very thick] (neuro) -- (vcons);$
+$\draw[-{Stealth[length=5mm]}, very thick] (neuro) -- (retn);$
+$\draw[-{Stealth[length=5mm]}, very thick] (vcons) -- (aload);$
+$\draw[-{Stealth[length=5mm]}, very thick] (retn) -- (pload);$
+$\draw[-{Stealth[length=5mm]}, very thick] (pload) -- (myo);$
+$\draw[-{Stealth[length=5mm]}, very thick] (aload) -- (myo);$
+\end{tikzpicture}
+\end{center}

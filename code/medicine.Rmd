@@ -505,6 +505,19 @@ $\fbox{E. In old infarcts, T-wave inversion may or may not persist}$\\
 
 \pagebreak
 
+## Heart failure
+### Pathophysiology
+\begin{figure}
+	\centering
+	\includegraphics[width=.9\textwidth]{../assets/med/hf-patho.jpg}
+	\vspace{3mm}
+	\caption{Neurohumoral activation and compensatory mechanisms in HF}
+\end{figure}
+
+
+
+\pagebreak
+
 # Dermatology
 ## Anatomy and physiology
 \begin{figure}
