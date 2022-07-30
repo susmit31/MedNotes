@@ -196,7 +196,8 @@ Left sided murmurs & $\downarrow$ & $\uparrow$ \\
 
 \subsection[CXR]{Chest X-ray\footnote{A very nice intro to CXR
  interpretation from \href{https://youtu.be/KO1eBNaIxBI}{Axis Medical
- School}}}
+ School}. This \href{https://youtube.com/playlist?list=PL3n8cHP87ijCCF4J27hHEKKrvub0yVBPa}
+ {playlist by Medzcool} is also really good.}}
 - Cardiomegaly: if cardiothoracic ratio (CTR) > 0.5
 - Findings according to the chamber enlarged:
 	- Left atrial enlargement: 
@@ -224,10 +225,12 @@ Left sided murmurs & $\downarrow$ & $\uparrow$ \\
 
 ### Heart sounds
 #### S$_1$
-- Due to closure of atrioventricular valves (mitral and tricuspid)
-- During _onset of ventricular systole_
-- **Best heard at the _apex_**
-- 
+- **Cause:** closure of atrioventricular valves (mitral and tricuspid)
+- **Timing:** _onset of ventricular systole_
+- **Best heard at: the _apex_**
+
+#### S$_2$
+- **Cause:**
 
 ### Splitting of S$_2$
 - Normally splits as S$_2$ = A$_2$ + P$_2$, because the left ventricle
