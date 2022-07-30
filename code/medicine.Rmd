@@ -176,6 +176,9 @@ Left sided murmurs & $\downarrow$ & $\uparrow$ \\
 \end{table}
 
 #### Mechanisms
+- As the circulatory system is a closed system, if any compartment within
+ it has more blood at any given time, the other compartments will have less
+ blood.
 - BP:
 	- Inspiration $\rightarrow$ -ve intrathoracic pressure $\rightarrow$
 	 $\uparrow$ venous return to RA $\rightarrow\;\;\uparrow$ RV output
