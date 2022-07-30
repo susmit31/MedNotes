@@ -215,15 +215,37 @@ Left sided murmurs & $\downarrow$ & $\uparrow$ \\
 
 
 ## Presenting problems in CVS disease
+\subsection[Heart sounds]{Heart sounds\footnote{This
+ \href{https://youtu.be/dt9Ffu4T0Kw}{video by Dirty medicine}
+ discusses heart sounds and murmurs together with detailed explanations.
+ This \href{https://youtube.com/playlist?list=PL3n8cHP87ijDnqI8_5WQlS4tN37D6P4dH}
+ {playlist by Medzcool} contains audio recordings of normal heart sounds
+ and the most important abnormal heart sounds.}}
+
+### Heart sounds
+#### S$_1$
+- Due to closure of atrioventricular valves (mitral and tricuspid)
+- During _onset of ventricular systole_
+- **Best heard at the _apex_**
+- 
+
+### Splitting of S$_2$
+- Normally splits as S$_2$ = A$_2$ + P$_2$, because the left ventricle
+ contracts more forcefully and so the aortic valve closes earlier than the
+ pulmonic valve (_"physiological splitting"_)
+- During inspiration, the right heart receives more blood and the left heart
+ receives less blood, and so A$_2$ happens even earlier and P$_2$ even
+ later, leading to increased split.
+
+
+
 \subsection[Murmur]{Murmur\footnote{Here's some awesome reviews by
  \href{https://zerotofinals.com/medicine/cardiology/murmurs/}{ZeroToFinals}
  and
  \href{https://youtu.be/teJcTTVZnzs}{DirtyMedicine} on murmurs.
  This one by \href{https://youtu.be/lFcf5a6BZGw}{Strong Medicine}
  covers the topic at a slightly deeper level with 5/6 exercises
- with actual recordings of murmurs. And this one by
- \href{https://youtu.be/dt9Ffu4T0Kw}{Dirty medicine} discusses heart sounds
- and murmurs together.}}
+ with actual recordings of murmurs.}}
 
 #### Basics
 - Points to assess: SCRIPT
