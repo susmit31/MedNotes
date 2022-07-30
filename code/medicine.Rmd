@@ -223,14 +223,14 @@ Left sided murmurs & $\downarrow$ & $\uparrow$ \\
  {playlist by Medzcool} contains audio recordings of normal heart sounds
  and the most important abnormal heart sounds and associated murmurs.}}
 
-#### S$_1$
+#### S$_{\textbf{1}}$
 - **Cause:** closure of atrioventricular valves (mitral and tricuspid)
 - **Timing:** _onset of ventricular systole_
 - **Best heard at: the _apex_**
 - **Abnormalities:**
 	- **Loud: MS (mitral stenosis)** 
 
-#### S$_2$
+#### S$_{\textbf{2}}$
 - **Cause:** closure of the semilunar valves (aortic and pulmonary)
 - **Timing:** _end of ventricular systole_
 - **Best heard at: _left sternal edge_**
@@ -242,7 +242,7 @@ Left sided murmurs & $\downarrow$ & $\uparrow$ \\
 	- Loud: systemic / pulmonary htn
 
 
-#### Splitting of S$_2$
+#### Splitting of S$_{\textbf{2}}$
 \label{sssec:split}
 
 - Normally splits as S$_2$ = A$_2$ + P$_2$, because the left ventricle
@@ -252,7 +252,7 @@ Left sided murmurs & $\downarrow$ & $\uparrow$ \\
  receives less blood, and so A$_2$ happens even earlier and P$_2$ even
  later, leading to increased split.
 
-#### S$_3$
+#### S$_{\textbf{3}}$
 - Cause: _rapid ventricular filling_ immediately after opening of AV
  valves
 - Timing: _early diastolic_
@@ -269,7 +269,7 @@ Left sided murmurs & $\downarrow$ & $\uparrow$ \\
 	- **LVF**
 	- **MR (mitral regurgitation)**
 
-#### S$_4$
+#### S$_{\textbf{4}}$
 - Cause: _forceful atrial contraction against non-compliant / stiff
  ventricle_
 - Timing: _end-diastolic_ (just before S$_1$)
