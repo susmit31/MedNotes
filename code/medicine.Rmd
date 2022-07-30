@@ -194,7 +194,9 @@ Left sided murmurs & $\downarrow$ & $\uparrow$ \\
 ### ECG
 - Discussed in Sec. \ref{sec:ecg}
 
-### Chest X-ray
+\subsection[CXR]{Chest X-ray\footnote{A very nice intro to CXR
+ interpretation from \href{https://youtu.be/KO1eBNaIxBI}{Axis Medical
+ School}}}
 - Cardiomegaly: if cardiothoracic ratio (CTR) > 0.5
 - Findings according to the chamber enlarged:
 	- Left atrial enlargement: 
