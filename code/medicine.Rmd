@@ -289,9 +289,7 @@ Left sided murmurs & $\downarrow$ & $\uparrow$ \\
 	- in mitral valve prolapse
 	- diaphragm at apex
 - **Pericardial / friction rub:**
-	- in
-		- acute pericarditis
-		- a few days after extensive MI
+	- in acute pericarditis
 	- diaphragm at any part of precordium with breath held at expiration
 	
 
