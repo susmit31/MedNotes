@@ -9,7 +9,7 @@ fontsize: 12pt
 geometry: margin=2cm
 colorlinks: true
 linkcolor: blue
-urlcolor: red
+urlcolor: blue
 toccolor: gray
 ---
 
