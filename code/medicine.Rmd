@@ -152,7 +152,7 @@ The date below tells you the last time when I edited this
 - Neprilysin:
 	- NOT a cardiac peptide (made by the kidney and other tissues)
 	- Breaks down ANP, BNP $\rightarrow$ vasoconstrictor
-	- Therapeutic target in heart failure
+	- Therapeutic target in resistant heart failure
 
 ### Haemodynamic effects of respiration
 #### Effects
@@ -595,6 +595,7 @@ $\fbox{E. In old infarcts, T-wave inversion may or may not persist}$\\
 	\includegraphics[width=.9\textwidth]{../assets/med/hf-patho.jpg}
 	\vspace{3mm}
 	\caption{Neurohumoral activation and compensatory mechanisms in HF}
+	\label{fig:hf-neuro}
 \end{figure}
 
 - Hazards of prolonged sympathetic stimulation
@@ -602,6 +603,29 @@ $\fbox{E. In old infarcts, T-wave inversion may or may not persist}$\\
 	- Hypertrophy
 	- Focal myocardial necrosis
 	- Predispose to arrhythmias
+
+### Causes
+- **$\downarrow$ contractility**
+	- MI
+	- Dilated cardiomyopathy
+	- Myocarditis
+- **Outflow obstruction**
+	- Systemic htn, pulmonary htn
+	- Aortic stenosis, pulmonary stenosis
+- **Inflow obstruction**
+	- Mitral stenosis, tricuspid stenosis
+- **Volume overload**
+	- Aortic / mitral regurgitation
+	- VSD
+- **Arrhythmia**
+	- A-fib
+	- Tachycardia
+	- Complete heart block
+- **Diastolic dysfunction**
+	- Constrictive pericarditis
+	- Cardiac tamponade
+	- Hypertrophic / restrictive cardiomyopathies
+	- LVH and fibrosis
 
 ### Features
 #### Acute LVF
@@ -614,6 +638,118 @@ $\fbox{E. In old infarcts, T-wave inversion may or may not persist}$\\
 - $\uparrow$ JVP esp. if associated with fluid overload / RVF
 - **Gallop rhythm** (tachycardia + 3 heart sounds (addition of S$_3$))
 - **Bilateral basal crepitations** if pulmonary oedema
+
+#### Chronic LVF
+- Fatigue, $\downarrow$ effort tolerance: due to $\downarrow$ CO
+- Cold peripheries
+- $\downarrow$ BP
+- Oliguria, uraemia: due to $\downarrow$ renal perfusion
+- Pulmonary oedema
+- Congestive cardiac failure: RVF + LVF (RVF 2$^\circ$ to LVF)
+	- $\uparrow$ JVP
+	- Ankle oedema (if ambulant) / sacral oedema (if bedbound)
+	- Tender hepatomegaly
+	- Ascites
+	- Pleural effusion
+
+### Complications
+- Renal failure
+- Hypo-K: due to
+	- Treatment with loop / thiazide diuretics
+	- Impaired aldosterone metabolism in congested liver
+- Hyper-K: due to treatment with ACEi / ARB, K-sparing diuretics 
+	(spironolactone, eplerenone)
+- Hypo-Na:
+	- Feature of severe HF; bad prognostic sign
+	- Due to
+		- Diuretic therapy
+		- $\uparrow$ ADH secretion
+- Impaired liver function: due to
+	- Hepatic venous congestion
+	- Poor perfusion
+- Thrmboembolism
+- Arrhythmias: due to
+	- Electrolyte abnormalities (hypo-K, hypo-Mg)
+	- Underlying cardiac disease
+	- Sympathetic overactivity
+- Sudden death: due to V-fib
+
+### Investigations
+- **CXR**
+	- Distended upper lobe pulmonary veins
+	- Lung fields plethoric
+	- Bat-wing opacities (pulmonary oedema)
+	- Septal / Kerley-B lines: horizontal lines in the costophrenic angles
+	- Cardiomegaly (usually with chronic)
+- **Echocardiography**
+	- Detecting the aetiology
+	- Assess the ejection fraction
+	- Detecting asymptomatic valvular disease
+- **BNP**
+	- Elevated
+	- Prognostic marker
+
+### Management
+#### Acute
+- ALVF with pulmonary oedema is a medical emergency
+- Continuous monitoring of ECG, BP, pulse oximetry
+- Mnemonic: **SOPNiL**
+	- **Sit** (propped-up position): $\downarrow$ preload
+	- High-flow **O$_2$**: correct hypoxia
+	- Ensure continuous +ve airway **pressure** (CPAP): $\downarrow$ preload
+	- **Nitrates**: $\downarrow$ preload, afterload
+	- **Loop diuretic**: correct fluid overload; $\downarrow$ preload
+- If the above measures are ineffective, inotropes e.g. dobutamine.
+
+#### Chronic
+- **General measures**
+	- Diet:
+		- Wt reduction
+		- Avoiding high salt intake
+	- Cessation of alcohol consumption
+	- Cessation of smoking
+	- Moderate exercise within limits of symptoms
+	- Consider influenza and pneumococcal vaccines
+- **Drug therapy**
+	- Diuretics
+		- $\downarrow$ preload
+		- Normally, reduced preload would reduce contractility as well,
+		 but in HF, the myocardium is already beyond the maximum of
+		 the Starling curve (i.e. preload vs contractility / CO)
+	- ACEi / ARB:
+		- Interrupt the vicious cycle of neurohumoral activation by
+		 inhibiting RAAS (Fig. \ref{fig:hf-neuro})
+	- Neprilysin inhibitors:
+		- In resistant heart failure
+		- Sacubitril is the only one available currently (in combo with
+		 valsartan)
+		- $\ominus$ Neprilysin $\rightarrow$ $\uparrow$ ANP, BNP
+		 $\rightarrow$ diuresis, vasodilation
+	- Vasodilators
+		- If ACEi / ARB contraindicated (e.g. bilateral renal artery
+		 stenosis)
+		- Venodilators e.g. nitrates reduce preload
+		- Arteriodilators e.g. hydralazine reduce afterload
+	- $\beta$-blockers
+		- Interrupt the vicious cycle of neurohumoral activation by
+		 inhibiting SNS (Fig. \ref{fig:hf-neuro})
+		- $\downarrow$ arrhythmia and sudden death risk
+	- Ivabradine:
+		- I$_{\text{f}}$ channel blocker
+		- $\downarrow$ HR
+	- Digoxin: rate control if coexisting A-fib
+	- Amiodarone: if symptomatic arrhythmia present 
+- **Non-pharmacological therapy**
+	- Implantable cardiac defibrillators (ICD): improve prognosis if
+	 symptomatic ventricular arrhythmias with HF
+	- Resynchronisation devices (pacers): if marked conduction delay
+	- Coronary revascularisation: CABG / PCI
+	- Cardiac transplantation:
+		- Most common indications: MI, DCM (dilated cardiomyopathy)
+		- Reserved for young patients with severe disease despite optimal
+		 therapy
+
+
 
 
 \pagebreak
