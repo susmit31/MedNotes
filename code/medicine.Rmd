@@ -219,6 +219,45 @@ Left sided murmurs & $\downarrow$ & $\uparrow$ \\
 
 
 ## Presenting problems in CVS disease
+### Pulse
+- Assess
+	- Rate
+	- Rhythm
+	- Volume: best assessed in the carotids
+	- Character: best assessed in the carotids
+	- Condition of the vessel wall
+	- Radio-radial and radio-femoral delays
+- Volume
+	- **High volume pulse**
+		- AR
+		- Hyperdynamic circulation
+	- **Low volume pulse**
+		- Shock
+		- AS, MS
+		- Constrictive pericarditis
+		- Cardiac tamponade
+		- Pulmonary htn
+- Character
+	- **Anacrotic:**
+		- Slow rising, low volume
+		- Found in **AS**
+	- **Dicrotic:**
+		- Double peak, one systolic, other diastolic
+		- Found in enteric fever
+	- **Bisferiens:**
+		- Double peak, both systolic
+		- Found in **combined AS and AR**
+	- **Waterhammer / Collapsing:**
+		- Rapid rise followed by rapid fall
+		- Accentuated by raising the arm
+		- Seen in **AR**
+	- **Paradoxus:**
+		- Cardiac tamponade
+		- Chronic constrictive pericarditis
+		- Acute severe asthma and COPD
+		- Massive PE
+	
+
 \subsection[Heart sounds]{Heart sounds\footnote{This
  \href{https://youtu.be/dt9Ffu4T0Kw}{video by Dirty medicine}
  discusses heart sounds and murmurs together with detailed explanations.
