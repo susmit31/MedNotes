@@ -645,7 +645,7 @@ $\fbox{E. In old infarcts, T-wave inversion may or may not persist}$\\
 	- **DC cardioversion / catheter ablation** if drugs fail
 - **Rate control:**
 	- **Digoxin**
-	- **$\beta$-blockers**
+	- **$\boldsymbol\beta$-blockers**
 	- **Rate-limiting CCB**: verapamil / diltiazem
 - **Thromboprophylaxis:** \label{item:anticoag}
 	- Oral **Warfarin**
