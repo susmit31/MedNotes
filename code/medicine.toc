@@ -1,0 +1,278 @@
+\contentsline {chapter}{Contents}{1}{section*.1}%
+\contentsline {chapter}{Preface}{2}{chapter*.2}%
+\contentsline {chapter}{\chapternumberline {1}Respiratory medicine}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Tuberculosis}{3}{section.1.1}%
+\contentsline {subsection}{Side effects of anti-TB drugs}{3}{section*.3}%
+\contentsline {chapter}{\chapternumberline {2}Cardiology}{4}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Anatomy and physiology}{4}{section.2.1}%
+\contentsline {subsection}{Coronary circulation}{4}{section*.4}%
+\contentsline {subsection}{Electrophysiology of the heart}{4}{section*.5}%
+\contentsline {subsubsection}{Sinoatrial node}{4}{section*.6}%
+\contentsline {subsubsection}{Action potentials in the conductive system and the myocytes}{5}{section*.7}%
+\contentsline {subsection}{Effects of the autonomic nervous system on the heart}{5}{section*.9}%
+\contentsline {subsection}{Cardiac peptides}{5}{section*.10}%
+\contentsline {subsection}{Haemodynamic effects of respiration}{6}{section*.11}%
+\contentsline {subsubsection}{Effects}{6}{section*.12}%
+\contentsline {subsubsection}{Mechanisms}{6}{section*.14}%
+\contentsline {section}{\numberline {2.2}Investigations of CVS disease}{6}{section.2.2}%
+\contentsline {subsection}{ECG}{6}{section*.15}%
+\contentsline {subsection}{CXR}{6}{section*.16}%
+\contentsline {section}{\numberline {2.3}Presenting problems in CVS disease}{7}{section.2.3}%
+\contentsline {subsection}{Pulse}{7}{section*.17}%
+\contentsline {subsection}{Heart sounds}{8}{section*.18}%
+\contentsline {subsubsection}{S\(_{\textbf {1}}\)}{8}{section*.19}%
+\contentsline {subsubsection}{S\(_{\textbf {2}}\)}{8}{section*.20}%
+\contentsline {subsubsection}{Splitting of S\(_{\textbf {2}}\)}{8}{section*.21}%
+\contentsline {subsubsection}{S\(_{\textbf {3}}\)}{8}{section*.22}%
+\contentsline {subsubsection}{S\(_{\textbf {4}}\)}{9}{section*.23}%
+\contentsline {subsubsection}{Added sounds}{9}{section*.24}%
+\contentsline {subsection}{Murmur}{10}{section*.25}%
+\contentsline {subsubsection}{Basics}{10}{section*.26}%
+\contentsline {subsubsection}{Features of benign murmur}{10}{section*.27}%
+\contentsline {subsubsection}{Systolic murmurs}{10}{section*.28}%
+\contentsline {subsubsection}{Diastolic murmurs}{11}{section*.29}%
+\contentsline {subsubsection}{Continuous murmurs}{11}{section*.30}%
+\contentsline {section}{\numberline {2.4}ECG}{12}{section.2.4}%
+\contentsline {subsection}{Anatomy of an ECG}{12}{section*.32}%
+\contentsline {subsection}{Abnormalities of components}{12}{section*.34}%
+\contentsline {subsubsection}{Pathological Q}{12}{section*.35}%
+\contentsline {subsubsection}{Segments vs intervals}{13}{section*.36}%
+\contentsline {subsubsection}{ST segment elevation}{13}{section*.37}%
+\contentsline {subsection}{Myocardial infarction}{13}{section*.38}%
+\contentsline {subsubsection}{Sites of infarction based on lead}{13}{section*.39}%
+\contentsline {subsubsection}{Reciprocal changes}{13}{section*.41}%
+\contentsline {subsubsection}{Evolution over time of the ECG appearance of STEMI}{15}{section*.43}%
+\contentsline {subsubsection}{NSTEMI}{15}{section*.45}%
+\contentsline {section}{\numberline {2.5}Coronary Artery Disease}{15}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Arrhythmias}{16}{section.2.6}%
+\contentsline {subsection}{Sinus arrhythmia}{16}{section*.46}%
+\contentsline {subsection}{Classification according to ECG morphology}{16}{section*.47}%
+\contentsline {subsection}{SVT (AVNRT)}{16}{section*.48}%
+\contentsline {subsubsection}{Management}{16}{section*.49}%
+\contentsline {section}{\numberline {2.7}Atrial fibrillation}{17}{section.2.7}%
+\contentsline {subsection}{Causes}{17}{section*.50}%
+\contentsline {subsection}{Investigations}{17}{section*.51}%
+\contentsline {subsection}{Management of AF}{17}{section*.52}%
+\contentsline {section}{\numberline {2.8}Myocardial Infarction}{18}{section.2.8}%
+\contentsline {subsection}{Management}{18}{section*.53}%
+\contentsline {section}{\numberline {2.9}Heart failure}{20}{section.2.9}%
+\contentsline {subsection}{Pathophysiology}{20}{section*.55}%
+\contentsline {subsection}{Causes}{20}{section*.57}%
+\contentsline {subsection}{Features}{21}{section*.58}%
+\contentsline {subsubsection}{Acute LVF}{21}{section*.59}%
+\contentsline {subsubsection}{Chronic LVF}{21}{section*.60}%
+\contentsline {subsection}{Complications}{22}{section*.61}%
+\contentsline {subsection}{Investigations}{22}{section*.62}%
+\contentsline {subsection}{Management}{23}{section*.63}%
+\contentsline {subsubsection}{Acute}{23}{section*.64}%
+\contentsline {subsubsection}{Chronic}{23}{section*.65}%
+\contentsline {chapter}{\chapternumberline {3}Dermatology}{25}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Anatomy and physiology}{25}{section.3.1}%
+\contentsline {subsection}{Epidermal appendages}{26}{section*.67}%
+\contentsline {section}{\numberline {3.2}Principles of management of skin disease}{26}{section.3.2}%
+\contentsline {subsection}{Topical treatments}{26}{section*.68}%
+\contentsline {subsection}{Phototherapy}{27}{section*.69}%
+\contentsline {subsection}{Systemics}{27}{section*.70}%
+\contentsline {subsection}{Biologics}{27}{section*.71}%
+\contentsline {subsection}{Non-surgical therapy}{28}{section*.72}%
+\contentsline {section}{\numberline {3.3}Skin cancers}{28}{section.3.3}%
+\contentsline {subsection}{Classification}{28}{section*.73}%
+\contentsline {section}{\numberline {3.4}Fungal infections}{28}{section.3.4}%
+\contentsline {subsection}{Types}{28}{section*.74}%
+\contentsline {section}{\numberline {3.5}Scabies}{29}{section.3.5}%
+\contentsline {subsection}{Agent}{29}{section*.75}%
+\contentsline {subsection}{Diagnosis}{29}{section*.76}%
+\contentsline {subsection}{Treatment}{29}{section*.77}%
+\contentsline {section}{\numberline {3.6}Acne}{29}{section.3.6}%
+\contentsline {subsection}{Pathogenesis}{29}{section*.78}%
+\contentsline {subsection}{Features}{29}{section*.79}%
+\contentsline {subsection}{Management}{29}{section*.80}%
+\contentsline {section}{\numberline {3.7}Eczemas}{30}{section.3.7}%
+\contentsline {subsection}{Features}{30}{section*.81}%
+\contentsline {subsubsection}{Acute}{30}{section*.82}%
+\contentsline {subsubsection}{Chronic}{30}{section*.83}%
+\contentsline {subsection}{Management}{30}{section*.84}%
+\contentsline {section}{\numberline {3.8}Psoriasis}{31}{section.3.8}%
+\contentsline {subsection}{Histological features}{31}{section*.86}%
+\contentsline {subsection}{Exacerbating factors}{31}{section*.87}%
+\contentsline {subsection}{Clinical types}{32}{section*.88}%
+\contentsline {subsection}{Management}{33}{section*.89}%
+\contentsline {subsection}{Complications}{33}{section*.91}%
+\contentsline {section}{\numberline {3.9}Hypopigmentation}{34}{section.3.9}%
+\contentsline {subsection}{Causes}{34}{section*.92}%
+\contentsline {subsection}{Vitiligo}{34}{section*.93}%
+\contentsline {subsection}{Albinism}{34}{section*.94}%
+\contentsline {section}{\numberline {3.10}Hyperpigmentation}{34}{section.3.10}%
+\contentsline {subsection}{Causes}{34}{section*.95}%
+\contentsline {section}{\numberline {3.11}Stuff not large enough to devote a section to}{35}{section.3.11}%
+\contentsline {subsection}{SPF (sun protection factor)}{35}{section*.96}%
+\contentsline {subsection}{Mechanism of venous ulceration}{35}{section*.97}%
+\contentsline {chapter}{\chapternumberline {4}Nephrology}{36}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Anatomy and Physiology}{36}{section.4.1}%
+\contentsline {subsection}{Nephron}{36}{section*.98}%
+\contentsline {subsection}{Juxtaglomerular (JG) apparatus}{36}{section*.99}%
+\contentsline {section}{\numberline {4.2}Presenting problems in urinary disease}{37}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Glomerular diseases (``Glomerulonephritides'')}{38}{section.4.3}%
+\contentsline {subsection}{Introduction}{38}{section*.101}%
+\contentsline {subsection}{Types}{38}{section*.102}%
+\contentsline {subsubsection}{Nephrotic presentation}{38}{section*.103}%
+\contentsline {subsubsection}{Mild glomerulonephritic presentation}{38}{section*.104}%
+\contentsline {subsubsection}{Rapidly progressive glomerulonephritic presentation}{38}{section*.105}%
+\contentsline {section}{\numberline {4.4}Nephrotic syndrome}{39}{section.4.4}%
+\contentsline {subsection}{Features}{39}{section*.106}%
+\contentsline {subsection}{Histopathology}{39}{section*.107}%
+\contentsline {subsection}{Aetiopathogenesis}{39}{section*.108}%
+\contentsline {subsubsection}{Minimal change disease}{39}{section*.110}%
+\contentsline {subsubsection}{Membranous nephropathy}{40}{section*.111}%
+\contentsline {subsection}{Investigations}{40}{section*.112}%
+\contentsline {subsection}{Treatment}{41}{section*.113}%
+\contentsline {subsubsection}{Minimal Change Nephropathy}{41}{section*.114}%
+\contentsline {subsubsection}{Membranous Nephropathy}{41}{section*.115}%
+\contentsline {subsection}{Complications}{42}{section*.116}%
+\contentsline {section}{\numberline {4.5}Acute post-streptococcal glomerulonephritis}{42}{section.4.5}%
+\contentsline {subsection}{Pathogenesis}{42}{section*.117}%
+\contentsline {subsection}{Features}{42}{section*.118}%
+\contentsline {subsection}{Investigations}{43}{section*.119}%
+\contentsline {subsection}{Treatment}{43}{section*.120}%
+\contentsline {section}{\numberline {4.6}Alport's syndrome}{44}{section.4.6}%
+\contentsline {section}{\numberline {4.7}Adult Polycystic Kidney Disease}{44}{section.4.7}%
+\contentsline {subsection}{Introduction}{44}{section*.121}%
+\contentsline {subsection}{Features}{44}{section*.122}%
+\contentsline {subsection}{Investigations}{45}{section*.123}%
+\contentsline {subsection}{Management}{45}{section*.124}%
+\contentsline {section}{\numberline {4.8}Renal artery stenosis}{46}{section.4.8}%
+\contentsline {subsection}{Introduction}{46}{section*.125}%
+\contentsline {subsection}{Pathophysiology}{46}{section*.126}%
+\contentsline {subsection}{Features}{46}{section*.127}%
+\contentsline {subsection}{Investigations}{46}{section*.128}%
+\contentsline {subsection}{Treatment}{47}{section*.129}%
+\contentsline {subsubsection}{Medical}{47}{section*.130}%
+\contentsline {subsubsection}{Surgical}{47}{section*.131}%
+\contentsline {section}{\numberline {4.9}Thrombotic microangiopathies (HUS, TTP)}{47}{section.4.9}%
+\contentsline {subsection}{Introduction}{47}{section*.132}%
+\contentsline {subsection}{Haemolytic uraemic syndrome}{47}{section*.133}%
+\contentsline {subsection}{Thrombotic thrombocytopoenic purpura}{48}{section*.134}%
+\contentsline {section}{\numberline {4.10}Acute kidney injury (AKI)}{48}{section.4.10}%
+\contentsline {subsection}{Definition}{48}{section*.135}%
+\contentsline {subsection}{Causes}{48}{section*.136}%
+\contentsline {subsubsection}{Pre-renal}{48}{section*.137}%
+\contentsline {subsubsection}{Renal}{48}{section*.138}%
+\contentsline {subsubsection}{Post-renal}{49}{section*.139}%
+\contentsline {subsection}{Features}{49}{section*.140}%
+\contentsline {subsection}{Management}{49}{section*.141}%
+\contentsline {section}{\numberline {4.11}Chronic kidney disease (CKD)}{50}{section.4.11}%
+\contentsline {subsection}{Definition}{50}{section*.142}%
+\contentsline {subsection}{Staging}{50}{section*.143}%
+\contentsline {subsection}{Causes}{50}{section*.145}%
+\contentsline {subsection}{Features}{50}{section*.146}%
+\contentsline {subsubsection}{Features according to systems}{51}{section*.147}%
+\contentsline {subsection}{Investigations}{52}{section*.148}%
+\contentsline {subsection}{Management}{52}{section*.149}%
+\contentsline {subsubsection}{Monitoring renal function}{52}{section*.150}%
+\contentsline {subsubsection}{Reducing rate of progression}{52}{section*.151}%
+\contentsline {subsubsection}{Treatment of complications}{53}{section*.152}%
+\contentsline {section}{\numberline {4.12}UTI}{55}{section.4.12}%
+\contentsline {subsection}{Definition}{55}{section*.154}%
+\contentsline {subsection}{Features}{55}{section*.155}%
+\contentsline {subsection}{Commonly involved pathogens}{55}{section*.156}%
+\contentsline {subsection}{Investigations}{55}{section*.157}%
+\contentsline {subsection}{Treatment}{55}{section*.158}%
+\contentsline {subsubsection}{Cystitis}{55}{section*.159}%
+\contentsline {subsubsection}{Pyelonephritis}{56}{section*.160}%
+\contentsline {subsubsection}{Epididymo-orchitis}{56}{section*.161}%
+\contentsline {subsubsection}{Acute prostatitis}{56}{section*.162}%
+\contentsline {subsection}{Prophylactic measures in women with recurrent UTI}{56}{section*.163}%
+\contentsline {section}{\numberline {4.13}Renal cell cancer}{56}{section.4.13}%
+\contentsline {subsection}{Introduction}{56}{section*.164}%
+\contentsline {subsection}{Features}{56}{section*.165}%
+\contentsline {subsection}{Investigations}{57}{section*.166}%
+\contentsline {subsection}{Management}{57}{section*.167}%
+\contentsline {section}{\numberline {4.14}Stuff not large enough to devote a section to}{58}{section.4.14}%
+\contentsline {chapter}{\chapternumberline {5}Rheumatology}{59}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Investigations of musculoskeletal disease}{59}{section.5.1}%
+\contentsline {subsection}{Joint fluid aspiration}{59}{section*.168}%
+\contentsline {subsection}{Bone scintigraphy}{59}{section*.169}%
+\contentsline {subsection}{DEXA (Dual Emission X-ray Absorptiometry)}{59}{section*.170}%
+\contentsline {subsection}{Immunology}{60}{section*.171}%
+\contentsline {section}{\numberline {5.2}Seropositive vs Seronegative arthritis}{60}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Osteoarthritis}{60}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Spondyloarthropathies}{61}{section.5.4}%
+\contentsline {subsection}{Reactive arthritis}{61}{section*.172}%
+\contentsline {chapter}{\chapternumberline {6}Neurology}{63}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Raised ICP}{63}{section.6.1}%
+\contentsline {subsection}{Causes}{63}{section*.173}%
+\contentsline {subsection}{Features}{63}{section*.174}%
+\contentsline {subsection}{Management}{64}{section*.175}%
+\contentsline {section}{\numberline {6.2}Neurological emergencies}{64}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Status epilepticus}{65}{section.6.3}%
+\contentsline {subsection}{Definition}{65}{section*.176}%
+\contentsline {subsection}{Management}{65}{section*.177}%
+\contentsline {section}{\numberline {6.4}All jerks root values}{65}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Subarachnoid haemorrhage}{67}{section.6.5}%
+\contentsline {subsection}{Causes}{67}{section*.179}%
+\contentsline {subsection}{Features}{67}{section*.180}%
+\contentsline {subsection}{Investigations}{67}{section*.181}%
+\contentsline {subsection}{Management}{67}{section*.182}%
+\contentsline {section}{\numberline {6.6}Subacute combined degeneration}{67}{section.6.6}%
+\contentsline {subsection}{Features}{67}{section*.183}%
+\contentsline {section}{\numberline {6.7}Cauda equina and Conus medullaris lesions}{68}{section.6.7}%
+\contentsline {subsection}{Anatomy}{68}{section*.184}%
+\contentsline {subsection}{Relevant physiology}{69}{section*.186}%
+\contentsline {subsection}{Features of Cauda Equina syndrome vs Conus Medullaris syndrome}{69}{section*.187}%
+\contentsline {section}{\numberline {6.8}Neurogenic Bladder}{70}{section.6.8}%
+\contentsline {subsection}{Physiological control of micturition: the Micturition Reflex}{70}{section*.190}%
+\contentsline {subsubsection}{``Components''}{70}{section*.191}%
+\contentsline {subsubsection}{The big picture (highest yield for clinical interpretation)}{71}{section*.192}%
+\contentsline {subsubsection}{The details}{72}{section*.194}%
+\contentsline {section}{\numberline {6.9}Parkinson's disease}{73}{section.6.9}%
+\contentsline {subsection}{Parkinsonism}{73}{section*.196}%
+\contentsline {subsection}{Pathophysiology}{73}{section*.197}%
+\contentsline {subsection}{Features}{73}{section*.198}%
+\contentsline {subsubsection}{Signs}{74}{section*.199}%
+\contentsline {subsection}{Investigations}{75}{section*.200}%
+\contentsline {subsection}{Treatment}{75}{section*.201}%
+\contentsline {subsubsection}{Drugs}{75}{section*.202}%
+\contentsline {subsubsection}{Surgery}{76}{section*.203}%
+\contentsline {chapter}{\chapternumberline {7}Diabetes Mellitus}{77}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Mechanism of insulin secretion}{77}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Incretin effect}{77}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Diagnostic criteria}{78}{section.7.3}%
+\contentsline {section}{\numberline {7.4}Diabetic ketoacidosis (DKA)}{79}{section.7.4}%
+\contentsline {subsection}{Clinical features}{79}{section*.206}%
+\contentsline {subsection}{Management}{79}{section*.207}%
+\contentsline {section}{\numberline {7.5}Hypoglycaemia}{80}{section.7.5}%
+\contentsline {subsection}{Features}{80}{section*.208}%
+\contentsline {subsection}{Management}{80}{section*.209}%
+\contentsline {section}{\numberline {7.6}Insulin therapy}{81}{section.7.6}%
+\contentsline {subsection}{Indications}{81}{section*.211}%
+\contentsline {subsection}{Preparations}{81}{section*.212}%
+\contentsline {section}{\numberline {7.7}Oral Hypoglycaemic Agents}{82}{section.7.7}%
+\contentsline {section}{\numberline {7.8}Complications of DM}{83}{section.7.8}%
+\contentsline {subsection}{Acute complications}{83}{section*.213}%
+\contentsline {subsection}{Long-term complications}{83}{section*.214}%
+\contentsline {subsubsection}{Microvascular}{83}{section*.215}%
+\contentsline {subsubsection}{Macrovascular}{83}{section*.216}%
+\contentsline {section}{\numberline {7.9}Pathogenesis of chronic complications}{84}{section.7.9}%
+\contentsline {subsection}{Mechanisms}{84}{section*.217}%
+\contentsline {section}{\numberline {7.10}Stuff not large enough to devote a section to}{86}{section.7.10}%
+\contentsline {subsection}{Metabolic syndrome}{86}{section*.219}%
+\contentsline {chapter}{\chapternumberline {8}Gastrointestinal diseases}{87}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Weight loss}{87}{section.8.1}%
+\contentsline {subsection}{Causes}{87}{section*.220}%
+\contentsline {chapter}{\chapternumberline {9}Haematology}{88}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Chronic myeloid leukaemia (CML)}{88}{section.9.1}%
+\contentsline {subsection}{Features}{88}{section*.221}%
+\contentsline {subsection}{Phases}{88}{section*.222}%
+\contentsline {subsection}{Investigations}{88}{section*.223}%
+\contentsline {subsection}{Management}{89}{section*.224}%
+\contentsline {subsubsection}{Chronic phase}{89}{section*.225}%
+\contentsline {chapter}{\chapternumberline {10}Nutritional diseases}{90}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Vitamins}{90}{section.10.1}%
+\contentsline {subsection}{B\(_1\) (thiamin) deficiency}{90}{section*.226}%
+\contentsline {subsubsection}{Functions of thiamin}{90}{section*.227}%
+\contentsline {subsubsection}{Features}{90}{section*.228}%
+\contentsline {subsubsection}{Treatment}{90}{section*.229}%
+\contentsline {subsection}{B\(_{12}\) deficiency}{91}{section*.230}%
+\contentsline {subsubsection}{Functions of B\(_{12}\)}{91}{section*.231}%
+\contentsline {subsubsection}{Features}{91}{section*.232}%
+\contentsline {subsubsection}{Treatment}{91}{section*.233}%

@@ -576,14 +576,20 @@ $\fbox{E. In old infarcts, T-wave inversion may or may not persist}$\\
 		- Abnormal band of conductive tissue connecting atria and ventricles
 		 (accessory pathway)
 
-### Management of SVT
-- Carotid sinus massage or
-- Valsalva manoeuvre
+### SVT (AVNRT)
+#### Management
+- **Carotid sinus massage** or
+- **Valsalva** manoeuvre
 - If the manoeuvre fails,
-	- Adenosine (3-12mg IV) or
+	- **Adenosine** (3-12mg IV) or
+		- Mechanism: bind to A1 receptors in the AV node producing a
+		 transient AV block for a few seconds, which terminates the
+		 cyclical propagation of the impulse through the accessory
+		 pathway
+		- May cause bronchospasm $\rightarrow$ avoided in asthma
 	- Rate-limiting CCB (Verapamil 5mg IV) or
 	- $\beta$-blocker
-- If haemodynamic state compromised, DC cardioversion
+- If haemodynamic state compromised, **DC cardioversion**
 - Recurrent SVT $\rightarrow$ catheter ablation
 
 ## Atrial fibrillation
