@@ -576,6 +576,7 @@ $\fbox{E. In old infarcts, T-wave inversion may or may not persist}$\\
 		- Abnormal band of conductive tissue connecting atria and ventricles
 		 (accessory pathway)
 
+
 ### SVT (AVNRT)
 #### Management
 - **Carotid sinus massage** or
@@ -591,6 +592,30 @@ $\fbox{E. In old infarcts, T-wave inversion may or may not persist}$\\
 	- $\beta$-blocker
 - If haemodynamic state compromised, **DC cardioversion**
 - Recurrent SVT $\rightarrow$ catheter ablation
+
+### Atrial flutter
+#### Intro
+- Caused by **macro re-entry circuit** usually in the rt atrium
+- Atrial rate $\approx$ 300/min
+- Because of the refractory period, not all of these 300 APs can excite
+ the AV node $\rightarrow$ 2nd degree type II AV block (2:1, 3:1, or 4:1,
+ corresponding to a ventricular rate of 150, 100, or 75/min)
+- **Saw-tooth flutter waves** in ECG
+- Dx confirmed if carotid sinus pressure / IV adenosine reveal flutter
+ waves (by temporarily $\uparrow$ AV block)
+
+#### Management
+- Medical: digoxin, $\beta$-blockers, or verapamil
+- DC cardioversion
+- $\beta$-blockers or amiodarone to prevent recurrence
+	- **Class Ic antiarrhythmics (e.g. flecainide) contraindicated**
+		- Risk of facilitating 1:1 AV nodal conduction leading to extreme tachy
+		 and haemodynamic compromise
+- Catheter ablation
+- Anticoagulant therapy (similar to \hyperref[item:anticoag]{A-fib's anticoagulant
+ regimen})
+
+
 
 ## Atrial fibrillation
 ### Causes
@@ -612,20 +637,32 @@ $\fbox{E. In old infarcts, T-wave inversion may or may not persist}$\\
 
 ### Management of AF
 - **Rhythm control**:
-	- Pharmacological cardioversion
-		- Pt stable + no history of heart disease $\rightarrow$ IV flecainide
-		- Structural / ischaemic heart disease $\rightarrow$ IV amiodarone
-	- DC cardioversion if drugs fail
-- **Rate control**
-	- $\beta$-blockers
-	- Digoxin
-	- Rate-limiting CCB: verapamil / diltiazem
-- **Thromboprophylaxis:**
-	- Oral Warfarin
+	- **Pharmacological cardioversion**
+		- Pt stable + no history of heart disease $\rightarrow$ **IV
+		 flecainide_
+		- Structural / ischaemic heart disease $\rightarrow$ **IV
+		 amiodarone**
+	- **DC cardioversion / catheter ablation** if drugs fail
+- **Rate control:**
+	- **Digoxin**
+	- **$\beta$-blockers**
+	- **Rate-limiting CCB**: verapamil / diltiazem
+- **Thromboprophylaxis:** \label{item:anticoag}
+	- Oral **Warfarin**
 	- Target INR: 2.0-3.0
-	- Reduces risk of stroke by $\frac{2}{3}$
 	- Start 4wks before cardioversion, continue till 3mo after successful
 	 cardioversion
+	- **Monitor stroke risk by CHA$_2$DS$_2$-VASc score, and bleeding risk
+	 by HAS-BLED score** (HAS-BLED $\ge$ 3 $\rightarrow$ close monitoring
+	 on anticoagulant)
+	- Directly acting oral anticoagulants (DOACs):
+		- Factor Xa inhibitors: Rivaroxaban, apixaban, edoxaban
+		- Direct thrombin inhibitors: dabigatran
+		- Efficacy $\ge$ warfarin, haemorrhage risk, drug interactions
+		 $\ll$ warfarin, effective antidote to manage acute bleed
+		 (idarucizumab)
+	- Avoid aspirin: little effect on embolic stroke, significant bleeding
+	 risk
 
 
 ## Myocardial Infarction
