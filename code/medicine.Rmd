@@ -172,7 +172,7 @@ Right sided murmurs & $\uparrow$ & $\downarrow$ \\
 Left sided murmurs & $\downarrow$ & $\uparrow$ \\
 \end{tabular}
 \vspace{3mm}\caption{Haemodynamic effects of respiration}
-\label{table:haemo-resp.txt}
+\label{table:haemo-resp}
 \end{table}
 
 #### Mechanisms
@@ -557,6 +557,12 @@ $\fbox{E. In old infarcts, T-wave inversion may or may not persist}$\\
 	 	- massive MI
 
 ## Arrhythmias
+### Sinus arrhythmia
+- Physiological alteration of HR with respiration
+- Inspiration $\rightarrow$ $\uparrow$HR, expiration $\rightarrow$
+ $\downarrow$HR (see also: Table \ref{table:haemo-resp})
+- Absent in diabetic neuropathy
+
 ### Classification according to ECG morphology
 - **Narrow complex**: QRS < 120ms (3 small sqs)
 	- Sinus tachycardia
