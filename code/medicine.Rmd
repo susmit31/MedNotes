@@ -631,8 +631,8 @@ $\fbox{E. In old infarcts, T-wave inversion may or may not persist}$\\
 	- If medical therapy fails, DC cardioversion
 
 ### Torsades de Pointes
-- Form of **polymorphic VT** arising as a complication of prolonged QT-
-interval (i.e. prolonged ventricular repolarisation)
+- Form of **polymorphic VT** arising as a **complication of prolonged QT-
+interval** (i.e. prolonged ventricular repolarisation)
 - Literally, "twisting of the peaks" (French)
 - QRS complexes "twist" around the isoelectric line
 
