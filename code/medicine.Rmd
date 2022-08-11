@@ -615,7 +615,7 @@ $\fbox{E. In old infarcts, T-wave inversion may or may not persist}$\\
 - Anticoagulant therapy (similar to \hyperref[item:anticoag]{A-fib's anticoagulant
  regimen})
 
-### V-tach
+### Ventricular tachycardia / VT
 - Most commonly in acute MI, chronic CAD, cardiomyopathy
 - Caused by abnormal automaticity in ischaemic tissue
 - Features:
@@ -630,7 +630,19 @@ $\fbox{E. In old infarcts, T-wave inversion may or may not persist}$\\
 - Else, **IV $\boldsymbol\beta$-blocker / amiodarone**
 	- If medical therapy fails, DC cardioversion
 
-### Torsades
+### Torsades de Pointes
+- Form of **polymorphic VT** arising as a complication of prolonged QT-
+interval (i.e. prolonged ventricular repolarisation)
+- Literally, "twisting of the peaks" (French)
+- QRS complexes "twist" around the isoelectric line
+
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=.7\textwidth]{../assets/med/torsades.png}
+	\vspace{4mm}
+	\caption{Torsades de pointes}
+\end{figure}
 
 
 ## Atrial fibrillation
