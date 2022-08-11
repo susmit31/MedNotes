@@ -636,7 +636,6 @@ interval** (i.e. prolonged ventricular repolarisation)
 - Literally, "twisting of the peaks" (French)
 - QRS complexes "twist" around the isoelectric line
 
-
 \begin{figure}[h!]
 	\centering
 	\includegraphics[width=.7\textwidth]{../assets/med/torsades.png}
@@ -644,6 +643,18 @@ interval** (i.e. prolonged ventricular repolarisation)
 	\caption{Torsades de pointes}
 \end{figure}
 
+- Usually non-sustained, repetitive
+- May progress to V-fib
+- Causes of long QT (> 0.44s in men, > 0.46s in women)
+	- Electrolyte imbalance
+		- Hypo-K
+		- Hypo-Ca
+		- Hypo-Mg
+	- Drugs
+		- Class Ia, Ic antiarrhythmics (e.g. disopyramide, flecainide etc)
+		- Class III antiarrhythmics (amiodarone, sotalol)
+	- Congenital long QT syndrome
+- **Management: IV Mg** 
 
 ## Atrial fibrillation
 ### Intro
