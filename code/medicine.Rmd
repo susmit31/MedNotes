@@ -557,6 +557,9 @@ $\fbox{E. In old infarcts, T-wave inversion may or may not persist}$\\
 	 	- massive MI
 
 ## Arrhythmias
+### Antiarrhythmics
+Discussed in Section \ref{sec:antiarr}
+
 ### Sinus arrhythmia
 - Physiological alteration of HR with respiration
 - Inspiration $\rightarrow$ $\uparrow$HR, expiration $\rightarrow$
@@ -707,6 +710,84 @@ interval** (i.e. prolonged ventricular repolarisation)
 	- Avoid aspirin: little effect on embolic stroke, significant bleeding
 	 risk
 
+## AV block
+### 1$^\circ$ AV block
+- Prolonged PR interval (> 0.2s)
+- Rarely symptoms; rarely need treatment
+
+### 2$^\circ$ AV block
+- **Dropped beats** i.e. not all impulses in the atria are conducted
+ to the ventricles
+- **Mobitz I:**
+	- Progressively prolonging PR, then dropped beat, repeat
+	- AKA **Wenckebach phenomenon**
+	- Caused by disease in the AV node
+- **Mobitz II:**
+	- PR constant (when conducted), fixed proportion of atrial
+	 impulses conduct to the ventricles (e.g. 3:1 block means for every 3
+	 impulses coming from the atria 1 excites the ventricles)
+	- Caused by disease in the His-Purkinje system
+	- **Risk of asystole (cardiac arrest)**
+- Impossible to distinguish type I and II in 2:1 block
+
+### 3$^\circ$ AV block
+- **AV dissociation**
+- Causes:
+	- MI
+	- Infective endocarditis
+	- Drugs: Digoxin, $\beta$-blockers, CCBs
+
+### Features
+- Recurrent syncope (**"Stokes-Adams" attacks)
+- Brief anoxic seizures
+
+### Management
+- Acute inferior MI often accompanied by AV block, as RCA supplies both
+ the AV node and the inferior wall. Treat MI, no other treatment for AV
+ block required.
+- Symptomatic 2$^\circ$ and 3$^\circ$ block $\rightarrow$ atropine
+- Asymptomatic 1$^\circ$ and 2$^\circ$ Mobitz I $\rightarrow$ no treatment
+ required
+- Mobitz II / 3$^\circ$ $\rightarrow$ permanent pacemaker (risk of sudden
+ death from asystole)
+
+## Antiarrhythmics
+### Classification
+#### By effect on the action potential
+- Class I: Na$^+$-channel blockers (manipulate length of AP by controlling
+ the refractory period)
+	- Ia. Prolong AP: quinidine, disopyramide
+	- Ib. Shorten AP: lidocaine, mexiletine
+	- Ic. No effect on AP: Flecainide, propafenone
+		- avoid if previous MI ($\uparrow$ risk of arrhythmia)
+		- flecainide used in AF for rhythm control
+			- may cause slow atrial flutter with rapid ventricular rate, so
+			 prescribed with an AV-node blocking drug e.g. $\beta$-blocker
+- Class II: $\beta$-blockers
+	- reduce SA node firing rate
+	- atenolol, metoprolol, bisoprolol
+	- Uses:
+		- Rate control in flutter and AF
+		- Prevent recurrence of VT, SVT
+- Class III:
+	- amiodarone, dronedarone, sotalol
+		- sotalol is a racemic mixture of l-sotalol (nonselective $\beta$-
+		blocker) and d-sotalol (class III)
+		- amiodarone also has I, II, IV activity
+		- most effective drug in paroxysmal AF
+	- prolong plateau phase $\rightarrow$ $\uparrow$refractory period
+	- prolong QT-interval, may predispose to torsades de pointes / VT
+- Class IV: rate-limiting CCBs
+	- Verapamil, diltiazem
+	- Uses: prevent SVT, rate control in AF
+
+#### By site of action
+\begin{figure}
+
+\end{figure}
+
+### Other antiarrhythmics
+- Atropine: in symptomatic / severe bradycardia
 
 ## Myocardial Infarction
 ### Management
