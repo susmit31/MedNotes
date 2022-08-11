@@ -585,12 +585,8 @@ Discussed in Section \ref{sec:antiarr}
 - **Carotid sinus massage** or
 - **Valsalva** manoeuvre
 - If the manoeuvre fails,
-	- **Adenosine** (3-12mg IV) or
-		- Mechanism: bind to A1 receptors in the AV node producing a
-		 transient AV block for a few seconds, which terminates the
-		 cyclical propagation of the impulse through the accessory
-		 pathway
-		- May cause bronchospasm $\rightarrow$ avoided in asthma
+	- **Adenosine** (3-12mg IV) (see more in \hyperref[ssec:otheranti]{this
+	 section}) or
 	- Rate-limiting CCB (Verapamil 5mg IV) or
 	- $\beta$-blocker
 - If haemodynamic state compromised, **DC cardioversion**
@@ -685,7 +681,7 @@ interval** (i.e. prolonged ventricular repolarisation)
 - **Rhythm control**:
 	- **Pharmacological cardioversion**
 		- Pt stable + no history of heart disease $\rightarrow$ **IV
-		 flecainide_
+		 flecainide**
 		- Structural / ischaemic heart disease $\rightarrow$ **IV
 		 amiodarone**
 	- **DC cardioversion / catheter ablation** if drugs fail
@@ -782,7 +778,7 @@ interval** (i.e. prolonged ventricular repolarisation)
 	- Uses: prevent SVT, rate control in AF
 
 #### By site of action
-\begin{figure}
+\begin{figure}[h!]
 	\centering
 	\includegraphics[width=.7\textwidth]{../assets/med/antiarrhythmic.jpg}
 	\vspace{4mm}
@@ -790,7 +786,20 @@ interval** (i.e. prolonged ventricular repolarisation)
 \end{figure}
 
 ### Other antiarrhythmics
+\label{ssec:otheranti}
+
 - Atropine: in symptomatic / severe bradycardia
+- Adenosine:
+	- Mechanism: bind to A1 receptors in the AV node producing a
+	 transient AV block for a few seconds, which terminates the
+	 cyclical propagation of the impulse through the accessory
+	 pathway
+	- May cause bronchospasm $\rightarrow$ avoided in asthma
+- Digoxin:
+	- Slows conduction and prolongs AV node refractory period
+		- So used for rate control in AF
+	- Enhances conduction and shortens refractory period in other parts of
+	 the heart $\rightarrow$ may promote atrial / ventricular ectopics
 
 ## Myocardial Infarction
 ### Management
