@@ -783,7 +783,10 @@ interval** (i.e. prolonged ventricular repolarisation)
 
 #### By site of action
 \begin{figure}
-
+	\centering
+	\includegraphics[width=.7\textwidth]{../assets/med/antiarrhythmic.jpg}
+	\vspace{4mm}
+	\caption{Classification of antiarrhythmics by site of action}
 \end{figure}
 
 ### Other antiarrhythmics
