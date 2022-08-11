@@ -615,9 +615,28 @@ $\fbox{E. In old infarcts, T-wave inversion may or may not persist}$\\
 - Anticoagulant therapy (similar to \hyperref[item:anticoag]{A-fib's anticoagulant
  regimen})
 
+### V-tach
+- Most commonly in acute MI, chronic CAD, cardiomyopathy
+- Caused by abnormal automaticity in ischaemic tissue
+- Features:
+	- Palpitation
+	- Dyspnoea
+	- Lightheadedness
+	- Syncope
+	- Hypotension
+	- Cardiac arrest
+- **Management:**
+	- Prompt restoration of sinus rhythm by
+		- If systolic BP < 90 mmHg,  **DC cardioversion**
+		- Else, **IV $\boldsymbol\beta$-blocker / amiodarone**
+			- If medical therapy fails, DC cardioversion
 
 
 ## Atrial fibrillation
+### Intro
+- Most common sustained arrhythmia
+- Associated with underlying heart disease, systemic embolism, stroke
+
 ### Causes
 - **Cardiac**
 	- CAD (including acute MI)
