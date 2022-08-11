@@ -625,11 +625,12 @@ $\fbox{E. In old infarcts, T-wave inversion may or may not persist}$\\
 	- Syncope
 	- Hypotension
 	- Cardiac arrest
-- **Management:**
-	- Prompt restoration of sinus rhythm by
-		- If systolic BP < 90 mmHg,  **DC cardioversion**
-		- Else, **IV $\boldsymbol\beta$-blocker / amiodarone**
-			- If medical therapy fails, DC cardioversion
+- **Management:** Prompt restoration of sinus rhythm by
+- If systolic BP < 90 mmHg,  **DC cardioversion**
+- Else, **IV $\boldsymbol\beta$-blocker / amiodarone**
+	- If medical therapy fails, DC cardioversion
+
+### Torsades
 
 
 ## Atrial fibrillation
