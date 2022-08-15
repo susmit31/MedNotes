@@ -836,6 +836,7 @@ interval** (i.e. prolonged ventricular repolarisation)
 
 #### Management
 - **Lifestyle changes:**
+\label{item:life}
 	- Smoking cessation
 	- Wt reduction
 	- Regular exercise (up to, but not beyond, point of chest discomfort)
@@ -887,17 +888,77 @@ interval** (i.e. prolonged ventricular repolarisation)
 		 e.g. sirolimus, paclitaxel prevent neo intimal hyperplasia)
 	- CABG: if triple vessel disease
 
-### Acute coronary syndrome
+
+
+### Acute coronary syndrome (ACS)
 #### Intro
 - ACS = unstable angina or MI
 
-#### Management
+#### Acute management
 \begin{figure}
 \centering
 \includegraphics[width=.65\textwidth]{../assets/med/MI-mx.png}
 \vspace{5mm}
-\caption{Management of acute MI}
+\caption{Management of ACS}
 \end{figure}
+
+#### Long-term management
+- **Lifestyle changes**: see \hyperref[item:life]{here}
+- **2$^\circ$ prevention**
+	- Antiplatelet therapy: aspirin and/or clopidogrel
+	- $]beta$-blocker
+	- ACEi / ARB
+	- Statin
+	- DM control
+- If high-risk, ICD (implantable cardiac defibrillator)
+ 
+
+#### Complications
+- **Arrhythmias:**
+	- Usually transient, no prognostic significance
+	- VF is the major cause of death in those who die before receiving
+	 medical care
+	- Common arrhythmias in ACS
+		- VF
+		- V-tach
+		- AF
+		- A-tach
+		- Accelerated idioventricular rhythm
+		- Ventricular ectopics
+		- Sinus bradycardia
+		- AV block
+- **Recurrent angina**
+- **Acute heart failure**
+- **Pericarditis**
+- **Dressler's syndrome**
+	- Fever, pericarditis, pleurisy
+	- Probably autoimmune
+	- If prolonged or severe, high dose aspirin, NSAIDs or glucocorticoids
+- **Papillary muscle rupture**
+	- Causes sudden severe MR, leading to the features
+		- Acute pulmonary oedema
+		- Shock
+		- Pansystolic murmur radiating to axilla
+	- Confirmed by echo
+	- Emergency valve replacement
+- **Ventricular septum rupture**
+	- Presents with
+		- Sudden haemodynamic deterioration
+		- Pansystolic murmur: loud, radiating to rt sternal border
+		- Acute RHF (due to lt to rt shunt)
+	- Confirmed by Doppler echo and rt heart catheterisation
+	- Emergency surgical repair
+- **Ventricular rupture**
+	- Usually fatal
+- **Embolism**
+- **Ventricular remodelling**
+	- Thinning and expansion of infarct $\rightarrow$ $\uparrow$stress on
+	 remaining ventricle $\rightarrow$ dilatation and hypertrophy of
+	 remaining ventricle
+	- ACEi and aldosterone antagonists reduce remodelling
+- **Ventricular aneurysm**
+
+ 
 
 \pagebreak
 
