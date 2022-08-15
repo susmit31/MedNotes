@@ -830,11 +830,61 @@ interval** (i.e. prolonged ventricular repolarisation)
 ### Investigations
 - **Exercise ECG: first line**
 	- Planar / downsloping ST depression of $\ge$ 1mm indicates ischaemia
-	- Upsloping ST depression nonspecific; may be normal
+	- Upsloping ST depression nonspecific; may be nor	-mal
 - Myocardial perfusion scan / stress echo: if exercise ECG inconclusive
 - CT angiogram
 
-
+### Management
+- **Lifestyle changes:**
+	- Smoking cessation
+	- Wt reduction
+	- Regular exercise (up to, but not beyond, point of chest discomfort)
+	- Sublingual GTN before exertion that may induce angina
+- **Pharmacological therapy:**
+	- Start with sublingual GTN + $\beta$-blocker
+	- Add CCB or long-acting nitrate if needed
+	- Statin, even if lipid profile normal
+	- If 2$^\circ$ to CAD, antiplatelet therapy
+		- Low-dose aspirin (75mg) / Clopidogrel (75mg) continued indefinitely
+	- Sublingual GTN:
+		- Relieve attack within 2-3 mins
+		- Side effects:
+			- Headache
+			- Hypotension
+			- Syncope
+		- Continuous therapy may cause tolerance
+			- Avoided by 6-8h nitrate free period, best achieved at night
+			 as the patient is inactive
+	- Beta-blockers:
+		- Nonselective may aggravate vasospasm by blocking coronary arterial
+		 $\beta_2$
+		- So **once daily cardioselective $\boldsymbol\beta$
+		 blocker** (metoprolol / bisoprolol)
+		- Should not be withdrawn rapidly: $\beta$-blocker withdrawal syndrome
+			- May precipitate arrhythmias, worsen angina, MI
+	- CCBs:
+		- Dihydropyridines (e.g. amlodipine) may cause reflex tach so combo
+		 with $\beta$-blocker
+		- Verapamil and diltiazem can be used as monotherapy as don't cause
+		 tach
+		- CCB $\rightarrow$ $\downarrow$contractility $\rightarrow$ used with
+		 care if poor LV function
+	- K-channel activators:
+		- Nicorandil: only approved drug in this class
+			- Vasodilator
+			- No tolerance as with nitrates
+	- I$_f$-channel antagonists:
+		- Ivabradine:
+			- Induces bradycardia
+			- Doesn't inhibit contractility
+			- Safe in heart failure
+- **Nonpharmacological therapy**
+	- PCI with / without stenting: if single or dual vessel disease
+		- Restenosis is the main complication (in upto 1/3rd cases, usually
+		 occurs within 3mo)
+		- Prevented by stenting
+		- Drug-eluting stents reduce risk further (antiproliferative drugs
+		 e.g. sirolimus, paclitaxel prevent neo intimal hyperplasia)
 
 
 ### Myocardial Infarction
