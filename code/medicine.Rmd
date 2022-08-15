@@ -801,8 +801,44 @@ interval** (i.e. prolonged ventricular repolarisation)
 	- Enhances conduction and shortens refractory period in other parts of
 	 the heart $\rightarrow$ may promote atrial / ventricular ectopics
 
-## Myocardial Infarction
-### Management
+## Coronary artery disease
+### Risk factors
+- Smoking: most important modifiablle risk factor
+- Age and sex:
+	- Premenopausal women $\rightarrow$ $\downarrow$risk than men
+	- Postmenopausal women $\rightarrow$ = risk as men
+	- HRT in postmenopause $\uparrow$risk
+- Diet:
+	- $\downarrow$fruit, veg, PUFA $\rightarrow$ $\uparrow$risk
+
+
+
+### Angina pectoris
+#### Intro
+- Chest pain due to transient myocardial ischaemia resulting from an
+ imbalance between myocardial O$_2$ supply and demand
+
+### Pathogenesis
+- Causes
+	- Atherosclerosis
+	- Coronary artery spasm
+	- Syndrome X:
+		- Effort angina + evidence of ischaemia on stress test + normal
+		 arteries on angio
+		- Mechanism unknown
+
+### Investigations
+- **Exercise ECG: first line**
+	- Planar / downsloping ST depression of $\ge$ 1mm indicates ischaemia
+	- Upsloping ST depression nonspecific; may be normal
+- Myocardial perfusion scan / stress echo: if exercise ECG inconclusive
+- CT angiogram
+
+
+
+
+### Myocardial Infarction
+#### Management
 \begin{figure}
 \centering
 \includegraphics[width=.65\textwidth]{../assets/med/MI-mx.png}
