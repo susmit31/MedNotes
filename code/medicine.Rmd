@@ -818,7 +818,7 @@ interval** (i.e. prolonged ventricular repolarisation)
 - Chest pain due to transient myocardial ischaemia resulting from an
  imbalance between myocardial O$_2$ supply and demand
 
-### Pathogenesis
+#### Pathogenesis
 - Causes
 	- Atherosclerosis
 	- Coronary artery spasm
@@ -827,14 +827,14 @@ interval** (i.e. prolonged ventricular repolarisation)
 		 arteries on angio
 		- Mechanism unknown
 
-### Investigations
+#### Investigations
 - **Exercise ECG: first line**
 	- Planar / downsloping ST depression of $\ge$ 1mm indicates ischaemia
 	- Upsloping ST depression nonspecific; may be nor	-mal
 - Myocardial perfusion scan / stress echo: if exercise ECG inconclusive
 - CT angiogram
 
-### Management
+#### Management
 - **Lifestyle changes:**
 	- Smoking cessation
 	- Wt reduction
