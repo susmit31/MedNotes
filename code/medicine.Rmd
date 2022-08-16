@@ -958,9 +958,6 @@ interval** (i.e. prolonged ventricular repolarisation)
 	- ACEi and aldosterone antagonists reduce remodelling
 - **Ventricular aneurysm**
 
- 
-
-\pagebreak
 
 ## Heart failure
 ### Pathophysiology
@@ -1123,8 +1120,117 @@ interval** (i.e. prolonged ventricular repolarisation)
 		- Reserved for young patients with severe disease despite optimal
 		 therapy
 
+## Peripheral artery disease (PAD)
+### Pathogenesis
+- Risk factors: same as CAD
+- In developed countries, **almost all PAD is due to atherosclerosis**
+- PAD in DM patients associated with severe limb ischaemia
+
+### Features
+- $\approx$ 25% symptomatic
+- Symptomatic PAD affects legs 8x more commonly than arms
+	- In leg, superficial femoral artery most commonly involved
+	- In arm, subclavian artery most commonly involved
+- **Intermittent claudication** (IC)
+	- Most common symptom
+	- Usually in calf muscles (as superficial femoral artery is the usual
+	 site of pathology)
+	- In thigh or buttock if iliac arteries involved
+	- Pain comes on after walking upto a specific distance, rapid relief
+	 on rest
+- **Critical limb ischaemia**
+	- Rest pain requiring opiate analgesia and/or ulceration or gangrene
+	 present for > 2w, with ankle BP < 50mmHg
+	- Rest pain with ankle BP > 50mmHg = SCLI (subcritical limb ischaemia)
+	- Severe limb ischaemia = SCLI or CLI
+	- IC usually due to single segment plaque, SLI always due to multilevel
+	 disease
+- **Acute limb ischaemia**
+	- Due to acute thrombotic occlusion of stenotic segment /
+	 thromboembolism
+	- Features: **6P**
+		- Pain
+		- Pallor
+		- Pulselessness
+		- Perishing cold
+		- Paraesthesia
+		- Paralysis
+	- Treatment:
+		- Consult vascular surgeon
+		- IV heparin bolus (3000-5000 U): limit thrombus propagation
+		- Distinguishing thrombosis from embolism is difficult but
+		 important as management different
+		 	- Thrombosis: treat medically with heparin, antiplatelets,
+		 	 statins
+		 	- Embolism: urgent revascularisation within 6h (otherwise
+		 	 extensive necrosis)
+		- Irreversible ischaemia $\rightarrow$ amputation
+- Features of chronic limb ischaemia
+	- Pulses diminished / absent
+	- Bruits
+	- $\downarrow$temperature
+	- **Buerger's sign**: pallor on elevation, rubor on dependency
+	- Muscle wasting
+	- Skin, nails: dry, thin, brittle
+	- Loss of hair
 
 
+### Investigations
+- ABPI (ankle-brachial pressure index)
+	- $\frac{\text{Systolic ankle BP}}{\text{Systolic brachial BP}}$
+	- Normal: > 1, IC: 0.5-0.9, CLI: < 0.5
+- Duplex scan
+- CT / MRI with IV contrast
+- Intra-arterial DSA (digital subtraction angiography): for those undergoing
+ endovascular revascularisation
+- Lipid profile
+- Blood sugar
+
+### Management
+- Medical therapy:
+	- **Smoking cessation**
+	- **Regular exercise** (30 mins of walking, 3x a week)
+	- **Antiplatelet** agents
+		- Aspirin or clopidogrel (75 mg)
+		- Newer drug: Voraxapar
+			- Selective PAR-1 (proteasse-activated receptor 1) antagonist
+			- Combo with aspirin or clopidogrel
+	- **Statins**
+	- **Cilostazol**:
+		- peripheral vasodilator
+		- improves walking distance
+		- consider if nonresponsive to above
+	- **Diagnose and treat DM, htn**, anaemia, HF
+- Surgical therapy: if medical therapy outcome not good after 6mo
+	- Angioplasty $\pm$ stenting
+	- Endarterectomy
+	- Bypass
+
+## Buerger's and Raynaud's
+### Buerger's
+- Inflammatory disease of arteries distinct from atherosclerosis
+- Usually in **young (20-30y) male smokers**
+- Characteristically affects **distal arteries**
+	- Claudication in the feet
+	- Rest pain in the fingers / toes
+	- Wrist and ankle pulses absent
+	- Brachial and popliteal pulses present
+- Treatment:
+	- **Smoking cessation** often causes remission
+		- Amputation usually needed if patient continues smoking
+	- Vasodilators: **prostacyclin**
+	- Sympathectomy
+
+### Raynaud's
+- **Young (15-30y) female in temperate climates**
+- **Doesn't cause ulceration / infarction**
+- Usually no significant pain
+- Treatment:
+	- Reassurance
+	- Avoiding cold exposure
+	- Nifedipine if symptoms troublesome
+
+	
 
 \pagebreak
 
