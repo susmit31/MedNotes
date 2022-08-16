@@ -1230,7 +1230,57 @@ interval** (i.e. prolonged ventricular repolarisation)
 	- Avoiding cold exposure
 	- Nifedipine if symptoms troublesome
 
-	
+
+## Aortic diseases
+### Aortic aneurysm
+#### Intro
+- Abnormal dilatation of aortic lumen
+- Most common in infrarenal abdominal aorta
+- Men : women = 3 : 1
+- Typically in old (65-85y)
+
+#### Pathogenesis
+- Most common cause **atherosclerosis**
+- Predisposing factors: DM, htn, hyperlipidaemia
+- Tends to run in families
+- Associated with **Marfan's** (autosomal dominant connective tissue disease)
+	- Marfan's also associated with aortic dissection
+
+#### Features
+- Thoracic aortic aneurysms:
+	- Acute severe chest pain
+	- Features of AR
+	- Compressive symptoms
+		- Stridor
+		- Hoarseness
+	- Massive bleeding (if erodes into adjacent structure e.g. oeso or
+	 bronchus)
+- Abdominal aortic aneurysms:
+	- Pain: central abdomen, back, loin, iliac fossa, groin
+	- Thromboembolism
+	- Compressive symptoms
+		- Duodenal compression $\rightarrow$ obstruction, vomiting
+		- IVC compression $\rightarrow$ leg oedema, DVT
+	- Rupture 
+
+#### Investigations
+- **USG**: investigation of choice for dx
+- **CT scan**:
+	- more info about size and extent
+	- standard pre-op investigation
+
+#### Management
+- **Surgical repair**
+	- Open repair:
+		- treatment of choice
+		- replace aneursymal segment with prosthetic (Dacron) graft
+	- Endovascular aneurysm repair (EVAR):
+- If aneurysm is due to Marfan's, $\beta$-blockers
+	- $\downarrow$ rate of dilatation, risk of rupture
+- Rupture of the aneurysm mostly kills before reaching the hospital, so try
+ preventing that
+- Asymptomatic: Risks of surgery outweigh risks of rupture if $\le$ 5.5cm
+- Symptomatic: All cases must be operated, as pain often predates rupture
 
 \pagebreak
 
