@@ -1238,6 +1238,7 @@ interval** (i.e. prolonged ventricular repolarisation)
 - Most common in infrarenal abdominal aorta
 - Men : women = 3 : 1
 - Typically in old (65-85y)
+- In younger if associated with Marfan's
 
 #### Pathogenesis
 - Most common cause **atherosclerosis**
@@ -1281,6 +1282,74 @@ interval** (i.e. prolonged ventricular repolarisation)
  preventing that
 - Asymptomatic: Risks of surgery outweigh risks of rupture if $\le$ 5.5cm
 - Symptomatic: All cases must be operated, as pain often predates rupture
+
+### Aortic dissection
+#### Intro
+- Breach in arterial wall $\rightarrow$ blood enters media, splitting it
+ into 2 layers (creating a false lumen)
+- Men : women = 2 : 1
+- Peak incidence: 6-7th decade
+- Can occur in younger if associated with Marfan's, pregnancy, trauma
+
+#### Pathogenesis
+- **Risk factors**
+	- Htn (in 80%)
+	- Atherosclerosis
+	- Coarctation
+	- Genetic connective tissue disorders:
+		- Marfan's
+		- Ehlers-Danlos
+	- Pregnancy (usually 3rd trimester)
+
+#### Classification
+- Important for management
+- Based on **involvement of ascending aorta**
+	- **Type A**
+		- involves ascending aorta
+		- 2/3rds of cases
+		- may also extend into the descending
+	- **Type B**: does not involve ascending aorta
+
+#### Features
+- **Pain**: **sudden, severe, "tearing"**
+	- Type A: anterior chest pain
+	- Type B: infrascapular back pain
+- **Hypertension** unless major haemorrhage
+- **Signs of AR**
+- **Asymmetric pulses** (brachial, carotid, or femoral)
+- Features due to **occlusion of aortic branches**
+	- Coronary occlusion $\rightarrow$ MI
+	- Carotid occlusion $\rightarrow$ stroke
+	- Spinal artery occlusion $\rightarrow$ paraplegia
+	- Renal artery occlusion $\rightarrow$ AKI
+	- Limb occlusion $\rightarrow$ acute limb ischaemia
+	- Mesenteric occlusion $\rightarrow$ gut ischaemia
+
+#### Investigations
+- **CT / MR angiography: investigation of choice**
+- **CXR**
+	- Broadened upper mediastinum
+	- Distorted aortic knuckle
+	- Lt sided pleural effusion
+
+#### Management
+- Initial management:
+	- Pain control
+	- Antihypertensive
+- Definitive treatment:
+	- **Type A:** emergency surgery to replace ascending aorta
+	- **Type B:**
+		- Treated medically ($\uparrow\uparrow\uparrow$ surgical risk)
+			- Goal: maintain MAP (mean arterial pressure) at 60-75 mmHg
+			- First line therapy: $\beta$-blocker (labetalol preferred for
+			 additional $\alpha$-blockade)
+			- If $\beta$-blockers contra $\rightarrow$ rate-limiting CCB
+			 (verapamil, diltiazem)
+			- If inadequate control Na-nitroprusside
+		- Unless rupture / risk of rupture / vital organ ischaemia (gut /
+		 kidney)
+
+
 
 \pagebreak
 
