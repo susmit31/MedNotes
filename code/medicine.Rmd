@@ -1349,6 +1349,71 @@ interval** (i.e. prolonged ventricular repolarisation)
 		- Unless rupture / risk of rupture / vital organ ischaemia (gut /
 		 kidney)
 
+### Aortitis
+- Syphilis is a rare cause
+	- Characteristic saccular aneurysm of ascending aorta
+
+### Marfan's
+#### Intro
+- **Autosomal dominant connective tissue disease**
+- Mutations in gene FBN1 (codes for fibrillin: an ECM protein)
+
+#### Features
+- Aortic dissection
+- Aortic aneurysm
+- AR / MR
+- Skin laxity
+- Joint hypermobility
+- Long arms, legs, fingers (arachnodactyly)
+- Scoliosis, pectus excavatum
+- High-arched palate
+- Ocular abnormalities:
+	- Lens dislocation
+	- Retinal detachment
+
+#### Investigations
+- Genetic testing: confirmatory
+- CXR: aortic dilatation
+- Echo: valvular disease
+
+#### Management
+- $\beta$-blockers:
+	- $\downarrow$risk of aortic dilatation
+	- given in all Marfan's patients
+- Avoid activities that raise cardiac output
+- Surgical replacement or aortic root: if progressive dilatation
+
+### Coarctation
+#### Intro
+- **Mostly congenital, very rarely acquired**
+- Male : female = 2 : 1
+- Associated with:
+	- Bicuspid aortic valve (normally, only mitral valve should be bicuspid,
+	 all the others tricuspid)
+	- Berry aneurysms in cerebral circulation
+
+#### Pathogenesis
+- Narrowing most commonly where the ductus arteriosus joins the aorta (just
+ distal to the origin of the 3 main branches: brachiocephalic, lt common
+ carotid, lt subclavian)
+	- Proximal to narrowing (head & neck vessels) $\rightarrow$
+	 $\downarrow$BP
+	- Distal to narrowing $\rightarrow\;\downarrow$BP
+
+#### Investigations
+- **MRI: investigation of choice**
+- CXR: may show changes in the contour of the aorta
+
+#### Management
+- Untreated $\rightarrow$ death due to
+	- LVF
+	- Aortic dissection
+	- Haemorrhagic stroke
+- **Surgical repair**:
+	- Do in early childhood $\rightarrow$ no htn
+	- Surgery done later $\rightarrow$ htn persists
+- Balloon dilatation / stenting: if recurrence
+
 
 
 \pagebreak
