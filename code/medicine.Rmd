@@ -1414,9 +1414,8 @@ interval** (i.e. prolonged ventricular repolarisation)
 	- Surgery done later $\rightarrow$ htn persists
 - Balloon dilatation / stenting: if recurrence
 
-
-
 \pagebreak
+
 
 # Dermatology
 ## Anatomy and physiology
@@ -2356,7 +2355,7 @@ Here's an awesome
 4 & GFR 15-29 & Severe CKD & First symptoms often at GFR < 20. Electrolyte disorders \\
 5 & GFR < 15 & Kidney failure & Significant symptoms and complications. Dialysis initiated if < 10. \\
 \end{tabular}\caption{Stages of CKD}
-\label{table:}
+\label{table:ckd-stage}
 \end{table}
 
 
