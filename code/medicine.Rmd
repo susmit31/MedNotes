@@ -1567,7 +1567,43 @@ interval** (i.e. prolonged ventricular repolarisation)
 - **Fatigue** due to $\downarrow$ cardiac output
 - **Acute pulmonary oedema** $\rightarrow$ haemoptysis
 - Thromboembolism** especially with AF
-- **Loud S$_1$
+- Exam findings:
+	- **Loud S$_1$
+	- **Tapping apex beat**
+	- **Low-pitched mid-diastolic murmur** accentuated by exercise
+	- Basal creps if pulmonary oedema
+
+#### Investigations
+- **Doppler echo: investigation of choice**
+- **ECG:** AF, p-mitrale (bifid p-wave due to LA hypertrophy)
+- **CXR:**
+	- **Straight lt heart border**
+	- **Widened carinal angle**
+	- May be pulmonary congestion or oedema
+- Cardiac catheterisation if valvuloplasty considered
+
+#### Treatment
+- **Medical:**
+	- **Anticoagulation:** to $\downarrow$ thromboembolic risk
+	- **Ventricular rate control:** digoxin, $\beta$-blockers, rate-limiting
+	 CCB
+	- **Diuretics:** to relieve pulmonary congestion
+- **Valvuloplasty:**
+	- **Treatment of choice if**
+		- Significant symptoms
+		- Isolated mitral stenosis with no/trivial mitral regurgitation
+		- Mobile, non-calcified valve on echo
+		- No thrombus in lt atrium
+	- Procedure: illustrated in fig. \ref{fig:valvuloplasty}
+	- Follow up yearly as risk of restenosis
+
+\begin{figure}[!h]
+	\centering
+	\includegraphics[width=.7\textwidth]{../assets/med/valvuloplasty.jpg}
+	\vspace{5mm}
+	\caption{Mitral valvuloplasty}
+	\label{fig:valvuloplasty}
+\end{figure}
 
 
 
