@@ -1689,6 +1689,42 @@ interval** (i.e. prolonged ventricular repolarisation)
 	- **Balloon valvuloplasty:** if congenital AS
 	- Anticoagulants if AF / if valve replacement with mechanical prosthesis
 
+### Aortic regurgitation
+#### Pathogenesis
+- **Causes:**
+	- Congenitally bicuspid aortic valve
+	- Rhematic disease
+	- Infective endocarditis
+	- Trauma
+	- Causes of aortic dilatation
+		- Marfan's
+		- Aneurysm
+		- Aortic dissection
+		- Syphilis
+		- AnkSpond
+#### Features
+- Mild to moderate: asymptomatic, palpitations
+- Severe: breathlessness, angina
+- Exam findings:
+	- **High volume/collapsing pulse**
+	- $\uparrow$ pulse pressure
+	- **Early diastolic murmur** best heard at **lt sternal edge**
+	- **Soft mid-diastolic "Austin-Flint" murmur**: due to regurgitant jet
+	 partly closing mitral leaflet (functional mitral stenosis)
+
+#### Investigations
+- **Doppler:** first choice
+- **ECG:** LVH, T-inversion
+- **CXR:** cardiomegaly, aortic dilatation, LVF
+- Cardiac cath
+
+#### Treatment
+- Treat underlying disease (e.g. endocarditis / syphilis)
+- Asymptomatic: annual follow up with echo
+- **Valve replacement** if symptomatic
+- Vasodilators if htn
+
+
 
 
 
