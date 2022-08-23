@@ -734,7 +734,7 @@ interval** (i.e. prolonged ventricular repolarisation)
 	- Drugs: Digoxin, $\beta$-blockers, CCBs
 
 ### Features
-- Recurrent syncope (**"Stokes-Adams" attacks)
+- Recurrent syncope (**"Stokes-Adams"** attacks)
 - Brief anoxic seizures
 
 ### Management
@@ -1566,7 +1566,7 @@ interval** (i.e. prolonged ventricular repolarisation)
 - **Exertional dyspnoea:** most dominant symptom
 - **Fatigue** due to $\downarrow$ cardiac output
 - **Acute pulmonary oedema** $\rightarrow$ haemoptysis
-- Thromboembolism** especially with AF
+- **Thromboembolism** especially with AF
 - Exam findings:
 	- **Loud S$_1$**
 	- **Tapping apex beat**
@@ -1604,6 +1604,27 @@ interval** (i.e. prolonged ventricular repolarisation)
 	\caption{Mitral valvuloplasty}
 	\label{fig:valvuloplasty}
 \end{figure}
+
+### Mitral regurgitation
+#### Pathogenesis
+- **Causes:**
+	- **Rheumatic disease** is the main cause in countries where rheumatic fever
+	 is common (causes damage to the valve cusps and chordae)
+	- Mitral valve prolapse
+	- Ischaemia or infarction of the papillary muscles
+	- MI
+	- Dilated cardiomyopathy
+	- Endocarditis
+
+#### Features
+- **Breathlessness**
+- **Fatigue**
+- Oedema, ascites (if RHF)
+- Palpitation (if AF)
+- Exam findings:
+	- **Soft S$_1$**
+	- 
+
 
 
 
