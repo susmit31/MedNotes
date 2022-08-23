@@ -1481,7 +1481,7 @@ interval** (i.e. prolonged ventricular repolarisation)
 		- Recent scarlet fever
 		- $\uparrow$ ASO titre
 		- +ve throat culture
-- **$\boldsymbol\ge$ 2 major / 1 major + $\boldsymbol\ge$ 2 minor**
+- **$\boldsymbol\ge$ 2 major / (1 major + $\boldsymbol\ge$ 2 minor)**
  with supporting evidence
 - Presumptive dx can be made without evidence of preceding strep inf if
  isolated chorea or pancarditis (if other causes excluded)
