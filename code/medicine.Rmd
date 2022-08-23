@@ -748,6 +748,8 @@ interval** (i.e. prolonged ventricular repolarisation)
  death from asystole)
 
 ## Antiarrhythmics
+\label{sec:antiarr}
+
 ### Classification
 #### By effect on the action potential
 - Class I: Na$^+$-channel blockers (manipulate length of AP by controlling
@@ -1413,6 +1415,147 @@ interval** (i.e. prolonged ventricular repolarisation)
 	- Do in early childhood $\rightarrow$ no htn
 	- Surgery done later $\rightarrow$ htn persists
 - Balloon dilatation / stenting: if recurrence
+
+
+## Hypertension
+### Management
+- **Lifestyle changes**
+- **Drug therapy**:
+	- Guidelines: figure \ref{fig:antihtn}
+	- ACEi:
+		- Use with care in **impaired renal function** or **bilateral renal
+		 artery stenosis**
+		- S/E:
+			- 1st dose hypotension
+			- Cough
+			- Rash
+			- Hyperkalaemia
+			- Renal dysfn
+	- CCB:
+		- S/E of dihydropyridines (amlodipine/nifedipine):
+			- Flushing
+			- Palpitation
+			- Fluid retention
+		- S/E of verapamil: constipation
+
+\begin{figure}
+	\centering
+	\includegraphics[width=.7\textwidth]{../assets/med/antihtn.png}
+	\vspace{5mm}
+	\caption{Antihypertensive therapy NICE guidelines}
+	\label{fig:antihtn}
+\end{figure}
+
+## Acute rheumatic fever
+### Intro
+- Mainly in low- and mid-income countries
+- Mainly affects children (5-15y)
+
+### Pathogenesis
+- Delayed immune response to group A strep infection (sore throat / skin inf)
+- Anti strep-A cross-react with cardiac myosin and sarcolemmal membrane
+ proteins $\rightarrow$ inflammation in the endo, myo, pericardium
+- Also inflame joints by same mechanism
+- Histology:
+	- Fibrinoid degeneration in the collagen of connective tissue
+	- **Aschoff nodules:** pathognomonic
+		- **Only in the heart**
+		- Multinucleated giant cells surrounded by macrophages, T cells
+
+### Features
+- **Revised Jones criteria**
+	- **Major**
+		- Carditis
+		- Polyarthritis
+		- Chorea
+		- Erythema marginatum
+		- Subcutaneous nodules
+	- **Minor**
+		- Fever
+		- Arthralgia
+		- $\uparrow$ ESR / CRP
+		- Leucocytosis
+		- 1$^\circ$ AV block
+		- Previous rheumatic fever
+	- **Supporting evidence**
+		- Recent scarlet fever
+		- $\uparrow$ ASO titre
+		- +ve throat culture
+- **$\boldsymbol\ge$ 2 major / 1 major + $\boldsymbol\ge$ 2 minor$
+ with supporting evidence
+- Presumptive dx can be made without evidence of preceding strep inf if
+ isolated chorea or pancarditis (if other causes excluded)
+- **Carditis**
+	- Manifestations:
+		- Breathlessness (due to HF or pericardial effusion)
+		- Palpitations
+		- Chest pain (due to pan/pericarditis)
+		- Pericardial friction rub (if pericarditis)
+		- Soft pansystolic murmur (due to MR)
+		- Soft mid-diastolic murmur (Carey Coombs murmur) due to valvulitis
+		- AR (in 50% cases)
+- **Arthritis**
+	- **Asymmetric, migratory, involving large joints** typically knees,
+	 ankles, elbows, wrists
+	- Inflammation "migrates" from a joint within 1d - 4w
+- **Skin lesions**
+	- **Erythema marginatum**
+		- In < 5% cases
+		- Involves **trunk and extremities, not face**
+	- **Subcutaneous nodules**
+		- In 5-7% cases
+		- Small (0.5-2cm), firm, painless, over extensor surfaces
+		- Typically appear $\approx$ 3 wks after the onset of other
+		 manifestations
+- **Sydenham's chorea / St Vitus dance**
+	- Usually appear $\ge$ 3mo after the episode, when all other
+	 features may have disappeared
+	- In $\approx$ 1/3rd cases, more in female
+	- Spontaneous recovery within a few months
+
+### Investigations
+- Blood: CBC, ESR, CRP
+- Throat culture
+- ASO titre
+- CXR: cardiomegaly, pulmonary congestion
+- ECG: 1$^\circ$ AV block, features of pericarditis
+- Echo: valvular disease
+
+### Treatment
+- Bed rest
+- Antibiotics:
+	- On dx: eliminate any residual strep infection by
+		- IM benzathine benzylpenicillin (1.2M U, single dose) or
+		- Oral phenoxymethylpenicillin (250mg qds 10d)
+		- If penicllin allergy, erythromycin / cephalosporin
+	- Long-term prophylaxis:
+		- IM benzathine benzylpenicillin (1.2M U, monthly) or
+		- Oral phenoxymethylpenicillin (250mg bds)
+		- Continue for 5 yrs or until 21y age, whichever later
+		- If residual heart disease, for 10 yrs or until 40y, whichever later
+- Aspirin:
+	- Relieves arthritis rapidly
+	- Starting dose: 60 mg/kg 4hrly
+	- Response within 24h helps to confirm dx
+	- Continue until ESR falls
+	- S/E:
+		- Nausea
+		- Tinnitus
+		- Deafness
+		- Vomiting
+		- Tachypnoea
+		- Acidosis
+- Glucocorticoids:
+	- More rapid symptomatic relief than aspirin
+	- Use in carditis or severe arthritis
+		
+
+## Mitral valve disease
+### Mitral stenosis
+#### Pathogenesis
+- **Almost always rheumatic**
+
+
 
 \pagebreak
 
