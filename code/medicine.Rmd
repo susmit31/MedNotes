@@ -1481,7 +1481,7 @@ interval** (i.e. prolonged ventricular repolarisation)
 		- Recent scarlet fever
 		- $\uparrow$ ASO titre
 		- +ve throat culture
-- **$\boldsymbol\ge$ 2 major / 1 major + $\boldsymbol\ge$ 2 minor$
+- **$\boldsymbol\ge$ 2 major / 1 major + $\boldsymbol\ge$ 2 minor**
  with supporting evidence
 - Presumptive dx can be made without evidence of preceding strep inf if
  isolated chorea or pancarditis (if other causes excluded)
@@ -1552,9 +1552,22 @@ interval** (i.e. prolonged ventricular repolarisation)
 
 ## Mitral valve disease
 ### Mitral stenosis
-#### Pathogenesis
+#### Pathophysiology
 - **Almost always rheumatic**
-- Valve orifice narrowed by **progressive fibrosis**
+- Valve orifice narrowed by **progressive fibrosis, calcification of
+ leaflets**
+- Dilatation and hypertrophy of LA
+- $\uparrow$LA pressure $\rightarrow$ **pulmonary congestion, breathlessness**
+- Progressive dilatation of LA commonly leads to **AF**
+- Pulmonary htn may develop, protecting from pulmonary oedema, but leading
+ to RVH, TR, RHF
+
+#### Features
+- **Exertional dyspnoea:** most dominant symptom
+- **Fatigue** due to $\downarrow$ cardiac output
+- **Acute pulmonary oedema** $\rightarrow$ haemoptysis
+- Thromboembolism** especially with AF
+- **Loud S$_1$
 
 
 
