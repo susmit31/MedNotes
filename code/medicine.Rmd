@@ -1568,7 +1568,7 @@ interval** (i.e. prolonged ventricular repolarisation)
 - **Acute pulmonary oedema** $\rightarrow$ haemoptysis
 - Thromboembolism** especially with AF
 - Exam findings:
-	- **Loud S$_1$
+	- **Loud S$_1$**
 	- **Tapping apex beat**
 	- **Low-pitched mid-diastolic murmur** accentuated by exercise
 	- Basal creps if pulmonary oedema
@@ -1599,7 +1599,7 @@ interval** (i.e. prolonged ventricular repolarisation)
 
 \begin{figure}[!h]
 	\centering
-	\includegraphics[width=.7\textwidth]{../assets/med/valvuloplasty.jpg}
+	\includegraphics[width=.5\textwidth]{../assets/med/valvuloplasty.jpg}
 	\vspace{5mm}
 	\caption{Mitral valvuloplasty}
 	\label{fig:valvuloplasty}
