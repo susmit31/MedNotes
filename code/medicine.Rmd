@@ -1438,9 +1438,9 @@ interval** (i.e. prolonged ventricular repolarisation)
 			- Fluid retention
 		- S/E of verapamil: constipation
 
-\begin{figure}
+\begin{figure}[!h]
 	\centering
-	\includegraphics[width=.7\textwidth]{../assets/med/antihtn.png}
+	\includegraphics[width=\textwidth]{../assets/med/antihtn.png}
 	\vspace{5mm}
 	\caption{Antihypertensive therapy NICE guidelines}
 	\label{fig:antihtn}
@@ -1554,6 +1554,7 @@ interval** (i.e. prolonged ventricular repolarisation)
 ### Mitral stenosis
 #### Pathogenesis
 - **Almost always rheumatic**
+- Valve orifice narrowed by **progressive fibrosis**
 
 
 
