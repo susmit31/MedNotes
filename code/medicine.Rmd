@@ -1563,6 +1563,7 @@ interval** (i.e. prolonged ventricular repolarisation)
  to RVH, TR, RHF
 
 #### Features
+- Very slow progression
 - **Exertional dyspnoea:** most dominant symptom
 - **Fatigue** due to $\downarrow$ cardiac output
 - **Acute pulmonary oedema** $\rightarrow$ haemoptysis
@@ -1644,6 +1645,49 @@ interval** (i.e. prolonged ventricular repolarisation)
 	- Digoxin and anticoagulants if AF
 - **Surgical valve repair:** treatment of choice for severe MR
 
+## Aortic valve disease
+### Aortic stenosis
+#### Pathogenesis
+- **Causes:**
+	- Congenital AS
+	- Calcification of congenitally bicuspid aortic valve
+	- Rheumatic AS
+	- Senile degenerative AS
+- Stenosis $\rightarrow$ progressive LVH $\rightarrow$ angina (mismatch of
+ myocardial demand and coronary arterial supply) $\rightarrow$ LVF
+ $\rightarrow$ pulmonary oedema
+
+#### Features
+- **Cardinal symptoms: angina, breathlessness, syncope**
+- Exam findings:
+	- **Ejection systolic murmur** like "saw cutting wood"
+	- **Slow-rising carotid pulse**
+	- **Heaving apex beat** due to LV pressure overload
+	- Narrow pulse pressure
+	- Pulmonary oedema
+- Asymptomatic for many years; deteriorate rapidly when symptoms develop
+- Die within 5y of presentation if untreated
+
+#### Investigations
+- **Echo:** see ventricular wall, valve
+- **Doppler:** severity of stenosis
+- **ECG:**
+	- LVH
+	- "Strain" pattern: down-sloping ST segments and T-inversion in lateral
+	 leads (due to LV fibrosis)
+	- LBBB
+- **CXR:** LV enlarged
+
+#### Treatment
+- Asymptomatic:
+	- Conservative mx
+	- Regular review with Doppler (yearly; if older, 6 monthly)
+- Symptomatic:
+	- Prompt **aortic valve replacement**
+	- Delay $\rightarrow\;\uparrow$ risk of sudden death
+	- Old age is not contraindication to surgery
+	- **Balloon valvuloplasty:** if congenital AS
+	- Anticoagulants if AF / if valve replacement with mechanical prosthesis
 
 
 
