@@ -1578,6 +1578,7 @@ interval** (i.e. prolonged ventricular repolarisation)
 - **ECG:** AF, p-mitrale (bifid p-wave due to LA hypertrophy)
 - **CXR:**
 	- **Straight lt heart border**
+	- **Double rt heart border**
 	- **Widened carinal angle**
 	- May be pulmonary congestion or oedema
 - Cardiac catheterisation if valvuloplasty considered
@@ -1623,7 +1624,26 @@ interval** (i.e. prolonged ventricular repolarisation)
 - Palpitation (if AF)
 - Exam findings:
 	- **Soft S$_1$**
-	- 
+	- **Apical pansystolic murmur radiating to axilla**
+	- Creps
+	- $\uparrow$JVP
+
+#### Investigations
+- **Echo:** condition of wall and valves
+- **Doppler:** quantify regurgitation
+- **ECG:** AF due to atrial dilatation
+- **CXR:**
+	- Enlarged LA, LV
+	- Pulmonary venous congestion
+	- Pulmonary oedema
+
+#### Management
+- **Medical:**
+	- Diuretics
+	- Vasodilators if htn
+	- Digoxin and anticoagulants if AF
+- **Surgical valve repair:** treatment of choice for severe MR
+
 
 
 
