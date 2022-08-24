@@ -2178,7 +2178,7 @@ Discussed in subsection \ref{ssec:coarc}
 - Rapid, low-volume pulse
 - $\uparrow$JVP
 - Kussmaul's sign
-- 1enous congestion $\rightarrow$ hepatomegaly, ascites, peripheral oedema
+- Venous congestion $\rightarrow$ hepatomegaly, ascites, peripheral oedema
 - Pulsus paradoxus
 
 #### Investigation
