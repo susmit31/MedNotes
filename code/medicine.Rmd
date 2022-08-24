@@ -2043,7 +2043,7 @@ Discussed in subsection \ref{ssec:coarc}
  excluding CAD
 - **Echo**
 - **Cardiac MRI**
-- Genetic testing if $\ge$ family members affected
+- Genetic testing if $\ge 1$ family members affected
 
 #### Treatment
 - Control HF
@@ -2178,7 +2178,7 @@ Discussed in subsection \ref{ssec:coarc}
 - Rapid, low-volume pulse
 - $\uparrow$JVP
 - Kussmaul's sign
-- Venouus congestion $\rightarrow$ hepatomegaly, ascites, peripheral oedema
+- 1enous congestion $\rightarrow$ hepatomegaly, ascites, peripheral oedema
 - Pulsus paradoxus
 
 #### Investigation
