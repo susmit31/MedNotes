@@ -193,7 +193,7 @@ Left sided murmurs & $\downarrow$ & $\uparrow$ \\
 	 \downarrow$ faster ejection from LV $\rightarrow\;\;\downarrow$
 	 faster A$_2$
 
-## Investigations of CVS disease
+## Investigation of CVS disease
 ### ECG
 - Discussed in Sec. \ref{sec:ecg}
 
@@ -685,7 +685,7 @@ interval** (i.e. prolonged ventricular repolarisation)
 	- Pneumonia
 	- Alcoholism
 
-### Investigations
+### Investigation
 - ECG
 - Echo: to see valvular condition
 - Thyroid function test: to exclude thyrotoxicosis
@@ -842,7 +842,7 @@ interval** (i.e. prolonged ventricular repolarisation)
 		 arteries on angio
 		- Mechanism unknown
 
-#### Investigations
+#### Investigation
 - **Exercise ECG: first line**
 	- Planar / downsloping ST depression of $\ge$ 1mm indicates ischaemia
 	- Upsloping ST depression nonspecific; may be nor	-mal
@@ -1060,7 +1060,7 @@ interval** (i.e. prolonged ventricular repolarisation)
 	- Sympathetic overactivity
 - Sudden death: due to V-fib
 
-### Investigations
+### Investigation
 - **CXR**
 	- Distended upper lobe pulmonary veins
 	- Lung fields plethoric
@@ -1190,7 +1190,7 @@ interval** (i.e. prolonged ventricular repolarisation)
 	- Loss of hair
 
 
-### Investigations
+### Investigation
 - ABPI (ankle-brachial pressure index)
 	- $\frac{\text{Systolic ankle BP}}{\text{Systolic brachial BP}}$
 	- Normal: > 1, IC: 0.5-0.9, CLI: < 0.5
@@ -1279,7 +1279,7 @@ interval** (i.e. prolonged ventricular repolarisation)
 		- IVC compression $\rightarrow$ leg oedema, DVT
 	- Rupture 
 
-#### Investigations
+#### Investigation
 - **USG**: investigation of choice for dx
 - **CT scan**:
 	- more info about size and extent
@@ -1340,7 +1340,7 @@ interval** (i.e. prolonged ventricular repolarisation)
 	- Limb occlusion $\rightarrow$ acute limb ischaemia
 	- Mesenteric occlusion $\rightarrow$ gut ischaemia
 
-#### Investigations
+#### Investigation
 - **CT / MR angiography: investigation of choice**
 - **CXR**
 	- Broadened upper mediastinum
@@ -1386,7 +1386,7 @@ interval** (i.e. prolonged ventricular repolarisation)
 	- Lens dislocation
 	- Retinal detachment
 
-#### Investigations
+#### Investigation
 - Genetic testing: confirmatory
 - CXR: aortic dilatation
 - Echo: valvular disease
@@ -1417,7 +1417,7 @@ interval** (i.e. prolonged ventricular repolarisation)
 	 $\downarrow$BP
 	- Distal to narrowing $\rightarrow\;\downarrow$BP
 
-#### Investigations
+#### Investigation
 - **MRI: investigation of choice**
 - CXR: may show changes in the contour of the aorta
 
@@ -1528,7 +1528,7 @@ interval** (i.e. prolonged ventricular repolarisation)
 	- In $\approx$ 1/3rd cases, more in female
 	- Spontaneous recovery within a few months
 
-### Investigations
+### Investigation
 - Blood: CBC, ESR, CRP
 - Throat culture
 - ASO titre
@@ -1589,7 +1589,7 @@ interval** (i.e. prolonged ventricular repolarisation)
 	- **Low-pitched mid-diastolic murmur** accentuated by exercise
 	- Basal creps if pulmonary oedema
 
-#### Investigations
+#### Investigation
 - **Doppler echo: investigation of choice**
 - **ECG:** AF, p-mitrale (bifid p-wave due to LA hypertrophy)
 - **CXR:**
@@ -1644,7 +1644,7 @@ interval** (i.e. prolonged ventricular repolarisation)
 	- Creps
 	- $\uparrow$JVP
 
-#### Investigations
+#### Investigation
 - **Echo:** condition of wall and valves
 - **Doppler:** quantify regurgitation
 - **ECG:** AF due to atrial dilatation
@@ -1683,7 +1683,7 @@ interval** (i.e. prolonged ventricular repolarisation)
 - Asymptomatic for many years; deteriorate rapidly when symptoms develop
 - Die within 5y of presentation if untreated
 
-#### Investigations
+#### Investigation
 - **Echo:** see ventricular wall, valve
 - **Doppler:** severity of stenosis
 - **ECG:**
@@ -1727,7 +1727,7 @@ interval** (i.e. prolonged ventricular repolarisation)
 	- **Soft mid-diastolic "Austin-Flint" murmur**: due to regurgitant jet
 	 partly closing mitral leaflet (functional mitral stenosis)
 
-#### Investigations
+#### Investigation
 - **Doppler:** first choice
 - **ECG:** LVH, T-inversion
 - **CXR:** cardiomegaly, aortic dilatation, LVF
@@ -1753,7 +1753,7 @@ interval** (i.e. prolonged ventricular repolarisation)
 	- $\uparrow$ on inspiration
 - RHF $\rightarrow$ hepatomegaly, ascites, peripheral oedema
 
-#### Investigations
+#### Investigation
 - **Doppler echo** confirms dx
 
 #### Treatment
@@ -1770,7 +1770,7 @@ interval** (i.e. prolonged ventricular repolarisation)
 	- **Wide split S$_2$**
 	- May be thrill, best felt when leaning forwards, breathes out
 	- RVH
-- Investigations:
+- Investigation:
 	- **Doppler echo:** definitive investigation
 	- **ECG:** RVH
 	- **CXR:** post-stenotic pulmonary dilatation
@@ -1851,7 +1851,7 @@ interval** (i.e. prolonged ventricular repolarisation)
 	- Due to vasculitis
 - Roth's spots on ocular fundus: rare
 
-### Investigations
+### Investigation
 - **Blood culture and sensitivity**
 - **Echo**
 	- Transthoracic or transoesophageal (TOE)
@@ -1904,7 +1904,7 @@ interval** (i.e. prolonged ventricular repolarisation)
 - $\uparrow$ pulse volume
 - May eventually progress to Eigenmenger's
 
-#### Investigations
+#### Investigation
 - **Echo: inv of choice**
 - **ECG:** RVH
 - CXR: enlarged pulmonary artery
@@ -1935,7 +1935,7 @@ Discussed in subsection \ref{ssec:coarc}
 	- Volume overload of RV $\rightarrow$
 		- Wide fixed split of S$_2$
 		- Systolic flow murmur over pulmonary valve
-- Investigations:
+- Investigation:
 	- **Echo:**
 		- RV dilatation, hypertrophy
 		- Pulmonary artery dilatation
@@ -1957,7 +1957,7 @@ Discussed in subsection \ref{ssec:coarc}
 	- Small VSD (maladie de Roger / Roger's disease) $\rightarrow$
 	 loud murmur 
 	- May progress to Eigenmenger's
-- Investigations:
+- Investigation:
 	- **Doppler:**
 		- Helps to identify small defects that are likely to close
 		 spontaneously
@@ -2050,10 +2050,42 @@ Discussed in subsection \ref{ssec:coarc}
 - Reduce risk of sudden arrhythmic death by $\beta$-blockers + ACEi/ARB
 
 ### Hypertrophic cardiomyopathy (HCM)
-#### Pathogenesis
 - **Most common form of CM** (1/1000)
-- Extensive LVH
 
+#### Pathogenesis
+- **Usually autosomal dominant**, high penetrance, variable expression
+- Extensive LVH + myocardial fibrosis
+- May be generalised or confined to the interventricular septum (asymmetric
+ septal hypertrophy)
+- Stiff Lv $\rightarrow\;\downarrow$impaired diastolic filling $\rightarrow$
+ HF
+- Septal hypertrophy $\rightarrow$ dynamic outflow tract obstruction
+ (hypertrophic obstructive cardiomyopathy, HOCM)
+
+#### Features
+- **Very similar to AS, except jerky pulse in HCM**
+- Angina on effort
+- Breathlessness on effort
+- Arrhythmia $\rightarrow$ sudden death (typically after vigorous exertion)
+- **Most common cause of sudden death in young athletes**
+- Heaving apex beat
+- Double impulse at apex (palpable S$_4$ due to LA hypertrophy)
+- MDM at base
+- PSM at apex (due to MR)
+
+#### Investigation
+- **Echo: inv of choice**
+- ECG: LVH
+- Genetic testing
+
+#### Treatment
+- $\beta$-blockers, rate-limiting CCB, disopyramide: relieve symptoms,
+ prevent syncope
+- Amiodarone: control arrhythmia
+- Relief of outflow obstruction by
+	- Partial myectomy
+	- Catheter ablation of basal septum
+	- Avoid digoxin, vasodilators (may $\uparrow$ outflow obstruction)
 
 
 
@@ -2598,7 +2630,7 @@ syndrome}}
 	- 1/3 progressive CKD
 
 
-### Investigations
+### Investigation
 - Urine RME
 	- Albuminuria
 	- Granular & hyaline casts
@@ -2696,7 +2728,7 @@ syndrome}}
 		- papilloedema
 	- $\fbox{AKI}$: anuria
 
-### Investigations
+### Investigation
 - **Evidence of nephritis**
 	- Urine RME:
 		- RBC, RBC casts
@@ -2768,7 +2800,7 @@ syndrome}}
 - **Renal failure** $\rightarrow$ features of CKD
 - Mitral / aortic regurgitation (frequent, rarely severe)
 
-### Investigations
+### Investigation
 - Dx is based on family history, clinical features, and USG
 - Criteria for dx in patients with +ve family history
 	- 15-39y: $\ge$ 3 unilateral or bilateral cysts
@@ -2830,7 +2862,7 @@ $\draw[-{Stealth[length=5mm]}, very thick] (Aldo.south) to node[right] {} (htn.n
 	 (due to generalised atherosclerosis)
 	- Especially in legs
 
-### Investigations
+### Investigation
 - CT / MR angiogram of renal vasculature: confirmatory
 - Serum creatinine: to see if worsening renal function
 - Plasma renin: may be elevated
@@ -3067,7 +3099,7 @@ Here's an awesome
 	- Coma
 - _Muscular_
 
-### Investigations
+### Investigation
 - Urea and creatinine: to assess stability / progression; compare to
  previous results
 - CBC: to see Hb%
@@ -3195,7 +3227,7 @@ Here's an awesome
 - _Staph. epidermidis_
 
 
-### Investigations
+### Investigation
 - Dipstick test for nitrites, leucocyte esterase, and glucose
 	- Most urinary pathogens (e.g. _E. coli, Proteus_ etc) reduce nitrate to
 	 nitrite
@@ -3256,7 +3288,7 @@ Here's an awesome
 	- Lymphatic: to _para-aortic nodes_
 	- Blood-borne: to _lungs, bones, brain_
 	
-### Investigations
+### Investigation
 - USG: to differentiate solid tumour and cyst
 - CECT (contrast-enhanced CT) of abdomen and chest: for staging (
  "cannon-ball" opacities in chest)
@@ -3288,7 +3320,7 @@ Here's an awesome
 \pagebreak
 
 # Rheumatology
-## Investigations of musculoskeletal disease
+## Investigation of musculoskeletal disease
 ### Joint fluid aspiration
 - Normal:
 	- Amount small
@@ -3360,7 +3392,7 @@ Here's an awesome
 	- PIPs
 	- DIPs
 	- cervical and lumbar spine
-- Investigations:
+- Investigation:
 	- X-ray of affected joint: findings described above in characteristics
 	- MRI spine if spine OA + suspected root compression / spinal stenosis 
 - Treatment
@@ -3489,7 +3521,7 @@ Here's an awesome
 - May be loss of consciousness
 - Photophobia
 
-### Investigations
+### Investigation
 - CT scan: hyperdense material in the subarachnoid space
 - Lumbar puncture: blood, xanthochromia
 
@@ -3721,7 +3753,7 @@ $\fbox{Lesion in L and above}$ $\rightarrow$ $\fbox{Leaks (incontinence)}$\\
 	- Sensory exam
 	- Cerebellar exam
 
-### Investigations
+### Investigation
 - Dx is clinical
 - CT / MRI normal
 - Functional dopaminergic imaging (SPECT / PET) abnormal even early
@@ -4108,7 +4140,7 @@ Defining characteristic: **Philadelphia chromosome**
 - Accelerated
 - Blastic crisis
 
-### Investigations
+### Investigation
 - **CBC:** anaemia, leucocytosis
 - **PBF:**
 	- Full range of granulocytic precursors, from _myeloblasts_ to _mature
