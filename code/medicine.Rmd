@@ -2050,6 +2050,7 @@ Discussed in subsection \ref{ssec:coarc}
 - Reduce risk of sudden arrhythmic death by $\beta$-blockers + ACEi/ARB
 
 ### Hypertrophic cardiomyopathy (HCM)
+#### Intro
 - **Most common form of CM** (1/1000)
 
 #### Pathogenesis
@@ -2086,6 +2087,108 @@ Discussed in subsection \ref{ssec:coarc}
 	- Partial myectomy
 	- Catheter ablation of basal septum
 	- Avoid digoxin, vasodilators (may $\uparrow$ outflow obstruction)
+
+
+## Cardiac tumours
+- 1$^\circ$ cardiac tumours rare
+- Most (75%) 1$^\circ$ are benign
+	- Myxoma
+	- Fibroma
+	- Lipoma
+	- Fibroelastoma
+	- Haemangioma
+- Atrial myxoma: most common in LA, treat by surgical excision
+
+## Pericardial diseases
+- Normal pericardial fluid: 50 mL
+\vspace{-3mm}
+
+### Acute pericarditis
+#### Pathogenesis
+- **Causes:**
+	- Infection: viral, bacterial, tubercular
+	- Inflammatory: RA, RF, SLE
+	- Post-MI
+	- Malignancy
+- All forms may produce pericardial effusion
+	- Haemorrhagic effusion $\rightarrow$ ca breast / bronchus / lymphoma
+
+#### Features
+- **Retrosternal chest pain**
+	- Radiates to shoulders and neck
+	- Aggravated by deep breathing, movement, change of posture, exercise,
+	 swallowing
+- **Low-grade fever**
+- **Pericardial friction rub:**
+	- Diagnostic of pericarditis
+	- High-pitched, scratching / crunching noise
+	- Typically during systole
+
+#### Investigation
+- Dx by features + ECG
+- **ECG: ST-elevation with upward concavity** in leads over the affected area
+
+#### Treatment
+- Pain relief:
+	- Aspirin (600mg, 6x daily)
+	- Indomethacin (50mg tds)
+- Viral pericarditis: recover within a few days/wks
+- Purulent pericarditis: antibiotic therapy
+
+### Pericardial effusion
+#### Features
+- Often accompanies pericarditis
+- Quieter heart sounds
+- Friction rub diminished in intensity
+- Large / rapidly developing effusion $\rightarrow$ **cardiac tamponade**
+ (acute HF due to compression)
+ 	- Dyspnoea
+ 	- $\uparrow\uparrow\uparrow$ JVP
+ 	- Kussmaul's sign: paradoxical $\uparrow$ JVP during inspiration
+ 	- Hypotension
+ 	- Tachycardia
+ 	- Pulsus paradoxus (abnormally large decrease in stroke volume, systolic
+ 	 blood pressure and pulse wave amplitude during inspiration. The normal
+ 	 fall in pressure is less than 10 mmHg.)
+	- Oliguria
+
+#### Investigation
+- **Echo: inv of choice**
+- CXR:
+	- Enlarged cardiac silhouette
+	- Large effusion $\rightarrow$ globular heart shadow
+
+#### Treatment
+- Large effusion causing tamponade (medical emergency) $\rightarrow$
+ pericardiocentesis under echo guidance
+
+### Tuberculous pericarditis
+#### Treatment
+- Anti-TB therapy + 3mo prednisolone course
+
+### Chronic constrictive pericarditis
+- Progressive thickening, fibrosis, calcification of pericardium
+- Heart surrounded by solid shell $\rightarrow$ impaired filling
+
+\vspace{-3mm}
+
+#### Features
+- S/S of systemic venous congestion
+- Fatigue
+- Rapid, low-volume pulse
+- $\uparrow$JVP
+- Kussmaul's sign
+- Venouus congestion $\rightarrow$ hepatomegaly, ascites, peripheral oedema
+- Pulsus paradoxus
+
+#### Investigation
+- CXR: pericardial calcification
+- Echo
+- CT scan
+
+#### Treatment
+- Diastolic HF $\rightarrow$ loop diuretics, aldosterone antagonists
+
 
 
 
