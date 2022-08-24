@@ -414,6 +414,19 @@ Left sided murmurs & $\downarrow$ & $\uparrow$ \\
 	\label{fig:murmur}
 \end{figure}
 
+### JVP
+- Reflects **rt atrial pressure**
+- **Hepatojugular reflux**: pressing on the liver (rt hypochondrium)
+ $\rightarrow\;\uparrow$emptying of veins into the rt atrium $\rightarrow$
+ transient $\uparrow$rt atrial pressure
+ 	- If RVF, then the increase in JVP is more sustained
+
+\begin{figure}[!h]
+	\centering
+	\includegraphics[width=.7\textwidth]{../assets/med/jvp.png}
+	\vspace{5mm}
+	\caption{JVP waveform}
+\end{figure}
 
 \pagebreak
 
@@ -1385,7 +1398,9 @@ interval** (i.e. prolonged ventricular repolarisation)
 - Avoid activities that raise cardiac output
 - Surgical replacement or aortic root: if progressive dilatation
 
-### Coarctation
+### Coarctation of the aorta
+\label{ssec:coarc}
+
 #### Intro
 - **Mostly congenital, very rarely acquired**
 - Male : female = 2 : 1
@@ -1723,6 +1738,322 @@ interval** (i.e. prolonged ventricular repolarisation)
 - Asymptomatic: annual follow up with echo
 - **Valve replacement** if symptomatic
 - Vasodilators if htn
+
+## Tricuspid valve disease
+### Tricuspid stenosis
+#### Pathogenesis
+- Usually rheumatic; almost always in association with mitral and aortic
+ valve disease
+- TS and TR may also occur in carcinoid
+
+#### Features
+- **$\boldsymbol\uparrow$JVP with prominent a wave**, slow y descent
+- **Mid-diastolic murmur** best heard at **lower rt sternal edge**
+	- Higher pitch than MS murmur
+	- $\uparrow$ on inspiration
+- RHF $\rightarrow$ hepatomegaly, ascites, peripheral oedema
+
+#### Investigations
+- **Doppler echo** confirms dx
+
+#### Treatment
+- Valvotomy / replacement
+- Balloon valvuloplasty if isolated TS
+
+## Pulmonary valve disease
+### Pulmonary stenosis
+- **Usually congenital**
+- May occur with carcinoid syndrome
+- Features:
+	- **Ejection systolic murmur** loudest at **lt uppper sternal edge**
+	 radiating to **lt shoulder**
+	- **Wide split S$_2$**
+	- May be thrill, best felt when leaning forwards, breathes out
+	- RVH
+- Investigations:
+	- **Doppler echo:** definitive investigation
+	- **ECG:** RVH
+	- **CXR:** post-stenotic pulmonary dilatation
+- Management:
+	- Mild-moderate: no treatment required
+	- Severe: balloon valvuloplasty / surgical valvotomy
+
+## Prosthetic valves
+- 2 types:
+	- Mechanical: generate prosthetic heart sounds
+	- Biological: generate normal heart sounds
+		- Pig
+		- Allograft
+- **All mechanical valves demand long-term anticoagulation** as $\uparrow
+ \uparrow\uparrow$ risk of systemic thromboembolism
+- Biological valves in and of themselves don't raise the risk of thrombosis,
+ but many undergoing valve replacement will need anticoagulation anyway
+ for risk of recurrence of AF
+- Mechanical valves more durable than biological
+
+## Infective endocarditis
+### Pathophysiology
+- Typically at sites of pre-existing endocardial damage
+- Common complication of IV drug use - Staph endocarditis of tricuspid valve
+- Sites of endocardial damage attract platelets and fibrin $\rightarrow$
+ vulnerable to colonisation by blood-borne organisms
+- Avascular valve tissue and presence of fibrin and platelet aggregates help
+ to protect proliferating microbes
+- Vegetations (= microbes + fibrin + platelet) eventually grow large enough
+ to cause obstruction/embolism
+
+#### Microbiology
+- $\ge$ 75% cases due to Staph or Strep
+- Common cause of acute endocarditis:
+	- _Staph aureus_ (most common)
+	- _Strep pneumo_
+	- _Strep pyo_
+- Common cause of subacute endocarditis: Viridans strep (mitis, sanguinis)
+	- oral commensals
+	- may enter the bloodstream during chewing, brushing, or dental treatment
+- Common cause of prosthetic valve endocarditis: coagulase -ve Staph e.g.
+ _Staph epidermidis_
+- _Enterococcus_, _Strep gallolyticus_ (aka _Strep bovis_) enter the blood
+ from the bowel or urinary tract
+	- Endocarditis caused by gallolyticus should be colonoscopied, as
+	 gallolyticus associated with large gut cancer
+- Gram -ve HACEK group cause 3-4% cases
+- _Brucella_ endocarditis: history of cattle contact
+- Fungal endocarditis: immunocompromised / indwelling catheter
+
+### Features
+- **Modified Duke criteria**
+	- **Major**
+		- Persistent +ve blood cultures >12h apart
+		- $\ge 3$ +ve cultures over >1h
+		- Vegetations on echo
+		- New valvular regurgitation
+	- **Minor**
+		- Predisposing valvular / cardiac abnormality
+		- IV drug abuse
+		- Pyrexia > 38$^\circ$
+		- Blood culture +ve but not reaching major criteria
+		- Embolic disease
+		- Vasculitic disease
+	- **2 major / (1 major + 3 minor) / 5 minor** $\rightarrow$ definite
+	 endocarditis
+	- (1 major + 1 minor) / 3 minor $\rightarrow$ possible endocarditis
+- Haematuria
+- Heart failure
+- New murmur
+- Petechial rash
+- Splenomegaly (if long-standing)
+- Finger clubbing
+- Splinter haemorrhage
+- Osler's nodes:
+	- Rare
+	- Painful, tender fingertip swellings
+	- Due to vasculitis
+- Roth's spots on ocular fundus: rare
+
+### Investigations
+- **Blood culture and sensitivity**
+- **Echo**
+	- Transthoracic or transoesophageal (TOE)
+	- TOE can detect vegetations as small as 1-1.5mm
+- Urinalysis: proteinuria, microscopic haematuria
+- ECG: AV block
+- CXR: cardiomegaly, HF
+
+### Management
+- Prompt removal of any source of infection (e.g. tooth with apical abscess)
+- **Antibiotic therapy:**
+	- Subacute:
+		- Withhold antibiotic treatment until C/S report
+		- If empirical needed, **amoxicillin IV (2g 6x daily) with/without
+		 gentamicin**
+	- Acute:
+		- Empirical with **vancomycin IV (1g bds) + gentamicin IV
+		 (1mg/kg bds)**
+	- Prosthetic valve endocarditis:
+		- **Vancomycin IV (1g bds) + gentamicin IV (1mg/kg bds) + rifampicin
+		 oral (300-600mg bds)**
+	- Duration of therapy: 2w if fully susceptible strain
+- Cardiac surgery with **debridement of infected material** and **valve
+ replacement**, especially in those with _Staph aureus_ or fungal
+ endocarditis
+
+
+## Congenital heart disease
+### Intro
+- Maternal rubella associated with
+	- PDA
+	- PS
+	- ASD
+- Maternal alcohol abuse $\rightarrow$ septal defects
+- Maternal lupus $\rightarrow$ congenital CHB (complete heart block)
+- Central cyanosis if desaturated blood enters systemic circulation without
+ passing through the lungs (rt to lt shunt)
+- Prolonged cyanosis $\rightarrow$ finger / toe clubbing
+- **Eisenmenger syndrome:**
+	- Prolonged severe L2R shunt (e.g. VSD, PDA) $\rightarrow$ progressively
+	 $\uparrow$ RV pressure $\rightarrow$ reversal of shunt (i.e. L2R becomes
+	 R2L shunt)
+
+### Patent ductus arteriosus (PDA)
+#### Features
+- Dyspnoea
+- **Continuous "machinery" murmur** with late systolic accentuation, max in
+ the lt 2nd ICS
+- Thrill
+- $\uparrow$ pulse volume
+- May eventually progress to Eigenmenger's
+
+#### Investigations
+- **Echo: inv of choice**
+- **ECG:** RVH
+- CXR: enlarged pulmonary artery
+
+#### Treatment
+- Closure by **cardiac catheterisation with implantable occlusive device**
+	- Done in infancy if significant shunt
+	- Done in late childhood if smaller shunt (closure $\downarrow$
+	 endocarditis risk)
+- **Prostaglandin synthetase inhibitor (indomethacin / ibuprofen)** in the
+ first wk of life to medically induce closure
+	- If severe PS with L2R shunt thru ductus, ductus should be kept patent
+	 until treatment to improve oxygenation
+
+### Coarctation of the aorta
+Discussed in subsection \ref{ssec:coarc}
+
+### ASD
+- Male:female = 1:2
+- Most are ostium secundum defects involving fossa ovalis
+- RA to LA shunt $\rightarrow$ gradual enlargement of rt heart
+- Features:
+	- Most asymptomatic for years, detected at routine exam / CXR
+	- Dyspnoea
+	- Chest infections
+	- Heart failure
+	- Arrhythmias esp. AF
+	- Volume overload of RV $\rightarrow$
+		- Wide fixed split of S$_2$
+		- Systolic flow murmur over pulmonary valve
+- Investigations:
+	- **Echo:**
+		- RV dilatation, hypertrophy
+		- Pulmonary artery dilatation
+	- **TOE:** precise size and location of defect
+	- **CXR:** cardiomegaly, pulmonary plethora
+	- **ECG:** incomplete RBBB
+- Treatment:
+	- If pulmonary flow $\ge$ 1.5x systemic flow, surgical closure /
+	 cardiac catheterisation using implantable closure device
+	- Else conservative treatment
+
+### VSD
+- **Most common congenital heart disease** (1/500 live births)
+- Most commonly defect is at the junction between the muscular and membranous
+ parts
+- Features:
+	- **Pansystolic murmur** best heart at **lt sternal edge** radiating
+	 all over the precordium
+	- Small VSD (maladie de Roger / Roger's disease) $\rightarrow$
+	 loud murmur 
+	- May progress to Eigenmenger's
+- Investigations:
+	- **Doppler:**
+		- Helps to identify small defects that are likely to close
+		 spontaneously
+		- Larger defects:
+			- Monitored with serial ECG and echo: see pulmonary htn signs
+			- CXR: pulmonary congestion 
+			- ECG: biventricular hypertrophy
+- Treatment:
+	- Small VSD $\rightarrow$ no treatment
+	- Cardiac failure in infancy $\rightarrow$ digoxin, diuretics
+	- Persistent failure / ECG/echo suggesting pulmonary htn $\rightarrow$
+	 surgical repair
+	- Eisenmenger:
+		- Surgical repair contraindicated
+		- Heart-lung transplant only effective treatment
+
+## Myocarditis
+### Causes
+- Viral: most common
+	- Coxsackie
+	- Influenza A, B
+- Bacterial:
+	- _Borrelia burgdorferi_ (Lyme disease)
+	- _Mycoplasma pneumoniae_
+- Protozoal:
+	- _Trypanosoma cruzi_ (Chagas')
+	- _Toxoplasma gondii_
+- Fungal: _Aspergillus_
+- Parasitic: _Schistosoma_
+- Drugs/toxins:
+	- Alcohol, cocaine
+	- Anthracyclines
+	- Clozapine
+	- Lithium
+- Autoimmune:
+	- SLE
+	- RA
+	- Systemic sclerosis
+	- Sarcoidosis
+	
+### Features
+- Self-limiting in most cases
+- Death may be due to ventricular arrhythmia / rapidly progressive HF
+	- Cause of sudden, unexpected death of young athletes
+- Present in 4 varieties:
+	- Fulminant: follows viral prodrome, results in severe HF / cardio shock
+	- Acute
+	- Chronic active
+	- Chronic persistent
+
+### Investigation
+- Dx made after other common causes of cardiac dysfunction excluded
+- **Echo:** LV dysfunction
+- **Cardiac MRI:** myocardial inflammation
+- Blood for tropo-I, tropo-T, creatine kinase
+
+### Treatment
+- Mainly supportive
+- Treat HF and arrhythmia
+- Avoid intense exertion (may induce fatal arrhythmia)
+- Glucocorticoids / immunosuppressants don't help
+
+## Cardiomyopathy
+### Dilated cardiomyopathy (DCM)
+#### Pathogenesis
+- $\uparrow$LV mass with normal/reduced thickness
+- $\ge 25\%$ are autosomal dominant
+	- Mutations affecting myocyte cytoskeleton proteins (e.g. dystrophn,
+	 lamin A and C, emerin, metavinculin)
+- X-linked muscular dystrophies (e.g. DMD) are also associated with DCM
+- Advanced HIV / Late autoimmune reaction to viral myocarditis may also
+ cause DCM
+
+#### Features
+- Sporadic chest pain
+- HF
+- Arrhythmia
+- Thromboembolism
+- Sudden death
+
+#### Investigation
+- D/D includes ventricular dysfunction due to CAD. Dx DCM only after
+ excluding CAD
+- **Echo**
+- **Cardiac MRI**
+- Genetic testing if $\ge$ family members affected
+
+#### Treatment
+- Control HF
+- Reduce risk of sudden arrhythmic death by $\beta$-blockers + ACEi/ARB
+
+### Hypertrophic cardiomyopathy (HCM)
+#### Pathogenesis
+- **Most common form of CM** (1/1000)
+- Extensive LVH
+
 
 
 
