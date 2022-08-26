@@ -406,9 +406,9 @@ Left sided murmurs & $\downarrow$ & $\uparrow$ \\
 #### Continuous murmurs
 - Cause: **PDA (persistent ductus arteriosus)**
 
-\begin{figure}[h!]
+\begin{figure}[!h]
 	\centering
-	\includegraphics[width=.7\textwidth]{../assets/med/murmur.jpg}
+	\includegraphics[width=.5\textwidth]{../assets/med/murmur.jpg}
 	\vspace{7mm}
 	\caption{The timing and pattern of heart murmurs}
 	\label{fig:murmur}
@@ -449,12 +449,10 @@ Left sided murmurs & $\downarrow$ & $\uparrow$ \\
 	\centering
 	\begin{subfigure}{.45\textwidth}
 		\includegraphics[width=\textwidth]{../assets/med/jvp2.jpg}
-		\vspace{3mm}
 		\caption{Normal JVP waveform}
 	\end{subfigure}\hfill
 	\begin{subfigure}{.45\textwidth}
 		\includegraphics[width=\textwidth]{../assets/med/jvp.jpg}
-		\vspace{3mm}
 		\caption{Some abnormal waveforms}
 	\end{subfigure}
 	\vspace{5mm}
