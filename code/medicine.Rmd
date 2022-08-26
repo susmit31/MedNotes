@@ -406,7 +406,7 @@ Left sided murmurs & $\downarrow$ & $\uparrow$ \\
 #### Continuous murmurs
 - Cause: **PDA (persistent ductus arteriosus)**
 
-\begin{figure}[t!]
+\begin{figure}[h!]
 	\centering
 	\includegraphics[width=.7\textwidth]{../assets/med/murmur.jpg}
 	\vspace{7mm}
@@ -414,18 +414,52 @@ Left sided murmurs & $\downarrow$ & $\uparrow$ \\
 	\label{fig:murmur}
 \end{figure}
 
-### JVP
+\subsubsection[JVP]{JVP\footnote{This \href{https://youtu.be/Z4yRBhlK0uY}
+{video by ZeroToFinals} explains this topic far better than anywhere I've
+ read or seen.}}
+
 - Reflects **rt atrial pressure**
+- **Parts of the waveform:** fig. \ref{fig:jvp}
+	- **a wave**: Atrial systole
+		- Giant "cannon" a wave: CHB (AV dissociation $\rightarrow$
+		 sometimes atrial and ventricular contraction coincide
+		 $\rightarrow$ rt atrium contracts against closed tricuspid
+		 $\rightarrow\;\uparrow\uparrow$ pressure $\rightarrow$ giant a wave)
+		- Large a wave: pulmonary htn, PS
+		- Absent a wave: AF
+	- **c wave:** Atrial relaxation coinciding with ventricular systole
+	 (after closure of the tricuspid valve)
+	- **x descent:** Atrial relaxation coinciding with ventricular systole
+	 (after closure of the tricuspid valve)
+	- **v wave:** Atrial filling
+		- Large v wave: TR
 - **Hepatojugular reflux**: pressing on the liver (rt hypochondrium)
  $\rightarrow\;\uparrow$emptying of veins into the rt atrium $\rightarrow$
  transient $\uparrow$rt atrial pressure
  	- If RVF, then the increase in JVP is more sustained
+- **JVP vs carotid pulse**
+	- JVP biphasic (2 peaks within each cardiac cycle, one during atrial
+	 systole, other during atrial diastole), carotid monophasic (peak only
+	 during ventricular systole)
+	- JVP impalpable but occludable, carotid palpable but non-occludable
+	- JVP height varies with respiration, carotid pulse doesn't.
+
 
 \begin{figure}[!h]
 	\centering
-	\includegraphics[width=.7\textwidth]{../assets/med/jvp.png}
+	\begin{subfigure}{.45\textwidth}
+		\includegraphics[width=\textwidth]{../assets/med/jvp2.jpg}
+		\vspace{3mm}
+		\caption{Normal JVP waveform}
+	\end{subfigure}\hfill
+	\begin{subfigure}{.45\textwidth}
+		\includegraphics[width=\textwidth]{../assets/med/jvp.jpg}
+		\vspace{3mm}
+		\caption{Some abnormal waveforms}
+	\end{subfigure}
 	\vspace{5mm}
-	\caption{JVP waveform}
+	\caption{JVP}
+	\label{fig:jvp}
 \end{figure}
 
 \pagebreak
@@ -2188,10 +2222,6 @@ Discussed in subsection \ref{ssec:coarc}
 
 #### Treatment
 - Diastolic HF $\rightarrow$ loop diuretics, aldosterone antagonists
-
-
-
-
 
 
 \pagebreak
