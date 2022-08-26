@@ -428,7 +428,7 @@ Left sided murmurs & $\downarrow$ & $\uparrow$ \\
 		- Large a wave: pulmonary htn, PS
 		- Absent a wave: AF
 	- **c wave:** Atrial relaxation coinciding with ventricular systole
-	 (after closure of the tricuspid valve)
+	 (before closure of the tricuspid valve)
 	- **x descent:** Atrial relaxation coinciding with ventricular systole
 	 (after closure of the tricuspid valve)
 	- **v wave:** Atrial filling
