@@ -433,6 +433,13 @@ Left sided murmurs & $\downarrow$ & $\uparrow$ \\
 	 (after closure of the tricuspid valve)
 	- **v wave:** Atrial filling
 		- Large v wave: TR
+	- **y descent:** Atrial emptying
+		- During atrial systole, two opposing forces are at play. Atrial
+		 contraction raises the JVP, while blood leaving the compartment
+		 lowers it.  During the initial part of systole, the contraction
+		 is weaker, so the emptying effect takes the lead, giving rise
+		 to the _y descent_. Later, the contraction effect is stronger than
+		 the emptying effect, and so there's a peak (_a wave_).
 - **Hepatojugular reflux**: pressing on the liver (rt hypochondrium)
  $\rightarrow\;\uparrow$emptying of veins into the rt atrium $\rightarrow$
  transient $\uparrow$rt atrial pressure
