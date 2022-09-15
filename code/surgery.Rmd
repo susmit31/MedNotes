@@ -1,6 +1,6 @@
 ---
 title: "Surgery"
-author: "Susmit"
+author: "Susmit Islam, MBBS"
 documentclass: memoir
 output:
  pdf_document:
